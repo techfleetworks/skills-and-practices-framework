@@ -23,6 +23,10 @@ means "read the notes before you update."
 ## Unreleased
 
 **Added**
+- The career-change layer: the seven "Transitioning Into" tables consolidated into one
+  `data/json/transitions.json` (201 rows) with an explicit `Target Field` column and one
+  standardized schema, built by `tools/build-transitions.mjs`, plus a structure doc at
+  `docs/data-types/transitioning-into-a-field.md`.
 - The three Tech Fleet handbooks (Agile, Teammate, Project Success) pulled from GitBook as
   Markdown into `data/handbooks/` (168 pages), synced by `tools/extract-handbooks.mjs`.
 - A mind map (SVG) for each of the 15 data types in `data/visualizations/`, showing the data

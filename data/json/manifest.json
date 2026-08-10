@@ -122,6 +122,12 @@
       "file": "handoff-deliverables-map.json",
       "count": 26,
       "primaryField": "Story Arc"
+    },
+    {
+      "entity": "transitions",
+      "file": "transitions.json",
+      "count": 201,
+      "primaryField": "slug"
     }
   ]
 }
