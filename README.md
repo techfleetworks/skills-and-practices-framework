@@ -77,7 +77,7 @@ The framework distinguishes between abilities (SKILLS) and mindsets (PRACTICES),
 
 You grow into a practice over time, so the framework describes each one at **four levels of maturity**, from just starting out to deeply lived. It breaks each practice into smaller **components**, each with the mindset and the habit behind it. That turns a fuzzy idea like psychological safety into something a team can see, talk about, and improve. Practices are why two teams with the same skills can get very different results.
 
-# How the Pieces Connect
+## How the Pieces Connect
 
 The framework works like a web. Follow any thread and you reach the others. One common path runs like this:
 
@@ -90,7 +90,7 @@ The information architecture behind the framework describes this dependency simp
 **Scope grows as the team works.** Agile teams start with a best guess and sharpen it as they learn. So the deliverables, the skills in play, and the shape of the work all grow over time. That is how the work is meant to go.
 
 # Audiences
-## For career changers and new grads
+## For Career Changers and New Graduates
 The framework is built for people trying to get in, as much as for people already there. It helps in three concrete ways.
 
 **It shows you the target.** Pick a role you want. Look at the duties it owns, the skills it needs, and the deliverables it produces. Now you have a clear picture of what ready looks like, in place of a vague job post.
@@ -101,6 +101,9 @@ The framework is built for people trying to get in, as much as for people alread
 
 ## For Teams
 For a team, the framework works as a shared language and a mirror. It gives everyone the same words for the work, so less time gets lost to confusion about who does what. It makes the invisible practices visible, so a team can look at how they work together, which usually gets ignored in favor of what they ship. And it gives a team a way to see its own growth over time, across both skills and practices.
+
+## For Hiring Managers at Companies
+For people hiring roles, use this data to guide your new job requirements based on standards that the best teams in the world have set over time. This data represents a flexible way to build jobs and work culture in your organization. Build consistency, accuracy, and visibility in your positions that people can quickly act on. 
 
 # How To Use This Framework
 
