@@ -1,6 +1,6 @@
 # The Skills & Practices Framework
 
-*Created and maintained by Tech Fleet, a public charity on a mission to build empowered team spaces in the world. This is an ontological information architecture for professional development and career success.*
+*Created and maintained by Tech Fleet, https://techfleet.org, a public charity on a mission to build empowered team spaces in the world. This is an ontological information architecture for professional development and career success.*
 
 ---
 
