@@ -11,6 +11,15 @@ For a lot of people, what to build and how to build it stays a deep mystery. Wor
 
 The Skills and Practices Framework is an information architecture that solves these problems. It creates a shared language around teamwork. It breaks down the relationships between the work, and defines the components of success across the work. People and companies will be able to use it to understand the skills, the habits, the tools, the deliverables, the methods, and the specializations they will need to succeed in different kinds of jobs across different kinds of work. Companies can use this to build standards for project management and job hiring. Individuals can use this to develop guidance around the areas of the workforce they want to learn and prepare for. 
 
+## Supported Use Case Scenarios
+1. People can fork the framework data and making their own
+2. People can take the data so that they can form their own narrative based relationships for their own purposes, for instance: 
+   1. Making a career coaching tool based on our data of "what it takes to succeed in job roles per specific company types" 
+   2. What school curriculums need to provide for training the future workers
+   3. Project teams getting detailed advice about what they should be producing or working on in their projects depending on the type of work
+3. People can contribute to adding job field data in the framework beyond what this has 
+4. Applications, LLMs, and companies using this data in their own applications (see licensing requirements)
+
 ## History of the Framework
 Tech Fleet, a nonprofit on a mission to create spaces of empowered teams in the world, started to tackle these problems in 2024. As a training program, people would come into the program with existing preconceptions about the work which were very different from how empowered team spaces were built. We needed to develop a shared understanding about the work and help people model their behavior while doing work for the first time. When trying to communicate how the work gets done or why the work happens in specific ways, the communication fell apart. 
 
