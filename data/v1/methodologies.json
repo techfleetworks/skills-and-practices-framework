@@ -1,0 +1,2792 @@
+[
+  {
+    "id": 1,
+    "slug": "google-design-sprint-method",
+    "Agile Method Name": "Google Design Sprint Method",
+    "Data Type": [
+      {
+        "slug": "methodology",
+        "label": "Methodology"
+      }
+    ],
+    "Method Splash Image": [
+      {
+        "name": "google_design_sprint.png",
+        "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/5rZG9ljfZulRIYl8illwn3asZub0A5YL_f6cc25602fad694f26c49539f8c9caffe67dabb07c161aa550002fe2b597ec84.png"
+      }
+    ],
+    "When Is This Method Used?": "Reach for a Design Sprint when you have one big, risky question and need a real answer fast, before pouring months into building. It shines when a team is unsure which direction to take and wants to test an idea with actual users in days rather than quarters. It is also a quick way to get a group aligned, since everyone works through the problem together in the same room.",
+    "Resource to Learn More": "https://www.gv.com/sprint/",
+    "Other Agile Methods": [
+      {
+        "slug": "scrum-method",
+        "label": "Scrum Method"
+      },
+      {
+        "slug": "kanban-method",
+        "label": "Kanban Method"
+      },
+      {
+        "slug": "continuous-discovery-method",
+        "label": "Continuous Discovery Method"
+      },
+      {
+        "slug": "lean-ux-method",
+        "label": "Lean UX Method"
+      },
+      {
+        "slug": "scaled-agile-framework-method",
+        "label": "Scaled Agile Framework Method"
+      }
+    ],
+    "Job Roles that Use the Method": [
+      {
+        "slug": "ux-user-experience-design",
+        "label": "UX (User Experience) Design"
+      },
+      {
+        "slug": "ux-user-experience-research",
+        "label": "UX (User Experience) Research"
+      },
+      {
+        "slug": "product-ownership",
+        "label": "Product Ownership"
+      },
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      },
+      {
+        "slug": "ux-user-experience-writing",
+        "label": "UX (User Experience) Writing"
+      }
+    ],
+    "User Experience Research Tasks Involving the Methodology": [
+      {
+        "slug": "analyzing-research-findings",
+        "label": "Analyzing Research Findings"
+      },
+      {
+        "slug": "presenting-research-results",
+        "label": "Presenting Research Results"
+      },
+      {
+        "slug": "moderating-ux-research",
+        "label": "Moderating UX Research"
+      },
+      {
+        "slug": "secondary-research",
+        "label": "Secondary Research"
+      },
+      {
+        "slug": "card-sorting",
+        "label": "Card Sorting "
+      },
+      {
+        "slug": "interviewing",
+        "label": "Interviewing"
+      },
+      {
+        "slug": "surveys",
+        "label": "Surveys"
+      },
+      {
+        "slug": "diary-studies",
+        "label": "Diary Studies"
+      },
+      {
+        "slug": "contextual-inquiries",
+        "label": "Contextual Inquiries"
+      },
+      {
+        "slug": "observing-ethnography",
+        "label": "Observing (Ethnography)"
+      },
+      {
+        "slug": "usability-testing",
+        "label": "Usability Testing"
+      },
+      {
+        "slug": "prototype-concept-testing",
+        "label": "Prototype Concept Testing "
+      },
+      {
+        "slug": "a-b-prototype-test-creation",
+        "label": "A/B Prototype Test Creation"
+      },
+      {
+        "slug": "identifying-research-patterns",
+        "label": "Identifying Research Patterns"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "creating-research-plans",
+        "label": "Creating Research Plans"
+      }
+    ],
+    "User Experience Design Tasks Involving the Methodology": [
+      {
+        "slug": "wireframing",
+        "label": "Wireframing"
+      },
+      {
+        "slug": "design-component-creation",
+        "label": "Design Component Creation"
+      },
+      {
+        "slug": "brand-identity-formation",
+        "label": "Brand Identity Formation"
+      },
+      {
+        "slug": "icon-and-logo-creation",
+        "label": "Icon and Logo Creation"
+      },
+      {
+        "slug": "storyboarding",
+        "label": "Storyboarding"
+      },
+      {
+        "slug": "ui-kit-creation",
+        "label": "UI Kit Creation"
+      },
+      {
+        "slug": "developing-information-architecture",
+        "label": "Developing Information Architecture"
+      },
+      {
+        "slug": "prototype-creation",
+        "label": "Prototype Creation"
+      },
+      {
+        "slug": "ux-heuristics-analysis",
+        "label": "UX Heuristics Analysis"
+      },
+      {
+        "slug": "clickable-prototype-creation",
+        "label": "Clickable Prototype Creation"
+      },
+      {
+        "slug": "inventorying-content",
+        "label": "Inventorying Content"
+      },
+      {
+        "slug": "customer-experience-mapping",
+        "label": "Customer Experience Mapping"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      },
+      {
+        "slug": "search-engine-optimization-seo-design",
+        "label": "Search Engine Optimization (SEO) Design"
+      }
+    ],
+    "Product Owner Tasks Involving the Methodology": [
+      {
+        "slug": "release-scope-definition",
+        "label": "Release Scope Definition"
+      },
+      {
+        "slug": "requirements-gathering",
+        "label": "Requirements Gathering"
+      },
+      {
+        "slug": "requirements-refinement",
+        "label": "Requirements Refinement"
+      },
+      {
+        "slug": "writing-requirements",
+        "label": "Writing Requirements"
+      },
+      {
+        "slug": "feature-vision-definition",
+        "label": "Feature Vision Definition"
+      },
+      {
+        "slug": "feature-scope-definition",
+        "label": "Feature Scope Definition"
+      },
+      {
+        "slug": "generating-problem-statements",
+        "label": "Generating Problem Statements"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "identifying-priorities",
+        "label": "Identifying Priorities"
+      },
+      {
+        "slug": "kickoff-intake",
+        "label": "Kickoff / Intake"
+      },
+      {
+        "slug": "product-positioning",
+        "label": "Product Positioning"
+      },
+      {
+        "slug": "tracking-epic-progress",
+        "label": "Tracking Epic Progress"
+      },
+      {
+        "slug": "product-roadmap-maintenance",
+        "label": "Product Roadmap Maintenance"
+      },
+      {
+        "slug": "market-research",
+        "label": "Market Research"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "user-acceptance-testing",
+        "label": "User Acceptance Testing"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "developing-go-to-market-strategy",
+        "label": "Developing Go-To-Market Strategy"
+      },
+      {
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
+      },
+      {
+        "slug": "price-testing",
+        "label": "Price Testing"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "Agile Coach Tasks Involving the Methodology": [
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "level-of-effort-estimation",
+        "label": "Level of Effort Estimation"
+      },
+      {
+        "slug": "velocity-calculation",
+        "label": "Velocity Calculation"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "facilitating-agile-workshops",
+        "label": "Facilitating Agile Workshops"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "All Tasks Involving the Methodology": [
+      {
+        "slug": "generating-problem-statements",
+        "label": "Generating Problem Statements"
+      },
+      {
+        "slug": "analyzing-research-findings",
+        "label": "Analyzing Research Findings"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "identifying-priorities",
+        "label": "Identifying Priorities"
+      },
+      {
+        "slug": "presenting-research-results",
+        "label": "Presenting Research Results"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "moderating-ux-research",
+        "label": "Moderating UX Research"
+      },
+      {
+        "slug": "secondary-research",
+        "label": "Secondary Research"
+      },
+      {
+        "slug": "card-sorting",
+        "label": "Card Sorting "
+      },
+      {
+        "slug": "interviewing",
+        "label": "Interviewing"
+      },
+      {
+        "slug": "surveys",
+        "label": "Surveys"
+      },
+      {
+        "slug": "diary-studies",
+        "label": "Diary Studies"
+      },
+      {
+        "slug": "contextual-inquiries",
+        "label": "Contextual Inquiries"
+      },
+      {
+        "slug": "observing-ethnography",
+        "label": "Observing (Ethnography)"
+      },
+      {
+        "slug": "prototype-concept-testing",
+        "label": "Prototype Concept Testing "
+      },
+      {
+        "slug": "a-b-prototype-test-creation",
+        "label": "A/B Prototype Test Creation"
+      },
+      {
+        "slug": "prototype-creation",
+        "label": "Prototype Creation"
+      },
+      {
+        "slug": "ux-heuristics-analysis",
+        "label": "UX Heuristics Analysis"
+      },
+      {
+        "slug": "market-research",
+        "label": "Market Research"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "clickable-prototype-creation",
+        "label": "Clickable Prototype Creation"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "identifying-research-patterns",
+        "label": "Identifying Research Patterns"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "creating-research-plans",
+        "label": "Creating Research Plans"
+      },
+      {
+        "slug": "rapid-ideation",
+        "label": "Rapid Ideation"
+      },
+      {
+        "slug": "choosing-an-agile-method",
+        "label": "Choosing an Agile Method"
+      },
+      {
+        "slug": "leading-agile-transformation",
+        "label": "Leading Agile Transformation"
+      },
+      {
+        "slug": "defining-research-operations",
+        "label": "Defining Research Operations"
+      },
+      {
+        "slug": "defining-ux-design-operations",
+        "label": "Defining UX Design Operations"
+      }
+    ],
+    "Who Created This Method?": "The Design Sprint was created by Jake Knapp at Google in 2010, then refined with John Zeratsky and Braden Kowitz at Google Ventures (GV). The three shared the full process in their 2016 book, Sprint. Official source: gv.com/sprint.",
+    "How Does This Method Compare to to Other Agile Methods?": "Unlike Scrum and Kanban, which run continuously, a Design Sprint is a short, one-week burst aimed at answering a single question. It shares the fast, test-driven spirit of Lean UX and Continuous Discovery but packs it into a fixed five-day structure. Teams often use a sprint to kick off an idea, then hand it to a Scrum or Kanban team for ongoing delivery.",
+    "During While Kinds of Work Environments Is It Best to Use This Method?": "A Design Sprint works best when a team faces one big question or opportunity and needs a tested answer fast, before committing months of work. It fits small, cross-functional teams that can clear a full week and get access to real users. It is a strong fit for startups and new product bets.",
+    "Steps to Perform the Method": "The Design Sprint runs over five days:\n1. Monday: map the problem and choose one target to focus on.\n2. Tuesday: sketch competing solutions on your own.\n3. Wednesday: decide on the strongest ideas and turn them into a storyboard.\n4. Thursday: build a realistic prototype.\n5. Friday: test the prototype with about five real users and learn what works."
+  },
+  {
+    "id": 2,
+    "slug": "scrum-method",
+    "Agile Method Name": "Scrum Method",
+    "Data Type": [
+      {
+        "slug": "methodology",
+        "label": "Methodology"
+      }
+    ],
+    "Method Splash Image": [
+      {
+        "name": "scrum-framework-with-sdo-logo-9.29.23.png",
+        "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/ae4ENBPWwpMjLxbtDGEdL1pYsZnZDaJn_468ddcf35156ee7a5627e7ffdc97b3e4a657544bb1af593c1ae150e989eeffe5.png"
+      }
+    ],
+    "When Is This Method Used?": "Scrum fits when you are building something complex that keeps changing, and the team needs a steady rhythm to stay on top of it. It helps most when regular feedback and quick course-correction matter, and when clear roles and a predictable cadence keep everyone moving in the same direction. If a team does better with routine than with a free-for-all, Scrum gives it that shape.",
+    "Resource to Learn More": "https://www.scrum.org/resources/what-scrum-module",
+    "Other Agile Methods": [
+      {
+        "slug": "google-design-sprint-method",
+        "label": "Google Design Sprint Method"
+      },
+      {
+        "slug": "kanban-method",
+        "label": "Kanban Method"
+      },
+      {
+        "slug": "continuous-discovery-method",
+        "label": "Continuous Discovery Method"
+      },
+      {
+        "slug": "lean-ux-method",
+        "label": "Lean UX Method"
+      },
+      {
+        "slug": "scaled-agile-framework-method",
+        "label": "Scaled Agile Framework Method"
+      }
+    ],
+    "Job Roles that Use the Method": [
+      {
+        "slug": "ux-user-experience-design",
+        "label": "UX (User Experience) Design"
+      },
+      {
+        "slug": "ux-user-experience-research",
+        "label": "UX (User Experience) Research"
+      },
+      {
+        "slug": "business-analysis",
+        "label": "Business Analysis"
+      },
+      {
+        "slug": "product-ownership",
+        "label": "Product Ownership"
+      },
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      },
+      {
+        "slug": "scrum-master",
+        "label": "Scrum Master"
+      },
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      },
+      {
+        "slug": "development",
+        "label": "Development"
+      },
+      {
+        "slug": "solutions-architecture",
+        "label": "Solutions Architecture"
+      },
+      {
+        "slug": "ux-user-experience-writing",
+        "label": "UX (User Experience) Writing"
+      },
+      {
+        "slug": "agile-coaching",
+        "label": "Agile Coaching"
+      }
+    ],
+    "User Experience Research Tasks Involving the Methodology": [
+      {
+        "slug": "analyzing-research-findings",
+        "label": "Analyzing Research Findings"
+      },
+      {
+        "slug": "presenting-research-results",
+        "label": "Presenting Research Results"
+      },
+      {
+        "slug": "moderating-ux-research",
+        "label": "Moderating UX Research"
+      },
+      {
+        "slug": "secondary-research",
+        "label": "Secondary Research"
+      },
+      {
+        "slug": "card-sorting",
+        "label": "Card Sorting "
+      },
+      {
+        "slug": "interviewing",
+        "label": "Interviewing"
+      },
+      {
+        "slug": "surveys",
+        "label": "Surveys"
+      },
+      {
+        "slug": "diary-studies",
+        "label": "Diary Studies"
+      },
+      {
+        "slug": "contextual-inquiries",
+        "label": "Contextual Inquiries"
+      },
+      {
+        "slug": "observing-ethnography",
+        "label": "Observing (Ethnography)"
+      },
+      {
+        "slug": "usability-testing",
+        "label": "Usability Testing"
+      },
+      {
+        "slug": "prototype-concept-testing",
+        "label": "Prototype Concept Testing "
+      },
+      {
+        "slug": "a-b-prototype-test-creation",
+        "label": "A/B Prototype Test Creation"
+      },
+      {
+        "slug": "identifying-research-patterns",
+        "label": "Identifying Research Patterns"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "creating-research-plans",
+        "label": "Creating Research Plans"
+      }
+    ],
+    "User Experience Design Tasks Involving the Methodology": [
+      {
+        "slug": "wireframing",
+        "label": "Wireframing"
+      },
+      {
+        "slug": "design-component-creation",
+        "label": "Design Component Creation"
+      },
+      {
+        "slug": "brand-identity-formation",
+        "label": "Brand Identity Formation"
+      },
+      {
+        "slug": "icon-and-logo-creation",
+        "label": "Icon and Logo Creation"
+      },
+      {
+        "slug": "storyboarding",
+        "label": "Storyboarding"
+      },
+      {
+        "slug": "ui-kit-creation",
+        "label": "UI Kit Creation"
+      },
+      {
+        "slug": "developing-information-architecture",
+        "label": "Developing Information Architecture"
+      },
+      {
+        "slug": "prototype-creation",
+        "label": "Prototype Creation"
+      },
+      {
+        "slug": "ux-heuristics-analysis",
+        "label": "UX Heuristics Analysis"
+      },
+      {
+        "slug": "clickable-prototype-creation",
+        "label": "Clickable Prototype Creation"
+      },
+      {
+        "slug": "inventorying-content",
+        "label": "Inventorying Content"
+      },
+      {
+        "slug": "customer-experience-mapping",
+        "label": "Customer Experience Mapping"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      },
+      {
+        "slug": "search-engine-optimization-seo-design",
+        "label": "Search Engine Optimization (SEO) Design"
+      }
+    ],
+    "Product Owner Tasks Involving the Methodology": [
+      {
+        "slug": "release-scope-definition",
+        "label": "Release Scope Definition"
+      },
+      {
+        "slug": "requirements-gathering",
+        "label": "Requirements Gathering"
+      },
+      {
+        "slug": "requirements-refinement",
+        "label": "Requirements Refinement"
+      },
+      {
+        "slug": "writing-requirements",
+        "label": "Writing Requirements"
+      },
+      {
+        "slug": "feature-vision-definition",
+        "label": "Feature Vision Definition"
+      },
+      {
+        "slug": "feature-scope-definition",
+        "label": "Feature Scope Definition"
+      },
+      {
+        "slug": "generating-problem-statements",
+        "label": "Generating Problem Statements"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "identifying-priorities",
+        "label": "Identifying Priorities"
+      },
+      {
+        "slug": "kickoff-intake",
+        "label": "Kickoff / Intake"
+      },
+      {
+        "slug": "product-positioning",
+        "label": "Product Positioning"
+      },
+      {
+        "slug": "tracking-epic-progress",
+        "label": "Tracking Epic Progress"
+      },
+      {
+        "slug": "product-roadmap-maintenance",
+        "label": "Product Roadmap Maintenance"
+      },
+      {
+        "slug": "market-research",
+        "label": "Market Research"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "user-acceptance-testing",
+        "label": "User Acceptance Testing"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "developing-go-to-market-strategy",
+        "label": "Developing Go-To-Market Strategy"
+      },
+      {
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
+      },
+      {
+        "slug": "price-testing",
+        "label": "Price Testing"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "Agile Coach Tasks Involving the Methodology": [
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "level-of-effort-estimation",
+        "label": "Level of Effort Estimation"
+      },
+      {
+        "slug": "velocity-calculation",
+        "label": "Velocity Calculation"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "facilitating-agile-workshops",
+        "label": "Facilitating Agile Workshops"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "All Tasks Involving the Methodology": [
+      {
+        "slug": "requirements-refinement",
+        "label": "Requirements Refinement"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "autotest-creation",
+        "label": "Autotest Creation"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "analyzing-project-risk",
+        "label": "Analyzing Project Risk"
+      },
+      {
+        "slug": "choosing-an-agile-method",
+        "label": "Choosing an Agile Method"
+      },
+      {
+        "slug": "leading-agile-transformation",
+        "label": "Leading Agile Transformation"
+      },
+      {
+        "slug": "defining-research-operations",
+        "label": "Defining Research Operations"
+      },
+      {
+        "slug": "defining-ux-design-operations",
+        "label": "Defining UX Design Operations"
+      }
+    ],
+    "Who Created This Method?": "Scrum was created by Ken Schwaber and Jeff Sutherland, who first presented it together at the OOPSLA conference in 1995. They keep its official definition in the Scrum Guide, maintained independently of any company, with the latest version released in 2020. Official source: scrumguides.org.",
+    "How Does This Method Compare to to Other Agile Methods?": "Scrum gives more structure than Kanban, with fixed-length Sprints and set events, while Kanban focuses on continuous flow with fewer rules. It is broader than a Design Sprint, which is a single one-week event, and it provides the delivery cadence that discovery methods like Lean UX and Continuous Discovery feed into. For very large organizations, SAFe wraps Scrum-style teams into a bigger coordinated structure.",
+    "During While Kinds of Work Environments Is It Best to Use This Method?": "Scrum fits complex product work where requirements change and the team benefits from a steady rhythm. It works best with a stable, cross-functional team that can commit to the regular events and that values routine and clear roles.",
+    "Steps to Perform the Method": "Scrum organizes work into short cycles called Sprints, usually one to four weeks:\n1. Keep a Product Backlog of prioritized work.\n2. Hold Sprint Planning to choose what to build this Sprint.\n3. Meet for a 15-minute Daily Scrum to sync and adjust.\n4. Do the work through the Sprint and produce a usable Increment.\n5. Hold a Sprint Review to show the work and gather feedback.\n6. Hold a Sprint Retrospective to improve how the team works, then start the next Sprint.\nThree roles support this: the Product Owner, the Scrum Master, and the Developers."
+  },
+  {
+    "id": 3,
+    "slug": "kanban-method",
+    "Agile Method Name": "Kanban Method",
+    "Data Type": [
+      {
+        "slug": "methodology",
+        "label": "Methodology"
+      }
+    ],
+    "Method Splash Image": [
+      {
+        "name": "kanban.jpg",
+        "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/61oanaJrEt9srKL2pr1urjaxBRwJ7nUt_ac757b9c53d234c0e7c2095e61e68eecd4a7d15a6dffbf972988a44e29a531d4.jpg"
+      }
+    ],
+    "When Is This Method Used?": "Kanban is the method to reach for when work arrives as a steady stream, like support, operations, or maintenance, and you want to improve how it flows without tearing up the way you already work. It suits teams whose priorities shift often and who value flexibility over fixed cycles. Because you can lay it on top of an existing process, it is often an easy first step into agile.",
+    "Resource to Learn More": "https://kanban.university/kanban-guide/",
+    "Other Agile Methods": [
+      {
+        "slug": "google-design-sprint-method",
+        "label": "Google Design Sprint Method"
+      },
+      {
+        "slug": "scrum-method",
+        "label": "Scrum Method"
+      },
+      {
+        "slug": "continuous-discovery-method",
+        "label": "Continuous Discovery Method"
+      },
+      {
+        "slug": "lean-ux-method",
+        "label": "Lean UX Method"
+      },
+      {
+        "slug": "scaled-agile-framework-method",
+        "label": "Scaled Agile Framework Method"
+      }
+    ],
+    "Job Roles that Use the Method": [
+      {
+        "slug": "ux-user-experience-design",
+        "label": "UX (User Experience) Design"
+      },
+      {
+        "slug": "ux-user-experience-research",
+        "label": "UX (User Experience) Research"
+      },
+      {
+        "slug": "business-analysis",
+        "label": "Business Analysis"
+      },
+      {
+        "slug": "product-ownership",
+        "label": "Product Ownership"
+      },
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      },
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      },
+      {
+        "slug": "development",
+        "label": "Development"
+      },
+      {
+        "slug": "solutions-architecture",
+        "label": "Solutions Architecture"
+      },
+      {
+        "slug": "ux-user-experience-writing",
+        "label": "UX (User Experience) Writing"
+      },
+      {
+        "slug": "agile-coaching",
+        "label": "Agile Coaching"
+      }
+    ],
+    "User Experience Research Tasks Involving the Methodology": [
+      {
+        "slug": "analyzing-research-findings",
+        "label": "Analyzing Research Findings"
+      },
+      {
+        "slug": "presenting-research-results",
+        "label": "Presenting Research Results"
+      },
+      {
+        "slug": "moderating-ux-research",
+        "label": "Moderating UX Research"
+      },
+      {
+        "slug": "secondary-research",
+        "label": "Secondary Research"
+      },
+      {
+        "slug": "card-sorting",
+        "label": "Card Sorting "
+      },
+      {
+        "slug": "interviewing",
+        "label": "Interviewing"
+      },
+      {
+        "slug": "surveys",
+        "label": "Surveys"
+      },
+      {
+        "slug": "diary-studies",
+        "label": "Diary Studies"
+      },
+      {
+        "slug": "contextual-inquiries",
+        "label": "Contextual Inquiries"
+      },
+      {
+        "slug": "observing-ethnography",
+        "label": "Observing (Ethnography)"
+      },
+      {
+        "slug": "usability-testing",
+        "label": "Usability Testing"
+      },
+      {
+        "slug": "prototype-concept-testing",
+        "label": "Prototype Concept Testing "
+      },
+      {
+        "slug": "a-b-prototype-test-creation",
+        "label": "A/B Prototype Test Creation"
+      },
+      {
+        "slug": "identifying-research-patterns",
+        "label": "Identifying Research Patterns"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "creating-research-plans",
+        "label": "Creating Research Plans"
+      }
+    ],
+    "User Experience Design Tasks Involving the Methodology": [
+      {
+        "slug": "wireframing",
+        "label": "Wireframing"
+      },
+      {
+        "slug": "design-component-creation",
+        "label": "Design Component Creation"
+      },
+      {
+        "slug": "brand-identity-formation",
+        "label": "Brand Identity Formation"
+      },
+      {
+        "slug": "icon-and-logo-creation",
+        "label": "Icon and Logo Creation"
+      },
+      {
+        "slug": "storyboarding",
+        "label": "Storyboarding"
+      },
+      {
+        "slug": "ui-kit-creation",
+        "label": "UI Kit Creation"
+      },
+      {
+        "slug": "developing-information-architecture",
+        "label": "Developing Information Architecture"
+      },
+      {
+        "slug": "prototype-creation",
+        "label": "Prototype Creation"
+      },
+      {
+        "slug": "ux-heuristics-analysis",
+        "label": "UX Heuristics Analysis"
+      },
+      {
+        "slug": "clickable-prototype-creation",
+        "label": "Clickable Prototype Creation"
+      },
+      {
+        "slug": "inventorying-content",
+        "label": "Inventorying Content"
+      },
+      {
+        "slug": "customer-experience-mapping",
+        "label": "Customer Experience Mapping"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      },
+      {
+        "slug": "search-engine-optimization-seo-design",
+        "label": "Search Engine Optimization (SEO) Design"
+      }
+    ],
+    "Product Owner Tasks Involving the Methodology": [
+      {
+        "slug": "release-scope-definition",
+        "label": "Release Scope Definition"
+      },
+      {
+        "slug": "requirements-gathering",
+        "label": "Requirements Gathering"
+      },
+      {
+        "slug": "requirements-refinement",
+        "label": "Requirements Refinement"
+      },
+      {
+        "slug": "writing-requirements",
+        "label": "Writing Requirements"
+      },
+      {
+        "slug": "feature-vision-definition",
+        "label": "Feature Vision Definition"
+      },
+      {
+        "slug": "feature-scope-definition",
+        "label": "Feature Scope Definition"
+      },
+      {
+        "slug": "generating-problem-statements",
+        "label": "Generating Problem Statements"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "identifying-priorities",
+        "label": "Identifying Priorities"
+      },
+      {
+        "slug": "kickoff-intake",
+        "label": "Kickoff / Intake"
+      },
+      {
+        "slug": "product-positioning",
+        "label": "Product Positioning"
+      },
+      {
+        "slug": "tracking-epic-progress",
+        "label": "Tracking Epic Progress"
+      },
+      {
+        "slug": "product-roadmap-maintenance",
+        "label": "Product Roadmap Maintenance"
+      },
+      {
+        "slug": "market-research",
+        "label": "Market Research"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "user-acceptance-testing",
+        "label": "User Acceptance Testing"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "developing-go-to-market-strategy",
+        "label": "Developing Go-To-Market Strategy"
+      },
+      {
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
+      },
+      {
+        "slug": "price-testing",
+        "label": "Price Testing"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "Agile Coach Tasks Involving the Methodology": [
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "level-of-effort-estimation",
+        "label": "Level of Effort Estimation"
+      },
+      {
+        "slug": "velocity-calculation",
+        "label": "Velocity Calculation"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "facilitating-agile-workshops",
+        "label": "Facilitating Agile Workshops"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "All Tasks Involving the Methodology": [
+      {
+        "slug": "generating-problem-statements",
+        "label": "Generating Problem Statements"
+      },
+      {
+        "slug": "analyzing-research-findings",
+        "label": "Analyzing Research Findings"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "identifying-priorities",
+        "label": "Identifying Priorities"
+      },
+      {
+        "slug": "presenting-research-results",
+        "label": "Presenting Research Results"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "moderating-ux-research",
+        "label": "Moderating UX Research"
+      },
+      {
+        "slug": "secondary-research",
+        "label": "Secondary Research"
+      },
+      {
+        "slug": "card-sorting",
+        "label": "Card Sorting "
+      },
+      {
+        "slug": "interviewing",
+        "label": "Interviewing"
+      },
+      {
+        "slug": "surveys",
+        "label": "Surveys"
+      },
+      {
+        "slug": "diary-studies",
+        "label": "Diary Studies"
+      },
+      {
+        "slug": "contextual-inquiries",
+        "label": "Contextual Inquiries"
+      },
+      {
+        "slug": "observing-ethnography",
+        "label": "Observing (Ethnography)"
+      },
+      {
+        "slug": "prototype-concept-testing",
+        "label": "Prototype Concept Testing "
+      },
+      {
+        "slug": "a-b-prototype-test-creation",
+        "label": "A/B Prototype Test Creation"
+      },
+      {
+        "slug": "prototype-creation",
+        "label": "Prototype Creation"
+      },
+      {
+        "slug": "ux-heuristics-analysis",
+        "label": "UX Heuristics Analysis"
+      },
+      {
+        "slug": "market-research",
+        "label": "Market Research"
+      },
+      {
+        "slug": "autotest-creation",
+        "label": "Autotest Creation"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "clickable-prototype-creation",
+        "label": "Clickable Prototype Creation"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "identifying-research-patterns",
+        "label": "Identifying Research Patterns"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "creating-research-plans",
+        "label": "Creating Research Plans"
+      },
+      {
+        "slug": "rapid-ideation",
+        "label": "Rapid Ideation"
+      },
+      {
+        "slug": "analyzing-project-risk",
+        "label": "Analyzing Project Risk"
+      },
+      {
+        "slug": "choosing-an-agile-method",
+        "label": "Choosing an Agile Method"
+      },
+      {
+        "slug": "leading-agile-transformation",
+        "label": "Leading Agile Transformation"
+      },
+      {
+        "slug": "defining-research-operations",
+        "label": "Defining Research Operations"
+      },
+      {
+        "slug": "defining-ux-design-operations",
+        "label": "Defining UX Design Operations"
+      }
+    ],
+    "Who Created This Method?": "The Kanban Method for knowledge work was formalized by David J. Anderson around 2010, building on lean manufacturing ideas from Toyota's production system. Its official definition lives in the Kanban Guide from Kanban University. Official source: kanban.university.",
+    "How Does This Method Compare to to Other Agile Methods?": "Kanban is lighter than Scrum. It has no fixed Sprints or required roles, so a team can adopt it on top of how they already work. Where Scrum plans in time-boxed batches, Kanban manages a continuous flow. It pairs well with discovery methods like Lean UX and Continuous Discovery, and unlike SAFe it is meant for a single team's flow rather than coordinating many teams.",
+    "During While Kinds of Work Environments Is It Best to Use This Method?": "Kanban fits teams with a steady stream of incoming work, like support, operations, or maintenance, and teams that want to improve without overhauling their current process. It suits work where priorities shift often and flexibility matters more than fixed cycles.",
+    "Steps to Perform the Method": "Kanban improves how work flows through six core practices:\n1. Visualize the work on a board so everyone can see it.\n2. Limit work in progress (WIP) so the team focuses and finishes.\n3. Manage flow to keep work moving smoothly.\n4. Make policies explicit so everyone knows the rules.\n5. Add feedback loops like regular reviews.\n6. Improve collaboratively over time.\nTeams pull new work only when they have capacity for it."
+  },
+  {
+    "id": 4,
+    "slug": "continuous-discovery-method",
+    "Agile Method Name": "Continuous Discovery Method",
+    "Data Type": [
+      {
+        "slug": "methodology",
+        "label": "Methodology"
+      }
+    ],
+    "Method Splash Image": [
+      {
+        "name": "discovery_process.png",
+        "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/45jJ8qriN0ucnjPaJyRyYj5WQu154DI6_4ace574dfa972e3259e973e507d00711028da1647a87c42941e80105031b74ef.png"
+      }
+    ],
+    "When Is This Method Used?": "Use Continuous Discovery when you want to stay close to your users and let what you learn shape the product as you go. It is most useful when user needs are unclear or keep changing, and when the team would rather adjust based on real evidence than commit to a fixed plan up front. It fits teams that treat learning as a constant habit, not a one-time phase.",
+    "Resource to Learn More": "https://www.interaction-design.org/literature/topics/continuous-discovery",
+    "Other Agile Methods": [
+      {
+        "slug": "google-design-sprint-method",
+        "label": "Google Design Sprint Method"
+      },
+      {
+        "slug": "scrum-method",
+        "label": "Scrum Method"
+      },
+      {
+        "slug": "kanban-method",
+        "label": "Kanban Method"
+      },
+      {
+        "slug": "lean-ux-method",
+        "label": "Lean UX Method"
+      },
+      {
+        "slug": "scaled-agile-framework-method",
+        "label": "Scaled Agile Framework Method"
+      }
+    ],
+    "Job Roles that Use the Method": [
+      {
+        "slug": "ux-user-experience-design",
+        "label": "UX (User Experience) Design"
+      },
+      {
+        "slug": "ux-user-experience-research",
+        "label": "UX (User Experience) Research"
+      },
+      {
+        "slug": "product-ownership",
+        "label": "Product Ownership"
+      },
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      },
+      {
+        "slug": "ux-user-experience-writing",
+        "label": "UX (User Experience) Writing"
+      },
+      {
+        "slug": "agile-coaching",
+        "label": "Agile Coaching"
+      }
+    ],
+    "User Experience Research Tasks Involving the Methodology": [
+      {
+        "slug": "analyzing-research-findings",
+        "label": "Analyzing Research Findings"
+      },
+      {
+        "slug": "presenting-research-results",
+        "label": "Presenting Research Results"
+      },
+      {
+        "slug": "moderating-ux-research",
+        "label": "Moderating UX Research"
+      },
+      {
+        "slug": "secondary-research",
+        "label": "Secondary Research"
+      },
+      {
+        "slug": "card-sorting",
+        "label": "Card Sorting "
+      },
+      {
+        "slug": "interviewing",
+        "label": "Interviewing"
+      },
+      {
+        "slug": "surveys",
+        "label": "Surveys"
+      },
+      {
+        "slug": "diary-studies",
+        "label": "Diary Studies"
+      },
+      {
+        "slug": "contextual-inquiries",
+        "label": "Contextual Inquiries"
+      },
+      {
+        "slug": "observing-ethnography",
+        "label": "Observing (Ethnography)"
+      },
+      {
+        "slug": "usability-testing",
+        "label": "Usability Testing"
+      },
+      {
+        "slug": "prototype-concept-testing",
+        "label": "Prototype Concept Testing "
+      },
+      {
+        "slug": "a-b-prototype-test-creation",
+        "label": "A/B Prototype Test Creation"
+      },
+      {
+        "slug": "identifying-research-patterns",
+        "label": "Identifying Research Patterns"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "creating-research-plans",
+        "label": "Creating Research Plans"
+      }
+    ],
+    "User Experience Design Tasks Involving the Methodology": [
+      {
+        "slug": "wireframing",
+        "label": "Wireframing"
+      },
+      {
+        "slug": "design-component-creation",
+        "label": "Design Component Creation"
+      },
+      {
+        "slug": "brand-identity-formation",
+        "label": "Brand Identity Formation"
+      },
+      {
+        "slug": "icon-and-logo-creation",
+        "label": "Icon and Logo Creation"
+      },
+      {
+        "slug": "storyboarding",
+        "label": "Storyboarding"
+      },
+      {
+        "slug": "ui-kit-creation",
+        "label": "UI Kit Creation"
+      },
+      {
+        "slug": "developing-information-architecture",
+        "label": "Developing Information Architecture"
+      },
+      {
+        "slug": "prototype-creation",
+        "label": "Prototype Creation"
+      },
+      {
+        "slug": "ux-heuristics-analysis",
+        "label": "UX Heuristics Analysis"
+      },
+      {
+        "slug": "clickable-prototype-creation",
+        "label": "Clickable Prototype Creation"
+      },
+      {
+        "slug": "inventorying-content",
+        "label": "Inventorying Content"
+      },
+      {
+        "slug": "customer-experience-mapping",
+        "label": "Customer Experience Mapping"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      },
+      {
+        "slug": "search-engine-optimization-seo-design",
+        "label": "Search Engine Optimization (SEO) Design"
+      }
+    ],
+    "Product Owner Tasks Involving the Methodology": [
+      {
+        "slug": "release-scope-definition",
+        "label": "Release Scope Definition"
+      },
+      {
+        "slug": "requirements-gathering",
+        "label": "Requirements Gathering"
+      },
+      {
+        "slug": "requirements-refinement",
+        "label": "Requirements Refinement"
+      },
+      {
+        "slug": "writing-requirements",
+        "label": "Writing Requirements"
+      },
+      {
+        "slug": "feature-vision-definition",
+        "label": "Feature Vision Definition"
+      },
+      {
+        "slug": "feature-scope-definition",
+        "label": "Feature Scope Definition"
+      },
+      {
+        "slug": "generating-problem-statements",
+        "label": "Generating Problem Statements"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "identifying-priorities",
+        "label": "Identifying Priorities"
+      },
+      {
+        "slug": "kickoff-intake",
+        "label": "Kickoff / Intake"
+      },
+      {
+        "slug": "product-positioning",
+        "label": "Product Positioning"
+      },
+      {
+        "slug": "tracking-epic-progress",
+        "label": "Tracking Epic Progress"
+      },
+      {
+        "slug": "product-roadmap-maintenance",
+        "label": "Product Roadmap Maintenance"
+      },
+      {
+        "slug": "market-research",
+        "label": "Market Research"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "user-acceptance-testing",
+        "label": "User Acceptance Testing"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "developing-go-to-market-strategy",
+        "label": "Developing Go-To-Market Strategy"
+      },
+      {
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
+      },
+      {
+        "slug": "price-testing",
+        "label": "Price Testing"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "Agile Coach Tasks Involving the Methodology": [
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "level-of-effort-estimation",
+        "label": "Level of Effort Estimation"
+      },
+      {
+        "slug": "velocity-calculation",
+        "label": "Velocity Calculation"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "facilitating-agile-workshops",
+        "label": "Facilitating Agile Workshops"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "All Tasks Involving the Methodology": [
+      {
+        "slug": "generating-problem-statements",
+        "label": "Generating Problem Statements"
+      },
+      {
+        "slug": "analyzing-research-findings",
+        "label": "Analyzing Research Findings"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "identifying-priorities",
+        "label": "Identifying Priorities"
+      },
+      {
+        "slug": "presenting-research-results",
+        "label": "Presenting Research Results"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "moderating-ux-research",
+        "label": "Moderating UX Research"
+      },
+      {
+        "slug": "secondary-research",
+        "label": "Secondary Research"
+      },
+      {
+        "slug": "card-sorting",
+        "label": "Card Sorting "
+      },
+      {
+        "slug": "interviewing",
+        "label": "Interviewing"
+      },
+      {
+        "slug": "surveys",
+        "label": "Surveys"
+      },
+      {
+        "slug": "product-positioning",
+        "label": "Product Positioning"
+      },
+      {
+        "slug": "diary-studies",
+        "label": "Diary Studies"
+      },
+      {
+        "slug": "contextual-inquiries",
+        "label": "Contextual Inquiries"
+      },
+      {
+        "slug": "observing-ethnography",
+        "label": "Observing (Ethnography)"
+      },
+      {
+        "slug": "prototype-concept-testing",
+        "label": "Prototype Concept Testing "
+      },
+      {
+        "slug": "a-b-prototype-test-creation",
+        "label": "A/B Prototype Test Creation"
+      },
+      {
+        "slug": "prototype-creation",
+        "label": "Prototype Creation"
+      },
+      {
+        "slug": "ux-heuristics-analysis",
+        "label": "UX Heuristics Analysis"
+      },
+      {
+        "slug": "market-research",
+        "label": "Market Research"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "clickable-prototype-creation",
+        "label": "Clickable Prototype Creation"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "identifying-research-patterns",
+        "label": "Identifying Research Patterns"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "developing-go-to-market-strategy",
+        "label": "Developing Go-To-Market Strategy"
+      },
+      {
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "customer-experience-mapping",
+        "label": "Customer Experience Mapping"
+      },
+      {
+        "slug": "creating-research-plans",
+        "label": "Creating Research Plans"
+      },
+      {
+        "slug": "rapid-ideation",
+        "label": "Rapid Ideation"
+      },
+      {
+        "slug": "choosing-an-agile-method",
+        "label": "Choosing an Agile Method"
+      },
+      {
+        "slug": "leading-agile-transformation",
+        "label": "Leading Agile Transformation"
+      },
+      {
+        "slug": "defining-research-operations",
+        "label": "Defining Research Operations"
+      },
+      {
+        "slug": "defining-ux-design-operations",
+        "label": "Defining UX Design Operations"
+      }
+    ],
+    "Who Created This Method?": "Continuous Discovery was shaped and popularized by product coach Teresa Torres in her 2021 book, Continuous Discovery Habits. It builds on lean and agile ideas about learning from customers often. Official source: producttalk.org.",
+    "How Does This Method Compare to to Other Agile Methods?": "Continuous Discovery is not a delivery method like Scrum or Kanban. It focuses on deciding what to build, while Scrum and Kanban focus on building it, so teams usually run it alongside one of them. It shares the test-and-learn mindset of Lean UX, but as an ongoing weekly habit rather than a project-by-project cycle.",
+    "During While Kinds of Work Environments Is It Best to Use This Method?": "It fits product teams that can reach customers regularly and that work toward an outcome rather than a fixed feature list. It is best where user needs change or are not fully understood, and where a cross-functional trio can share the discovery work.",
+    "Steps to Perform the Method": "Continuous Discovery is a set of weekly habits:\n1. Talk to at least one customer every week as a full product trio (product, design, and engineering).\n2. Map what you learn on an opportunity solution tree that connects customer needs to a clear outcome.\n3. Surface and test your assumptions before building anything.\n4. Run small experiments to check ideas quickly.\n5. Keep repeating so learning never stops."
+  },
+  {
+    "id": 5,
+    "slug": "lean-ux-method",
+    "Agile Method Name": "Lean UX Method",
+    "Data Type": [
+      {
+        "slug": "methodology",
+        "label": "Methodology"
+      }
+    ],
+    "Method Splash Image": [
+      {
+        "name": "lean_ux.gif",
+        "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/48YLCucYztxPTGMspkKQKD0M0zh1FZ7D_f7de92dfd7201bcd5549a7d36673011b2899d7c69df2459eb5c88012b9c86f60.gif"
+      }
+    ],
+    "When Is This Method Used?": "Lean UX is the right call when you are building something user-centered and are open to changing course based on what you learn. It helps most early on, when the real need is still fuzzy and the team wants to test ideas quickly instead of building a lot on a guess. It suits groups that value working closely together over producing polished documents.",
+    "Resource to Learn More": "https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux",
+    "Other Agile Methods": [
+      {
+        "slug": "google-design-sprint-method",
+        "label": "Google Design Sprint Method"
+      },
+      {
+        "slug": "scrum-method",
+        "label": "Scrum Method"
+      },
+      {
+        "slug": "kanban-method",
+        "label": "Kanban Method"
+      },
+      {
+        "slug": "continuous-discovery-method",
+        "label": "Continuous Discovery Method"
+      },
+      {
+        "slug": "scaled-agile-framework-method",
+        "label": "Scaled Agile Framework Method"
+      }
+    ],
+    "Job Roles that Use the Method": [
+      {
+        "slug": "ux-user-experience-design",
+        "label": "UX (User Experience) Design"
+      },
+      {
+        "slug": "ux-user-experience-research",
+        "label": "UX (User Experience) Research"
+      },
+      {
+        "slug": "product-ownership",
+        "label": "Product Ownership"
+      },
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      },
+      {
+        "slug": "ux-user-experience-writing",
+        "label": "UX (User Experience) Writing"
+      },
+      {
+        "slug": "agile-coaching",
+        "label": "Agile Coaching"
+      }
+    ],
+    "User Experience Research Tasks Involving the Methodology": [
+      {
+        "slug": "analyzing-research-findings",
+        "label": "Analyzing Research Findings"
+      },
+      {
+        "slug": "presenting-research-results",
+        "label": "Presenting Research Results"
+      },
+      {
+        "slug": "moderating-ux-research",
+        "label": "Moderating UX Research"
+      },
+      {
+        "slug": "secondary-research",
+        "label": "Secondary Research"
+      },
+      {
+        "slug": "card-sorting",
+        "label": "Card Sorting "
+      },
+      {
+        "slug": "interviewing",
+        "label": "Interviewing"
+      },
+      {
+        "slug": "surveys",
+        "label": "Surveys"
+      },
+      {
+        "slug": "diary-studies",
+        "label": "Diary Studies"
+      },
+      {
+        "slug": "contextual-inquiries",
+        "label": "Contextual Inquiries"
+      },
+      {
+        "slug": "observing-ethnography",
+        "label": "Observing (Ethnography)"
+      },
+      {
+        "slug": "usability-testing",
+        "label": "Usability Testing"
+      },
+      {
+        "slug": "prototype-concept-testing",
+        "label": "Prototype Concept Testing "
+      },
+      {
+        "slug": "a-b-prototype-test-creation",
+        "label": "A/B Prototype Test Creation"
+      },
+      {
+        "slug": "identifying-research-patterns",
+        "label": "Identifying Research Patterns"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "creating-research-plans",
+        "label": "Creating Research Plans"
+      }
+    ],
+    "User Experience Design Tasks Involving the Methodology": [
+      {
+        "slug": "wireframing",
+        "label": "Wireframing"
+      },
+      {
+        "slug": "design-component-creation",
+        "label": "Design Component Creation"
+      },
+      {
+        "slug": "brand-identity-formation",
+        "label": "Brand Identity Formation"
+      },
+      {
+        "slug": "icon-and-logo-creation",
+        "label": "Icon and Logo Creation"
+      },
+      {
+        "slug": "storyboarding",
+        "label": "Storyboarding"
+      },
+      {
+        "slug": "ui-kit-creation",
+        "label": "UI Kit Creation"
+      },
+      {
+        "slug": "developing-information-architecture",
+        "label": "Developing Information Architecture"
+      },
+      {
+        "slug": "prototype-creation",
+        "label": "Prototype Creation"
+      },
+      {
+        "slug": "ux-heuristics-analysis",
+        "label": "UX Heuristics Analysis"
+      },
+      {
+        "slug": "clickable-prototype-creation",
+        "label": "Clickable Prototype Creation"
+      },
+      {
+        "slug": "inventorying-content",
+        "label": "Inventorying Content"
+      },
+      {
+        "slug": "customer-experience-mapping",
+        "label": "Customer Experience Mapping"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      },
+      {
+        "slug": "search-engine-optimization-seo-design",
+        "label": "Search Engine Optimization (SEO) Design"
+      }
+    ],
+    "Product Owner Tasks Involving the Methodology": [
+      {
+        "slug": "release-scope-definition",
+        "label": "Release Scope Definition"
+      },
+      {
+        "slug": "requirements-gathering",
+        "label": "Requirements Gathering"
+      },
+      {
+        "slug": "requirements-refinement",
+        "label": "Requirements Refinement"
+      },
+      {
+        "slug": "writing-requirements",
+        "label": "Writing Requirements"
+      },
+      {
+        "slug": "feature-vision-definition",
+        "label": "Feature Vision Definition"
+      },
+      {
+        "slug": "feature-scope-definition",
+        "label": "Feature Scope Definition"
+      },
+      {
+        "slug": "generating-problem-statements",
+        "label": "Generating Problem Statements"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "identifying-priorities",
+        "label": "Identifying Priorities"
+      },
+      {
+        "slug": "kickoff-intake",
+        "label": "Kickoff / Intake"
+      },
+      {
+        "slug": "product-positioning",
+        "label": "Product Positioning"
+      },
+      {
+        "slug": "tracking-epic-progress",
+        "label": "Tracking Epic Progress"
+      },
+      {
+        "slug": "product-roadmap-maintenance",
+        "label": "Product Roadmap Maintenance"
+      },
+      {
+        "slug": "market-research",
+        "label": "Market Research"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "user-acceptance-testing",
+        "label": "User Acceptance Testing"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "developing-go-to-market-strategy",
+        "label": "Developing Go-To-Market Strategy"
+      },
+      {
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
+      },
+      {
+        "slug": "price-testing",
+        "label": "Price Testing"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "Agile Coach Tasks Involving the Methodology": [
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "level-of-effort-estimation",
+        "label": "Level of Effort Estimation"
+      },
+      {
+        "slug": "velocity-calculation",
+        "label": "Velocity Calculation"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "facilitating-agile-workshops",
+        "label": "Facilitating Agile Workshops"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "All Tasks Involving the Methodology": [
+      {
+        "slug": "generating-problem-statements",
+        "label": "Generating Problem Statements"
+      },
+      {
+        "slug": "analyzing-research-findings",
+        "label": "Analyzing Research Findings"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "identifying-priorities",
+        "label": "Identifying Priorities"
+      },
+      {
+        "slug": "presenting-research-results",
+        "label": "Presenting Research Results"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "moderating-ux-research",
+        "label": "Moderating UX Research"
+      },
+      {
+        "slug": "secondary-research",
+        "label": "Secondary Research"
+      },
+      {
+        "slug": "card-sorting",
+        "label": "Card Sorting "
+      },
+      {
+        "slug": "interviewing",
+        "label": "Interviewing"
+      },
+      {
+        "slug": "surveys",
+        "label": "Surveys"
+      },
+      {
+        "slug": "diary-studies",
+        "label": "Diary Studies"
+      },
+      {
+        "slug": "contextual-inquiries",
+        "label": "Contextual Inquiries"
+      },
+      {
+        "slug": "observing-ethnography",
+        "label": "Observing (Ethnography)"
+      },
+      {
+        "slug": "prototype-concept-testing",
+        "label": "Prototype Concept Testing "
+      },
+      {
+        "slug": "a-b-prototype-test-creation",
+        "label": "A/B Prototype Test Creation"
+      },
+      {
+        "slug": "prototype-creation",
+        "label": "Prototype Creation"
+      },
+      {
+        "slug": "ux-heuristics-analysis",
+        "label": "UX Heuristics Analysis"
+      },
+      {
+        "slug": "market-research",
+        "label": "Market Research"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "clickable-prototype-creation",
+        "label": "Clickable Prototype Creation"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "identifying-research-patterns",
+        "label": "Identifying Research Patterns"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "creating-research-plans",
+        "label": "Creating Research Plans"
+      },
+      {
+        "slug": "rapid-ideation",
+        "label": "Rapid Ideation"
+      },
+      {
+        "slug": "choosing-an-agile-method",
+        "label": "Choosing an Agile Method"
+      },
+      {
+        "slug": "leading-agile-transformation",
+        "label": "Leading Agile Transformation"
+      },
+      {
+        "slug": "defining-research-operations",
+        "label": "Defining Research Operations"
+      },
+      {
+        "slug": "defining-ux-design-operations",
+        "label": "Defining UX Design Operations"
+      }
+    ],
+    "Who Created This Method?": "Lean UX was created by Jeff Gothelf with Josh Seiden, who described it in their 2013 book, Lean UX. It blends the Lean Startup's build-measure-learn loop (from Eric Ries), Agile, and Design Thinking.",
+    "How Does This Method Compare to to Other Agile Methods?": "Lean UX guides how a team designs and validates ideas, while Scrum and Kanban manage how the work gets delivered, so they are usually used together. It is close in spirit to Continuous Discovery, since both test assumptions with users, and it provides the fast, experiment-first thinking that a Design Sprint compresses into five days.",
+    "During While Kinds of Work Environments Is It Best to Use This Method?": "Lean UX fits early or uncertain products where the team needs to validate ideas quickly instead of building a lot up front. It works best with collaborative, cross-functional teams that care more about outcomes than polished documents.",
+    "Steps to Perform the Method": "Lean UX works in a learning loop:\n1. Declare your assumptions about the users and the problem.\n2. Turn those assumptions into clear hypotheses you can test.\n3. Design the smallest thing that can test a hypothesis, a minimum viable product (MVP).\n4. Run an experiment and put it in front of users.\n5. Measure the results and learn whether to keep, change, or drop the idea, then repeat."
+  },
+  {
+    "id": 6,
+    "slug": "scaled-agile-framework-method",
+    "Agile Method Name": "Scaled Agile Framework Method",
+    "Data Type": [
+      {
+        "slug": "methodology",
+        "label": "Methodology"
+      }
+    ],
+    "Method Splash Image": [
+      {
+        "name": "safe.webp",
+        "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/GzAytbD43sZ7C6B4JxEtsFpEGFpADpcE_39fe6af6a3c6cdd560a44c93c033c2e0e419990cab730fbd6c8b64e34c1a14b0.webp"
+      }
+    ],
+    "When Is This Method Used?": "SAFe comes into play when the work is simply too big for one team, and many teams across an organization need to pull in the same direction. It helps when coordination, alignment, and planning at scale are the real challenge, and when leaders need everyone responding to change together rather than drifting apart. It is built for large, complex efforts, not small ones.",
+    "Resource to Learn More": "https://scaledagileframework.com/",
+    "Other Agile Methods": [
+      {
+        "slug": "google-design-sprint-method",
+        "label": "Google Design Sprint Method"
+      },
+      {
+        "slug": "scrum-method",
+        "label": "Scrum Method"
+      },
+      {
+        "slug": "kanban-method",
+        "label": "Kanban Method"
+      },
+      {
+        "slug": "continuous-discovery-method",
+        "label": "Continuous Discovery Method"
+      },
+      {
+        "slug": "lean-ux-method",
+        "label": "Lean UX Method"
+      }
+    ],
+    "Job Roles that Use the Method": [
+      {
+        "slug": "ux-user-experience-design",
+        "label": "UX (User Experience) Design"
+      },
+      {
+        "slug": "ux-user-experience-research",
+        "label": "UX (User Experience) Research"
+      },
+      {
+        "slug": "business-analysis",
+        "label": "Business Analysis"
+      },
+      {
+        "slug": "product-ownership",
+        "label": "Product Ownership"
+      },
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      },
+      {
+        "slug": "scrum-master",
+        "label": "Scrum Master"
+      },
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      },
+      {
+        "slug": "development",
+        "label": "Development"
+      },
+      {
+        "slug": "solutions-architecture",
+        "label": "Solutions Architecture"
+      },
+      {
+        "slug": "ux-user-experience-writing",
+        "label": "UX (User Experience) Writing"
+      },
+      {
+        "slug": "agile-coaching",
+        "label": "Agile Coaching"
+      }
+    ],
+    "User Experience Research Tasks Involving the Methodology": [
+      {
+        "slug": "analyzing-research-findings",
+        "label": "Analyzing Research Findings"
+      },
+      {
+        "slug": "presenting-research-results",
+        "label": "Presenting Research Results"
+      },
+      {
+        "slug": "moderating-ux-research",
+        "label": "Moderating UX Research"
+      },
+      {
+        "slug": "secondary-research",
+        "label": "Secondary Research"
+      },
+      {
+        "slug": "card-sorting",
+        "label": "Card Sorting "
+      },
+      {
+        "slug": "interviewing",
+        "label": "Interviewing"
+      },
+      {
+        "slug": "surveys",
+        "label": "Surveys"
+      },
+      {
+        "slug": "diary-studies",
+        "label": "Diary Studies"
+      },
+      {
+        "slug": "contextual-inquiries",
+        "label": "Contextual Inquiries"
+      },
+      {
+        "slug": "observing-ethnography",
+        "label": "Observing (Ethnography)"
+      },
+      {
+        "slug": "usability-testing",
+        "label": "Usability Testing"
+      },
+      {
+        "slug": "prototype-concept-testing",
+        "label": "Prototype Concept Testing "
+      },
+      {
+        "slug": "a-b-prototype-test-creation",
+        "label": "A/B Prototype Test Creation"
+      },
+      {
+        "slug": "identifying-research-patterns",
+        "label": "Identifying Research Patterns"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "creating-research-plans",
+        "label": "Creating Research Plans"
+      }
+    ],
+    "User Experience Design Tasks Involving the Methodology": [
+      {
+        "slug": "wireframing",
+        "label": "Wireframing"
+      },
+      {
+        "slug": "design-component-creation",
+        "label": "Design Component Creation"
+      },
+      {
+        "slug": "brand-identity-formation",
+        "label": "Brand Identity Formation"
+      },
+      {
+        "slug": "icon-and-logo-creation",
+        "label": "Icon and Logo Creation"
+      },
+      {
+        "slug": "storyboarding",
+        "label": "Storyboarding"
+      },
+      {
+        "slug": "ui-kit-creation",
+        "label": "UI Kit Creation"
+      },
+      {
+        "slug": "developing-information-architecture",
+        "label": "Developing Information Architecture"
+      },
+      {
+        "slug": "prototype-creation",
+        "label": "Prototype Creation"
+      },
+      {
+        "slug": "ux-heuristics-analysis",
+        "label": "UX Heuristics Analysis"
+      },
+      {
+        "slug": "clickable-prototype-creation",
+        "label": "Clickable Prototype Creation"
+      },
+      {
+        "slug": "inventorying-content",
+        "label": "Inventorying Content"
+      },
+      {
+        "slug": "customer-experience-mapping",
+        "label": "Customer Experience Mapping"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      },
+      {
+        "slug": "search-engine-optimization-seo-design",
+        "label": "Search Engine Optimization (SEO) Design"
+      }
+    ],
+    "Product Owner Tasks Involving the Methodology": [
+      {
+        "slug": "release-scope-definition",
+        "label": "Release Scope Definition"
+      },
+      {
+        "slug": "requirements-gathering",
+        "label": "Requirements Gathering"
+      },
+      {
+        "slug": "requirements-refinement",
+        "label": "Requirements Refinement"
+      },
+      {
+        "slug": "writing-requirements",
+        "label": "Writing Requirements"
+      },
+      {
+        "slug": "feature-vision-definition",
+        "label": "Feature Vision Definition"
+      },
+      {
+        "slug": "feature-scope-definition",
+        "label": "Feature Scope Definition"
+      },
+      {
+        "slug": "generating-problem-statements",
+        "label": "Generating Problem Statements"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "identifying-priorities",
+        "label": "Identifying Priorities"
+      },
+      {
+        "slug": "kickoff-intake",
+        "label": "Kickoff / Intake"
+      },
+      {
+        "slug": "product-positioning",
+        "label": "Product Positioning"
+      },
+      {
+        "slug": "tracking-epic-progress",
+        "label": "Tracking Epic Progress"
+      },
+      {
+        "slug": "product-roadmap-maintenance",
+        "label": "Product Roadmap Maintenance"
+      },
+      {
+        "slug": "market-research",
+        "label": "Market Research"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "user-acceptance-testing",
+        "label": "User Acceptance Testing"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "developing-go-to-market-strategy",
+        "label": "Developing Go-To-Market Strategy"
+      },
+      {
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
+      },
+      {
+        "slug": "price-testing",
+        "label": "Price Testing"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "Agile Coach Tasks Involving the Methodology": [
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "level-of-effort-estimation",
+        "label": "Level of Effort Estimation"
+      },
+      {
+        "slug": "velocity-calculation",
+        "label": "Velocity Calculation"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "facilitating-agile-workshops",
+        "label": "Facilitating Agile Workshops"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "creating-presentations",
+        "label": "Creating Presentations"
+      }
+    ],
+    "All Tasks Involving the Methodology": [
+      {
+        "slug": "requirements-refinement",
+        "label": "Requirements Refinement"
+      },
+      {
+        "slug": "sprint-planning",
+        "label": "Sprint Planning"
+      },
+      {
+        "slug": "defining-team-working-agreements",
+        "label": "Defining Team Working Agreements"
+      },
+      {
+        "slug": "team-role-and-responsibility-definition",
+        "label": "Team Role and Responsibility Definition"
+      },
+      {
+        "slug": "autotest-creation",
+        "label": "Autotest Creation"
+      },
+      {
+        "slug": "tracking-sprint-progress",
+        "label": "Tracking Sprint Progress"
+      },
+      {
+        "slug": "coaching-team-mates",
+        "label": "Coaching Team Mates"
+      },
+      {
+        "slug": "sprint-retrospective-facilitation",
+        "label": "Sprint Retrospective Facilitation"
+      },
+      {
+        "slug": "sprint-demo-facilitation",
+        "label": "Sprint Demo Facilitation"
+      },
+      {
+        "slug": "defining-team-process",
+        "label": "Defining Team Process"
+      },
+      {
+        "slug": "analyzing-project-risk",
+        "label": "Analyzing Project Risk"
+      },
+      {
+        "slug": "choosing-an-agile-method",
+        "label": "Choosing an Agile Method"
+      },
+      {
+        "slug": "leading-agile-transformation",
+        "label": "Leading Agile Transformation"
+      },
+      {
+        "slug": "defining-research-operations",
+        "label": "Defining Research Operations"
+      },
+      {
+        "slug": "defining-ux-design-operations",
+        "label": "Defining UX Design Operations"
+      }
+    ],
+    "Who Created This Method?": "The Scaled Agile Framework (SAFe) was created by Dean Leffingwell and first released in 2011 through Scaled Agile, Inc. Its official source of truth is scaledagileframework.com.",
+    "How Does This Method Compare to to Other Agile Methods?": "SAFe is the heaviest of these methods because it coordinates many teams at once, while Scrum and Kanban each run a single team. It uses Scrum-style and Kanban-style teams inside a larger structure. Smaller, faster methods like Design Sprints, Lean UX, and Continuous Discovery can still run inside a SAFe organization to shape what each team builds.",
+    "During While Kinds of Work Environments Is It Best to Use This Method?": "SAFe fits large organizations that need many agile teams working toward shared goals. It is best when the work is too big for one team and when coordination, alignment, and planning at scale really matter.",
+    "Steps to Perform the Method": "SAFe scales agile across many teams. At a high level:\n1. Organize teams around value into an Agile Release Train (ART), a team of teams of about 50 to 125 people.\n2. Align the whole ART in PI Planning, a two-day event that sets shared goals for the next Planning Interval (about 8 to 12 weeks).\n3. Deliver in short iterations within each team while coordinating dependencies across the train.\n4. Integrate and demo the work regularly.\n5. Hold an Inspect and Adapt session to review results and improve.\nSAFe is guided by four core values: alignment, transparency, respect for people, and relentless improvement."
+  }
+]

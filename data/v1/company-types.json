@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "slug": "in-house-company",
+    "Name": "In-house Company",
+    "Data Type": [
+      {
+        "slug": "company-type",
+        "label": "Company Type"
+      }
+    ],
+    "Key Project Deliverables for This Environment": [
+      {
+        "slug": "business-plan",
+        "label": "Business Plan"
+      },
+      {
+        "slug": "go-to-market-plan",
+        "label": "Go-To-Market Plan"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "slug": "end-user",
+        "label": "End-user"
+      },
+      {
+        "slug": "internal-teammate",
+        "label": "Internal Teammate"
+      },
+      {
+        "slug": "cross-functional-stakeholder",
+        "label": "Cross-functional Stakeholder"
+      },
+      {
+        "slug": "customer",
+        "label": "Customer"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "agency",
+    "Name": "Agency",
+    "Data Type": [
+      {
+        "slug": "company-type",
+        "label": "Company Type"
+      }
+    ],
+    "Key Project Deliverables for This Environment": [
+      {
+        "slug": "project-hand-off",
+        "label": "Project Hand-off"
+      },
+      {
+        "slug": "statement-of-work",
+        "label": "Statement of Work"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "slug": "client",
+        "label": "Client"
+      },
+      {
+        "slug": "end-user",
+        "label": "End-user"
+      },
+      {
+        "slug": "internal-teammate",
+        "label": "Internal Teammate"
+      },
+      {
+        "slug": "cross-functional-stakeholder",
+        "label": "Cross-functional Stakeholder"
+      },
+      {
+        "slug": "customer",
+        "label": "Customer"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "freelance-and-consulting",
+    "Name": "Freelance and Consulting",
+    "Data Type": [
+      {
+        "slug": "company-type",
+        "label": "Company Type"
+      }
+    ],
+    "Key Project Deliverables for This Environment": [
+      {
+        "slug": "project-hand-off",
+        "label": "Project Hand-off"
+      },
+      {
+        "slug": "statement-of-work",
+        "label": "Statement of Work"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "slug": "client",
+        "label": "Client"
+      },
+      {
+        "slug": "end-user",
+        "label": "End-user"
+      },
+      {
+        "slug": "customer",
+        "label": "Customer"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "startup",
+    "Name": "Startup",
+    "Data Type": [
+      {
+        "slug": "company-type",
+        "label": "Company Type"
+      }
+    ],
+    "Key Project Deliverables for This Environment": [
+      {
+        "slug": "pitch-deck",
+        "label": "Pitch Deck"
+      }
+    ],
+    "Stakeholders": [
+      {
+        "slug": "end-user",
+        "label": "End-user"
+      },
+      {
+        "slug": "internal-teammate",
+        "label": "Internal Teammate"
+      },
+      {
+        "slug": "cross-functional-stakeholder",
+        "label": "Cross-functional Stakeholder"
+      },
+      {
+        "slug": "customer",
+        "label": "Customer"
+      }
+    ]
+  }
+]

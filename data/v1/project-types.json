@@ -1,0 +1,698 @@
+[
+  {
+    "id": 1,
+    "slug": "website-project",
+    "Project Type": "Website Project",
+    "Project Type Description": "A Website Project is a comprehensive initiative to design, develop, and optimize a digital platform that meets user needs and business goals. During this project, teams produce deliverables such as user personas, site maps, and accessibility analyses to inform design decisions, along with prototypes, content strategies, and analytics reports to ensure a user-centered and high-performing website.",
+    "Key Specializations Involved": [
+      {
+        "slug": "qualitative-ux-research",
+        "label": "Qualitative UX Research"
+      },
+      {
+        "slug": "interaction-design",
+        "label": "Interaction Design"
+      },
+      {
+        "slug": "information-architecture",
+        "label": "Information Architecture"
+      },
+      {
+        "slug": "content-strategy",
+        "label": "Content Strategy"
+      },
+      {
+        "slug": "customer-experience-design",
+        "label": "Customer Experience Design"
+      },
+      {
+        "slug": "quantitative-ux-research",
+        "label": "Quantitative UX Research"
+      },
+      {
+        "slug": "product-operations",
+        "label": "Product Operations"
+      },
+      {
+        "slug": "branding",
+        "label": "Branding"
+      },
+      {
+        "slug": "search-engine-optimization",
+        "label": "Search Engine Optimization"
+      },
+      {
+        "slug": "ux-strategy",
+        "label": "UX Strategy"
+      },
+      {
+        "slug": "ui-design",
+        "label": "UI Design"
+      },
+      {
+        "slug": "accessibility-specialist",
+        "label": "Accessibility Specialist"
+      },
+      {
+        "slug": "front-end-developer",
+        "label": "Front-End Developer"
+      },
+      {
+        "slug": "back-end-developer",
+        "label": "Back-end Developer"
+      },
+      {
+        "slug": "information-security",
+        "label": "Information Security"
+      },
+      {
+        "slug": "growth-product-management",
+        "label": "Growth Product Management"
+      },
+      {
+        "slug": "sprint-master",
+        "label": "Sprint Master"
+      }
+    ],
+    "UNIQUE Functions": [
+      {
+        "slug": "ux-designer",
+        "label": "UX Designer"
+      },
+      {
+        "slug": "ui-designer",
+        "label": "UI Designer"
+      },
+      {
+        "slug": "ux-researcher",
+        "label": "UX Researcher"
+      },
+      {
+        "slug": "product-designer",
+        "label": "Product Designer"
+      },
+      {
+        "slug": "ux-writer",
+        "label": "UX Writer"
+      },
+      {
+        "slug": "project-manager",
+        "label": "Project Manager"
+      },
+      {
+        "slug": "engineer",
+        "label": "Engineer"
+      },
+      {
+        "slug": "product-owner",
+        "label": "Product Owner"
+      },
+      {
+        "slug": "product-manager",
+        "label": "Product Manager"
+      },
+      {
+        "slug": "business-analyst",
+        "label": "Business Analyst"
+      },
+      {
+        "slug": "agile-coach",
+        "label": "Agile Coach"
+      }
+    ],
+    "UX Research Deliverables": [
+      {
+        "slug": "user-personas",
+        "label": "User Personas"
+      },
+      {
+        "slug": "proto-personas",
+        "label": "Proto Personas"
+      },
+      {
+        "slug": "buyer-personas",
+        "label": "Buyer Personas"
+      },
+      {
+        "slug": "empathy-map",
+        "label": "Empathy Map"
+      },
+      {
+        "slug": "affinity-map",
+        "label": "Affinity Map"
+      },
+      {
+        "slug": "sitemap",
+        "label": "Sitemap"
+      },
+      {
+        "slug": "analytics-audit",
+        "label": "Analytics Audit"
+      },
+      {
+        "slug": "accessibility-analysis",
+        "label": "Accessibility Analysis"
+      }
+    ],
+    "UX Design Deliverables copy": [
+      {
+        "slug": "low-fidelity-prototypes",
+        "label": "Low-Fidelity Prototypes"
+      },
+      {
+        "slug": "high-fidelity-prototypes",
+        "label": "High-Fidelity Prototypes"
+      }
+    ],
+    "Product Milestones": [
+      {
+        "slug": "continuous-discovery",
+        "label": "Continuous Discovery"
+      },
+      {
+        "slug": "requirements",
+        "label": "Requirements"
+      },
+      {
+        "slug": "scope",
+        "label": "Scope"
+      },
+      {
+        "slug": "implement",
+        "label": "Implement"
+      },
+      {
+        "slug": "launch",
+        "label": "Launch"
+      },
+      {
+        "slug": "vision",
+        "label": "Vision"
+      },
+      {
+        "slug": "acceptance-testing",
+        "label": "Acceptance Testing"
+      },
+      {
+        "slug": "intake",
+        "label": "Intake"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "web-application-project",
+    "Project Type": "Web Application Project",
+    "Project Type Description": "A Web Application Project is a collaborative effort to design, develop, and optimize a user-centric web platform that meets business goals and user needs. During this project, teams produce detailed user experience strategies, wireframes, prototypes, and functional code, along with comprehensive research reports, branding assets, and accessibility guidelines to ensure a seamless and engaging user experience.",
+    "Key Specializations Involved": [
+      {
+        "slug": "qualitative-ux-research",
+        "label": "Qualitative UX Research"
+      },
+      {
+        "slug": "interaction-design",
+        "label": "Interaction Design"
+      },
+      {
+        "slug": "information-architecture",
+        "label": "Information Architecture"
+      },
+      {
+        "slug": "customer-experience-design",
+        "label": "Customer Experience Design"
+      },
+      {
+        "slug": "quantitative-ux-research",
+        "label": "Quantitative UX Research"
+      },
+      {
+        "slug": "product-operations",
+        "label": "Product Operations"
+      },
+      {
+        "slug": "branding",
+        "label": "Branding"
+      },
+      {
+        "slug": "ui-design",
+        "label": "UI Design"
+      },
+      {
+        "slug": "accessibility-specialist",
+        "label": "Accessibility Specialist"
+      },
+      {
+        "slug": "front-end-developer",
+        "label": "Front-End Developer"
+      },
+      {
+        "slug": "back-end-developer",
+        "label": "Back-end Developer"
+      },
+      {
+        "slug": "information-security",
+        "label": "Information Security"
+      },
+      {
+        "slug": "growth-product-management",
+        "label": "Growth Product Management"
+      },
+      {
+        "slug": "sprint-master",
+        "label": "Sprint Master"
+      }
+    ],
+    "UNIQUE Functions": [
+      {
+        "slug": "ux-designer",
+        "label": "UX Designer"
+      },
+      {
+        "slug": "ui-designer",
+        "label": "UI Designer"
+      },
+      {
+        "slug": "ux-researcher",
+        "label": "UX Researcher"
+      },
+      {
+        "slug": "product-designer",
+        "label": "Product Designer"
+      },
+      {
+        "slug": "ux-writer",
+        "label": "UX Writer"
+      },
+      {
+        "slug": "project-manager",
+        "label": "Project Manager"
+      },
+      {
+        "slug": "engineer",
+        "label": "Engineer"
+      },
+      {
+        "slug": "product-owner",
+        "label": "Product Owner"
+      },
+      {
+        "slug": "product-manager",
+        "label": "Product Manager"
+      },
+      {
+        "slug": "business-analyst",
+        "label": "Business Analyst"
+      },
+      {
+        "slug": "agile-coach",
+        "label": "Agile Coach"
+      }
+    ],
+    "Product Milestones": [
+      {
+        "slug": "continuous-discovery",
+        "label": "Continuous Discovery"
+      },
+      {
+        "slug": "requirements",
+        "label": "Requirements"
+      },
+      {
+        "slug": "scope",
+        "label": "Scope"
+      },
+      {
+        "slug": "implement",
+        "label": "Implement"
+      },
+      {
+        "slug": "launch",
+        "label": "Launch"
+      },
+      {
+        "slug": "vision",
+        "label": "Vision"
+      },
+      {
+        "slug": "acceptance-testing",
+        "label": "Acceptance Testing"
+      },
+      {
+        "slug": "intake",
+        "label": "Intake"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "mobile-app-project",
+    "Project Type": "Mobile App Project",
+    "Project Type Description": "A Mobile App Project is a collaborative effort to design, develop, and optimize a mobile application that meets user needs and business goals. During this project, teams produce detailed user experience and interface designs, research insights, functional prototypes, and comprehensive documentation to guide development and ensure a seamless user experience.",
+    "Key Specializations Involved": [
+      {
+        "slug": "qualitative-ux-research",
+        "label": "Qualitative UX Research"
+      },
+      {
+        "slug": "interaction-design",
+        "label": "Interaction Design"
+      },
+      {
+        "slug": "information-architecture",
+        "label": "Information Architecture"
+      },
+      {
+        "slug": "customer-experience-design",
+        "label": "Customer Experience Design"
+      },
+      {
+        "slug": "quantitative-ux-research",
+        "label": "Quantitative UX Research"
+      },
+      {
+        "slug": "product-operations",
+        "label": "Product Operations"
+      },
+      {
+        "slug": "branding",
+        "label": "Branding"
+      },
+      {
+        "slug": "ui-design",
+        "label": "UI Design"
+      },
+      {
+        "slug": "full-stack-developer",
+        "label": "Full Stack Developer"
+      },
+      {
+        "slug": "information-security",
+        "label": "Information Security"
+      },
+      {
+        "slug": "growth-product-management",
+        "label": "Growth Product Management"
+      },
+      {
+        "slug": "mobile-native-development",
+        "label": "Mobile Native Development"
+      },
+      {
+        "slug": "sprint-master",
+        "label": "Sprint Master"
+      }
+    ],
+    "UNIQUE Functions": [
+      {
+        "slug": "ux-designer",
+        "label": "UX Designer"
+      },
+      {
+        "slug": "ui-designer",
+        "label": "UI Designer"
+      },
+      {
+        "slug": "ux-researcher",
+        "label": "UX Researcher"
+      },
+      {
+        "slug": "product-designer",
+        "label": "Product Designer"
+      },
+      {
+        "slug": "ux-writer",
+        "label": "UX Writer"
+      },
+      {
+        "slug": "project-manager",
+        "label": "Project Manager"
+      },
+      {
+        "slug": "engineer",
+        "label": "Engineer"
+      },
+      {
+        "slug": "product-owner",
+        "label": "Product Owner"
+      },
+      {
+        "slug": "product-manager",
+        "label": "Product Manager"
+      },
+      {
+        "slug": "business-analyst",
+        "label": "Business Analyst"
+      },
+      {
+        "slug": "agile-coach",
+        "label": "Agile Coach"
+      }
+    ],
+    "Product Milestones": [
+      {
+        "slug": "continuous-discovery",
+        "label": "Continuous Discovery"
+      },
+      {
+        "slug": "requirements",
+        "label": "Requirements"
+      },
+      {
+        "slug": "scope",
+        "label": "Scope"
+      },
+      {
+        "slug": "implement",
+        "label": "Implement"
+      },
+      {
+        "slug": "launch",
+        "label": "Launch"
+      },
+      {
+        "slug": "vision",
+        "label": "Vision"
+      },
+      {
+        "slug": "acceptance-testing",
+        "label": "Acceptance Testing"
+      },
+      {
+        "slug": "intake",
+        "label": "Intake"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "service-design-project",
+    "Project Type": "Service Design Project",
+    "Project Type Description": "A Service Design Project is a comprehensive initiative aimed at creating seamless and effective customer experiences by integrating various design and research disciplines. During this project, teams produce detailed service blueprints, customer journey maps, and user personas, along with prototypes, wireframes, and content strategies to ensure a cohesive and user-centered service delivery.",
+    "Key Specializations Involved": [
+      {
+        "slug": "qualitative-ux-research",
+        "label": "Qualitative UX Research"
+      },
+      {
+        "slug": "service-design",
+        "label": "Service Design"
+      },
+      {
+        "slug": "customer-experience-design",
+        "label": "Customer Experience Design"
+      },
+      {
+        "slug": "quantitative-ux-research",
+        "label": "Quantitative UX Research"
+      },
+      {
+        "slug": "product-operations",
+        "label": "Product Operations"
+      },
+      {
+        "slug": "branding",
+        "label": "Branding"
+      },
+      {
+        "slug": "growth-product-management",
+        "label": "Growth Product Management"
+      },
+      {
+        "slug": "sprint-master",
+        "label": "Sprint Master"
+      }
+    ],
+    "UNIQUE Functions": [
+      {
+        "slug": "ux-designer",
+        "label": "UX Designer"
+      },
+      {
+        "slug": "ui-designer",
+        "label": "UI Designer"
+      },
+      {
+        "slug": "ux-researcher",
+        "label": "UX Researcher"
+      },
+      {
+        "slug": "product-designer",
+        "label": "Product Designer"
+      },
+      {
+        "slug": "ux-writer",
+        "label": "UX Writer"
+      },
+      {
+        "slug": "project-manager",
+        "label": "Project Manager"
+      },
+      {
+        "slug": "product-owner",
+        "label": "Product Owner"
+      },
+      {
+        "slug": "product-manager",
+        "label": "Product Manager"
+      },
+      {
+        "slug": "business-analyst",
+        "label": "Business Analyst"
+      },
+      {
+        "slug": "agile-coach",
+        "label": "Agile Coach"
+      }
+    ],
+    "Product Milestones": [
+      {
+        "slug": "continuous-discovery",
+        "label": "Continuous Discovery"
+      },
+      {
+        "slug": "scope",
+        "label": "Scope"
+      },
+      {
+        "slug": "launch",
+        "label": "Launch"
+      },
+      {
+        "slug": "vision",
+        "label": "Vision"
+      },
+      {
+        "slug": "acceptance-testing",
+        "label": "Acceptance Testing"
+      },
+      {
+        "slug": "intake",
+        "label": "Intake"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "discovery-project",
+    "Project Type": "Discovery Project",
+    "Project Type Description": "A Discovery Project is a collaborative effort to understand user needs, define problem spaces, and identify viable solutions to inform product development. During this project, teams produce insights through qualitative and quantitative UX research, user journey maps, and strategic documentation, culminating in a clear product vision and prioritized roadmap to guide subsequent design and development phases.",
+    "Key Specializations Involved": [
+      {
+        "slug": "qualitative-ux-research",
+        "label": "Qualitative UX Research"
+      },
+      {
+        "slug": "customer-experience-design",
+        "label": "Customer Experience Design"
+      },
+      {
+        "slug": "quantitative-ux-research",
+        "label": "Quantitative UX Research"
+      },
+      {
+        "slug": "product-operations",
+        "label": "Product Operations"
+      },
+      {
+        "slug": "ux-strategy",
+        "label": "UX Strategy"
+      },
+      {
+        "slug": "growth-product-management",
+        "label": "Growth Product Management"
+      },
+      {
+        "slug": "growth",
+        "label": "growth"
+      },
+      {
+        "slug": "sprint-master",
+        "label": "Sprint Master"
+      }
+    ],
+    "UNIQUE Functions": [
+      {
+        "slug": "ux-designer",
+        "label": "UX Designer"
+      },
+      {
+        "slug": "ui-designer",
+        "label": "UI Designer"
+      },
+      {
+        "slug": "ux-researcher",
+        "label": "UX Researcher"
+      },
+      {
+        "slug": "product-designer",
+        "label": "Product Designer"
+      },
+      {
+        "slug": "project-manager",
+        "label": "Project Manager"
+      },
+      {
+        "slug": "product-owner",
+        "label": "Product Owner"
+      },
+      {
+        "slug": "product-manager",
+        "label": "Product Manager"
+      },
+      {
+        "slug": "business-analyst",
+        "label": "Business Analyst"
+      },
+      {
+        "slug": "agile-coach",
+        "label": "Agile Coach"
+      }
+    ],
+    "Product Milestones": [
+      {
+        "slug": "continuous-discovery",
+        "label": "Continuous Discovery"
+      },
+      {
+        "slug": "scope",
+        "label": "Scope"
+      },
+      {
+        "slug": "launch",
+        "label": "Launch"
+      },
+      {
+        "slug": "vision",
+        "label": "Vision"
+      },
+      {
+        "slug": "acceptance-testing",
+        "label": "Acceptance Testing"
+      },
+      {
+        "slug": "intake",
+        "label": "Intake"
+      }
+    ]
+  }
+]

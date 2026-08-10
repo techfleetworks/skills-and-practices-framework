@@ -1,0 +1,2986 @@
+[
+  {
+    "id": 1,
+    "slug": "academia",
+    "Job Industry Name": "Academia",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "academia",
+        "label": "Academia"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "academia",
+        "label": "Academia"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "academia",
+        "label": "Academia"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "academia",
+        "label": "Academia"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "research-facilitation",
+        "label": "Research Facilitation"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "research-analysis",
+        "label": "Research Analysis"
+      },
+      {
+        "slug": "data-analysis",
+        "label": "Data Analysis"
+      },
+      {
+        "slug": "statistics",
+        "label": "Statistics"
+      },
+      {
+        "slug": "executive-summaries",
+        "label": "Executive Summaries"
+      },
+      {
+        "slug": "presentation",
+        "label": "Presentation"
+      },
+      {
+        "slug": "written-communication",
+        "label": "Written Communication"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Professor\n2. Lecturer\n3. Research Assistant\n4. Teaching Assistant\n5. Postdoctoral Researcher\n6. Department Chair\n7. Academic Advisor",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "academia",
+        "label": "Academia"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "academia",
+        "label": "Academia"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "academia",
+        "label": "Academia"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "accounting",
+    "Job Industry Name": "Accounting",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "accounting",
+        "label": "Accounting"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "accounting",
+        "label": "Accounting"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "accounting",
+        "label": "Accounting"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "accounting",
+        "label": "Accounting"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "data-analysis",
+        "label": "Data Analysis"
+      },
+      {
+        "slug": "statistics",
+        "label": "Statistics"
+      },
+      {
+        "slug": "executive-summaries",
+        "label": "Executive Summaries"
+      },
+      {
+        "slug": "business-acumen",
+        "label": "Business Acumen"
+      },
+      {
+        "slug": "logical-thinking",
+        "label": "Logical Thinking"
+      },
+      {
+        "slug": "written-communication",
+        "label": "Written Communication"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Accountant\n2. Auditor\n3. Bookkeeper\n4. Certified Public Accountant (CPA)\n5. Controller\n6. Tax Preparer\n7. Accounts Payable Specialist",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "accounting",
+        "label": "Accounting"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "accounting",
+        "label": "Accounting"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "accounting",
+        "label": "Accounting"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "agriculture",
+    "Job Industry Name": "Agriculture",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "agriculture",
+        "label": "Agriculture"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "agriculture",
+        "label": "Agriculture"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "agriculture",
+        "label": "Agriculture"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "agriculture",
+        "label": "Agriculture"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "data-analysis",
+        "label": "Data Analysis"
+      },
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      },
+      {
+        "slug": "process-management",
+        "label": "Process Management"
+      },
+      {
+        "slug": "business-acumen",
+        "label": "Business Acumen"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      },
+      {
+        "slug": "systems-thinking",
+        "label": "Systems Thinking"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Farmer\n2. Farm Manager\n3. Agronomist\n4. Agricultural Technician\n5. Crop Scientist\n6. Ranch Manager",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "agriculture",
+        "label": "Agriculture"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "agriculture",
+        "label": "Agriculture"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "agriculture",
+        "label": "Agriculture"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "business",
+    "Job Industry Name": "Business",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "business",
+        "label": "Business"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "business",
+        "label": "Business"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "business",
+        "label": "Business"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "business",
+        "label": "Business"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "executive-summaries",
+        "label": "Executive Summaries"
+      },
+      {
+        "slug": "building-influence",
+        "label": "Building Influence"
+      },
+      {
+        "slug": "business-acumen",
+        "label": "Business Acumen"
+      },
+      {
+        "slug": "buy-in-generation",
+        "label": "Buy-in Generation"
+      },
+      {
+        "slug": "stakeholder-management",
+        "label": "Stakeholder Management"
+      },
+      {
+        "slug": "written-communication",
+        "label": "Written Communication"
+      },
+      {
+        "slug": "strategic-thinking",
+        "label": "Strategic Thinking"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Business Analyst\n2. Operations Manager\n3. Account Manager\n4. Business Development Representative\n5. Office Manager\n6. Administrative Assistant",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "business",
+        "label": "Business"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "business",
+        "label": "Business"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "business",
+        "label": "Business"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "construction",
+    "Job Industry Name": "Construction",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "construction",
+        "label": "Construction"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "construction",
+        "label": "Construction"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "construction",
+        "label": "Construction"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "construction",
+        "label": "Construction"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      },
+      {
+        "slug": "process-management",
+        "label": "Process Management"
+      },
+      {
+        "slug": "stakeholder-management",
+        "label": "Stakeholder Management"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      },
+      {
+        "slug": "systems-thinking",
+        "label": "Systems Thinking"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Construction Project Manager\n2. Site Supervisor\n3. Estimator\n4. Foreman\n5. Civil Engineer\n6. General Contractor",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "negotiation",
+        "label": "Negotiation"
+      },
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "construction",
+        "label": "Construction"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "construction",
+        "label": "Construction"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "construction",
+        "label": "Construction"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "creative",
+    "Job Industry Name": "Creative",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "creative",
+        "label": "Creative"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "creative",
+        "label": "Creative"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "creative",
+        "label": "Creative"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "creative",
+        "label": "Creative"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "information-hierarchy",
+        "label": "Information Hierarchy"
+      },
+      {
+        "slug": "typography",
+        "label": "Typography"
+      },
+      {
+        "slug": "graphic-design",
+        "label": "Graphic Design"
+      },
+      {
+        "slug": "visual-signifiers",
+        "label": "Visual Signifiers"
+      },
+      {
+        "slug": "icon-design",
+        "label": "Icon Design"
+      },
+      {
+        "slug": "design-thinking",
+        "label": "Design Thinking"
+      },
+      {
+        "slug": "presentation",
+        "label": "Presentation"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Graphic Designer\n2. Art Director\n3. Illustrator\n4. Photographer\n5. Copywriter\n6. Creative Director",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "creativity",
+        "label": "Creativity"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "creative",
+        "label": "Creative"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "creative",
+        "label": "Creative"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "creative",
+        "label": "Creative"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "finance",
+    "Job Industry Name": "Finance",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "finance",
+        "label": "Finance"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "finance",
+        "label": "Finance"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "finance",
+        "label": "Finance"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "finance",
+        "label": "Finance"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "data-analysis",
+        "label": "Data Analysis"
+      },
+      {
+        "slug": "product-market-fit",
+        "label": "Product-Market Fit"
+      },
+      {
+        "slug": "statistics",
+        "label": "Statistics"
+      },
+      {
+        "slug": "executive-summaries",
+        "label": "Executive Summaries"
+      },
+      {
+        "slug": "business-acumen",
+        "label": "Business Acumen"
+      },
+      {
+        "slug": "logical-thinking",
+        "label": "Logical Thinking"
+      },
+      {
+        "slug": "written-communication",
+        "label": "Written Communication"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      },
+      {
+        "slug": "strategic-thinking",
+        "label": "Strategic Thinking"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Financial Analyst\n2. Investment Banker\n3. Financial Advisor\n4. Loan Officer\n5. Portfolio Manager\n6. Risk Analyst",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "finance",
+        "label": "Finance"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "finance",
+        "label": "Finance"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "finance",
+        "label": "Finance"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "government",
+    "Job Industry Name": "Government",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "government",
+        "label": "Government"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "government",
+        "label": "Government"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "government",
+        "label": "Government"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "government",
+        "label": "Government"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "executive-summaries",
+        "label": "Executive Summaries"
+      },
+      {
+        "slug": "process-management",
+        "label": "Process Management"
+      },
+      {
+        "slug": "stakeholder-management",
+        "label": "Stakeholder Management"
+      },
+      {
+        "slug": "written-communication",
+        "label": "Written Communication"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Policy Analyst\n2. Program Manager\n3. Administrative Officer\n4. Public Affairs Specialist\n5. Budget Analyst\n6. Case Worker",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "advocacy",
+        "label": "Advocacy"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "government",
+        "label": "Government"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "government",
+        "label": "Government"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "government",
+        "label": "Government"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "hospitality",
+    "Job Industry Name": "Hospitality",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "hospitality",
+        "label": "Hospitality"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "hospitality",
+        "label": "Hospitality"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "hospitality",
+        "label": "Hospitality"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "hospitality",
+        "label": "Hospitality"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "customer-experience-strategy",
+        "label": "Customer Experience Strategy"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Hotel Manager\n2. Front Desk Agent\n3. Event Coordinator\n4. Concierge\n5. Restaurant Manager\n6. Guest Services Representative",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "conflict-resolution",
+        "label": "Conflict Resolution"
+      },
+      {
+        "slug": "initiative",
+        "label": "Initiative"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "verbal-communication",
+        "label": "Verbal Communication"
+      },
+      {
+        "slug": "teamwork",
+        "label": "Teamwork"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "hospitality",
+        "label": "Hospitality"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "hospitality",
+        "label": "Hospitality"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "hospitality",
+        "label": "Hospitality"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "industrial-design",
+    "Job Industry Name": "Industrial Design",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "indutrial-design",
+        "label": "Indutrial Design"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "indutrial-design",
+        "label": "Indutrial Design"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "indutrial-design",
+        "label": "Indutrial Design"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "indutrial-design",
+        "label": "Indutrial Design"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "interaction-design",
+        "label": "Interaction Design"
+      },
+      {
+        "slug": "design-patterns",
+        "label": "Design Patterns"
+      },
+      {
+        "slug": "prototyping",
+        "label": "Prototyping"
+      },
+      {
+        "slug": "information-hierarchy",
+        "label": "Information Hierarchy"
+      },
+      {
+        "slug": "typography",
+        "label": "Typography"
+      },
+      {
+        "slug": "graphic-design",
+        "label": "Graphic Design"
+      },
+      {
+        "slug": "visual-signifiers",
+        "label": "Visual Signifiers"
+      },
+      {
+        "slug": "user-interface-design",
+        "label": "User Interface Design"
+      },
+      {
+        "slug": "design-thinking",
+        "label": "Design Thinking"
+      },
+      {
+        "slug": "making-wireframes",
+        "label": "Making Wireframes"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Industrial Designer\n2. Product Designer\n3. Design Engineer\n4. CAD Designer\n5. Prototyping Specialist",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "creativity",
+        "label": "Creativity"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "indutrial-design",
+        "label": "Indutrial Design"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "indutrial-design",
+        "label": "Indutrial Design"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "indutrial-design",
+        "label": "Indutrial Design"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "legal",
+    "Job Industry Name": "Legal",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "legal",
+        "label": "Legal"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "legal",
+        "label": "Legal"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "legal",
+        "label": "Legal"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "legal",
+        "label": "Legal"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "research-analysis",
+        "label": "Research Analysis"
+      },
+      {
+        "slug": "executive-summaries",
+        "label": "Executive Summaries"
+      },
+      {
+        "slug": "logical-thinking",
+        "label": "Logical Thinking"
+      },
+      {
+        "slug": "stakeholder-management",
+        "label": "Stakeholder Management"
+      },
+      {
+        "slug": "written-communication",
+        "label": "Written Communication"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Paralegal\n2. Attorney\n3. Legal Assistant\n4. Compliance Officer\n5. Contract Specialist\n6. Legal Secretary",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "advocacy",
+        "label": "Advocacy"
+      },
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "legal",
+        "label": "Legal"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "legal",
+        "label": "Legal"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "legal",
+        "label": "Legal"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "marketing",
+    "Job Industry Name": "Marketing",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "marketing",
+        "label": "Marketing"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "marketing",
+        "label": "Marketing"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "marketing",
+        "label": "Marketing"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "marketing",
+        "label": "Marketing"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "go-to-market-strategy",
+        "label": "Go-to-Market Strategy"
+      },
+      {
+        "slug": "product-market-fit",
+        "label": "Product-Market Fit"
+      },
+      {
+        "slug": "presentation",
+        "label": "Presentation"
+      },
+      {
+        "slug": "building-influence",
+        "label": "Building Influence"
+      },
+      {
+        "slug": "business-acumen",
+        "label": "Business Acumen"
+      },
+      {
+        "slug": "buy-in-generation",
+        "label": "Buy-in Generation"
+      },
+      {
+        "slug": "written-communication",
+        "label": "Written Communication"
+      },
+      {
+        "slug": "strategic-thinking",
+        "label": "Strategic Thinking"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Marketing Manager\n2. Brand Manager\n3. Content Marketer\n4. Social Media Manager\n5. Digital Marketing Specialist\n6. Marketing Coordinator",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "creativity",
+        "label": "Creativity"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "marketing",
+        "label": "Marketing"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "marketing",
+        "label": "Marketing"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "marketing",
+        "label": "Marketing"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "medical",
+    "Job Industry Name": "Medical",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "medical",
+        "label": "Medical"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "medical",
+        "label": "Medical"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "medical",
+        "label": "Medical"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "medical",
+        "label": "Medical"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "data-analysis",
+        "label": "Data Analysis"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      },
+      {
+        "slug": "systems-thinking",
+        "label": "Systems Thinking"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Registered Nurse\n2. Physician\n3. Medical Assistant\n4. Healthcare Administrator\n5. Clinical Coordinator\n6. Medical Technologist",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "advocacy",
+        "label": "Advocacy"
+      },
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "conflict-resolution",
+        "label": "Conflict Resolution"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "medical",
+        "label": "Medical"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "medical",
+        "label": "Medical"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "medical",
+        "label": "Medical"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "mental-health",
+    "Job Industry Name": "Mental Health",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "mental-health",
+        "label": "Mental Health"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "mental-health",
+        "label": "Mental Health"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "mental-health",
+        "label": "Mental Health"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "mental-health",
+        "label": "Mental Health"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "written-communication",
+        "label": "Written Communication"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Therapist\n2. Counselor\n3. Social Worker\n4. Psychologist\n5. Case Manager\n6. Behavioral Health Specialist",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "advocacy",
+        "label": "Advocacy"
+      },
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "delivering-feedback",
+        "label": "Delivering Feedback"
+      },
+      {
+        "slug": "coaching",
+        "label": "Coaching"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "conflict-resolution",
+        "label": "Conflict Resolution"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "receiving-feedback",
+        "label": "Receiving Feedback"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "mental-health",
+        "label": "Mental Health"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "mental-health",
+        "label": "Mental Health"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "mental-health",
+        "label": "Mental Health"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "nonprofit",
+    "Job Industry Name": "Nonprofit",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "nonprofit",
+        "label": "Nonprofit"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "nonprofit",
+        "label": "Nonprofit"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "nonprofit",
+        "label": "Nonprofit"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "nonprofit",
+        "label": "Nonprofit"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "building-influence",
+        "label": "Building Influence"
+      },
+      {
+        "slug": "buy-in-generation",
+        "label": "Buy-in Generation"
+      },
+      {
+        "slug": "stakeholder-management",
+        "label": "Stakeholder Management"
+      },
+      {
+        "slug": "written-communication",
+        "label": "Written Communication"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Program Coordinator\n2. Development Director\n3. Grant Writer\n4. Volunteer Coordinator\n5. Outreach Specialist\n6. Executive Director",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "advocacy",
+        "label": "Advocacy"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "nonprofit",
+        "label": "Nonprofit"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "nonprofit",
+        "label": "Nonprofit"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "nonprofit",
+        "label": "Nonprofit"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "primary-and-secondary-education",
+    "Job Industry Name": "Primary and Secondary Education",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "primary-and-secondary-education",
+        "label": "Primary and Secondary Education"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "primary-and-secondary-education",
+        "label": "Primary and Secondary Education"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "primary-and-secondary-education",
+        "label": "Primary and Secondary Education"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "primary-and-secondary-education",
+        "label": "Primary and Secondary Education"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "presentation",
+        "label": "Presentation"
+      },
+      {
+        "slug": "written-communication",
+        "label": "Written Communication"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Teacher\n2. School Counselor\n3. Instructional Coordinator\n4. Principal\n5. Teaching Assistant\n6. Curriculum Specialist",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "public-speaking",
+        "label": "Public Speaking"
+      },
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "delivering-feedback",
+        "label": "Delivering Feedback"
+      },
+      {
+        "slug": "coaching",
+        "label": "Coaching"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "conflict-resolution",
+        "label": "Conflict Resolution"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "primary-and-secondary-education",
+        "label": "Primary and Secondary Education"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "primary-and-secondary-education",
+        "label": "Primary and Secondary Education"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "primary-and-secondary-education",
+        "label": "Primary and Secondary Education"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "program-management",
+    "Job Industry Name": "Program Management",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "program-management",
+        "label": "Program Management"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "program-management",
+        "label": "Program Management"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "program-management",
+        "label": "Program Management"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "program-management",
+        "label": "Program Management"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "prioritization",
+        "label": "Prioritization"
+      },
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      },
+      {
+        "slug": "process-management",
+        "label": "Process Management"
+      },
+      {
+        "slug": "scrum-management",
+        "label": "Scrum Management"
+      },
+      {
+        "slug": "working-agreements",
+        "label": "Working Agreements"
+      },
+      {
+        "slug": "stakeholder-management",
+        "label": "Stakeholder Management"
+      },
+      {
+        "slug": "strategic-thinking",
+        "label": "Strategic Thinking"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Program Manager\n2. Project Coordinator\n3. Operations Manager\n4. Portfolio Manager\n5. PMO Analyst",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "meeting-facilitation",
+        "label": "Meeting Facilitation"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "program-management",
+        "label": "Program Management"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "program-management",
+        "label": "Program Management"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "program-management",
+        "label": "Program Management"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "project-management",
+    "Job Industry Name": "Project Management",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "backlog-management",
+        "label": "Backlog Management"
+      },
+      {
+        "slug": "velocity-measurement",
+        "label": "Velocity Measurement"
+      },
+      {
+        "slug": "prioritization",
+        "label": "Prioritization"
+      },
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      },
+      {
+        "slug": "process-management",
+        "label": "Process Management"
+      },
+      {
+        "slug": "scrum-management",
+        "label": "Scrum Management"
+      },
+      {
+        "slug": "working-agreements",
+        "label": "Working Agreements"
+      },
+      {
+        "slug": "stakeholder-management",
+        "label": "Stakeholder Management"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Project Manager\n2. Project Coordinator\n3. Program Manager\n4. Scrum Master\n5. PMO Lead",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "negotiation",
+        "label": "Negotiation"
+      },
+      {
+        "slug": "meeting-facilitation",
+        "label": "Meeting Facilitation"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "expectation-setting",
+        "label": "Expectation Setting"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "real-estate",
+    "Job Industry Name": "Real Estate",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "real-estate",
+        "label": "Real Estate"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "real-estate",
+        "label": "Real Estate"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "real-estate",
+        "label": "Real Estate"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "real-estate",
+        "label": "Real Estate"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "customer-experience-strategy",
+        "label": "Customer Experience Strategy"
+      },
+      {
+        "slug": "building-influence",
+        "label": "Building Influence"
+      },
+      {
+        "slug": "business-acumen",
+        "label": "Business Acumen"
+      },
+      {
+        "slug": "buy-in-generation",
+        "label": "Buy-in Generation"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Real Estate Agent\n2. Broker\n3. Property Manager\n4. Leasing Consultant\n5. Appraiser\n6. Real Estate Analyst",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "negotiation",
+        "label": "Negotiation"
+      },
+      {
+        "slug": "advocacy",
+        "label": "Advocacy"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "real-estate",
+        "label": "Real Estate"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "real-estate",
+        "label": "Real Estate"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "real-estate",
+        "label": "Real Estate"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "retail",
+    "Job Industry Name": "Retail",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "retail",
+        "label": "Retail"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "retail",
+        "label": "Retail"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "retail",
+        "label": "Retail"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "retail",
+        "label": "Retail"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "customer-experience-strategy",
+        "label": "Customer Experience Strategy"
+      },
+      {
+        "slug": "data-analysis",
+        "label": "Data Analysis"
+      },
+      {
+        "slug": "business-acumen",
+        "label": "Business Acumen"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Store Manager\n2. Sales Associate\n3. Assistant Manager\n4. Merchandiser\n5. Buyer\n6. Cashier",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "conflict-resolution",
+        "label": "Conflict Resolution"
+      },
+      {
+        "slug": "initiative",
+        "label": "Initiative"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "verbal-communication",
+        "label": "Verbal Communication"
+      },
+      {
+        "slug": "teamwork",
+        "label": "Teamwork"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "retail",
+        "label": "Retail"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "retail",
+        "label": "Retail"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "retail",
+        "label": "Retail"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "sales",
+    "Job Industry Name": "Sales",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "sales",
+        "label": "Sales"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "sales",
+        "label": "Sales"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "sales",
+        "label": "Sales"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "sales",
+        "label": "Sales"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "go-to-market-strategy",
+        "label": "Go-to-Market Strategy"
+      },
+      {
+        "slug": "customer-experience-strategy",
+        "label": "Customer Experience Strategy"
+      },
+      {
+        "slug": "product-market-fit",
+        "label": "Product-Market Fit"
+      },
+      {
+        "slug": "building-influence",
+        "label": "Building Influence"
+      },
+      {
+        "slug": "business-acumen",
+        "label": "Business Acumen"
+      },
+      {
+        "slug": "buy-in-generation",
+        "label": "Buy-in Generation"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Sales Representative\n2. Account Executive\n3. Sales Manager\n4. Business Development Representative\n5. Inside Sales Representative",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "advocacy",
+        "label": "Advocacy"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "sales",
+        "label": "Sales"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "sales",
+        "label": "Sales"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "sales",
+        "label": "Sales"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "tourism",
+    "Job Industry Name": "Tourism",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "tourism",
+        "label": "Tourism"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "tourism",
+        "label": "Tourism"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "tourism",
+        "label": "Tourism"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "tourism",
+        "label": "Tourism"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "customer-experience-strategy",
+        "label": "Customer Experience Strategy"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Travel Agent\n2. Tour Guide\n3. Tourism Coordinator\n4. Destination Manager\n5. Travel Consultant",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "public-speaking",
+        "label": "Public Speaking"
+      },
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "conflict-resolution",
+        "label": "Conflict Resolution"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "relationship-building",
+        "label": "Relationship Building"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "verbal-communication",
+        "label": "Verbal Communication"
+      },
+      {
+        "slug": "teamwork",
+        "label": "Teamwork"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "tourism",
+        "label": "Tourism"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "tourism",
+        "label": "Tourism"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "tourism",
+        "label": "Tourism"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "transportation",
+    "Job Industry Name": "Transportation",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "transportation",
+        "label": "Transportation"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "transportation",
+        "label": "Transportation"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "transportation",
+        "label": "Transportation"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "transportation",
+        "label": "Transportation"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "data-analysis",
+        "label": "Data Analysis"
+      },
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      },
+      {
+        "slug": "process-management",
+        "label": "Process Management"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      },
+      {
+        "slug": "systems-thinking",
+        "label": "Systems Thinking"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Logistics Coordinator\n2. Dispatcher\n3. Fleet Manager\n4. Supply Chain Analyst\n5. Operations Manager\n6. Driver",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "transportation",
+        "label": "Transportation"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "transportation",
+        "label": "Transportation"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "transportation",
+        "label": "Transportation"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "development",
+    "Job Industry Name": "Development",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "development",
+        "label": "Development"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "development",
+        "label": "Development"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "development",
+        "label": "Development"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "development",
+        "label": "Development"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "object-oriented-programming-languages",
+        "label": "Object-oriented Programming Languages"
+      },
+      {
+        "slug": "algorithm-design",
+        "label": "Algorithm Design"
+      },
+      {
+        "slug": "command-line-scripting-languages",
+        "label": "Command Line Scripting Languages"
+      },
+      {
+        "slug": "network-architecture",
+        "label": "Network Architecture"
+      },
+      {
+        "slug": "information-security",
+        "label": "Information Security"
+      },
+      {
+        "slug": "database-architecture",
+        "label": "Database Architecture"
+      },
+      {
+        "slug": "database-management",
+        "label": "Database Management"
+      },
+      {
+        "slug": "apis",
+        "label": "API's"
+      },
+      {
+        "slug": "server-side-scripting-languages",
+        "label": "Server-Side Scripting Languages"
+      },
+      {
+        "slug": "database-queries",
+        "label": "Database Queries"
+      },
+      {
+        "slug": "web-scripting-languages",
+        "label": "Web Scripting Languages"
+      },
+      {
+        "slug": "ui-specifications-for-development",
+        "label": "UI Specifications for Development"
+      },
+      {
+        "slug": "responsive-design",
+        "label": "Responsive Design"
+      },
+      {
+        "slug": "logical-thinking",
+        "label": "Logical Thinking"
+      },
+      {
+        "slug": "problem-solving",
+        "label": "Problem-Solving"
+      },
+      {
+        "slug": "systems-thinking",
+        "label": "Systems Thinking"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Software Developer\n2. Software Engineer\n3. Front-End Developer\n4. Back-End Developer\n5. Full Stack Developer\n6. DevOps Engineer",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "development",
+        "label": "Development"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "development",
+        "label": "Development"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "development",
+        "label": "Development"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "product-management",
+    "Job Industry Name": "Product Management",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "problem-statements",
+        "label": "Problem Statements"
+      },
+      {
+        "slug": "vision-formation",
+        "label": "Vision Formation"
+      },
+      {
+        "slug": "backlog-management",
+        "label": "Backlog Management"
+      },
+      {
+        "slug": "requirements-management",
+        "label": "Requirements Management"
+      },
+      {
+        "slug": "go-to-market-strategy",
+        "label": "Go-to-Market Strategy"
+      },
+      {
+        "slug": "epic-and-feature-management",
+        "label": "Epic and Feature Management"
+      },
+      {
+        "slug": "release-management",
+        "label": "Release Management"
+      },
+      {
+        "slug": "prioritization",
+        "label": "Prioritization"
+      },
+      {
+        "slug": "product-market-fit",
+        "label": "Product-Market Fit"
+      },
+      {
+        "slug": "business-acumen",
+        "label": "Business Acumen"
+      },
+      {
+        "slug": "stakeholder-management",
+        "label": "Stakeholder Management"
+      },
+      {
+        "slug": "strategic-thinking",
+        "label": "Strategic Thinking"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Product Manager\n2. Associate Product Manager\n3. Senior Product Manager\n4. Product Owner\n5. Group Product Manager",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "decision-making",
+        "label": "Decision-Making"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "user-experience-research",
+    "Job Industry Name": "User Experience Research",
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "user-experience-research",
+        "label": "User Experience Research"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "user-experience-research",
+        "label": "User Experience Research"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "user-experience-research",
+        "label": "User Experience Research"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "interviewing",
+        "label": "Interviewing"
+      },
+      {
+        "slug": "survey-design",
+        "label": "Survey Design"
+      },
+      {
+        "slug": "usability-testing",
+        "label": "Usability Testing"
+      },
+      {
+        "slug": "research-facilitation",
+        "label": "Research Facilitation"
+      },
+      {
+        "slug": "experiment-design",
+        "label": "Experiment Design"
+      },
+      {
+        "slug": "research-analysis",
+        "label": "Research Analysis"
+      },
+      {
+        "slug": "affinity-mapping",
+        "label": "Affinity Mapping"
+      },
+      {
+        "slug": "contextual-inquiries",
+        "label": "Contextual Inquiries"
+      },
+      {
+        "slug": "mental-models",
+        "label": "Mental Models"
+      },
+      {
+        "slug": "ethnography",
+        "label": "Ethnography"
+      },
+      {
+        "slug": "heuristics",
+        "label": "Heuristics"
+      },
+      {
+        "slug": "data-analysis",
+        "label": "Data Analysis"
+      },
+      {
+        "slug": "ux-research-method-selection",
+        "label": "UX Research Method Selection"
+      },
+      {
+        "slug": "statistics",
+        "label": "Statistics"
+      },
+      {
+        "slug": "written-communication",
+        "label": "Written Communication"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. UX Researcher\n2. User Researcher\n3. Design Researcher\n4. UX Research Lead\n5. Research Assistant",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "user-experience-research",
+        "label": "User Experience Research"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "user-experience-research",
+        "label": "User Experience Research"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "user-experience-research",
+        "label": "User Experience Research"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "user-experience-design",
+    "Job Industry Name": "User Experience Design",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "user-experience-design",
+        "label": "User Experience Design"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "user-experience-design",
+        "label": "User Experience Design"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "user-experience-design",
+        "label": "User Experience Design"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "interaction-design",
+        "label": "Interaction Design"
+      },
+      {
+        "slug": "information-architecture",
+        "label": "Information Architecture"
+      },
+      {
+        "slug": "gestalt-principles",
+        "label": "Gestalt Principles"
+      },
+      {
+        "slug": "design-patterns",
+        "label": "Design Patterns"
+      },
+      {
+        "slug": "prototyping",
+        "label": "Prototyping"
+      },
+      {
+        "slug": "information-hierarchy",
+        "label": "Information Hierarchy"
+      },
+      {
+        "slug": "typography",
+        "label": "Typography"
+      },
+      {
+        "slug": "visual-signifiers",
+        "label": "Visual Signifiers"
+      },
+      {
+        "slug": "design-systems-management",
+        "label": "Design Systems Management"
+      },
+      {
+        "slug": "user-interface-design",
+        "label": "User Interface Design"
+      },
+      {
+        "slug": "accessibility",
+        "label": "Accessibility"
+      },
+      {
+        "slug": "design-thinking",
+        "label": "Design Thinking"
+      },
+      {
+        "slug": "making-wireframes",
+        "label": "Making Wireframes"
+      },
+      {
+        "slug": "responsive-design",
+        "label": "Responsive Design"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. UX Designer\n2. UI Designer\n3. Product Designer\n4. Interaction Designer\n5. Visual Designer",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "creativity",
+        "label": "Creativity"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "user-experience-design",
+        "label": "User Experience Design"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "user-experience-design",
+        "label": "User Experience Design"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "user-experience-design",
+        "label": "User Experience Design"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "film",
+    "Job Industry Name": "Film",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "film",
+        "label": "Film"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "film",
+        "label": "Film"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "film",
+        "label": "Film"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "film",
+        "label": "Film"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "graphic-design",
+        "label": "Graphic Design"
+      },
+      {
+        "slug": "visual-signifiers",
+        "label": "Visual Signifiers"
+      },
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      },
+      {
+        "slug": "presentation",
+        "label": "Presentation"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Director\n2. Producer\n3. Cinematographer\n4. Film Editor\n5. Screenwriter\n6. Production Assistant",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "public-speaking",
+        "label": "Public Speaking"
+      },
+      {
+        "slug": "negotiation",
+        "label": "Negotiation"
+      },
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "creativity",
+        "label": "Creativity"
+      },
+      {
+        "slug": "critical-thinking",
+        "label": "Critical Thinking"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "film",
+        "label": "Film"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "film",
+        "label": "Film"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "film",
+        "label": "Film"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "theatre",
+    "Job Industry Name": "Theatre",
+    "Transitioning into UX Research Roles": [
+      {
+        "slug": "theatre",
+        "label": "Theatre"
+      }
+    ],
+    "Transitioning into UX Research Roles 2": [
+      {
+        "slug": "theatre",
+        "label": "Theatre"
+      }
+    ],
+    "Transitioning into UX Design Roles 2": [
+      {
+        "slug": "theatre",
+        "label": "Theatre"
+      }
+    ],
+    "Transitioning into Business Analysis Jobs 2": [
+      {
+        "slug": "theatre",
+        "label": "Theatre"
+      }
+    ],
+    "Transferrable Technical Skills Coming From This Industry": [
+      {
+        "slug": "presentation",
+        "label": "Presentation"
+      }
+    ],
+    "Common Job Titles Within This Industry": "1. Actor\n2. Stage Manager\n3. Director\n4. Set Designer\n5. Playwright\n6. Production Manager",
+    "Transferrable Interpersonal Skills Coming From This Industry": [
+      {
+        "slug": "public-speaking",
+        "label": "Public Speaking"
+      },
+      {
+        "slug": "negotiation",
+        "label": "Negotiation"
+      },
+      {
+        "slug": "attention-to-detail",
+        "label": "Attention to Detail"
+      },
+      {
+        "slug": "collaboration",
+        "label": "Collaboration"
+      },
+      {
+        "slug": "conflict-resolution",
+        "label": "Conflict Resolution"
+      },
+      {
+        "slug": "creativity",
+        "label": "Creativity"
+      },
+      {
+        "slug": "initiative",
+        "label": "Initiative"
+      },
+      {
+        "slug": "organization",
+        "label": "Organization"
+      },
+      {
+        "slug": "time-management",
+        "label": "Time Management"
+      },
+      {
+        "slug": "verbal-communication",
+        "label": "Verbal Communication"
+      },
+      {
+        "slug": "teamwork",
+        "label": "Teamwork"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2": [
+      {
+        "slug": "theatre",
+        "label": "Theatre"
+      }
+    ],
+    "Transitioning into Product Owner Jobs 2 2": [
+      {
+        "slug": "theatre",
+        "label": "Theatre"
+      }
+    ],
+    "Transitioning Into Product Manager Jobs 2": [
+      {
+        "slug": "theatre",
+        "label": "Theatre"
+      }
+    ]
+  }
+]

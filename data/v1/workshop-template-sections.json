@@ -1,0 +1,2382 @@
+[
+  {
+    "id": 3,
+    "slug": "3",
+    "Unique ID": 3,
+    "Workshop": [
+      {
+        "slug": "rapid-ideation-workshop-template",
+        "label": "Rapid Ideation Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "So What",
+    "What Goes Here": "A short paragraph on why this work came about and why it is prioritized now, so everyone understands the stakes."
+  },
+  {
+    "id": 4,
+    "slug": "4",
+    "Unique ID": 4,
+    "Workshop": [
+      {
+        "slug": "rapid-ideation-workshop-template",
+        "label": "Rapid Ideation Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Problems You Assume (per audience)",
+    "What Goes Here": "Every problem the team assumes about the current state, listed for each audience."
+  },
+  {
+    "id": 5,
+    "slug": "5",
+    "Unique ID": 5,
+    "Workshop": [
+      {
+        "slug": "rapid-ideation-workshop-template",
+        "label": "Rapid Ideation Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "How Might We Transformation Table",
+    "What Goes Here": "Columns: person who took the row, the original research result or assumed problem, and the resulting HMW statement (\"How might we solve the problem and serve the need?\")."
+  },
+  {
+    "id": 6,
+    "slug": "6",
+    "Unique ID": 6,
+    "Workshop": [
+      {
+        "slug": "rapid-ideation-workshop-template",
+        "label": "Rapid Ideation Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Prioritization Matrix (Risk and Certainty)",
+    "What Goes Here": "A MoSCoW matrix: place each HMW by risk and certainty. Top = high risk, low certainty; High = high risk, high certainty; Medium = low risk, low certainty; Low = low risk, high certainty."
+  },
+  {
+    "id": 7,
+    "slug": "7",
+    "Unique ID": 7,
+    "Workshop": [
+      {
+        "slug": "rapid-ideation-workshop-template",
+        "label": "Rapid Ideation Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Crazy 8's, Round 1",
+    "What Goes Here": "Eight boxes. Sketch eight ideas in eight minutes for your chosen HMW, one minute per idea."
+  },
+  {
+    "id": 8,
+    "slug": "8",
+    "Unique ID": 8,
+    "Workshop": [
+      {
+        "slug": "rapid-ideation-workshop-template",
+        "label": "Rapid Ideation Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Section / Prompt": "Crazy 8's, Round 2",
+    "What Goes Here": "Eight boxes. Sketch eight new ideas built on your starred favorite three, again eight minutes."
+  },
+  {
+    "id": 9,
+    "slug": "9",
+    "Unique ID": 9,
+    "Workshop": [
+      {
+        "slug": "empathy-map-workshop-template",
+        "label": "Empathy Map Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "I THINK",
+    "What Goes Here": "What is going on in the user's mind: their thoughts, beliefs, and preoccupations about the situation."
+  },
+  {
+    "id": 10,
+    "slug": "10",
+    "Unique ID": 10,
+    "Workshop": [
+      {
+        "slug": "empathy-map-workshop-template",
+        "label": "Empathy Map Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "I ACT",
+    "What Goes Here": "What the user actually does: their observable behaviors and actions."
+  },
+  {
+    "id": 11,
+    "slug": "11",
+    "Unique ID": 11,
+    "Workshop": [
+      {
+        "slug": "empathy-map-workshop-template",
+        "label": "Empathy Map Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "I'M MOTIVATED BY",
+    "What Goes Here": "What drives this user: their goals and motivations."
+  },
+  {
+    "id": 12,
+    "slug": "12",
+    "Unique ID": 12,
+    "Workshop": [
+      {
+        "slug": "empathy-map-workshop-template",
+        "label": "Empathy Map Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "I FEEL",
+    "What Goes Here": "The user's emotional state: worries, frustrations, and hopes."
+  },
+  {
+    "id": 13,
+    "slug": "13",
+    "Unique ID": 13,
+    "Workshop": [
+      {
+        "slug": "empathy-map-workshop-template",
+        "label": "Empathy Map Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "I SAY",
+    "What Goes Here": "What the user says out loud about the situation; representative quotes."
+  },
+  {
+    "id": 14,
+    "slug": "14",
+    "Unique ID": 14,
+    "Workshop": [
+      {
+        "slug": "empathy-map-workshop-template",
+        "label": "Empathy Map Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Section / Prompt": "I VALUE",
+    "What Goes Here": "What matters most to this user: their principles and priorities."
+  },
+  {
+    "id": 15,
+    "slug": "15",
+    "Unique ID": 15,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Problems to Solve",
+    "What Goes Here": "The business and user problems that create the opportunity for this analysis."
+  },
+  {
+    "id": 16,
+    "slug": "16",
+    "Unique ID": 16,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Outcomes of the Analysis",
+    "What Goes Here": "What the team hopes to gain from running the analysis."
+  },
+  {
+    "id": 17,
+    "slug": "17",
+    "Unique ID": 17,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Scope Selection",
+    "What Goes Here": "Check which of the five analyses to run this round: market research, competitor analysis, feature comparison, design pattern analysis, product positioning."
+  },
+  {
+    "id": 18,
+    "slug": "18",
+    "Unique ID": 18,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Market Size Table",
+    "What Goes Here": "Columns: Market, Channels/Segments, Today's Market Size, Top Companies in the Segment, Projected Growth. Fill from cited online research."
+  },
+  {
+    "id": 19,
+    "slug": "19",
+    "Unique ID": 19,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Market Opportunity",
+    "What Goes Here": "Which market segment has the largest opportunity, and why."
+  },
+  {
+    "id": 20,
+    "slug": "20",
+    "Unique ID": 20,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Section / Prompt": "Audience Segmentation",
+    "What Goes Here": "Your target audience broken into geographic, behavioral, demographic, and socioeconomic segments."
+  },
+  {
+    "id": 21,
+    "slug": "21",
+    "Unique ID": 21,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "7",
+    "Section / Prompt": "Competitor Questions",
+    "What Goes Here": "The questions you want answered about direct and indirect competitors, unique to your project."
+  },
+  {
+    "id": 22,
+    "slug": "22",
+    "Unique ID": 22,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "8",
+    "Section / Prompt": "Direct and Indirect Competitor Analysis Table",
+    "What Goes Here": "Per competitor: direct or indirect, market segment, website, main features, how they differentiate, what they do well and poorly, plus your project-specific questions."
+  },
+  {
+    "id": 23,
+    "slug": "23",
+    "Unique ID": 23,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "9",
+    "Section / Prompt": "Feature Comparison Chart",
+    "What Goes Here": "Your product versus competitors across each feature (present or absent), to reveal what is common, unique, and missing."
+  },
+  {
+    "id": 24,
+    "slug": "24",
+    "Unique ID": 24,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "10",
+    "Section / Prompt": "Design Pattern Analysis Table",
+    "What Goes Here": "Per competitor: website, key design patterns, what makes them effective or ineffective, and how you will apply them."
+  },
+  {
+    "id": 25,
+    "slug": "25",
+    "Unique ID": 25,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "11",
+    "Section / Prompt": "Unique Value Summary",
+    "What Goes Here": "What competitors do not do well, and what your business can do differently."
+  },
+  {
+    "id": 26,
+    "slug": "26",
+    "Unique ID": 26,
+    "Workshop": [
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      }
+    ],
+    "Order": "12",
+    "Section / Prompt": "Product Positioning Statement",
+    "What Goes Here": "Template: For [audience], our product solves [problems]. Other businesses [how they solve it]. Unlike them, we [your unique value]."
+  },
+  {
+    "id": 27,
+    "slug": "27",
+    "Unique ID": 27,
+    "Workshop": [
+      {
+        "slug": "conflict-resolution-workshop-template",
+        "label": "Conflict Resolution Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Contributing Factors of Conflict",
+    "What Goes Here": "Sticky notes of the thoughts, behaviors, and decisions that have led you or teammates into conflict before."
+  },
+  {
+    "id": 28,
+    "slug": "28",
+    "Unique ID": 28,
+    "Workshop": [
+      {
+        "slug": "conflict-resolution-workshop-template",
+        "label": "Conflict Resolution Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Service Leadership Reflection",
+    "What Goes Here": "Your thoughts on how this approach to conflict reflects psychological safety and service leadership."
+  },
+  {
+    "id": 29,
+    "slug": "29",
+    "Unique ID": 29,
+    "Workshop": [
+      {
+        "slug": "conflict-resolution-workshop-template",
+        "label": "Conflict Resolution Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Breakout Plan (per group)",
+    "What Goes Here": "Name your team group, then agree: what actions will you take when conflict arises, and what is each teammate's responsibility when they notice conflict?"
+  },
+  {
+    "id": 30,
+    "slug": "30",
+    "Unique ID": 30,
+    "Workshop": [
+      {
+        "slug": "team-ice-breakers-workshop-template",
+        "label": "Team Ice Breakers Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Introductions Card",
+    "What Goes Here": "Your intro: how you discovered Tech Fleet, your hidden talent or secret superpower, and where in the world you'd go if you could go anywhere."
+  },
+  {
+    "id": 31,
+    "slug": "31",
+    "Unique ID": 31,
+    "Workshop": [
+      {
+        "slug": "team-ice-breakers-workshop-template",
+        "label": "Team Ice Breakers Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Working Style Scales",
+    "What Goes Here": "Place your name on each scale: extrovert/introvert; hands-on vs research-first learning; gut vs reflective decisions; direct vs constructive feedback; planner vs go-with-the-flow; group vs one-on-one."
+  },
+  {
+    "id": 32,
+    "slug": "32",
+    "Unique ID": 32,
+    "Workshop": [
+      {
+        "slug": "team-ice-breakers-workshop-template",
+        "label": "Team Ice Breakers Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Hopes, Fears, Learning, Support",
+    "What Goes Here": "Sticky notes for your hopes and fears about the project, what you want to learn in the residency, and how Tech Fleet can best support you."
+  },
+  {
+    "id": 33,
+    "slug": "33",
+    "Unique ID": 33,
+    "Workshop": [
+      {
+        "slug": "team-ice-breakers-workshop-template",
+        "label": "Team Ice Breakers Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Crazy 6",
+    "What Goes Here": "Six boxes: sketch your weekend vibe, favorite snack, guilty pleasure, something you can't live without, what you wanted to be as a kid, and your spirit animal (one minute each)."
+  },
+  {
+    "id": 34,
+    "slug": "34",
+    "Unique ID": 34,
+    "Workshop": [
+      {
+        "slug": "working-agreements-workshop-template",
+        "label": "Working Agreements Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Psychological Safety",
+    "What Goes Here": "How the team will build psychological safety (for example: celebrate disagreement, make space for every voice, allow first tries and experimentation)."
+  },
+  {
+    "id": 35,
+    "slug": "35",
+    "Unique ID": 35,
+    "Workshop": [
+      {
+        "slug": "working-agreements-workshop-template",
+        "label": "Working Agreements Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Service Leadership",
+    "What Goes Here": "How the team will build service leadership (for example: seek to understand, check assumptions, support each other's growth, set clear expectations)."
+  },
+  {
+    "id": 36,
+    "slug": "36",
+    "Unique ID": 36,
+    "Workshop": [
+      {
+        "slug": "working-agreements-workshop-template",
+        "label": "Working Agreements Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Self-Organization",
+    "What Goes Here": "How the team will build self-organization (for example: take initiative when things are unclear, build consensus, decide together how to work and what to prioritize)."
+  },
+  {
+    "id": 37,
+    "slug": "37",
+    "Unique ID": 37,
+    "Workshop": [
+      {
+        "slug": "working-agreements-workshop-template",
+        "label": "Working Agreements Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Continuous Improvement",
+    "What Goes Here": "How the team will build continuous improvement (for example: make room to fail and adjust, reflect on root causes without judgment)."
+  },
+  {
+    "id": 38,
+    "slug": "38",
+    "Unique ID": 38,
+    "Workshop": [
+      {
+        "slug": "working-agreements-workshop-template",
+        "label": "Working Agreements Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Conflict",
+    "What Goes Here": "How the team will resolve conflict (for example: be service leaders in conflict, confront it constructively, talk it out first, stay respectful)."
+  },
+  {
+    "id": 39,
+    "slug": "39",
+    "Unique ID": 39,
+    "Workshop": [
+      {
+        "slug": "working-agreements-workshop-template",
+        "label": "Working Agreements Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Section / Prompt": "Pivoting",
+    "What Goes Here": "How the team will handle pivoting (for example: embrace changing plans together, reflect continuously on whether to pivot, act when it's time)."
+  },
+  {
+    "id": 40,
+    "slug": "40",
+    "Unique ID": 40,
+    "Workshop": [
+      {
+        "slug": "working-agreements-workshop-template",
+        "label": "Working Agreements Workshop Template"
+      }
+    ],
+    "Order": "7",
+    "Section / Prompt": "Communication",
+    "What Goes Here": "How the team will communicate together, in the team's own words."
+  },
+  {
+    "id": 41,
+    "slug": "41",
+    "Unique ID": 41,
+    "Workshop": [
+      {
+        "slug": "working-agreements-workshop-template",
+        "label": "Working Agreements Workshop Template"
+      }
+    ],
+    "Order": "8",
+    "Section / Prompt": "Cross-Functional Collaboration",
+    "What Goes Here": "How the team will collaborate across functions, in the team's own words."
+  },
+  {
+    "id": 42,
+    "slug": "42",
+    "Unique ID": 42,
+    "Workshop": [
+      {
+        "slug": "working-agreements-workshop-template",
+        "label": "Working Agreements Workshop Template"
+      }
+    ],
+    "Order": "9",
+    "Section / Prompt": "Moving Past Storming",
+    "What Goes Here": "What the team agrees to do to move past the storming stage of team growth."
+  },
+  {
+    "id": 43,
+    "slug": "43",
+    "Unique ID": 43,
+    "Workshop": [
+      {
+        "slug": "discovery-backlog-workshop-template",
+        "label": "Discovery Backlog Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Backlog of Work",
+    "What Goes Here": "All the tasks and future work the team can identify, gathered together before prioritizing."
+  },
+  {
+    "id": 44,
+    "slug": "44",
+    "Unique ID": 44,
+    "Workshop": [
+      {
+        "slug": "discovery-backlog-workshop-template",
+        "label": "Discovery Backlog Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Priority Matrix: Risk and Certainty",
+    "What Goes Here": "A MoSCoW matrix. Top = high risk, low certainty; High = high risk, high certainty; Medium = low risk, low certainty; Low = low risk, high certainty."
+  },
+  {
+    "id": 45,
+    "slug": "45",
+    "Unique ID": 45,
+    "Workshop": [
+      {
+        "slug": "discovery-backlog-workshop-template",
+        "label": "Discovery Backlog Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Priority Matrix: Effort and Value",
+    "What Goes Here": "A MoSCoW matrix. Top = low effort, high value; High = high effort, high value; Medium = low effort, low value; Low = high effort, low value."
+  },
+  {
+    "id": 46,
+    "slug": "46",
+    "Unique ID": 46,
+    "Workshop": [
+      {
+        "slug": "discovery-backlog-workshop-template",
+        "label": "Discovery Backlog Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Top Priorities for the Next Iteration",
+    "What Goes Here": "The dot-voted top work items the team commits to for the next iteration."
+  },
+  {
+    "id": 47,
+    "slug": "47",
+    "Unique ID": 47,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Audiences",
+    "What Goes Here": "Who are the audiences involved in this product? List each, with as much detail as known. (Capture takeaways and action items for the team.)"
+  },
+  {
+    "id": 48,
+    "slug": "48",
+    "Unique ID": 48,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Business Goals",
+    "What Goes Here": "The goals the business is trying to achieve."
+  },
+  {
+    "id": 49,
+    "slug": "49",
+    "Unique ID": 49,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Products and Services",
+    "What Goes Here": "The products and services, existing or planned, the business uses to meet its goals."
+  },
+  {
+    "id": 50,
+    "slug": "50",
+    "Unique ID": 50,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Current-State Problems",
+    "What Goes Here": "The problems this product solves, for users and businesses, and the pain points in the world today."
+  },
+  {
+    "id": 51,
+    "slug": "51",
+    "Unique ID": 51,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Current-State Flow",
+    "What Goes Here": "How those problems and pain points get solved in the world today, with or without your product."
+  },
+  {
+    "id": 52,
+    "slug": "52",
+    "Unique ID": 52,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Section / Prompt": "Audience Motivations",
+    "What Goes Here": "What motivates each audience, from what you know so far."
+  },
+  {
+    "id": 53,
+    "slug": "53",
+    "Unique ID": 53,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "7",
+    "Section / Prompt": "Market Competitors",
+    "What Goes Here": "Other products chasing the same goals: what they are, what they do well, their gaps, and what is still unknown."
+  },
+  {
+    "id": 54,
+    "slug": "54",
+    "Unique ID": 54,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "8",
+    "Section / Prompt": "Measures of Success",
+    "What Goes Here": "What, in five years, would show the business succeeded."
+  },
+  {
+    "id": 55,
+    "slug": "55",
+    "Unique ID": 55,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "9",
+    "Section / Prompt": "Measures of Failure",
+    "What Goes Here": "What, in five years, would deem the project a failure."
+  },
+  {
+    "id": 56,
+    "slug": "56",
+    "Unique ID": 56,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "10",
+    "Section / Prompt": "Ways of Working Together",
+    "What Goes Here": "How the client wants to work with the team: meetings, communication, seeing work in progress, and who else to involve."
+  },
+  {
+    "id": 57,
+    "slug": "57",
+    "Unique ID": 57,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "11",
+    "Section / Prompt": "Previous Work",
+    "What Goes Here": "A summary of, and links to, work done before this phase (by Tech Fleet or the business)."
+  },
+  {
+    "id": 58,
+    "slug": "58",
+    "Unique ID": 58,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "12",
+    "Section / Prompt": "Priorities and Near-Term Milestones",
+    "What Goes Here": "The client's priorities for this phase, and the business milestones they want to hit in the next three to six months."
+  },
+  {
+    "id": 59,
+    "slug": "59",
+    "Unique ID": 59,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "13",
+    "Section / Prompt": "Returning Client: Retrospective and Scope Changes",
+    "What Goes Here": "For returning clients only: what they liked, learned, lacked, and longed for last phase, and what has changed in scope."
+  },
+  {
+    "id": 60,
+    "slug": "60",
+    "Unique ID": 60,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "14",
+    "Section / Prompt": "Takeaways and Action Items",
+    "What Goes Here": "For every topic above, a short summary of takeaways and the resulting action items for the team."
+  },
+  {
+    "id": 61,
+    "slug": "61",
+    "Unique ID": 61,
+    "Workshop": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Order": "15",
+    "Section / Prompt": "Kickoff Questions Table",
+    "What Goes Here": "The team's own questions to ask the client, paired with the client's answers."
+  },
+  {
+    "id": 62,
+    "slug": "62",
+    "Unique ID": 62,
+    "Workshop": [
+      {
+        "slug": "raci-hats-workshop-template",
+        "label": "RACI Hats Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "RACI Definitions",
+    "What Goes Here": "Responsible does the work; Accountable oversees it and ensures success (exactly one per activity); Consulted reviews and advises; Informed is kept in the loop."
+  },
+  {
+    "id": 63,
+    "slug": "63",
+    "Unique ID": 63,
+    "Workshop": [
+      {
+        "slug": "raci-hats-workshop-template",
+        "label": "RACI Hats Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Choose Your Hats (Avatar Builder)",
+    "What Goes Here": "Each person builds an avatar and adds the hats (duties) they commit to this sprint, free to stretch beyond their usual function."
+  },
+  {
+    "id": 64,
+    "slug": "64",
+    "Unique ID": 64,
+    "Workshop": [
+      {
+        "slug": "raci-hats-workshop-template",
+        "label": "RACI Hats Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "RACI Chart: General Project Activities",
+    "What Goes Here": "R/A/C/I across the team for general project activities, such as the client kickoff, defining goals and deliverables, tracking progress, and scheduling meetings."
+  },
+  {
+    "id": 65,
+    "slug": "65",
+    "Unique ID": 65,
+    "Workshop": [
+      {
+        "slug": "raci-hats-workshop-template",
+        "label": "RACI Hats Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "RACI Chart: UX Design and Writing Activities",
+    "What Goes Here": "R/A/C/I for UX and writing activities, such as prototypes, design systems, copywriting, personas, journey maps, and UX audits."
+  },
+  {
+    "id": 66,
+    "slug": "66",
+    "Unique ID": 66,
+    "Workshop": [
+      {
+        "slug": "raci-hats-workshop-template",
+        "label": "RACI Hats Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "RACI Chart: Managing the Product",
+    "What Goes Here": "R/A/C/I for product activities, such as coaching, market research, unique value proposition, business plan, product-market fit, and feature analysis."
+  },
+  {
+    "id": 67,
+    "slug": "67",
+    "Unique ID": 67,
+    "Workshop": [
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Demographics",
+    "What Goes Here": "Age range, education background, and socioeconomic data for this audience."
+  },
+  {
+    "id": 68,
+    "slug": "68",
+    "Unique ID": 68,
+    "Workshop": [
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Where They Go for Information",
+    "What Goes Here": "Where the audience gets resources, practice, feedback, and community."
+  },
+  {
+    "id": 69,
+    "slug": "69",
+    "Unique ID": 69,
+    "Workshop": [
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Accessibility and Social Considerations",
+    "What Goes Here": "Ranges of cognitive and physical abilities, and cultural considerations."
+  },
+  {
+    "id": 70,
+    "slug": "70",
+    "Unique ID": 70,
+    "Workshop": [
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Tools Used Today",
+    "What Goes Here": "The products, technical or non-technical, the user uses to accomplish their goals today."
+  },
+  {
+    "id": 71,
+    "slug": "71",
+    "Unique ID": 71,
+    "Workshop": [
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Life and Situational Goals",
+    "What Goes Here": "What the user wants to achieve, both in the moment and in life."
+  },
+  {
+    "id": 72,
+    "slug": "72",
+    "Unique ID": 72,
+    "Workshop": [
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Section / Prompt": "User Motivations",
+    "What Goes Here": "What motivates this user to succeed."
+  },
+  {
+    "id": 73,
+    "slug": "73",
+    "Unique ID": 73,
+    "Workshop": [
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      }
+    ],
+    "Order": "7",
+    "Section / Prompt": "Common Tasks Today",
+    "What Goes Here": "The common tasks the user does related to the experience today."
+  },
+  {
+    "id": 74,
+    "slug": "74",
+    "Unique ID": 74,
+    "Workshop": [
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      }
+    ],
+    "Order": "8",
+    "Section / Prompt": "User Pain Points",
+    "What Goes Here": "The challenges this user faces today."
+  },
+  {
+    "id": 75,
+    "slug": "75",
+    "Unique ID": 75,
+    "Workshop": [
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      }
+    ],
+    "Order": "9",
+    "Section / Prompt": "Additional Notes",
+    "What Goes Here": "Anything else worth capturing that the other fields do not cover."
+  },
+  {
+    "id": 76,
+    "slug": "76",
+    "Unique ID": 76,
+    "Workshop": [
+      {
+        "slug": "project-plan-workshop-template",
+        "label": "Project Plan Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Project Goals",
+    "What Goes Here": "A summary of the project goals, based on the client intake workshop."
+  },
+  {
+    "id": 77,
+    "slug": "77",
+    "Unique ID": 77,
+    "Workshop": [
+      {
+        "slug": "project-plan-workshop-template",
+        "label": "Project Plan Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Project Phase",
+    "What Goes Here": "Which phase the project is in (1, 2, 3, or 4)."
+  },
+  {
+    "id": 78,
+    "slug": "78",
+    "Unique ID": 78,
+    "Workshop": [
+      {
+        "slug": "project-plan-workshop-template",
+        "label": "Project Plan Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Chosen Deliverables for This Phase",
+    "What Goes Here": "The deliverables the team will produce this phase, grouped by milestone (Intake, Discovery, Vision, Scope, Requirements, Experience Design, Development, Acceptance Testing)."
+  },
+  {
+    "id": 79,
+    "slug": "79",
+    "Unique ID": 79,
+    "Workshop": [
+      {
+        "slug": "project-plan-workshop-template",
+        "label": "Project Plan Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Phase Project Plan (Pre-Kickoff to Hand-Off)",
+    "What Goes Here": "The forecast of planned outcomes per function across the pre-kickoff sprint, four two-week sprints, and the hand-off week."
+  },
+  {
+    "id": 80,
+    "slug": "80",
+    "Unique ID": 80,
+    "Workshop": [
+      {
+        "slug": "sprint-goals-workshop-template",
+        "label": "Sprint Goals Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Sprint Goal",
+    "What Goes Here": "The single objective for this sprint, and why it brings value."
+  },
+  {
+    "id": 81,
+    "slug": "81",
+    "Unique ID": 81,
+    "Workshop": [
+      {
+        "slug": "sprint-goals-workshop-template",
+        "label": "Sprint Goals Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Outcomes for This Sprint",
+    "What Goes Here": "The planned outcomes for this sprint, pulled from the project plan."
+  },
+  {
+    "id": 82,
+    "slug": "82",
+    "Unique ID": 82,
+    "Workshop": [
+      {
+        "slug": "sprint-goals-workshop-template",
+        "label": "Sprint Goals Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Steps and Assignees",
+    "What Goes Here": "The goal broken into concrete steps, each with an owner."
+  },
+  {
+    "id": 83,
+    "slug": "83",
+    "Unique ID": 83,
+    "Workshop": [
+      {
+        "slug": "customer-experience-map-workshop-template",
+        "label": "Customer Experience Map Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Color Legend",
+    "What Goes Here": "Red = a pain point, Yellow = an idea to change, Blue = a question to the team, Green = a strategy to solve a pain point (used on the future map)."
+  },
+  {
+    "id": 84,
+    "slug": "84",
+    "Unique ID": 84,
+    "Workshop": [
+      {
+        "slug": "customer-experience-map-workshop-template",
+        "label": "Customer Experience Map Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Current Experience Flow Chart (per audience)",
+    "What Goes Here": "A flow chart of each audience's experience today across the funnel (awareness, engagement, consideration, conversion, retention, loyalty), showing each step, the audiences involved, and the pain points."
+  },
+  {
+    "id": 85,
+    "slug": "85",
+    "Unique ID": 85,
+    "Workshop": [
+      {
+        "slug": "customer-experience-map-workshop-template",
+        "label": "Customer Experience Map Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Future Experience Flow Chart (per audience)",
+    "What Goes Here": "A flow chart of each audience's intended future experience across the funnel, with green strategies that solve the current pain points."
+  },
+  {
+    "id": 86,
+    "slug": "86",
+    "Unique ID": 86,
+    "Workshop": [
+      {
+        "slug": "user-journey-map-workshop-template",
+        "label": "User Journey Map Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Customer Lifecycle Funnel",
+    "What Goes Here": "The six stages every step maps to: Awareness, Engagement, Consideration, Conversion, Retention, and Loyalty."
+  },
+  {
+    "id": 87,
+    "slug": "87",
+    "Unique ID": 87,
+    "Workshop": [
+      {
+        "slug": "user-journey-map-workshop-template",
+        "label": "User Journey Map Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Journey Table (per audience)",
+    "What Goes Here": "One row per step, with columns: step in the process, funnel stage, description, audiences involved, common tasks, common pain points, current sentiment (negative/neutral/positive), potential KPI measurement, and ideas to improve the step."
+  },
+  {
+    "id": 88,
+    "slug": "88",
+    "Unique ID": 88,
+    "Workshop": [
+      {
+        "slug": "team-process-mapping-workshop-template",
+        "label": "Team Process Mapping Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Agile Methods Reference (Prerequisite Reading)",
+    "What Goes Here": "Detailed breakdowns of Kanban, Scrum, and Scaled Agile: their goals, roles, how they work, and their pain points."
+  },
+  {
+    "id": 89,
+    "slug": "89",
+    "Unique ID": 89,
+    "Workshop": [
+      {
+        "slug": "team-process-mapping-workshop-template",
+        "label": "Team Process Mapping Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Kanban Board and WIP Limits",
+    "What Goes Here": "How a Kanban board tracks work statuses (To Do, Doing, Done, Blocked) with work-in-progress limits so work keeps flowing."
+  },
+  {
+    "id": 90,
+    "slug": "90",
+    "Unique ID": 90,
+    "Workshop": [
+      {
+        "slug": "team-process-mapping-workshop-template",
+        "label": "Team Process Mapping Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Example Team Process Flow Chart",
+    "What Goes Here": "A worked example of how work moves through a team, from intake through requirements, planning, sprint work, and demo, with decision branches."
+  },
+  {
+    "id": 91,
+    "slug": "91",
+    "Unique ID": 91,
+    "Workshop": [
+      {
+        "slug": "team-process-mapping-workshop-template",
+        "label": "Team Process Mapping Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Your Team Process Flow Chart",
+    "What Goes Here": "Your team's own flow chart of how work gets done across functions (delete the example and build yours)."
+  },
+  {
+    "id": 92,
+    "slug": "92",
+    "Unique ID": 92,
+    "Workshop": [
+      {
+        "slug": "team-process-mapping-workshop-template",
+        "label": "Team Process Mapping Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Kanban Board Statuses",
+    "What Goes Here": "The board columns and statuses your team will use to implement the process, with WIP limits."
+  },
+  {
+    "id": 93,
+    "slug": "93",
+    "Unique ID": 93,
+    "Workshop": [
+      {
+        "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+        "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Segmentation Definition",
+    "What Goes Here": "Your target audiences broken into geographic, behavioral, demographic, and socioeconomic segments."
+  },
+  {
+    "id": 94,
+    "slug": "94",
+    "Unique ID": 94,
+    "Workshop": [
+      {
+        "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+        "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Audience Label and Traits",
+    "What Goes Here": "A semantic label per focus audience and the segment traits that define it."
+  },
+  {
+    "id": 95,
+    "slug": "95",
+    "Unique ID": 95,
+    "Workshop": [
+      {
+        "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+        "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Motivations",
+    "What Goes Here": "What drives each audience to take action, and what they desire."
+  },
+  {
+    "id": 96,
+    "slug": "96",
+    "Unique ID": 96,
+    "Workshop": [
+      {
+        "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+        "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Situational Goals",
+    "What Goes Here": "The outcomes each audience wants to achieve within your experience."
+  },
+  {
+    "id": 97,
+    "slug": "97",
+    "Unique ID": 97,
+    "Workshop": [
+      {
+        "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+        "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Life Goals",
+    "What Goes Here": "The broader life outcomes each audience wants, based on their motivations."
+  },
+  {
+    "id": 98,
+    "slug": "98",
+    "Unique ID": 98,
+    "Workshop": [
+      {
+        "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+        "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Section / Prompt": "Use Cases to Support",
+    "What Goes Here": "Per audience: the scenario-based problem aspect, when it happens today, the business goal for changing it, and the future scenarios to support."
+  },
+  {
+    "id": 99,
+    "slug": "99",
+    "Unique ID": 99,
+    "Workshop": [
+      {
+        "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+        "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+      }
+    ],
+    "Order": "7",
+    "Section / Prompt": "Use Case Prioritization",
+    "What Goes Here": "A MoSCoW matrix ranking the use cases by risk and certainty, or effort and value."
+  },
+  {
+    "id": 100,
+    "slug": "100",
+    "Unique ID": 100,
+    "Workshop": [
+      {
+        "slug": "kpi-success-measurements-definition-workshop-template",
+        "label": "KPI Success Measurements Definition Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Business Purpose and Goals",
+    "What Goes Here": "The business's purpose and the goals it is trying to achieve (reuse the client intake's goals if available)."
+  },
+  {
+    "id": 101,
+    "slug": "101",
+    "Unique ID": 101,
+    "Workshop": [
+      {
+        "slug": "kpi-success-measurements-definition-workshop-template",
+        "label": "KPI Success Measurements Definition Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Business Measurements of Success",
+    "What Goes Here": "How the business will measure success against its goals, plus ideas for how to collect each measurement."
+  },
+  {
+    "id": 102,
+    "slug": "102",
+    "Unique ID": 102,
+    "Workshop": [
+      {
+        "slug": "kpi-success-measurements-definition-workshop-template",
+        "label": "KPI Success Measurements Definition Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Per-Audience: Goals, Pains, Motivations, Tasks, Steps",
+    "What Goes Here": "For each target audience: their relevant goals, pain points, motivations, common tasks, and the steps in their process today."
+  },
+  {
+    "id": 103,
+    "slug": "103",
+    "Unique ID": 103,
+    "Workshop": [
+      {
+        "slug": "kpi-success-measurements-definition-workshop-template",
+        "label": "KPI Success Measurements Definition Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Success Measurements per Step",
+    "What Goes Here": "Success measurements and KPIs tied to each step of the audience's current process."
+  },
+  {
+    "id": 104,
+    "slug": "104",
+    "Unique ID": 104,
+    "Workshop": [
+      {
+        "slug": "kpi-success-measurements-definition-workshop-template",
+        "label": "KPI Success Measurements Definition Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Success Measurements per Outcome",
+    "What Goes Here": "Success measurements and KPIs tied to the outcomes and goals each audience wants to achieve."
+  },
+  {
+    "id": 105,
+    "slug": "105",
+    "Unique ID": 105,
+    "Workshop": [
+      {
+        "slug": "kpi-success-measurements-definition-workshop-template",
+        "label": "KPI Success Measurements Definition Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Section / Prompt": "How to Collect the Measurements",
+    "What Goes Here": "Ideas for collecting each measurement, inside or outside the experience."
+  },
+  {
+    "id": 106,
+    "slug": "106",
+    "Unique ID": 106,
+    "Workshop": [
+      {
+        "slug": "sprint-retro-workshop-template",
+        "label": "Sprint Retro Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "The 4 Ls",
+    "What Goes Here": "Sticky notes under four headings: I Liked, I Learned in Hindsight, I Lacked, and I Longed For."
+  },
+  {
+    "id": 107,
+    "slug": "107",
+    "Unique ID": 107,
+    "Workshop": [
+      {
+        "slug": "sprint-retro-workshop-template",
+        "label": "Sprint Retro Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Service Leadership Shoutouts",
+    "What Goes Here": "Which teammates showed great service leadership this sprint, and why."
+  },
+  {
+    "id": 108,
+    "slug": "108",
+    "Unique ID": 108,
+    "Workshop": [
+      {
+        "slug": "sprint-retro-workshop-template",
+        "label": "Sprint Retro Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Retro Action Items",
+    "What Goes Here": "For each item learned: a How Might We statement, ideas to change it, whether it updates the working agreements, and who owns the action item."
+  },
+  {
+    "id": 109,
+    "slug": "109",
+    "Unique ID": 109,
+    "Workshop": [
+      {
+        "slug": "agile-team-maturity-measurements-workshop-template",
+        "label": "Agile Team Maturity Measurements Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Agility Ratings (0 to 10)",
+    "What Goes Here": "Rate the past sprint from 0 to 10 on each dimension: Clarity, Psychological Safety, Service Leadership, Cross-Functional Teamwork, Teammate Ownership, and Self-Organization."
+  },
+  {
+    "id": 110,
+    "slug": "110",
+    "Unique ID": 110,
+    "Workshop": [
+      {
+        "slug": "agile-team-maturity-measurements-workshop-template",
+        "label": "Agile Team Maturity Measurements Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Score Reasoning",
+    "What Goes Here": "For each dimension, a sticky note explaining your score and what contributed to it."
+  },
+  {
+    "id": 111,
+    "slug": "111",
+    "Unique ID": 111,
+    "Workshop": [
+      {
+        "slug": "scenario-based-problem-statement-generation-workshop-template",
+        "label": "Scenario-Based Problem Statement Generation Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Dump Your Assumed Problems",
+    "What Goes Here": "Every problem you assume about the current state of the world, listed per audience."
+  },
+  {
+    "id": 112,
+    "slug": "112",
+    "Unique ID": 112,
+    "Workshop": [
+      {
+        "slug": "scenario-based-problem-statement-generation-workshop-template",
+        "label": "Scenario-Based Problem Statement Generation Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Table 1: Breaking Down Aspects",
+    "What Goes Here": "Per problem: the unrefined statement, the audience experiencing it, and the raw aspects (the situations that contribute to it)."
+  },
+  {
+    "id": 113,
+    "slug": "113",
+    "Unique ID": 113,
+    "Workshop": [
+      {
+        "slug": "scenario-based-problem-statement-generation-workshop-template",
+        "label": "Scenario-Based Problem Statement Generation Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Table 2: Problem Statements, Checklists, and User Stories",
+    "What Goes Here": "Per aspect: the root (via the 5 Whys), the combined root-plus-aspect sentence, when it is a problem, why it matters, the formal problem statement, then the user goal, user need, consequences to avoid, and the resulting user story (As a [audience], I want [goal], so that [value])."
+  },
+  {
+    "id": 114,
+    "slug": "114",
+    "Unique ID": 114,
+    "Workshop": [
+      {
+        "slug": "agile-and-service-leadership-workshop-template",
+        "label": "Agile and Service Leadership Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Agile vs. Waterfall",
+    "What Goes Here": "The two manifestos and lifecycles side by side: waterfall's siloed, sequential phases versus agile's parallel, iterative, feedback-driven work."
+  },
+  {
+    "id": 115,
+    "slug": "115",
+    "Unique ID": 115,
+    "Workshop": [
+      {
+        "slug": "agile-and-service-leadership-workshop-template",
+        "label": "Agile and Service Leadership Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Tenets of Strong Agile Teams (and the Pyramid)",
+    "What Goes Here": "Self-organization, psychological safety, servant leadership, iterative value, and continuous improvement, ordered as a pyramid with psychological safety at the base."
+  },
+  {
+    "id": 116,
+    "slug": "116",
+    "Unique ID": 116,
+    "Workshop": [
+      {
+        "slug": "agile-and-service-leadership-workshop-template",
+        "label": "Agile and Service Leadership Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Agile Tenet Checklists",
+    "What Goes Here": "Yes/no checklists to gauge each tenet on your team (for example: does the team volunteer for work, voice dissent, deliver incrementally, and fail forward?)."
+  },
+  {
+    "id": 117,
+    "slug": "117",
+    "Unique ID": 117,
+    "Workshop": [
+      {
+        "slug": "agile-and-service-leadership-workshop-template",
+        "label": "Agile and Service Leadership Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "The Four Stages of Team Growth",
+    "What Goes Here": "Forming, Storming, Norming, and Performing: the tasks, feelings, and behaviors of each stage."
+  },
+  {
+    "id": 118,
+    "slug": "118",
+    "Unique ID": 118,
+    "Workshop": [
+      {
+        "slug": "agile-and-service-leadership-workshop-template",
+        "label": "Agile and Service Leadership Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Living Agile Manifesto (Reflection)",
+    "What Goes Here": "What a team actually does when it values individuals and interactions, working results, customer collaboration, and responding to change."
+  },
+  {
+    "id": 119,
+    "slug": "119",
+    "Unique ID": 119,
+    "Workshop": [
+      {
+        "slug": "agile-and-service-leadership-workshop-template",
+        "label": "Agile and Service Leadership Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Section / Prompt": "Checklist to Start Agile",
+    "What Goes Here": "The Why (generate buy-in, educate on agile), the Who (build the first sprint RACI), and the How (project plan, process map, Kanban board, sprint plan, first sprint, working agreements)."
+  },
+  {
+    "id": 120,
+    "slug": "120",
+    "Unique ID": 120,
+    "Workshop": [
+      {
+        "slug": "agile-and-service-leadership-workshop-template",
+        "label": "Agile and Service Leadership Workshop Template"
+      }
+    ],
+    "Order": "7",
+    "Section / Prompt": "Storming Reflections",
+    "What Goes Here": "The team's thoughts on what contributes to storming, and what actions and behaviors help move from storming toward performing."
+  },
+  {
+    "id": 121,
+    "slug": "121",
+    "Unique ID": 121,
+    "Workshop": [
+      {
+        "slug": "research-plan-workshop-template",
+        "label": "Research Plan Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Research Topics",
+    "What Goes Here": "Every topic you want to learn about your audiences or focus area, one per sticky note."
+  },
+  {
+    "id": 122,
+    "slug": "122",
+    "Unique ID": 122,
+    "Workshop": [
+      {
+        "slug": "research-plan-workshop-template",
+        "label": "Research Plan Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Topic Prioritization Matrix",
+    "What Goes Here": "A MoSCoW matrix ranking topics by risk and certainty; pick the top few for this iteration."
+  },
+  {
+    "id": 123,
+    "slug": "123",
+    "Unique ID": 123,
+    "Workshop": [
+      {
+        "slug": "research-plan-workshop-template",
+        "label": "Research Plan Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Research Questions, Goals, and Assumptions",
+    "What Goes Here": "Each chosen topic written as a research question and a goal, plus the assumptions you hold about it."
+  },
+  {
+    "id": 124,
+    "slug": "124",
+    "Unique ID": 124,
+    "Workshop": [
+      {
+        "slug": "research-plan-workshop-template",
+        "label": "Research Plan Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Assumption Table",
+    "What Goes Here": "Per row: research topic question, assumption, priority, assumptive problem statement, audience, implication if true, implication if false, direct question to users, task for users, and observation to measure."
+  },
+  {
+    "id": 125,
+    "slug": "125",
+    "Unique ID": 125,
+    "Workshop": [
+      {
+        "slug": "research-plan-workshop-template",
+        "label": "Research Plan Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Assumption Prioritization Matrix",
+    "What Goes Here": "A MoSCoW matrix ranking assumptions by risk and certainty."
+  },
+  {
+    "id": 126,
+    "slug": "126",
+    "Unique ID": 126,
+    "Workshop": [
+      {
+        "slug": "research-plan-workshop-template",
+        "label": "Research Plan Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Section / Prompt": "Method Selection Guide",
+    "What Goes Here": "Choosing a research method from the question type: generative vs evaluative, what vs why, short vs long term (for example: interview, survey, card sort, usability test, diary study, analytics audit)."
+  },
+  {
+    "id": 127,
+    "slug": "127",
+    "Unique ID": 127,
+    "Workshop": [
+      {
+        "slug": "research-plan-workshop-template",
+        "label": "Research Plan Workshop Template"
+      }
+    ],
+    "Order": "7",
+    "Section / Prompt": "Research Test Plan",
+    "What Goes Here": "The documented plan: background, research goals, research questions, assumptions, and methodology (participant description, screener criteria, test method, test materials, test measurements), plus the research's limitations."
+  },
+  {
+    "id": 128,
+    "slug": "128",
+    "Unique ID": 128,
+    "Workshop": [
+      {
+        "slug": "vision-and-scope-workshop-template",
+        "label": "Vision and Scope Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Vision Components",
+    "What Goes Here": "The building blocks: business why, target audiences, problems and opportunities, business goals, value, unique advantage, barriers and risks, costs, and KPIs."
+  },
+  {
+    "id": 129,
+    "slug": "129",
+    "Unique ID": 129,
+    "Workshop": [
+      {
+        "slug": "vision-and-scope-workshop-template",
+        "label": "Vision and Scope Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Problem Prioritization Matrix (per audience)",
+    "What Goes Here": "A MoSCoW matrix per audience, ranking problems by risk and certainty (or complexity and value)."
+  },
+  {
+    "id": 130,
+    "slug": "130",
+    "Unique ID": 130,
+    "Workshop": [
+      {
+        "slug": "vision-and-scope-workshop-template",
+        "label": "Vision and Scope Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Top Problems per Audience",
+    "What Goes Here": "The top few problems to solve near-term, chosen for the first release."
+  },
+  {
+    "id": 131,
+    "slug": "131",
+    "Unique ID": 131,
+    "Workshop": [
+      {
+        "slug": "vision-and-scope-workshop-template",
+        "label": "Vision and Scope Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Release Vision Board (MVP and MMP, per audience)",
+    "What Goes Here": "Per audience per release: vision statement, audience, user and business problems, business goals, value per problem, competitive advantage, barriers to success, costs, KPIs, and use cases to support."
+  },
+  {
+    "id": 132,
+    "slug": "132",
+    "Unique ID": 132,
+    "Workshop": [
+      {
+        "slug": "vision-and-scope-workshop-template",
+        "label": "Vision and Scope Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Scope of Outcomes per Release",
+    "What Goes Here": "The outcomes each release will achieve, based on the value and problems it addresses."
+  },
+  {
+    "id": 133,
+    "slug": "133",
+    "Unique ID": 133,
+    "Workshop": [
+      {
+        "slug": "backlog-management-workshop-template",
+        "label": "Backlog Management Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Epics and Features",
+    "What Goes Here": "The release scope organized into themes (epics) and the user-facing capabilities (features) inside them."
+  },
+  {
+    "id": 134,
+    "slug": "134",
+    "Unique ID": 134,
+    "Workshop": [
+      {
+        "slug": "backlog-management-workshop-template",
+        "label": "Backlog Management Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Tasks",
+    "What Goes Here": "The small, buildable task items inside each feature."
+  },
+  {
+    "id": 135,
+    "slug": "135",
+    "Unique ID": 135,
+    "Workshop": [
+      {
+        "slug": "backlog-management-workshop-template",
+        "label": "Backlog Management Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Release Roadmap",
+    "What Goes Here": "The epics and features sequenced over time."
+  },
+  {
+    "id": 136,
+    "slug": "136",
+    "Unique ID": 136,
+    "Workshop": [
+      {
+        "slug": "backlog-management-workshop-template",
+        "label": "Backlog Management Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Prioritized Backlog",
+    "What Goes Here": "The task tickets, ordered by priority and ready to write requirements against."
+  },
+  {
+    "id": 137,
+    "slug": "137",
+    "Unique ID": 137,
+    "Workshop": [
+      {
+        "slug": "ux-research-analysis-workshop-template",
+        "label": "UX Research Analysis Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Raw Test Results",
+    "What Goes Here": "Per question, task, and observation: the raw findings (for example, 'x of y people did Z')."
+  },
+  {
+    "id": 138,
+    "slug": "138",
+    "Unique ID": 138,
+    "Workshop": [
+      {
+        "slug": "ux-research-analysis-workshop-template",
+        "label": "UX Research Analysis Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Affinity Map and Rainbow Table",
+    "What Goes Here": "Findings clustered into themes, with a rainbow table tracking which participants exhibited each one."
+  },
+  {
+    "id": 139,
+    "slug": "139",
+    "Unique ID": 139,
+    "Workshop": [
+      {
+        "slug": "ux-research-analysis-workshop-template",
+        "label": "UX Research Analysis Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Assumption Conclusions",
+    "What Goes Here": "Per assumption: the results, the conclusion (true, false, or undetermined), and who owns it."
+  },
+  {
+    "id": 140,
+    "slug": "140",
+    "Unique ID": 140,
+    "Workshop": [
+      {
+        "slug": "ux-research-analysis-workshop-template",
+        "label": "UX Research Analysis Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "New Research Questions",
+    "What Goes Here": "The new topics and assumptions that emerged from this round of testing."
+  },
+  {
+    "id": 141,
+    "slug": "141",
+    "Unique ID": 141,
+    "Workshop": [
+      {
+        "slug": "ux-research-analysis-workshop-template",
+        "label": "UX Research Analysis Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Next-Round Prioritization",
+    "What Goes Here": "A MoSCoW matrix ranking the new research topics for the next iteration."
+  },
+  {
+    "id": 142,
+    "slug": "142",
+    "Unique ID": 142,
+    "Workshop": [
+      {
+        "slug": "research-analysis-presentation-slide-template",
+        "label": "Research Analysis Presentation Slide Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Presentation Structure",
+    "What Goes Here": "Background, research goals, method, key findings, conclusions, recommendations, and next steps."
+  },
+  {
+    "id": 143,
+    "slug": "143",
+    "Unique ID": 143,
+    "Workshop": [
+      {
+        "slug": "research-analysis-presentation-slide-template",
+        "label": "Research Analysis Presentation Slide Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Key Findings",
+    "What Goes Here": "The main results and what they mean for the product and its users."
+  },
+  {
+    "id": 144,
+    "slug": "144",
+    "Unique ID": 144,
+    "Workshop": [
+      {
+        "slug": "research-analysis-presentation-slide-template",
+        "label": "Research Analysis Presentation Slide Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Representation and Limitations",
+    "What Goes Here": "Who the data represents and the honest limits of the research."
+  },
+  {
+    "id": 145,
+    "slug": "145",
+    "Unique ID": 145,
+    "Workshop": [
+      {
+        "slug": "research-analysis-presentation-slide-template",
+        "label": "Research Analysis Presentation Slide Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Recommendations and Next Steps",
+    "What Goes Here": "The actionable recommendations and what the team should do next."
+  },
+  {
+    "id": 146,
+    "slug": "146",
+    "Unique ID": 146,
+    "Workshop": [
+      {
+        "slug": "storyboarding-workshop-template",
+        "label": "Storyboarding Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Audience Segments",
+    "What Goes Here": "The audiences you want to storyboard for."
+  },
+  {
+    "id": 147,
+    "slug": "147",
+    "Unique ID": 147,
+    "Workshop": [
+      {
+        "slug": "storyboarding-workshop-template",
+        "label": "Storyboarding Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Use Case Scenarios",
+    "What Goes Here": "The current and future use case scenarios per audience."
+  },
+  {
+    "id": 148,
+    "slug": "148",
+    "Unique ID": 148,
+    "Workshop": [
+      {
+        "slug": "storyboarding-workshop-template",
+        "label": "Storyboarding Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Use Case Prioritization and Vote",
+    "What Goes Here": "A MoSCoW matrix and a team vote to choose which use cases to storyboard."
+  },
+  {
+    "id": 149,
+    "slug": "149",
+    "Unique ID": 149,
+    "Workshop": [
+      {
+        "slug": "storyboarding-workshop-template",
+        "label": "Storyboarding Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Current-State Storyboard (8 panels)",
+    "What Goes Here": "An eight-panel comic of the user's experience today: what they do, struggle with, feel, and wish they had."
+  },
+  {
+    "id": 150,
+    "slug": "150",
+    "Unique ID": 150,
+    "Workshop": [
+      {
+        "slug": "storyboarding-workshop-template",
+        "label": "Storyboarding Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Future-State Storyboard (8 panels)",
+    "What Goes Here": "An eight-panel comic of the blue-sky future once the user's problems are solved, specific about how each problem is addressed."
+  },
+  {
+    "id": 151,
+    "slug": "151",
+    "Unique ID": 151,
+    "Workshop": [
+      {
+        "slug": "case-study-creation-workshop-template",
+        "label": "Case Study Creation Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "What Makes a Good (and Bad) Case Study",
+    "What Goes Here": "The team's reflections on what strong and weak case studies look like."
+  },
+  {
+    "id": 152,
+    "slug": "152",
+    "Unique ID": 152,
+    "Workshop": [
+      {
+        "slug": "case-study-creation-workshop-template",
+        "label": "Case Study Creation Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Team Actions and Events Needed",
+    "What Goes Here": "What the team must do, and what events must happen during the project, to produce a great case study."
+  },
+  {
+    "id": 153,
+    "slug": "153",
+    "Unique ID": 153,
+    "Workshop": [
+      {
+        "slug": "case-study-creation-workshop-template",
+        "label": "Case Study Creation Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Cross-Team Collaboration",
+    "What Goes Here": "How you will work with other teams to produce your case study."
+  },
+  {
+    "id": 154,
+    "slug": "154",
+    "Unique ID": 154,
+    "Workshop": [
+      {
+        "slug": "case-study-creation-workshop-template",
+        "label": "Case Study Creation Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Story-Driven Case Study Outline",
+    "What Goes Here": "The outline of the story your case study will tell, from background through outcomes."
+  },
+  {
+    "id": 155,
+    "slug": "155",
+    "Unique ID": 155,
+    "Workshop": [
+      {
+        "slug": "product-and-service-development-milestones-for-different-types-of-projects-works",
+        "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "The Agile Product and Service Lifecycle",
+    "What Goes Here": "The milestones (Intake, Discovery, Vision, Scope, Requirements, Implement, Acceptance Testing) and how they flow, non-linearly and in parallel."
+  },
+  {
+    "id": 156,
+    "slug": "156",
+    "Unique ID": 156,
+    "Workshop": [
+      {
+        "slug": "product-and-service-development-milestones-for-different-types-of-projects-works",
+        "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Deliverables per Milestone",
+    "What Goes Here": "The deliverable sets that belong to each milestone."
+  },
+  {
+    "id": 157,
+    "slug": "157",
+    "Unique ID": 157,
+    "Workshop": [
+      {
+        "slug": "product-and-service-development-milestones-for-different-types-of-projects-works",
+        "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Workshops per Milestone",
+    "What Goes Here": "Which workshops produce each milestone's deliverables."
+  },
+  {
+    "id": 158,
+    "slug": "158",
+    "Unique ID": 158,
+    "Workshop": [
+      {
+        "slug": "product-and-service-development-milestones-for-different-types-of-projects-works",
+        "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Project Types and Their Deliverables",
+    "What Goes Here": "How deliverables differ across business-strategy, website, and service-design projects (discovery-only, discovery-plus-design, and full build), and how MVP builds toward MMP."
+  },
+  {
+    "id": 163,
+    "slug": "163",
+    "Unique ID": 163,
+    "Workshop": [
+      {
+        "slug": "personal-growth-vision-scope-and-roadmap-workshop-template",
+        "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Personal Growth Vision Components",
+    "What Goes Here": "Your why, growth audiences, problems and opportunities, goals, value per problem, what makes you unique, barriers, costs, and KPIs."
+  },
+  {
+    "id": 164,
+    "slug": "164",
+    "Unique ID": 164,
+    "Workshop": [
+      {
+        "slug": "personal-growth-vision-scope-and-roadmap-workshop-template",
+        "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Growth Priorities",
+    "What Goes Here": "A MoSCoW matrix ranking your growth opportunities by effort and value."
+  },
+  {
+    "id": 165,
+    "slug": "165",
+    "Unique ID": 165,
+    "Workshop": [
+      {
+        "slug": "personal-growth-vision-scope-and-roadmap-workshop-template",
+        "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Top Growth Problems",
+    "What Goes Here": "Your top few growth opportunities to work on near-term."
+  },
+  {
+    "id": 166,
+    "slug": "166",
+    "Unique ID": 166,
+    "Workshop": [
+      {
+        "slug": "personal-growth-vision-scope-and-roadmap-workshop-template",
+        "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Personal Growth Vision Boards (MVP and MMP)",
+    "What Goes Here": "Your near-term and longer-term growth vision, each with vision statement, audiences, problems, goals, value, uniqueness, barriers, costs, and KPIs."
+  },
+  {
+    "id": 167,
+    "slug": "167",
+    "Unique ID": 167,
+    "Workshop": [
+      {
+        "slug": "personal-growth-vision-scope-and-roadmap-workshop-template",
+        "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Section / Prompt": "Growth Backlog (Epics, Features, Tasks)",
+    "What Goes Here": "Your growth work organized into epics, features, and tasks."
+  },
+  {
+    "id": 168,
+    "slug": "168",
+    "Unique ID": 168,
+    "Workshop": [
+      {
+        "slug": "personal-growth-vision-scope-and-roadmap-workshop-template",
+        "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Section / Prompt": "Personal Growth Roadmap",
+    "What Goes Here": "Your growth epics and features sequenced into a roadmap over the year."
+  },
+  {
+    "id": 169,
+    "slug": "169",
+    "Unique ID": 169,
+    "Workshop": [
+      {
+        "slug": "tech-fleet-sprint-demo-slide-deck-template",
+        "label": "Tech Fleet Sprint Demo Slide Deck Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Sprint Goal and What's Done",
+    "What Goes Here": "The sprint goal, and what was and was not completed this sprint."
+  },
+  {
+    "id": 170,
+    "slug": "170",
+    "Unique ID": 170,
+    "Workshop": [
+      {
+        "slug": "tech-fleet-sprint-demo-slide-deck-template",
+        "label": "Tech Fleet Sprint Demo Slide Deck Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Demo of the Increment",
+    "What Goes Here": "The demonstration of the completed work to stakeholders."
+  },
+  {
+    "id": 171,
+    "slug": "171",
+    "Unique ID": 171,
+    "Workshop": [
+      {
+        "slug": "tech-fleet-sprint-demo-slide-deck-template",
+        "label": "Tech Fleet Sprint Demo Slide Deck Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "What Went Well and Problems Solved",
+    "What Goes Here": "The team's reflections on what went well this sprint and the problems it solved."
+  },
+  {
+    "id": 172,
+    "slug": "172",
+    "Unique ID": 172,
+    "Workshop": [
+      {
+        "slug": "tech-fleet-sprint-demo-slide-deck-template",
+        "label": "Tech Fleet Sprint Demo Slide Deck Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Stakeholder Feedback and Next Steps",
+    "What Goes Here": "The feedback gathered from stakeholders and how the plan adapts as a result."
+  },
+  {
+    "id": 173,
+    "slug": "173",
+    "Unique ID": 173,
+    "Workshop": [
+      {
+        "slug": "customer-experience-strategy-workshop-template",
+        "label": "Customer Experience Strategy Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Section / Prompt": "Target Personas (prep)",
+    "What Goes Here": "The target personas, with each one's traits and pain points, that the strategy is built around."
+  },
+  {
+    "id": 174,
+    "slug": "174",
+    "Unique ID": 174,
+    "Workshop": [
+      {
+        "slug": "customer-experience-strategy-workshop-template",
+        "label": "Customer Experience Strategy Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Section / Prompt": "Designing for Personas (strategy)",
+    "What Goes Here": "The design strategy for each persona: how you intend to meet their needs and expectations."
+  },
+  {
+    "id": 175,
+    "slug": "175",
+    "Unique ID": 175,
+    "Workshop": [
+      {
+        "slug": "customer-experience-strategy-workshop-template",
+        "label": "Customer Experience Strategy Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Section / Prompt": "Customer Experience Funnel Strategy",
+    "What Goes Here": "How each persona will be supported across the lifecycle funnel (awareness, engagement, consideration, conversion, retention, loyalty), and how you will drive conversion and long-term engagement."
+  },
+  {
+    "id": 176,
+    "slug": "176",
+    "Unique ID": 176,
+    "Workshop": [
+      {
+        "slug": "customer-experience-strategy-workshop-template",
+        "label": "Customer Experience Strategy Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Section / Prompt": "Direction for the Site Map and Content",
+    "What Goes Here": "The content topics and navigation direction each audience needs, readying the Site Map and CX Map workshops (which produce those artifacts)."
+  }
+]

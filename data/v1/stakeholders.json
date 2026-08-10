@@ -1,0 +1,316 @@
+[
+  {
+    "id": 1,
+    "slug": "client",
+    "Name": "Client",
+    "Relevant Company Types": [
+      {
+        "slug": "agency",
+        "label": "Agency"
+      },
+      {
+        "slug": "freelance-and-consulting",
+        "label": "Freelance and Consulting"
+      }
+    ],
+    "Deliverables": "Acceptance Criteria",
+    "Workshops": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      },
+      {
+        "slug": "tech-fleet-sprint-demo-slide-deck-template",
+        "label": "Tech Fleet Sprint Demo Slide Deck Template"
+      },
+      {
+        "slug": "customer-experience-strategy-workshop-template",
+        "label": "Customer Experience Strategy Workshop Template"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "end-user",
+    "Name": "End-user",
+    "Relevant Company Types": [
+      {
+        "slug": "in-house-company",
+        "label": "In-house Company"
+      },
+      {
+        "slug": "agency",
+        "label": "Agency"
+      },
+      {
+        "slug": "freelance-and-consulting",
+        "label": "Freelance and Consulting"
+      },
+      {
+        "slug": "startup",
+        "label": "Startup"
+      }
+    ],
+    "Deliverables": "Acceptance Criteria, Affinity Map"
+  },
+  {
+    "id": 3,
+    "slug": "internal-teammate",
+    "Name": "Internal Teammate",
+    "Relevant Company Types": [
+      {
+        "slug": "in-house-company",
+        "label": "In-house Company"
+      },
+      {
+        "slug": "agency",
+        "label": "Agency"
+      },
+      {
+        "slug": "startup",
+        "label": "Startup"
+      }
+    ],
+    "Deliverables": "Acceptance Criteria, Affinity Map",
+    "Workshops": [
+      {
+        "slug": "team-ice-breakers-workshop-template",
+        "label": "Team Ice Breakers Workshop Template"
+      },
+      {
+        "slug": "agile-and-service-leadership-workshop-template",
+        "label": "Agile and Service Leadership Workshop Template"
+      },
+      {
+        "slug": "conflict-resolution-workshop-template",
+        "label": "Conflict Resolution Workshop Template"
+      },
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      },
+      {
+        "slug": "raci-hats-workshop-template",
+        "label": "RACI Hats Workshop Template"
+      },
+      {
+        "slug": "project-plan-workshop-template",
+        "label": "Project Plan Workshop Template"
+      },
+      {
+        "slug": "vision-and-scope-workshop-template",
+        "label": "Vision and Scope Workshop Template"
+      },
+      {
+        "slug": "team-process-mapping-workshop-template",
+        "label": "Team Process Mapping Workshop Template"
+      },
+      {
+        "slug": "sprint-goals-workshop-template",
+        "label": "Sprint Goals Workshop Template"
+      },
+      {
+        "slug": "backlog-management-workshop-template",
+        "label": "Backlog Management Workshop Template"
+      },
+      {
+        "slug": "sprint-retro-workshop-template",
+        "label": "Sprint Retro Workshop Template"
+      },
+      {
+        "slug": "working-agreements-workshop-template",
+        "label": "Working Agreements Workshop Template"
+      },
+      {
+        "slug": "scenario-based-problem-statement-generation-workshop-template",
+        "label": "Scenario-Based Problem Statement Generation Workshop Template"
+      },
+      {
+        "slug": "research-plan-workshop-template",
+        "label": "Research Plan Workshop Template"
+      },
+      {
+        "slug": "rapid-ideation-workshop-template",
+        "label": "Rapid Ideation Workshop Template"
+      },
+      {
+        "slug": "storyboarding-workshop-template",
+        "label": "Storyboarding Workshop Template"
+      },
+      {
+        "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+        "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+      },
+      {
+        "slug": "case-study-creation-workshop-template",
+        "label": "Case Study Creation Workshop Template"
+      },
+      {
+        "slug": "ux-research-analysis-workshop-template",
+        "label": "UX Research Analysis Workshop Template"
+      },
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      },
+      {
+        "slug": "customer-experience-map-workshop-template",
+        "label": "Customer Experience Map Workshop Template"
+      },
+      {
+        "slug": "user-journey-map-workshop-template",
+        "label": "User Journey Map Workshop Template"
+      },
+      {
+        "slug": "discovery-backlog-workshop-template",
+        "label": "Discovery Backlog Workshop Template"
+      },
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      },
+      {
+        "slug": "empathy-map-workshop-template",
+        "label": "Empathy Map Workshop Template"
+      },
+      {
+        "slug": "research-analysis-presentation-slide-template",
+        "label": "Research Analysis Presentation Slide Template"
+      },
+      {
+        "slug": "kpi-success-measurements-definition-workshop-template",
+        "label": "KPI Success Measurements Definition Workshop Template"
+      },
+      {
+        "slug": "product-and-service-development-milestones-for-different-types-of-projects-works",
+        "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+      },
+      {
+        "slug": "personal-growth-vision-scope-and-roadmap-workshop-template",
+        "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+      },
+      {
+        "slug": "agile-team-maturity-measurements-workshop-template",
+        "label": "Agile Team Maturity Measurements Workshop Template"
+      },
+      {
+        "slug": "tech-fleet-sprint-demo-slide-deck-template",
+        "label": "Tech Fleet Sprint Demo Slide Deck Template"
+      },
+      {
+        "slug": "customer-experience-strategy-workshop-template",
+        "label": "Customer Experience Strategy Workshop Template"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "cross-functional-stakeholder",
+    "Name": "Cross-functional Stakeholder",
+    "Relevant Company Types": [
+      {
+        "slug": "in-house-company",
+        "label": "In-house Company"
+      },
+      {
+        "slug": "agency",
+        "label": "Agency"
+      },
+      {
+        "slug": "startup",
+        "label": "Startup"
+      }
+    ],
+    "Deliverables": "Acceptance Criteria",
+    "Workshops": [
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      },
+      {
+        "slug": "research-plan-workshop-template",
+        "label": "Research Plan Workshop Template"
+      },
+      {
+        "slug": "rapid-ideation-workshop-template",
+        "label": "Rapid Ideation Workshop Template"
+      },
+      {
+        "slug": "storyboarding-workshop-template",
+        "label": "Storyboarding Workshop Template"
+      },
+      {
+        "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+        "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+      },
+      {
+        "slug": "ux-research-analysis-workshop-template",
+        "label": "UX Research Analysis Workshop Template"
+      },
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      },
+      {
+        "slug": "customer-experience-map-workshop-template",
+        "label": "Customer Experience Map Workshop Template"
+      },
+      {
+        "slug": "user-journey-map-workshop-template",
+        "label": "User Journey Map Workshop Template"
+      },
+      {
+        "slug": "discovery-backlog-workshop-template",
+        "label": "Discovery Backlog Workshop Template"
+      },
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      },
+      {
+        "slug": "empathy-map-workshop-template",
+        "label": "Empathy Map Workshop Template"
+      },
+      {
+        "slug": "research-analysis-presentation-slide-template",
+        "label": "Research Analysis Presentation Slide Template"
+      },
+      {
+        "slug": "kpi-success-measurements-definition-workshop-template",
+        "label": "KPI Success Measurements Definition Workshop Template"
+      },
+      {
+        "slug": "tech-fleet-sprint-demo-slide-deck-template",
+        "label": "Tech Fleet Sprint Demo Slide Deck Template"
+      },
+      {
+        "slug": "customer-experience-strategy-workshop-template",
+        "label": "Customer Experience Strategy Workshop Template"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "customer",
+    "Name": "Customer",
+    "Relevant Company Types": [
+      {
+        "slug": "in-house-company",
+        "label": "In-house Company"
+      },
+      {
+        "slug": "agency",
+        "label": "Agency"
+      },
+      {
+        "slug": "freelance-and-consulting",
+        "label": "Freelance and Consulting"
+      },
+      {
+        "slug": "startup",
+        "label": "Startup"
+      }
+    ],
+    "Deliverables": "Acceptance Criteria"
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "framework": "Skills & Practices Framework",
+  "version": "v1",
+  "generatedFromBaserow": 287350,
+  "entities": [
+    {
+      "entity": "data-types",
+      "file": "data-types.json",
+      "count": 15,
+      "primaryField": "Data Type Name"
+    },
+    {
+      "entity": "skills",
+      "file": "skills.json",
+      "count": 115,
+      "primaryField": "Skill Name"
+    },
+    {
+      "entity": "practices",
+      "file": "practices.json",
+      "count": 7,
+      "primaryField": "Practice Name"
+    },
+    {
+      "entity": "practice-components",
+      "file": "practice-components.json",
+      "count": 44,
+      "primaryField": "Component Name"
+    },
+    {
+      "entity": "activities",
+      "file": "activities.json",
+      "count": 100,
+      "primaryField": "Activity Name"
+    },
+    {
+      "entity": "duties",
+      "file": "duties.json",
+      "count": 18,
+      "primaryField": "Duty Name"
+    },
+    {
+      "entity": "job-functions",
+      "file": "job-functions.json",
+      "count": 11,
+      "primaryField": "Job Function"
+    },
+    {
+      "entity": "deliverables",
+      "file": "deliverables.json",
+      "count": 104,
+      "primaryField": "Deliverable Name"
+    },
+    {
+      "entity": "milestones",
+      "file": "milestones.json",
+      "count": 9,
+      "primaryField": "Milestone Name"
+    },
+    {
+      "entity": "specializations",
+      "file": "specializations.json",
+      "count": 24,
+      "primaryField": "Specialization Name"
+    },
+    {
+      "entity": "methodologies",
+      "file": "methodologies.json",
+      "count": 6,
+      "primaryField": "Agile Method Name"
+    },
+    {
+      "entity": "tools",
+      "file": "tools.json",
+      "count": 17,
+      "primaryField": "Tool Name"
+    },
+    {
+      "entity": "company-types",
+      "file": "company-types.json",
+      "count": 4,
+      "primaryField": "Name"
+    },
+    {
+      "entity": "stakeholders",
+      "file": "stakeholders.json",
+      "count": 5,
+      "primaryField": "Name"
+    },
+    {
+      "entity": "job-industries",
+      "file": "job-industries.json",
+      "count": 29,
+      "primaryField": "Job Industry Name"
+    },
+    {
+      "entity": "project-types",
+      "file": "project-types.json",
+      "count": 5,
+      "primaryField": "Project Type"
+    },
+    {
+      "entity": "workshops",
+      "file": "workshops.json",
+      "count": 33,
+      "primaryField": "Workshop Name"
+    },
+    {
+      "entity": "workshop-steps",
+      "file": "workshop-steps.json",
+      "count": 167,
+      "primaryField": "Workshop Step Unique ID"
+    },
+    {
+      "entity": "workshop-template-sections",
+      "file": "workshop-template-sections.json",
+      "count": 170,
+      "primaryField": "Unique ID"
+    }
+  ]
+}
