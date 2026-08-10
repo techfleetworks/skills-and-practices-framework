@@ -1,0 +1,115 @@
+<svg viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif">
+  <title id="t">The 15 data objects of the Skills &amp; Practices Framework</title>
+  <desc id="d">A radial mind map with the Skills and Practices Framework at the center, surrounded by its 15 data types, grouped into three families: people and roles (Skills, Practices, Duty, Job Function, Job Specialization, Stakeholder), the work (Activity, Workshop, Deliverable, Milestone, Project), and context (Tool, Methodology, Company Type, Job Industry).</desc>
+
+  <rect x="0" y="0" width="1200" height="900" rx="18" fill="#ffffff"/>
+
+  <text x="40" y="46" font-size="21" font-weight="700" fill="#0f172a">The 15 data objects</text>
+  <text x="40" y="70" font-size="13" fill="#475569">How the Skills &amp; Practices Framework is organized.</text>
+
+  <!-- legend -->
+  <rect x="40" y="88" width="16" height="16" rx="3" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5"/>
+  <text x="64" y="101" font-size="12.5" fill="#334155">People &amp; roles</text>
+  <rect x="40" y="112" width="16" height="16" rx="3" fill="#e0e7ff" stroke="#4338ca" stroke-width="1.5"/>
+  <text x="64" y="125" font-size="12.5" fill="#334155">The work</text>
+  <rect x="40" y="136" width="16" height="16" rx="3" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+  <text x="64" y="149" font-size="12.5" fill="#334155">Context</text>
+
+  <!-- connectors -->
+  <g stroke="#e2e8f0" stroke-width="2">
+    <line x1="600" y1="450" x2="600" y2="120"/>
+    <line x1="600" y1="450" x2="734" y2="149"/>
+    <line x1="600" y1="450" x2="845" y2="229"/>
+    <line x1="600" y1="450" x2="914" y2="348"/>
+    <line x1="600" y1="450" x2="928" y2="485"/>
+    <line x1="600" y1="450" x2="886" y2="615"/>
+    <line x1="600" y1="450" x2="794" y2="717"/>
+    <line x1="600" y1="450" x2="669" y2="773"/>
+    <line x1="600" y1="450" x2="531" y2="773"/>
+    <line x1="600" y1="450" x2="406" y2="717"/>
+    <line x1="600" y1="450" x2="314" y2="615"/>
+    <line x1="600" y1="450" x2="272" y2="485"/>
+    <line x1="600" y1="450" x2="286" y2="348"/>
+    <line x1="600" y1="450" x2="355" y2="229"/>
+    <line x1="600" y1="450" x2="466" y2="149"/>
+  </g>
+
+  <!-- nodes: people & roles (teal) -->
+  <g font-size="12.5" font-weight="700" fill="#0f172a" text-anchor="middle">
+    <g>
+      <rect x="534" y="100" width="132" height="40" rx="20" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5"/>
+      <text x="600" y="124">Skills</text>
+    </g>
+    <g>
+      <rect x="668" y="129" width="132" height="40" rx="20" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5"/>
+      <text x="734" y="153">Practices</text>
+    </g>
+    <g>
+      <rect x="779" y="209" width="132" height="40" rx="20" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5"/>
+      <text x="845" y="233">Duty</text>
+    </g>
+    <g>
+      <rect x="848" y="328" width="132" height="40" rx="20" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5"/>
+      <text x="914" y="352">Job Function</text>
+    </g>
+    <g>
+      <rect x="862" y="465" width="132" height="40" rx="20" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5"/>
+      <text x="928" y="489" font-size="11">Job Specialization</text>
+    </g>
+    <g>
+      <rect x="820" y="595" width="132" height="40" rx="20" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5"/>
+      <text x="886" y="619">Stakeholder</text>
+    </g>
+  </g>
+
+  <!-- nodes: the work (indigo) -->
+  <g font-size="12.5" font-weight="700" fill="#0f172a" text-anchor="middle">
+    <g>
+      <rect x="728" y="697" width="132" height="40" rx="20" fill="#e0e7ff" stroke="#4338ca" stroke-width="1.5"/>
+      <text x="794" y="721">Activity</text>
+    </g>
+    <g>
+      <rect x="603" y="753" width="132" height="40" rx="20" fill="#e0e7ff" stroke="#4338ca" stroke-width="1.5"/>
+      <text x="669" y="777">Workshop</text>
+    </g>
+    <g>
+      <rect x="465" y="753" width="132" height="40" rx="20" fill="#e0e7ff" stroke="#4338ca" stroke-width="1.5"/>
+      <text x="531" y="777">Deliverable</text>
+    </g>
+    <g>
+      <rect x="340" y="697" width="132" height="40" rx="20" fill="#e0e7ff" stroke="#4338ca" stroke-width="1.5"/>
+      <text x="406" y="721">Milestone</text>
+    </g>
+    <g>
+      <rect x="248" y="595" width="132" height="40" rx="20" fill="#e0e7ff" stroke="#4338ca" stroke-width="1.5"/>
+      <text x="314" y="619">Project</text>
+    </g>
+  </g>
+
+  <!-- nodes: context (amber) -->
+  <g font-size="12.5" font-weight="700" fill="#0f172a" text-anchor="middle">
+    <g>
+      <rect x="206" y="465" width="132" height="40" rx="20" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+      <text x="272" y="489">Tool</text>
+    </g>
+    <g>
+      <rect x="220" y="328" width="132" height="40" rx="20" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+      <text x="286" y="352">Methodology</text>
+    </g>
+    <g>
+      <rect x="289" y="209" width="132" height="40" rx="20" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+      <text x="355" y="233">Company Type</text>
+    </g>
+    <g>
+      <rect x="400" y="129" width="132" height="40" rx="20" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+      <text x="466" y="153">Job Industry</text>
+    </g>
+  </g>
+
+  <!-- center -->
+  <rect x="495" y="415" width="210" height="70" rx="16" fill="#0f172a"/>
+  <text x="600" y="446" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Skills &amp; Practices</text>
+  <text x="600" y="467" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Framework</text>
+
+  <text x="1160" y="870" text-anchor="end" font-size="10.5" fill="#94a3b8">Every object links to the others; together they map how people work well together.</text>
+</svg>

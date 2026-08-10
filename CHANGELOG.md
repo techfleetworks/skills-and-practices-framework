@@ -22,7 +22,10 @@ means "read the notes before you update."
 
 ## Unreleased
 
-Nothing yet since v0.1.0.
+**Added**
+- A mind map (SVG) for each of the 15 data types in `docs/diagrams/`, showing the data
+  type at the center and its two-way relationship to every other data type, generated from
+  the data by `tools/build-mindmaps.mjs`.
 
 ## v0.1.0 — 2026-08-10
 
