@@ -16,7 +16,7 @@ It turns the scary, vague leap into tech into a clear, honest map.
 
 ## How it is structured
 
-The data is one table. Each **row** is a single pairing: one **source field** you are coming from and one **target field** you want to move into. A `Target Field` column names the tech field, and a `Transition From` column names where you are coming from.
+The data lives as one file per target field, under `data/json/career-transitioning/`, and each file is a table of rows. Each **row** is a single pairing: one **source field** you are coming from and one **target field** you want to move into. A `Target Field` column names the tech field, and a `Transition From` column names where you are coming from.
 
 So the layer is really a grid. Down one side are the fields people come from (Academia, Finance, Construction, and more). Along the top are the tech fields they want (UX Research, Business Analysis, and more). Each row where they meet holds a full, honest comparison. Reading one row tells a career changer exactly how their specific background maps onto the field they want. Filter by `Target Field` to see every path into one field; filter by `Transition From` to see everywhere one background can go.
 

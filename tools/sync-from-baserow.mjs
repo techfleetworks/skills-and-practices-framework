@@ -11,7 +11,7 @@ if (!T) { console.error("Missing BASEROW_TOKEN"); process.exit(1); }
 const BASE = "https://api.baserow.io";
 const hdr = { Authorization: `Token ${T}` };
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const OUT = join(ROOT, "data", "json");
+const OUT = join(ROOT, "data", "json", "framework-data");
 mkdirSync(OUT, { recursive: true });
 
 const ENTITIES = [
@@ -109,9 +109,9 @@ for (const ent of ENTITIES) {
     return rec;
   });
   writeFileSync(join(OUT, `${ent.file}.json`), JSON.stringify(records, null, 2));
-  manifest.entities.push({ entity: ent.file, file: `${ent.file}.json`, count: records.length, primaryField: primary.name });
+  manifest.entities.push({ entity: ent.file, file: `framework-data/${ent.file}.json`, count: records.length, primaryField: primary.name });
   console.log(`${ent.file.padEnd(28)} ${String(records.length).padStart(4)} rows`);
 }
 
-writeFileSync(join(OUT, "manifest.json"), JSON.stringify(manifest, null, 2));
+writeFileSync(join(ROOT, "data", "json", "manifest.json"), JSON.stringify(manifest, null, 2));
 console.log(`\nmanifest.json written with ${manifest.entities.length} entities.`);

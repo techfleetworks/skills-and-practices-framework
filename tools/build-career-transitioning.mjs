@@ -3,7 +3,7 @@
 // data/json/transitions.json. Adds an explicit "Target Field" column, standardizes the
 // column names across all tables, and normalizes link fields to {slug,label}.
 // Run: BASEROW_TOKEN=... node tools/build-transitions.mjs
-import { writeFileSync, readFileSync } from "node:fs";
+import { writeFileSync, readFileSync, mkdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 
@@ -24,6 +24,7 @@ const TARGET = {
   1124078: "Product Ownership",
   1124364: "Product Management",    // multi-hat role (also spans BA/PO/SolArch/ProdOps) by design
   1124367: "Agile Coaching",        // multi-hat role (also spans Scrum Master/ProdOps) by design
+  1125801: "Software Engineering",
 };
 
 // Correct source-industry typos from the Baserow "Transition From" field.
@@ -84,19 +85,26 @@ for (const [id, target] of Object.entries(TARGET)) {
   }
 }
 
-writeFileSync(join(ROOT, "data", "json", "transitions.json"), JSON.stringify(out, null, 2));
-console.log(`transitions.json: ${out.length} rows across ${Object.keys(TARGET).length} target fields`);
-console.log("coverage (rows per target field):");
-for (const [t, n] of Object.entries(coverage)) console.log(`  ${t.padEnd(20)} ${n}`);
-const froms = [...new Set(out.map(r => r["Transition From"]))].sort();
-console.log(`\nsource industries seen (${froms.length}): ${froms.join(", ")}`);
+// one file per target field: data/json/career-transitioning/Transitioning_into_<Field>.json
+const OUT = join(ROOT, "data", "json", "career-transitioning");
+mkdirSync(OUT, { recursive: true });
+const byField = {};
+for (const r of out) (byField[r["Target Field"]] ||= []).push(r);
+const manEntries = [];
+for (const [field, rows] of Object.entries(byField)) {
+  const file = `Transitioning_into_${field.replace(/[^A-Za-z0-9]+/g, "_")}.json`;
+  writeFileSync(join(OUT, file), JSON.stringify(rows, null, 2));
+  manEntries.push({ entity: `career-transitioning/${file.replace(/\.json$/, "")}`, file: `career-transitioning/${file}`, count: rows.length, primaryField: "slug", targetField: field });
+  console.log(`${file.padEnd(48)} ${rows.length} rows`);
+}
+console.log(`\n${out.length} rows across ${Object.keys(byField).length} target fields`);
 
-// upsert a manifest entry so consumers see the transitions dataset (run after sync-from-baserow)
+// upsert career-transitioning entries into the manifest (run after sync-from-baserow)
 const manPath = join(ROOT, "data", "json", "manifest.json");
 try {
   const man = JSON.parse(readFileSync(manPath, "utf8"));
-  man.entities = man.entities.filter(e => e.entity !== "transitions");
-  man.entities.push({ entity: "transitions", file: "transitions.json", count: out.length, primaryField: "slug" });
+  man.entities = man.entities.filter(e => e.entity !== "transitions" && !String(e.entity).startsWith("career-transitioning/"));
+  man.entities.push(...manEntries);
   writeFileSync(manPath, JSON.stringify(man, null, 2));
-  console.log("manifest.json updated with the transitions entry");
+  console.log("manifest.json updated with career-transitioning entries");
 } catch (e) { console.log("manifest not updated:", e.message); }

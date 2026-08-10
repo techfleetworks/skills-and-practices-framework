@@ -11,7 +11,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = join(ROOT, "data", "visualizations");
 mkdirSync(OUT, { recursive: true });
 
-const rows = JSON.parse(readFileSync(join(ROOT, "data", "json", "data-types.json"), "utf8"));
+const rows = JSON.parse(readFileSync(join(ROOT, "data", "json", "framework-data", "data-types.json"), "utf8"));
 
 // name -> {desc, slug}
 const byName = {};

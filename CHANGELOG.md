@@ -23,9 +23,13 @@ means "read the notes before you update."
 ## Unreleased
 
 **Added**
-- The career-change layer: the seven "Transitioning Into" tables consolidated into one
-  `data/json/transitions.json` (201 rows) with an explicit `Target Field` column and one
-  standardized schema, built by `tools/build-transitions.mjs`, plus a structure doc at
+- The career-change layer: eight "Transitioning Into" fields (UX Research, UX Design, UX
+  Writing, Business Analysis, Product Ownership, Product Management, Agile Coaching, Software
+  Engineering) as per-field files under `data/json/career-transitioning/`. Each row carries a
+  unique Gaps summary and Training path for that source-to-target move, and each field carries
+  one role-level "A Day in the Life", all grounded in the role's Responsible, Accountable, and
+  Consulted work. Built by `tools/build-career-transitioning.mjs`, authored via
+  `tools/populate-career-transitioning.mjs`, with a structure doc at
   `docs/data-types/transitioning-into-a-field.md`.
 - The three Tech Fleet handbooks (Agile, Teammate, Project Success) pulled from GitBook as
   Markdown into `data/handbooks/` (168 pages), synced by `tools/extract-handbooks.mjs`.
@@ -42,6 +46,10 @@ means "read the notes before you update."
   converted lookup fields to clean, deduplicated `{slug, label}` relationships, and renamed
   the mislabeled `UX Design Deliverables copy` to `UX Design Deliverables` (no data lost).
   The cleaning rules live in `tools/sync-from-baserow.mjs`, so every future export stays clean.
+- Split `data/json` into `data/json/framework-data/` (the core entities) and
+  `data/json/career-transitioning/` (the eight career-change fields), with the manifest at the
+  `data/json/` root, so the dataset can grow cleanly.
+- Refreshed the workshops data (Steps to Complete and Expected Outcomes) from Baserow.
 
 ## v0.1.0 — 2026-08-10
 
