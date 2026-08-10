@@ -102,7 +102,7 @@ The framework is built for people trying to get in, as much as for people alread
 ## For Teams
 For a team, the framework works as a shared language and a mirror. It gives everyone the same words for the work, so less time gets lost to confusion about who does what. It makes the invisible practices visible, so a team can look at how they work together, which usually gets ignored in favor of what they ship. And it gives a team a way to see its own growth over time, across both skills and practices.
 
-# How to use this framework
+# How To Use This Framework
 
 **If you are learning,** start with a role or a milestone you care about. Read its README, then follow the links out to the skills, deliverables, and workshops around it. Learn by walking the web instead of memorizing lists.
 
