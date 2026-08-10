@@ -8,7 +8,7 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const OUT = join(ROOT, "docs", "handbooks");
+const OUT = join(ROOT, "data", "handbooks");
 const UA = { headers: { "User-Agent": "Mozilla/5.0 (skills-framework handbook sync)" } };
 
 // URL path prefix -> local handbook folder

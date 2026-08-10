@@ -24,10 +24,16 @@ means "read the notes before you update."
 
 **Added**
 - The three Tech Fleet handbooks (Agile, Teammate, Project Success) pulled from GitBook as
-  Markdown into `docs/handbooks/` (168 pages), synced by `tools/extract-handbooks.mjs`.
-- A mind map (SVG) for each of the 15 data types in `docs/diagrams/`, showing the data
+  Markdown into `data/handbooks/` (168 pages), synced by `tools/extract-handbooks.mjs`.
+- A mind map (SVG) for each of the 15 data types in `data/visualizations/`, showing the data
   type at the center and its two-way relationship to every other data type, generated from
   the data by `tools/build-mindmaps.mjs`.
+
+**Changed**
+- Grouped the framework's data forms under `data/`: `data/json` (structured data),
+  `data/handbooks` (long-form prose), and `data/visualizations` (mind maps). The handbooks
+  and visualizations are the same framework data in other forms, so they live with the JSON.
+  Documentation about the framework (the per-type READMEs) stays in `docs/data-types/`.
 
 ## v0.1.0 — 2026-08-10
 

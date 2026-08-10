@@ -11,7 +11,7 @@ if (!T) { console.error("Missing BASEROW_TOKEN"); process.exit(1); }
 const BASE = "https://api.baserow.io";
 const hdr = { Authorization: `Token ${T}` };
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const OUT = join(ROOT, "data", "v1");
+const OUT = join(ROOT, "data", "json");
 mkdirSync(OUT, { recursive: true });
 
 const ENTITIES = [
