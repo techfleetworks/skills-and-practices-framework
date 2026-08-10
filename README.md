@@ -4,7 +4,7 @@
 
 ---
 
-## What this is
+## What Is This?
 Today, countless people struggle to succeed in the workforce. The requirements are changing for everyone. The gaps between education and the work are growing. The work world will continue to outpace education into the future because education is just the beginning. People need to change the ways they think and work in order to succeed in this ever-shifting work world. "How do I succeed" is becoming harder and harder by the day. 
 
 For a lot of people, what to build and how to build it stays a deep mystery. Workers have to constantly keep up with the nuances of which things they are describing may or may not be relevant. Everyone has a different "language of success". What it means for one company's definition of "success" in a role could be drastically different from another company's. The same job title means different daily work at different companies. The work gets described in a hundred different ways. Different people define the needed skills differently. Startups, agencies, and in-house teams expect different things. Buzzwords and jargon get interpreted wrong. As a result, new graduates and workers of the world experience the whiplash of having to re-learn what they thought they knew about what it takes to succeed in a role each time they face a role. 
