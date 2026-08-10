@@ -51,7 +51,7 @@ const spec = {
   openapi: "3.1.0",
   info: {
     title: "The Skills & Practices Framework API",
-    version: "0.1.0",
+    version: "1.0.0",
     summary: "An open, machine-readable map of how people work well together.",
     description:
       "A static, read-only API over the Skills & Practices Framework. Every endpoint is a JSON " +
