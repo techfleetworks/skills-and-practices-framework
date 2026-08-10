@@ -22,15 +22,22 @@ means "read the notes before you update."
 
 ## Unreleased
 
-Work in progress toward the first public release.
+Nothing yet since v0.1.0.
+
+## v0.1.0 — 2026-08-10
+
+The first milestone: the framework's data and docs, in a public repo. This is an early
+pre-release, not the public launch (that will be v1.0.0).
 
 **Added**
 - The repository structure, licensing (CC BY 4.0 for the data, Apache-2.0 for the code),
-  and contribution guide.
-- The full data layer: 19 data files exported from the framework's database, covering the
-  15 data types plus the workshop steps and template sections, each row given a stable
-  slug and human-readable labels on every relationship.
+  and a contribution guide.
+- The full data layer: 20 data files exported from the framework's database, covering the
+  15 data types plus workshop steps, workshop template sections, and the hand-off
+  deliverables map. Every row has a stable slug and human-readable labels on every
+  relationship.
 - A plain-language README for each of the 15 data types.
+- This changelog.
 
 **Coming next**
 - The three Tech Fleet handbooks (Agile, Teammate, Project Success) pulled in as Markdown.
@@ -40,4 +47,4 @@ Work in progress toward the first public release.
 
 ---
 
-*The first tagged release (v1.0.0) will be cut when the framework goes public.*
+*Versions below 1.0.0 are early pre-releases. Version 1.0.0 will mark the public launch.*
