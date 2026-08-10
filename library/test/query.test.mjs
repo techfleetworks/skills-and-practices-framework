@@ -89,6 +89,49 @@ test("relations() resolves a specific field to real records", () => {
   assert.ok(related.every((r) => typeof r.slug === "string"));
 });
 
+test("relations() can be filtered to a target dataset (the `as` argument)", () => {
+  let sample = null;
+  let field = null;
+  outer: for (const r of fw.of("deliverables").all()) {
+    for (const [k, v] of Object.entries(r)) {
+      if (Array.isArray(v) && v[0] && typeof v[0] === "object" && "slug" in v[0]) {
+        sample = r;
+        field = k;
+        break outer;
+      }
+    }
+  }
+  const all = fw.relations(sample, field);
+  const targetEntity = all[0].$entity;
+  const filtered = fw.relations(sample, field, targetEntity);
+  assert.ok(filtered.length > 0);
+  assert.ok(filtered.every((r) => r.$entity === targetEntity));
+});
+
+test("where() matches a relationship by its label", () => {
+  let sample = null;
+  let field = null;
+  let label = null;
+  outer: for (const r of fw.of("deliverables").all()) {
+    for (const [k, v] of Object.entries(r)) {
+      if (Array.isArray(v) && v[0] && typeof v[0] === "object" && "label" in v[0]) {
+        sample = r;
+        field = k;
+        label = v[0].label;
+        break outer;
+      }
+    }
+  }
+  const hits = fw.of("deliverables").where({ [field]: label });
+  assert.ok(hits.some((r) => r.slug === sample.slug));
+});
+
+test("createFramework builds synchronously from a snapshot", async () => {
+  const { createFramework } = await import("../dist/index.js");
+  const f = createFramework({ version: "x", data: { tools: [{ slug: "t", "Tool Name": "T" }] } });
+  assert.equal(f.of("tools").get("t")["Tool Name"], "T");
+});
+
 test("neighbors() and backlinks() round-trip", () => {
   let sample = null;
   let neigh = [];

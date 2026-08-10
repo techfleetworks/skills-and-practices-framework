@@ -53,6 +53,8 @@ export type Predicate<T> = (record: T) => boolean;
 
 /** A queryable set of records from one dataset. */
 export class Collection<T extends FrameworkRecord = FrameworkRecord> {
+  private searchIndex?: string[];
+
   constructor(
     readonly name: string,
     readonly records: T[],
@@ -86,7 +88,10 @@ export class Collection<T extends FrameworkRecord = FrameworkRecord> {
   search(text: string): T[] {
     const q = text.toLowerCase();
     if (!q) return [];
-    return this.records.filter((r) => recordText(r).includes(q));
+    // Build the lowercased text index once, on first search, then reuse it.
+    if (!this.searchIndex) this.searchIndex = this.records.map((r) => recordText(r));
+    const idx = this.searchIndex;
+    return this.records.filter((_, i) => idx[i]!.includes(q));
   }
 
   [Symbol.iterator](): Iterator<T> {

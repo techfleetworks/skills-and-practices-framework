@@ -23,6 +23,26 @@ means "read the notes before you update."
 ## Unreleased
 
 **Added**
+- Engineering-standards hardening pass across the whole build (architecture, security,
+  testing, release, SRE, and data-lifecycle standards): Architecture Decision Records
+  (`docs/adr/`), explicit non-functional requirements (`docs/non-functional-requirements.md`),
+  operational runbooks and lightweight SLOs (`docs/runbooks.md`), a future hosted-service
+  design spec (`docs/service-design.md`), and a full conformance report
+  (`docs/engineering-standards-conformance.md`).
+- CI: a quality-gate workflow (`.github/workflows/ci.yml`) running integrity validation, a
+  contract check (OpenAPI ↔ manifest ↔ snapshot can't drift), the library build, tests with a
+  coverage gate, and a dependency audit — actions pinned to commit SHAs. A scheduled
+  Baserow-refresh workflow (`refresh.yml`) and an uptime healthcheck (`healthcheck.yml`).
+- Contract, `@security`, and `@reliability` tests for the library, plus a Gherkin
+  specification (`features/data-api.feature`). Test count is now 24 with ~97% line coverage.
+
+**Changed**
+- The API docs now **self-host** the Scalar engine (`api/scalar.js`, pinned to
+  `@scalar/api-reference@1.64.1`) instead of loading it from a third-party CDN — no external
+  script dependency, and it works offline.
+- Hardened the query library loader with a bounded fetch timeout (default 15 s) and clearer
+  errors; `search()` now builds its text index once and reuses it.
+
 - A query library, `@techfleet/spf`, under `library/`: a small, typed, dependency-free
   TypeScript package that loads the framework into memory and lets you filter, search, and walk
   relationships (forward, reverse, and neighbors), resolving links global-by-slug exactly as the

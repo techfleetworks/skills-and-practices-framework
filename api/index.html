@@ -17,12 +17,17 @@
       Scalar renders this page from our OpenAPI spec. It is free and open source
       (MIT). The spec lives at ../openapi/openapi.json; every endpoint it lists is a
       real JSON file in this repository, served by GitHub Pages.
+
+      The Scalar engine is SELF-HOSTED (vendored at ./scalar.js, pinned to
+      @scalar/api-reference@1.64.1) rather than loaded from a third-party CDN, so there
+      is no external script dependency and nothing that can be tampered with off-site.
+      To update: download the same file at a new pinned version and replace ./scalar.js.
     -->
     <script
       id="api-reference"
       data-url="../openapi/openapi.json"
       data-configuration='{"theme":"default","layout":"modern","hideDownloadButton":false}'
     ></script>
-    <script src="https://cdn.jsdelivr.net/npm/@scalar/api-reference"></script>
+    <script src="./scalar.js"></script>
   </body>
 </html>

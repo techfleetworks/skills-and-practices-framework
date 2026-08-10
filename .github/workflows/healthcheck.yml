@@ -1,0 +1,38 @@
+name: Uptime healthcheck
+
+# Verifies the published endpoints are reachable (availability SLI). Opens an issue if any is
+# down, so an outage is noticed rather than discovered by a consumer. See docs/runbooks.md.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  healthcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check published endpoints return 200
+        run: |
+          base="https://techfleetworks.github.io/skills-and-practices-framework"
+          fail=0
+          for path in "/api/" "/openapi/openapi.json" "/data/json/manifest.json" "/data/json/framework.snapshot.json"; do
+            code=$(curl -s -o /dev/null -w "%{http_code}" "$base$path")
+            echo "$path -> $code"
+            [ "$code" = "200" ] || fail=1
+          done
+          exit $fail
+
+      - name: Open an issue on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --repo "${{ github.repository }}" \
+            --title "Healthcheck failed: a published endpoint is not returning 200" \
+            --body "One or more published endpoints did not return 200. Investigate per docs/runbooks.md. Failed run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"

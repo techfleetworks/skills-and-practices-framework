@@ -1,0 +1,55 @@
+name: Refresh data from Baserow
+
+# Pulls the latest data from Baserow, rebuilds every artifact, validates integrity, and
+# commits the result (which redeploys GitHub Pages). Runs on a schedule and on demand.
+# Requires a BASEROW_TOKEN repository secret (Settings -> Secrets and variables -> Actions).
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *" # daily at 06:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: 20
+
+      - name: Sync from Baserow, rebuild, validate
+        env:
+          BASEROW_TOKEN: ${{ secrets.BASEROW_TOKEN }}
+        run: |
+          if [ -z "$BASEROW_TOKEN" ]; then
+            echo "::error::BASEROW_TOKEN secret is not set. Add it under Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
+          node tools/sync-from-baserow.mjs
+          node tools/build-career-transitioning.mjs
+          node tools/build-jsonld.mjs
+          node tools/build-schemas.mjs
+          node tools/build-openapi.mjs
+          node tools/build-snapshot.mjs
+          node tools/build-types.mjs
+          node tools/validate.mjs
+
+      - name: Commit and push if the data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "chore(data): scheduled refresh from Baserow"
+            git push
+            echo "Published refreshed data."
+          else
+            echo "No changes since last refresh."
+          fi

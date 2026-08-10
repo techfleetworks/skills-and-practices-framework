@@ -13,7 +13,11 @@ export interface LoadOptions {
   snapshotUrl?: string;
   /** A custom fetch implementation. Defaults to the global `fetch`. */
   fetch?: typeof fetch;
+  /** Abort the network load after this many milliseconds (default 15000). */
+  timeoutMs?: number;
 }
+
+const DEFAULT_TIMEOUT_MS = 15_000;
 
 /** Build a framework from a snapshot you already have in memory. Synchronous. */
 export function createFramework(snapshot: Snapshot): Framework {
@@ -35,7 +39,19 @@ export async function loadFramework(options: LoadOptions = {}): Promise<Framewor
   const base = (options.baseUrl ?? DEFAULT_BASE_URL).replace(/\/+$/, "");
   const url = options.snapshotUrl ?? `${base}/data/json/framework.snapshot.json`;
 
-  const res = await doFetch(url);
+  // Bound the outbound call so a slow or hanging endpoint can't stall the caller forever.
+  const timeoutMs = options.timeoutMs ?? DEFAULT_TIMEOUT_MS;
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  let res: Response;
+  try {
+    res = await doFetch(url, { signal: controller.signal });
+  } catch (err) {
+    if (controller.signal.aborted) throw new Error(`Timed out after ${timeoutMs}ms loading framework snapshot: ${url}`);
+    throw new Error(`Failed to load framework snapshot: ${url} (${(err as Error).message})`);
+  } finally {
+    clearTimeout(timer);
+  }
   if (!res.ok) throw new Error(`Failed to load framework snapshot (${res.status}): ${url}`);
   const snapshot = (await res.json()) as Snapshot;
   return new Framework(snapshot);

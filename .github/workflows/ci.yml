@@ -1,0 +1,58 @@
+name: CI
+
+# Quality gate for every push and PR to main. No secrets needed: it validates and rebuilds
+# from the data already committed, so a broken reference, a stale contract, or a failing test
+# blocks the merge. Actions are pinned to commit SHAs (supply-chain hardening).
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  quality-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: library/package-lock.json
+
+      - name: Validate referential integrity (data gate)
+        run: node tools/validate.mjs
+
+      - name: Regenerate contract artifacts
+        run: |
+          node tools/build-types.mjs
+          node tools/build-openapi.mjs
+          node tools/build-snapshot.mjs
+
+      - name: Fail if committed artifacts are stale
+        run: |
+          git diff --exit-code -- openapi/openapi.json data/json/framework.snapshot.json library/src/generated.ts \
+            || { echo "::error::Generated artifacts are out of date. Run the tools in tools/ and commit the result."; exit 1; }
+
+      - name: Install library dependencies
+        working-directory: library
+        run: npm ci
+
+      - name: Build library
+        working-directory: library
+        run: npm run build
+
+      - name: Test with coverage gate
+        working-directory: library
+        run: npm run test:coverage
+
+      - name: Dependency audit (high severity blocks)
+        working-directory: library
+        run: npm audit --audit-level=high
