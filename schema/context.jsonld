@@ -98,7 +98,7 @@
     "Transitioning into Solutions Architecture Roles": "spf:transitioningIntoSolutionsArchitectureRoles",
     "Transitioning into UX Research Roles": "spf:transitioningIntoUxResearchRoles",
     "Workshops - What RACI Hat Owns This Workshop?": "spf:workshopsWhatRaciHatOwnsThisWorkshop",
-    "Story Arc": "schema:name",
+    "Hand-Off Story Arc": "schema:name",
     "Component": "spf:component",
     "Description": "schema:description",
     "Format of the Resulting Section": "spf:formatOfTheResultingSection",

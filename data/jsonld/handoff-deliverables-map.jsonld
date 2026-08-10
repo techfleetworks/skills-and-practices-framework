@@ -7,7 +7,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Pre-amble",
+      "Hand-Off Story Arc": "Pre-amble",
       "Component": "Project goals",
       "Description": "The goals the phase was working toward",
       "Format of the Resulting Section": "List of items",
@@ -39,7 +39,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Pre-amble",
+      "Hand-Off Story Arc": "Pre-amble",
       "Component": "Recap summary of the deliverables for the project phase",
       "Description": "Plain-language recap of what this phase set out to deliver",
       "Format of the Resulting Section": "List of items",
@@ -71,7 +71,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Pre-amble",
+      "Hand-Off Story Arc": "Pre-amble",
       "Component": "Recap of cross-functional team hats that were involved",
       "Description": "The different duties that were performed on the cross-functional team",
       "Format of the Resulting Section": "Liste of items",
@@ -99,7 +99,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Pre-amble",
+      "Hand-Off Story Arc": "Pre-amble",
       "Component": "Summarized reflections on what the team learned in hindsight",
       "Description": "Team's top takeaways summarized for the pre-amble",
       "Format of the Resulting Section": "Paragraph",
@@ -115,7 +115,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Pre-amble",
+      "Hand-Off Story Arc": "Pre-amble",
       "Component": "Previous work the team did before this phase",
       "Description": "Context on prior phases so readers know the starting point",
       "Format of the Resulting Section": "Paragraph",
@@ -143,7 +143,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Pre-amble",
+      "Hand-Off Story Arc": "Pre-amble",
       "Component": "Glossaries of terms that the team had to learn related to the project",
       "Description": "Domain and project terms defined for newcomers",
       "Format of the Resulting Section": "List of items",
@@ -159,7 +159,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Pre-amble",
+      "Hand-Off Story Arc": "Pre-amble",
       "Component": "Project operations details",
       "Description": "How the team ran the project (process and cadence)",
       "Format of the Resulting Section": "Paragraph",
@@ -187,7 +187,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Pre-amble",
+      "Hand-Off Story Arc": "Pre-amble",
       "Component": "Summary of the client",
       "Description": "Who the client is and what they need",
       "Format of the Resulting Section": "Paragraph",
@@ -215,7 +215,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 1: Empathy Building",
+      "Hand-Off Story Arc": "Part 1: Empathy Building",
       "Component": "The problems in the current state of the world that were prioritized",
       "Description": "The prioritized problem statements the team worked against",
       "Format of the Resulting Section": "Paragraph",
@@ -251,7 +251,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 1: Empathy Building",
+      "Hand-Off Story Arc": "Part 1: Empathy Building",
       "Component": "UX Research work and insights we learned",
       "Description": "Research performed and the insights it produced",
       "Format of the Resulting Section": "Paragraph",
@@ -303,7 +303,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 2: The Journey",
+      "Hand-Off Story Arc": "Part 2: The Journey",
       "Component": "Key performance indicators",
       "Description": "The KPIs used to measure success and results against them",
       "Format of the Resulting Section": "List of items",
@@ -331,7 +331,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 2: The Journey",
+      "Hand-Off Story Arc": "Part 2: The Journey",
       "Component": "Product team strategy / vision / scope work",
       "Description": "Where the product is going and what was in/out of scope",
       "Format of the Resulting Section": "Table",
@@ -383,7 +383,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 2: The Journey",
+      "Hand-Off Story Arc": "Part 2: The Journey",
       "Component": "Decisions that each team function made",
       "Description": "Key decisions per function and their rationale",
       "Format of the Resulting Section": "Paragraph",
@@ -435,7 +435,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 2: The Journey",
+      "Hand-Off Story Arc": "Part 2: The Journey",
       "Component": "The sprint retrospective lessons",
       "Description": "What the team learned sprint by sprint",
       "Format of the Resulting Section": "Paragraph",
@@ -463,7 +463,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 3: The outcomes",
+      "Hand-Off Story Arc": "Part 3: The outcomes",
       "Component": "The resulting deliverables that were produced in the project",
       "Description": "The work products delivered this phase with links",
       "Format of the Resulting Section": "List of items, and pictures",
@@ -543,7 +543,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 3: The outcomes",
+      "Hand-Off Story Arc": "Part 3: The outcomes",
       "Component": "Brand assets that were produced",
       "Description": "Brand and design-system outputs delivered",
       "Format of the Resulting Section": "List of items, and pictures",
@@ -577,7 +577,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 3: The outcomes",
+      "Hand-Off Story Arc": "Part 3: The outcomes",
       "Component": "UX design work",
       "Description": "Prototypes, interaction design, and design specs (added from hand-off-system diagram)",
       "Format of the Resulting Section": "List of items, and pictures",
@@ -625,7 +625,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 3: The outcomes",
+      "Hand-Off Story Arc": "Part 3: The outcomes",
       "Component": "Client-specific deliverables",
       "Description": "Deliverables unique to this client or project type (added from hand-off-system diagram)",
       "Format of the Resulting Section": "List of items, and pictures",
@@ -641,7 +641,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 3: The outcomes",
+      "Hand-Off Story Arc": "Part 3: The outcomes",
       "Component": "Sprint demo slides",
       "Description": "The demo decks presented during the phase",
       "Format of the Resulting Section": "List of items",
@@ -669,7 +669,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 4: The Sequel",
+      "Hand-Off Story Arc": "Part 4: The Sequel",
       "Component": "The recommendations for the next phase",
       "Description": "What the team recommends doing next and why",
       "Format of the Resulting Section": "List of items",
@@ -685,7 +685,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 4: The Sequel",
+      "Hand-Off Story Arc": "Part 4: The Sequel",
       "Component": "Feedback that the team collected from the client",
       "Description": "Client reactions and requests gathered during the phase",
       "Format of the Resulting Section": "Paragraph",
@@ -713,7 +713,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 4: The Sequel",
+      "Hand-Off Story Arc": "Part 4: The Sequel",
       "Component": "Backlog of work that was not done yet",
       "Description": "Open items the next team inherits",
       "Format of the Resulting Section": "List of items",
@@ -741,7 +741,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 4: The Sequel",
+      "Hand-Off Story Arc": "Part 4: The Sequel",
       "Component": "Best practices of work",
       "Description": "Working practices worth repeating in future phases",
       "Format of the Resulting Section": "Paragraph",
@@ -757,7 +757,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 4: The Sequel",
+      "Hand-Off Story Arc": "Part 4: The Sequel",
       "Component": "Meeting recordings",
       "Description": "Recordings for deep reference",
       "Format of the Resulting Section": "Link to recordings page on Notion",
@@ -773,7 +773,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 4: The Sequel",
+      "Hand-Off Story Arc": "Part 4: The Sequel",
       "Component": "Reflections on what the team learned in hindsight",
       "Description": "Honest hindsight reflections for future teams and case studies",
       "Format of the Resulting Section": "Paragraph",
@@ -801,7 +801,7 @@
         "spf:HandoffMapping",
         "skos:Concept"
       ],
-      "Story Arc": "Part 4: The Sequel",
+      "Hand-Off Story Arc": "Part 4: The Sequel",
       "Component": "Evaluation research",
       "Description": "Evaluative research results validating the work (added from hand-off-system diagram; Tech Fleet Case Study only)",
       "Format of the Resulting Section": "Paragraph",

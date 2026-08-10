@@ -15,7 +15,7 @@
     "slug": {
       "type": "string"
     },
-    "Story Arc": {
+    "Hand-Off Story Arc": {
       "type": "string"
     },
     "Component": {

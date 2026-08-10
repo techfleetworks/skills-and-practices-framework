@@ -121,7 +121,7 @@
       "entity": "handoff-deliverables-map",
       "file": "framework-data/handoff-deliverables-map.json",
       "count": 26,
-      "primaryField": "Story Arc"
+      "primaryField": "Hand-Off Story Arc"
     },
     {
       "entity": "project-phases",

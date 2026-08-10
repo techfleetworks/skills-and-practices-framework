@@ -12,13 +12,13 @@ Most people who enter tech are coming from somewhere else: teaching, accounting,
 
 The "Transitioning Into a Field" layer solves that. For each tech field the framework supports, there is a table that answers one question for a career changer: *"I am coming from my old field. What do I keep, what is the gap, and what do I do first?"*
 
-It turns the scary, vague leap into tech into a clear, honest map.
+It turns the scary, vague leap into tech into a clear, grounded map.
 
 ## How it is structured
 
 The data lives as one file per target field, under `data/json/career-transitioning/`, and each file is a table of rows. Each **row** is a single pairing: one **source field** you are coming from and one **target field** you want to move into. A `Target Field` column names the tech field, and a `Transition From` column names where you are coming from.
 
-So the layer is really a grid. Down one side are the fields people come from (Academia, Finance, Construction, and more). Along the top are the tech fields they want (UX Research, Business Analysis, and more). Each row where they meet holds a full, honest comparison. Reading one row tells a career changer exactly how their specific background maps onto the field they want. Filter by `Target Field` to see every path into one field; filter by `Transition From` to see everywhere one background can go.
+So the layer is really a grid. Down one side are the fields people come from (Academia, Finance, Construction, and more). Along the top are the tech fields they want (UX Research, Business Analysis, and more). Each row where they meet holds a full, grounded comparison. Reading one row tells a career changer exactly how their specific background maps onto the field they want. Filter by `Target Field` to see every path into one field; filter by `Transition From` to see everywhere one background can go.
 
 ## What each row holds
 
@@ -35,7 +35,7 @@ Every row compares one source field to one target field across the same set of c
 - **Methodologies to Learn** — the [methods](methodology.md) the new field works by, like agile ways of working.
 - **Deliverables to Learn** — the [deliverables](deliverable.md) the new field produces that you have not made before.
 - **Practices Needed to Succeed** — the team [practices](practices.md) that matter most in the new field.
-- **Summary of the Gaps** — a plain-language read on the real distance between where you are and where you want to be.
+- **Summary of the Gaps** — a plain-language, grounded read on the real distance between where you are and where you want to be.
 - **First Steps** — the concrete place to start, so you are not staring at a blank page.
 - **Training Recommendations** — what to go learn, and roughly in what order.
 

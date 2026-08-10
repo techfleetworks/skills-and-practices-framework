@@ -2,7 +2,7 @@
 // Pulls every framework table from Baserow and writes clean, versioned JSON into data/v1/.
 // Relationships are emitted as [{slug, label}] so the data is machine- and human-friendly.
 // Run: BASEROW_TOKEN=... node tools/sync-from-baserow.mjs
-import { writeFileSync, mkdirSync } from "node:fs";
+import { writeFileSync, readFileSync, mkdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 
@@ -113,6 +113,15 @@ for (const ent of ENTITIES) {
   manifest.entities.push({ entity: ent.file, file: `framework-data/${ent.file}.json`, count: records.length, primaryField: primary.name });
   console.log(`${ent.file.padEnd(28)} ${String(records.length).padStart(4)} rows`);
 }
+
+// Preserve manifest entries for datasets this tool does not own (e.g. the
+// career-transitioning files, upserted by tools/build-career-transitioning.mjs), so a sync
+// never drops them. Only the framework-data entities above are rewritten here.
+const owned = new Set(ENTITIES.map(e => e.file));
+try {
+  const prev = JSON.parse(readFileSync(join(ROOT, "data", "json", "manifest.json"), "utf8"));
+  for (const e of prev.entities || []) if (!owned.has(e.entity)) manifest.entities.push(e);
+} catch { /* no prior manifest: nothing to preserve */ }
 
 writeFileSync(join(ROOT, "data", "json", "manifest.json"), JSON.stringify(manifest, null, 2));
 console.log(`\nmanifest.json written with ${manifest.entities.length} entities.`);

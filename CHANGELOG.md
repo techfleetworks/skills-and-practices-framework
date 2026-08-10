@@ -47,8 +47,14 @@ means "read the notes before you update."
   data), and `api/index.html` renders it as a browsable docs website using Scalar (free and open
   source), with a live "Try it" against the real files. A `.nojekyll` marker lets GitHub Pages
   serve the JSON and docs as-is.
+- A structure doc for the hand-off deliverables mapping at
+  `docs/data-types/handoff-deliverables-mapping.md`, explaining the four kinds of hand-off
+  (Client, Teammate, Teammate Case Study, Org Case Study), the five-part story arc, and how
+  every component traces back to a source deliverable and workshop.
 
 **Changed**
+- Refreshed the hand-off deliverables mapping data from Baserow; the primary field is now
+  `Hand-Off Story Arc`.
 - Grouped the framework's data forms under `data/`: `data/json` (structured data),
   `data/handbooks` (long-form prose), and `data/visualizations` (mind maps). The handbooks
   and visualizations are the same framework data in other forms, so they live with the JSON.
@@ -61,6 +67,10 @@ means "read the notes before you update."
   `data/json/career-transitioning/` (the eight career-change fields), with the manifest at the
   `data/json/` root, so the dataset can grow cleanly.
 - Refreshed the workshops data (Steps to Complete and Expected Outcomes) from Baserow.
+
+**Fixed**
+- `tools/sync-from-baserow.mjs` no longer drops the career-transitioning entries from the
+  manifest on a resync; it now preserves manifest entries for datasets it does not own.
 
 ## v0.1.0 — 2026-08-10
 
