@@ -1,0 +1,258 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://techfleetworks.github.io/skills-and-practices-framework/schema/framework-data/practices.schema.json",
+  "title": "practices",
+  "description": "A record in the practices dataset of the Skills & Practices Framework. Field names are the framework's own; see schema/context.jsonld for the schema.org / SKOS mapping.",
+  "type": "object",
+  "required": [
+    "slug"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "Practice Name": {
+      "type": "string"
+    },
+    "Data Type": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Difference between Practices and Skills": {
+      "type": "string"
+    },
+    "Practice Components": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Practice Level 0 Definition": {
+      "type": "string"
+    },
+    "Practice Level 1 Definition": {
+      "type": "string"
+    },
+    "Practice Level 2 Definition": {
+      "type": "string"
+    },
+    "Practice Level 3 Definition": {
+      "type": "string"
+    },
+    "Other Practices Required": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Skills That Require the Practice": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "UNIQUE Functions Involving the Practice": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "UNIQUE Activities Involving the Practice": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "UNIQUE Duties Associated with the Practice": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "From field: Other Practices Required": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Team Functions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Milestones": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Workshops": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "What Mindset Do You Have When You Practice This Practice?": {
+      "type": "string"
+    },
+    "What Habits Do You Hold When You Practice This Practice?": {
+      "type": "string"
+    },
+    "Practice Description": {
+      "type": "string"
+    },
+    "Where Can I Learn More?": {
+      "type": "string"
+    }
+  }
+}

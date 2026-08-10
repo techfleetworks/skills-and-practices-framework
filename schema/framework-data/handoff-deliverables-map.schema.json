@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://techfleetworks.github.io/skills-and-practices-framework/schema/framework-data/handoff-deliverables-map.schema.json",
+  "title": "handoff-deliverables-map",
+  "description": "A record in the handoff-deliverables-map dataset of the Skills & Practices Framework. Field names are the framework's own; see schema/context.jsonld for the schema.org / SKOS mapping.",
+  "type": "object",
+  "required": [
+    "slug"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "Story Arc": {
+      "type": "string"
+    },
+    "Component": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "Format of the Resulting Section": {
+      "type": "string"
+    },
+    "Is this in the Client Hand-Off?": {
+      "type": "string"
+    },
+    "Is this in the Teammate Hand-off?": {
+      "type": "string"
+    },
+    "Is this in the Teammate Case Study?": {
+      "type": "string"
+    },
+    "Is this in the Tech Fleet Org Case Study?": {
+      "type": "string"
+    },
+    "From Which Deliverable Does This Information Come?": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Workshop Associated with the Deliverables": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Unique ID": {
+      "type": "number"
+    }
+  }
+}

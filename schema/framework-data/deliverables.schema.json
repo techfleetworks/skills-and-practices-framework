@@ -1,0 +1,211 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://techfleetworks.github.io/skills-and-practices-framework/schema/framework-data/deliverables.schema.json",
+  "title": "deliverables",
+  "description": "A record in the deliverables dataset of the Skills & Practices Framework. Field names are the framework's own; see schema/context.jsonld for the schema.org / SKOS mapping.",
+  "type": "object",
+  "required": [
+    "slug"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "Deliverable Name": {
+      "type": "string"
+    },
+    "Data Type": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Project Milestone Where It's Delivered": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Required Activities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Project Milestones": {
+      "type": "string"
+    },
+    "Workshops": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Required Skills for the Deliverable": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Required Practices for the Deliverable": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Duty Who Owns the Deliverable": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Deliverable Description": {
+      "type": "string"
+    },
+    "Why Is This Deliverable Important?": {
+      "type": "string"
+    },
+    "How Does This Deliverable Relate to Other Deliverables?": {
+      "type": "string"
+    },
+    "Where Can I Learn More?": {
+      "type": "string"
+    },
+    "Hand-Off Deliverables Map": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Company Type": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Milestones": {
+      "type": "string"
+    }
+  }
+}

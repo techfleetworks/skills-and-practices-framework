@@ -1,0 +1,120 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://techfleetworks.github.io/skills-and-practices-framework/schema/framework-data/project-types.schema.json",
+  "title": "project-types",
+  "description": "A record in the project-types dataset of the Skills & Practices Framework. Field names are the framework's own; see schema/context.jsonld for the schema.org / SKOS mapping.",
+  "type": "object",
+  "required": [
+    "slug"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "Project Type": {
+      "type": "string"
+    },
+    "Project Type Description": {
+      "type": "string"
+    },
+    "Key Specializations Involved": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "UNIQUE Functions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "UX Research Deliverables": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "UX Design Deliverables": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Product Milestones": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    }
+  }
+}

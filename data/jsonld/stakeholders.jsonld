@@ -1,0 +1,339 @@
+{
+  "@context": "../../schema/context.jsonld",
+  "@graph": [
+    {
+      "id": "spf:client",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:Stakeholder",
+        "skos:Concept"
+      ],
+      "Name": "Client",
+      "Relevant Company Types": [
+        {
+          "id": "spf:agency",
+          "label": "Agency"
+        },
+        {
+          "id": "spf:freelance-and-consulting",
+          "label": "Freelance and Consulting"
+        }
+      ],
+      "Deliverables": "Acceptance Criteria",
+      "Workshops": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        },
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        },
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ]
+    },
+    {
+      "id": "spf:end-user",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:Stakeholder",
+        "skos:Concept"
+      ],
+      "Name": "End-user",
+      "Relevant Company Types": [
+        {
+          "id": "spf:in-house-company",
+          "label": "In-house Company"
+        },
+        {
+          "id": "spf:agency",
+          "label": "Agency"
+        },
+        {
+          "id": "spf:freelance-and-consulting",
+          "label": "Freelance and Consulting"
+        },
+        {
+          "id": "spf:startup",
+          "label": "Startup"
+        }
+      ],
+      "Deliverables": "Acceptance Criteria, Affinity Map"
+    },
+    {
+      "id": "spf:internal-teammate",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:Stakeholder",
+        "skos:Concept"
+      ],
+      "Name": "Internal Teammate",
+      "Relevant Company Types": [
+        {
+          "id": "spf:in-house-company",
+          "label": "In-house Company"
+        },
+        {
+          "id": "spf:agency",
+          "label": "Agency"
+        },
+        {
+          "id": "spf:startup",
+          "label": "Startup"
+        }
+      ],
+      "Deliverables": "Acceptance Criteria, Affinity Map",
+      "Workshops": [
+        {
+          "id": "spf:team-ice-breakers-workshop-template",
+          "label": "Team Ice Breakers Workshop Template"
+        },
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        },
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        },
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        },
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        },
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        },
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        },
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        },
+        {
+          "id": "spf:sprint-goals-workshop-template",
+          "label": "Sprint Goals Workshop Template"
+        },
+        {
+          "id": "spf:backlog-management-workshop-template",
+          "label": "Backlog Management Workshop Template"
+        },
+        {
+          "id": "spf:sprint-retro-workshop-template",
+          "label": "Sprint Retro Workshop Template"
+        },
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        },
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        },
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        },
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        },
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        },
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        },
+        {
+          "id": "spf:case-study-creation-workshop-template",
+          "label": "Case Study Creation Workshop Template"
+        },
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        },
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        },
+        {
+          "id": "spf:customer-experience-map-workshop-template",
+          "label": "Customer Experience Map Workshop Template"
+        },
+        {
+          "id": "spf:user-journey-map-workshop-template",
+          "label": "User Journey Map Workshop Template"
+        },
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        },
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        },
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        },
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        },
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        },
+        {
+          "id": "spf:product-and-service-development-milestones-for-different-types-of-projects-works",
+          "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+        },
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        },
+        {
+          "id": "spf:agile-team-maturity-measurements-workshop-template",
+          "label": "Agile Team Maturity Measurements Workshop Template"
+        },
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        },
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ]
+    },
+    {
+      "id": "spf:cross-functional-stakeholder",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:Stakeholder",
+        "skos:Concept"
+      ],
+      "Name": "Cross-functional Stakeholder",
+      "Relevant Company Types": [
+        {
+          "id": "spf:in-house-company",
+          "label": "In-house Company"
+        },
+        {
+          "id": "spf:agency",
+          "label": "Agency"
+        },
+        {
+          "id": "spf:startup",
+          "label": "Startup"
+        }
+      ],
+      "Deliverables": "Acceptance Criteria",
+      "Workshops": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        },
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        },
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        },
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        },
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        },
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        },
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        },
+        {
+          "id": "spf:customer-experience-map-workshop-template",
+          "label": "Customer Experience Map Workshop Template"
+        },
+        {
+          "id": "spf:user-journey-map-workshop-template",
+          "label": "User Journey Map Workshop Template"
+        },
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        },
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        },
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        },
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        },
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        },
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        },
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ]
+    },
+    {
+      "id": "spf:customer",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:Stakeholder",
+        "skos:Concept"
+      ],
+      "Name": "Customer",
+      "Relevant Company Types": [
+        {
+          "id": "spf:in-house-company",
+          "label": "In-house Company"
+        },
+        {
+          "id": "spf:agency",
+          "label": "Agency"
+        },
+        {
+          "id": "spf:freelance-and-consulting",
+          "label": "Freelance and Consulting"
+        },
+        {
+          "id": "spf:startup",
+          "label": "Startup"
+        }
+      ],
+      "Deliverables": "Acceptance Criteria"
+    }
+  ]
+}

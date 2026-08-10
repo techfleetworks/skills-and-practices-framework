@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://techfleetworks.github.io/skills-and-practices-framework/schema/framework-data/workshop-steps.schema.json",
+  "title": "workshop-steps",
+  "description": "A record in the workshop-steps dataset of the Skills & Practices Framework. Field names are the framework's own; see schema/context.jsonld for the schema.org / SKOS mapping.",
+  "type": "object",
+  "required": [
+    "slug"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "Workshop Step Unique ID": {
+      "type": "number"
+    },
+    "Workshop": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Order": {
+      "type": "string"
+    },
+    "Step Title": {
+      "type": "string"
+    },
+    "Do This Now": {
+      "type": "string"
+    },
+    "Prompts / Questions": {
+      "type": "string"
+    },
+    "Output of This Step": {
+      "type": "string"
+    },
+    "Tips & Pitfalls": {
+      "type": "string"
+    },
+    "Done When": {
+      "type": "string"
+    },
+    "Time Box": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,835 @@
+{
+  "@context": "../../schema/context.jsonld",
+  "@graph": [
+    {
+      "id": "spf:pre-amble",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Pre-amble",
+      "Component": "Project goals",
+      "Description": "The goals the phase was working toward",
+      "Format of the Resulting Section": "List of items",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:project-plan",
+          "label": "Project Plan"
+        },
+        {
+          "id": "spf:project-goals-definition",
+          "label": "Project Goals Definition"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Unique ID": 1
+    },
+    {
+      "id": "spf:pre-amble-2",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Pre-amble",
+      "Component": "Recap summary of the deliverables for the project phase",
+      "Description": "Plain-language recap of what this phase set out to deliver",
+      "Format of the Resulting Section": "List of items",
+      "Is this in the Client Hand-Off?": "Yes",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:project-plan",
+          "label": "Project Plan"
+        },
+        {
+          "id": "spf:project-goals-definition",
+          "label": "Project Goals Definition"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Unique ID": 2
+    },
+    {
+      "id": "spf:pre-amble-3",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Pre-amble",
+      "Component": "Recap of cross-functional team hats that were involved",
+      "Description": "The different duties that were performed on the cross-functional team",
+      "Format of the Resulting Section": "Liste of items",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:raci-charts",
+          "label": "RACI Charts"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        }
+      ],
+      "Unique ID": 3
+    },
+    {
+      "id": "spf:pre-amble-4",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Pre-amble",
+      "Component": "Summarized reflections on what the team learned in hindsight",
+      "Description": "Team's top takeaways summarized for the pre-amble",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "No",
+      "Unique ID": 4
+    },
+    {
+      "id": "spf:pre-amble-5",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Pre-amble",
+      "Component": "Previous work the team did before this phase",
+      "Description": "Context on prior phases so readers know the starting point",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "Yes",
+      "Is this in the Teammate Hand-off?": "No",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "No",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:statement-of-work",
+          "label": "Statement of Work"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Unique ID": 5
+    },
+    {
+      "id": "spf:pre-amble-6",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Pre-amble",
+      "Component": "Glossaries of terms that the team had to learn related to the project",
+      "Description": "Domain and project terms defined for newcomers",
+      "Format of the Resulting Section": "List of items",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "No",
+      "Is this in the Tech Fleet Org Case Study?": "No",
+      "Unique ID": 6
+    },
+    {
+      "id": "spf:pre-amble-7",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Pre-amble",
+      "Component": "Project operations details",
+      "Description": "How the team ran the project (process and cadence)",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:team-process-map",
+          "label": "Team Process Map"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Unique ID": 7
+    },
+    {
+      "id": "spf:pre-amble-8",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Pre-amble",
+      "Component": "Summary of the client",
+      "Description": "Who the client is and what they need",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:statement-of-work",
+          "label": "Statement of Work"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Unique ID": 8
+    },
+    {
+      "id": "spf:part-1-empathy-building",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 1: Empathy Building",
+      "Component": "The problems in the current state of the world that were prioritized",
+      "Description": "The prioritized problem statements the team worked against",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "Yes",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:problem-statements",
+          "label": "Problem Statements"
+        },
+        {
+          "id": "spf:problem-checklists",
+          "label": "Problem Checklists"
+        },
+        {
+          "id": "spf:user-story-statements",
+          "label": "User Story Statements"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        }
+      ],
+      "Unique ID": 9
+    },
+    {
+      "id": "spf:part-1-empathy-building-2",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 1: Empathy Building",
+      "Component": "UX Research work and insights we learned",
+      "Description": "Research performed and the insights it produced",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "Yes",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:research-report",
+          "label": "Research Report"
+        },
+        {
+          "id": "spf:rainbow-table",
+          "label": "Rainbow Table"
+        },
+        {
+          "id": "spf:affinity-map",
+          "label": "Affinity Map"
+        },
+        {
+          "id": "spf:research-plan",
+          "label": "Research Plan"
+        },
+        {
+          "id": "spf:research-analysis",
+          "label": "Research Analysis"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        },
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        },
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        }
+      ],
+      "Unique ID": 10
+    },
+    {
+      "id": "spf:part-2-the-journey",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 2: The Journey",
+      "Component": "Key performance indicators",
+      "Description": "The KPIs used to measure success and results against them",
+      "Format of the Resulting Section": "List of items",
+      "Is this in the Client Hand-Off?": "Yes",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:key-performance-indicators-kpis",
+          "label": "Key Performance Indicators (KPI's)"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Unique ID": 11
+    },
+    {
+      "id": "spf:part-2-the-journey-2",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 2: The Journey",
+      "Component": "Product team strategy / vision / scope work",
+      "Description": "Where the product is going and what was in/out of scope",
+      "Format of the Resulting Section": "Table",
+      "Is this in the Client Hand-Off?": "Yes",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:vision-boards",
+          "label": "Vision Boards"
+        },
+        {
+          "id": "spf:epics-and-features",
+          "label": "Epics and Features"
+        },
+        {
+          "id": "spf:release-level-scope",
+          "label": "Release-level Scope"
+        },
+        {
+          "id": "spf:business-plan",
+          "label": "Business Plan"
+        },
+        {
+          "id": "spf:marketing-plan",
+          "label": "Marketing Plan"
+        },
+        {
+          "id": "spf:release-plan",
+          "label": "Release Plan"
+        },
+        {
+          "id": "spf:go-to-market-plan",
+          "label": "Go-To-Market Plan"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Unique ID": 12
+    },
+    {
+      "id": "spf:part-2-the-journey-3",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 2: The Journey",
+      "Component": "Decisions that each team function made",
+      "Description": "Key decisions per function and their rationale",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "No",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:vision-boards",
+          "label": "Vision Boards"
+        },
+        {
+          "id": "spf:epics-and-features",
+          "label": "Epics and Features"
+        },
+        {
+          "id": "spf:release-level-scope",
+          "label": "Release-level Scope"
+        },
+        {
+          "id": "spf:business-plan",
+          "label": "Business Plan"
+        },
+        {
+          "id": "spf:marketing-plan",
+          "label": "Marketing Plan"
+        },
+        {
+          "id": "spf:release-plan",
+          "label": "Release Plan"
+        },
+        {
+          "id": "spf:go-to-market-plan",
+          "label": "Go-To-Market Plan"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Unique ID": 13
+    },
+    {
+      "id": "spf:part-2-the-journey-4",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 2: The Journey",
+      "Component": "The sprint retrospective lessons",
+      "Description": "What the team learned sprint by sprint",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:sprint-retro-action-items",
+          "label": "Sprint Retro Action Items"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:sprint-retro-workshop-template",
+          "label": "Sprint Retro Workshop Template"
+        }
+      ],
+      "Unique ID": 14
+    },
+    {
+      "id": "spf:part-3-the-outcomes",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 3: The outcomes",
+      "Component": "The resulting deliverables that were produced in the project",
+      "Description": "The work products delivered this phase with links",
+      "Format of the Resulting Section": "List of items, and pictures",
+      "Is this in the Client Hand-Off?": "Yes",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:system-architecture-diagram",
+          "label": "System Architecture Diagram"
+        },
+        {
+          "id": "spf:user-journey-map",
+          "label": "User Journey Map"
+        },
+        {
+          "id": "spf:wireframes",
+          "label": "Wireframes"
+        },
+        {
+          "id": "spf:high-fidelity-prototypes",
+          "label": "High-Fidelity Prototypes"
+        },
+        {
+          "id": "spf:storyboard",
+          "label": "Storyboard"
+        },
+        {
+          "id": "spf:customer-experience-diagram",
+          "label": "Customer Experience Diagram"
+        },
+        {
+          "id": "spf:sitemap",
+          "label": "Sitemap"
+        },
+        {
+          "id": "spf:taxonomy",
+          "label": "Taxonomy"
+        },
+        {
+          "id": "spf:microservices-architecture",
+          "label": "Microservices Architecture"
+        },
+        {
+          "id": "spf:network-architecture",
+          "label": "Network Architecture"
+        },
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        },
+        {
+          "id": "spf:customer-experience-map-workshop-template",
+          "label": "Customer Experience Map Workshop Template"
+        },
+        {
+          "id": "spf:user-journey-map-workshop-template",
+          "label": "User Journey Map Workshop Template"
+        },
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ],
+      "Unique ID": 15
+    },
+    {
+      "id": "spf:part-3-the-outcomes-2",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 3: The outcomes",
+      "Component": "Brand assets that were produced",
+      "Description": "Brand and design-system outputs delivered",
+      "Format of the Resulting Section": "List of items, and pictures",
+      "Is this in the Client Hand-Off?": "Yes",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:editorial-style-guide",
+          "label": "Editorial Style Guide"
+        },
+        {
+          "id": "spf:brand-identity",
+          "label": "Brand Identity"
+        },
+        {
+          "id": "spf:brand-archetypes",
+          "label": "Brand Archetypes"
+        },
+        {
+          "id": "spf:logo-and-brand-assets",
+          "label": "Logo and Brand Assets"
+        }
+      ],
+      "Unique ID": 16
+    },
+    {
+      "id": "spf:part-3-the-outcomes-3",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 3: The outcomes",
+      "Component": "UX design work",
+      "Description": "Prototypes, interaction design, and design specs (added from hand-off-system diagram)",
+      "Format of the Resulting Section": "List of items, and pictures",
+      "Is this in the Client Hand-Off?": "Yes",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:wireframes",
+          "label": "Wireframes"
+        },
+        {
+          "id": "spf:low-fidelity-prototypes",
+          "label": "Low-Fidelity Prototypes"
+        },
+        {
+          "id": "spf:high-fidelity-prototypes",
+          "label": "High-Fidelity Prototypes"
+        },
+        {
+          "id": "spf:ui-development-specifications",
+          "label": "UI Development Specifications"
+        },
+        {
+          "id": "spf:design-annotation",
+          "label": "Design Annotation"
+        },
+        {
+          "id": "spf:sketches",
+          "label": "Sketches"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Unique ID": 17
+    },
+    {
+      "id": "spf:part-3-the-outcomes-4",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 3: The outcomes",
+      "Component": "Client-specific deliverables",
+      "Description": "Deliverables unique to this client or project type (added from hand-off-system diagram)",
+      "Format of the Resulting Section": "List of items, and pictures",
+      "Is this in the Client Hand-Off?": "Yes",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "Unique ID": 18
+    },
+    {
+      "id": "spf:part-3-the-outcomes-5",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 3: The outcomes",
+      "Component": "Sprint demo slides",
+      "Description": "The demo decks presented during the phase",
+      "Format of the Resulting Section": "List of items",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:sprint-demo-presentation",
+          "label": "Sprint Demo Presentation"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        }
+      ],
+      "Unique ID": 19
+    },
+    {
+      "id": "spf:part-4-the-sequel",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 4: The Sequel",
+      "Component": "The recommendations for the next phase",
+      "Description": "What the team recommends doing next and why",
+      "Format of the Resulting Section": "List of items",
+      "Is this in the Client Hand-Off?": "Yes",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "Unique ID": 20
+    },
+    {
+      "id": "spf:part-4-the-sequel-2",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 4: The Sequel",
+      "Component": "Feedback that the team collected from the client",
+      "Description": "Client reactions and requests gathered during the phase",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "No",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:stakeholder-feedback",
+          "label": "Stakeholder Feedback"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        }
+      ],
+      "Unique ID": 21
+    },
+    {
+      "id": "spf:part-4-the-sequel-3",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 4: The Sequel",
+      "Component": "Backlog of work that was not done yet",
+      "Description": "Open items the next team inherits",
+      "Format of the Resulting Section": "List of items",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "No",
+      "Is this in the Tech Fleet Org Case Study?": "No",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:refined-backlog",
+          "label": "Refined Backlog"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Unique ID": 22
+    },
+    {
+      "id": "spf:part-4-the-sequel-4",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 4: The Sequel",
+      "Component": "Best practices of work",
+      "Description": "Working practices worth repeating in future phases",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "No",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "Unique ID": 23
+    },
+    {
+      "id": "spf:part-4-the-sequel-5",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 4: The Sequel",
+      "Component": "Meeting recordings",
+      "Description": "Recordings for deep reference",
+      "Format of the Resulting Section": "Link to recordings page on Notion",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "No",
+      "Is this in the Tech Fleet Org Case Study?": "No",
+      "Unique ID": 24
+    },
+    {
+      "id": "spf:part-4-the-sequel-6",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 4: The Sequel",
+      "Component": "Reflections on what the team learned in hindsight",
+      "Description": "Honest hindsight reflections for future teams and case studies",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "Yes",
+      "Is this in the Teammate Case Study?": "Yes",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:sprint-retro-action-items",
+          "label": "Sprint Retro Action Items"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:sprint-retro-workshop-template",
+          "label": "Sprint Retro Workshop Template"
+        }
+      ],
+      "Unique ID": 25
+    },
+    {
+      "id": "spf:part-4-the-sequel-7",
+      "type": [
+        "spf:HandoffMapping",
+        "skos:Concept"
+      ],
+      "Story Arc": "Part 4: The Sequel",
+      "Component": "Evaluation research",
+      "Description": "Evaluative research results validating the work (added from hand-off-system diagram; Tech Fleet Case Study only)",
+      "Format of the Resulting Section": "Paragraph",
+      "Is this in the Client Hand-Off?": "No",
+      "Is this in the Teammate Hand-off?": "No",
+      "Is this in the Teammate Case Study?": "No",
+      "Is this in the Tech Fleet Org Case Study?": "Yes",
+      "From Which Deliverable Does This Information Come?": [
+        {
+          "id": "spf:research-report",
+          "label": "Research Report"
+        },
+        {
+          "id": "spf:research-analysis",
+          "label": "Research Analysis"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        },
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        }
+      ],
+      "Unique ID": 26
+    }
+  ]
+}

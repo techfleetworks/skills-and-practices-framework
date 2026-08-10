@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://techfleetworks.github.io/skills-and-practices-framework/schema/framework-data/practice-components.schema.json",
+  "title": "practice-components",
+  "description": "A record in the practice-components dataset of the Skills & Practices Framework. Field names are the framework's own; see schema/context.jsonld for the schema.org / SKOS mapping.",
+  "type": "object",
+  "required": [
+    "slug"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "Component Name": {
+      "type": "string"
+    },
+    "Associated Practices": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Assessment Question": {
+      "type": "string"
+    },
+    "Component Description": {
+      "type": "string"
+    },
+    "Associated Mindsets of the Component": {
+      "type": "string"
+    },
+    "Associated Habits of the Component": {
+      "type": "string"
+    },
+    "Where Can I Learn More?": {
+      "type": "string"
+    }
+  }
+}

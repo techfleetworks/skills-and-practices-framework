@@ -124,6 +124,12 @@
       "primaryField": "Story Arc"
     },
     {
+      "entity": "project-phases",
+      "file": "framework-data/project-phases.json",
+      "count": 4,
+      "primaryField": "Name"
+    },
+    {
       "entity": "career-transitioning/Transitioning_into_UX_Design",
       "file": "career-transitioning/Transitioning_into_UX_Design.json",
       "count": 28,

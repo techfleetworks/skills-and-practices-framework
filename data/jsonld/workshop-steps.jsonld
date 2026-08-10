@@ -1,0 +1,3846 @@
+{
+  "@context": "../../schema/context.jsonld",
+  "@graph": [
+    {
+      "id": "spf:12",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 12,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Set the \"So What\" context",
+      "Do This Now": "Write a short paragraph on why this work came about and why it is being prioritized now, so everyone understands the stakes before ideating.",
+      "Prompts / Questions": "Why did this work come about, and why is it a priority right now?",
+      "Output of This Step": "A shared context statement.",
+      "Tips & Pitfalls": "Skipping this leaves people ideating without knowing why it matters.",
+      "Done When": "The team agrees on why this matters now.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:13",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 13,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "List the problems you assume",
+      "Do This Now": "Brainstorm every problem you assume about the current state of the world, for each audience.",
+      "Prompts / Questions": "What problems do we assume exist for each audience?",
+      "Output of This Step": "A list of assumed problems per audience.",
+      "Tips & Pitfalls": "Assumptions are fine here; you will validate them later.",
+      "Done When": "Problems are captured for each audience.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:14",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 14,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Translate problems into How Might We statements",
+      "Do This Now": "Turn each problem into an open question using the format: How might we [solve the problem and serve the need]? Log who took each row, the original problem, and the HMW.",
+      "Prompts / Questions": "How might we solve this problem and serve the need?",
+      "Output of This Step": "A filled How Might We transformation table (person, original problem, HMW).",
+      "Tips & Pitfalls": "Keep them open; do not smuggle a solution into the question.",
+      "Done When": "Every problem has at least one HMW statement.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:15",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 15,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Prioritize the HMWs on the risk/certainty matrix",
+      "Do This Now": "Place each HMW on a Must-Should-Could-Won't (MoSCoW) matrix by risk and certainty: top priority is high risk and low certainty; high is high risk and high certainty; medium is low risk and low certainty; low is low risk and high certainty.",
+      "Prompts / Questions": "How risky is it if we do not validate this, and how certain are we already?",
+      "Output of This Step": "A prioritized HMW matrix.",
+      "Tips & Pitfalls": "Top priority is the risky, uncertain work; that is where ideation pays off most.",
+      "Done When": "Each HMW sits in a priority quadrant.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:16",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 16,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Vote on the top HMWs",
+      "Do This Now": "As a team, vote to confirm the HMW statements to ideate on. Run more than one voting round if you need to narrow further.",
+      "Prompts / Questions": "Which HMW statements deserve our ideation time?",
+      "Output of This Step": "The chosen HMW statements, backed by the group.",
+      "Tips & Pitfalls": "Voting makes the focus shared, not one person's call.",
+      "Done When": "The team agrees on the HMWs to ideate on.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:17",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 17,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Run Crazy 8's, Round 1",
+      "Do This Now": "Each person picks one HMW and sketches eight ideas in eight minutes, one minute per idea, one per box. No judging.",
+      "Prompts / Questions": "What are eight different ways we might solve this?",
+      "Output of This Step": "Eight rough idea sketches per person.",
+      "Tips & Pitfalls": "Speed over polish; wild ideas are welcome.",
+      "Done When": "Everyone has eight sketches.",
+      "Time Box": "8 min"
+    },
+    {
+      "id": "spf:18",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 18,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Step Title": "Star your favorite three",
+      "Do This Now": "Each person reviews their own eight ideas and stars their favorite three.",
+      "Prompts / Questions": "Which three of my ideas are strongest?",
+      "Output of This Step": "Three starred ideas per person.",
+      "Tips & Pitfalls": "Trust your gut; you will refine them next.",
+      "Done When": "Everyone has three starred ideas.",
+      "Time Box": "~3 min"
+    },
+    {
+      "id": "spf:19",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 19,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "8",
+      "Step Title": "Run Crazy 8's, Round 2",
+      "Do This Now": "Sketch eight new, unique ideas built on your favorite three, again eight minutes, one minute each.",
+      "Prompts / Questions": "How can I push my best three ideas further?",
+      "Output of This Step": "Eight refined idea sketches per person.",
+      "Tips & Pitfalls": "Build on the best; do not just repeat Round 1.",
+      "Done When": "Everyone has a Round 2 set.",
+      "Time Box": "8 min"
+    },
+    {
+      "id": "spf:20",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 20,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "9",
+      "Step Title": "Present and vote on the top choices",
+      "Do This Now": "Each person shares their ideas; the team votes on the strongest to pursue, combining similar ideas into stronger ones.",
+      "Prompts / Questions": "Which ideas are most worth testing?",
+      "Output of This Step": "A short list of the top ideas.",
+      "Tips & Pitfalls": "Merge overlapping ideas rather than treating them as competitors.",
+      "Done When": "The team agrees on the ideas to move forward.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:21",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 21,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "10",
+      "Step Title": "Write requirements and move to design and test",
+      "Do This Now": "Turn the chosen ideas into clear requirements to hand to design, then design, build, and test the solution.",
+      "Prompts / Questions": "What has to be true for this idea to work, and does it hold up with users?",
+      "Output of This Step": "Requirements ready for design, and a tested concept.",
+      "Tips & Pitfalls": "Write just enough to start; testing is how you validate the assumptions.",
+      "Done When": "Chosen ideas have requirements and a plan to test.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:22",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 22,
+      "Workshop": [
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Create or review your audience personas",
+      "Do This Now": "Before mapping, make sure you have audience personas (use the persona workshop if not), then review them so everyone knows who they are mapping.",
+      "Prompts / Questions": "Who are the key audiences we are building for?",
+      "Output of This Step": "Reviewed personas, ready to map.",
+      "Tips & Pitfalls": "An empathy map without a clear audience is just guessing.",
+      "Done When": "You have a persona for each audience to map.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:23",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 23,
+      "Workshop": [
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Set up one empathy map per audience",
+      "Do This Now": "Copy an empathy-map section for each audience and write the audience description in the \"Empathy Map for ___ Audience\" space.",
+      "Prompts / Questions": "How many distinct audiences do we need to map?",
+      "Output of This Step": "One labeled empathy map per audience.",
+      "Tips & Pitfalls": "One map per audience keeps perspectives from blurring together.",
+      "Done When": "Each audience has its own labeled map.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:24",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 24,
+      "Workshop": [
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Fill in each prompt with sticky notes",
+      "Do This Now": "As a cross-functional group, add sticky notes to each prompt: I Think, I Act, I'm Motivated By, I Feel, I Say, I Value. Add as many thoughts as you can; there is no wrong answer.",
+      "Prompts / Questions": "For this audience, what do they think, do, feel, say, value, and what motivates them?",
+      "Output of This Step": "A filled empathy map per audience.",
+      "Tips & Pitfalls": "Get every function's perspective; more views make a truer map.",
+      "Done When": "Each prompt holds the team's thoughts for that audience.",
+      "Time Box": "~20 min per audience"
+    },
+    {
+      "id": "spf:25",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 25,
+      "Workshop": [
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Discuss, align, and flag gaps",
+      "Do This Now": "Step back, discuss whether the map rings true, and mark where you are guessing versus where you have evidence.",
+      "Prompts / Questions": "Where are we confident, and where are we assuming?",
+      "Output of This Step": "A shared, agreed empathy map with assumptions flagged.",
+      "Tips & Pitfalls": "Flagging assumptions tells you exactly what to research next.",
+      "Done When": "The team agrees the map reflects their shared understanding.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:26",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 26,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Answer the basic setup questions",
+      "Do This Now": "Fill in the framing: the business and user problems that led here, and what you hope to gain from the analysis.",
+      "Prompts / Questions": "What problems lead us to do this, and what do we hope to gain?",
+      "Output of This Step": "A clear framing: problems to solve plus desired outcomes.",
+      "Tips & Pitfalls": "Framing keeps the whole analysis pointed at a real decision.",
+      "Done When": "The problems and outcomes are written down.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:27",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 27,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Choose the scope of your analysis",
+      "Do This Now": "Check off which of the five areas you will do this round: market research, competitor analysis, feature comparison, design pattern analysis, and product positioning.",
+      "Prompts / Questions": "Which analyses does this round of work actually need?",
+      "Output of This Step": "An agreed scope for this round.",
+      "Tips & Pitfalls": "You do not have to do all five every time; scope to the decision.",
+      "Done When": "The team agrees on the scope.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:28",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 28,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Perform market research",
+      "Do This Now": "Identify your market segments, size each one in market cap, and spot the biggest opportunity (a large segment with few competitors). Use the AI prompts to speed it up and cite every source.",
+      "Prompts / Questions": "What segments exist, how big is each, and where is the gap?",
+      "Output of This Step": "Market segments, sizes, and the leading opportunity, with sources.",
+      "Tips & Pitfalls": "Ground the numbers in cited online research, not gut feel.",
+      "Done When": "Segments, sizes, and the top opportunity are documented.",
+      "Time Box": "30+ min"
+    },
+    {
+      "id": "spf:29",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 29,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Analyze direct and indirect competitors",
+      "Do This Now": "List your top five to seven direct competitors and key indirect ones, write the questions you want answered, then fill the table: business model, features, strengths, weaknesses, and how they differentiate.",
+      "Prompts / Questions": "Who competes with us, and what do they do well and poorly?",
+      "Output of This Step": "A completed competitor analysis table and a summary of market gaps.",
+      "Tips & Pitfalls": "Direct competitors sell the same thing to the same customers; indirect ones solve the same need differently.",
+      "Done When": "Competitors are analyzed and the gaps summarized.",
+      "Time Box": "varies"
+    },
+    {
+      "id": "spf:30",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 30,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Run a feature comparison",
+      "Do This Now": "List your features and competitors' features and compare them side by side to see what is common, unique, and missing.",
+      "Prompts / Questions": "What features do competitors offer, and where are the gaps?",
+      "Output of This Step": "A feature comparison chart with gaps identified.",
+      "Tips & Pitfalls": "Focus on features people want but no one does well yet.",
+      "Done When": "The comparison is filled and gaps noted.",
+      "Time Box": "varies"
+    },
+    {
+      "id": "spf:31",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 31,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Do a design pattern analysis (if in scope)",
+      "Do This Now": "Study how competitors handle navigation, buttons, forms, and layouts; note what is effective and how you will apply it.",
+      "Prompts / Questions": "What design patterns work well, and how do we adapt them?",
+      "Output of This Step": "A design pattern analysis table.",
+      "Tips & Pitfalls": "Borrowing familiar patterns makes your product feel easy to use.",
+      "Done When": "Patterns are analyzed and decisions noted.",
+      "Time Box": "varies"
+    },
+    {
+      "id": "spf:32",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 32,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Step Title": "Define your positioning and unique value",
+      "Do This Now": "Identify your target audiences and their problems, summarize what makes you different, and write a product positioning statement using the template.",
+      "Prompts / Questions": "Who are we for, what do they value, and what makes us different?",
+      "Output of This Step": "A unique-value summary and a product positioning statement.",
+      "Tips & Pitfalls": "Position on a real gap that competitors leave open.",
+      "Done When": "You have a positioning statement and a clear unique value.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:33",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 33,
+      "Workshop": [
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Set the context: conflict is constructive",
+      "Do This Now": "Watch the two short conflict videos and discuss why healthy conflict is generative, and how it depends on psychological safety and service leadership.",
+      "Prompts / Questions": "Why can conflict actually be good for a team?",
+      "Output of This Step": "A shared understanding that conflict is normal and workable.",
+      "Tips & Pitfalls": "Name that anger and frustration are normal, but aiming them at people is not; own your own feelings.",
+      "Done When": "The team agrees conflict is something to prepare for, not avoid.",
+      "Time Box": "10 min"
+    },
+    {
+      "id": "spf:34",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 34,
+      "Workshop": [
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Name what has led to conflict before",
+      "Do This Now": "On sticky notes, write the thoughts, behaviors, and decisions that have put you or teammates into conflict in the past.",
+      "Prompts / Questions": "What have you reacted strongly to? What behaviors have caused conflict?",
+      "Output of This Step": "A wall of past conflict triggers.",
+      "Tips & Pitfalls": "Be honest; this is about self-awareness, not blame.",
+      "Done When": "Everyone has added their sticky notes.",
+      "Time Box": "3 min"
+    },
+    {
+      "id": "spf:35",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 35,
+      "Workshop": [
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Vote on your top contributing factors",
+      "Do This Now": "Read the team's stickies, then stamp your own top three triggers most likely to cause conflict for you.",
+      "Prompts / Questions": "Which behaviors might trigger me, or might my behavior trigger others?",
+      "Output of This Step": "Each person's top three triggers.",
+      "Tips & Pitfalls": "Notice where your own behavior might set others off, not just what sets you off.",
+      "Done When": "Everyone has voted.",
+      "Time Box": "3 min"
+    },
+    {
+      "id": "spf:36",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 36,
+      "Workshop": [
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Review the conflict-resolution process",
+      "Do This Now": "Individually read Tech Fleet's conflict-resolution process in the Agile Handbook.",
+      "Prompts / Questions": "What does our process ask of us when conflict happens?",
+      "Output of This Step": "Shared familiarity with the process: own your experience, avoid blame, stay factual, seek support, never resolve conflict over text.",
+      "Tips & Pitfalls": "Humility is central; use the situation to learn.",
+      "Done When": "Everyone has read the process.",
+      "Time Box": "10 min"
+    },
+    {
+      "id": "spf:37",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 37,
+      "Workshop": [
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Reflect on service leadership in conflict",
+      "Do This Now": "On sticky notes, capture how this approach to conflict reflects psychological safety and service leadership.",
+      "Prompts / Questions": "How does this approach invoke service leadership and psychological safety?",
+      "Output of This Step": "Shared reflections connecting the process to the team's values.",
+      "Tips & Pitfalls": "There is no wrong answer; share your genuine perspective.",
+      "Done When": "Everyone has added a reflection.",
+      "Time Box": "10 min"
+    },
+    {
+      "id": "spf:38",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 38,
+      "Workshop": [
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Brainstorm in breakouts",
+      "Do This Now": "In groups of three, brainstorm what you will do when conflict arises and what your responsibility is when you notice it. One person captures ideas on stickies.",
+      "Prompts / Questions": "What will we do when we run into conflict? What is each person's responsibility when they notice it?",
+      "Output of This Step": "Each group's agreed actions and responsibilities.",
+      "Tips & Pitfalls": "Name your group and make the actions concrete.",
+      "Done When": "Each breakout has captured its actions.",
+      "Time Box": "10 min"
+    },
+    {
+      "id": "spf:39",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 39,
+      "Workshop": [
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Step Title": "Reflect together as a full group",
+      "Do This Now": "Come back together and discuss what you learned and what surprised you that you want to remember going forward.",
+      "Prompts / Questions": "What did you take away? What surprised you?",
+      "Output of This Step": "Shared takeaways to carry into the project.",
+      "Tips & Pitfalls": "Close on a note of shared commitment, not just talk.",
+      "Done When": "The team has discussed its takeaways.",
+      "Time Box": "10 min"
+    },
+    {
+      "id": "spf:40",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 40,
+      "Workshop": [
+        {
+          "id": "spf:team-ice-breakers-workshop-template",
+          "label": "Team Ice Breakers Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Introductions",
+      "Do This Now": "Fill out your intro card, then share out loud with the team.",
+      "Prompts / Questions": "How did you discover Tech Fleet? What is your hidden talent or secret superpower? Where in the world would you go if you could go anywhere?",
+      "Output of This Step": "Everyone introduced, with a first sense of each other.",
+      "Tips & Pitfalls": "Keep it light; stickers and doodles are welcome.",
+      "Done When": "Everyone has shared their intro.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:41",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 41,
+      "Workshop": [
+        {
+          "id": "spf:team-ice-breakers-workshop-template",
+          "label": "Team Ice Breakers Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Working style",
+      "Do This Now": "Place your name on each scale, then review the board to learn how your teammates like to work.",
+      "Prompts / Questions": "Are you extrovert or introvert? Hands-on or plan-first? Gut or reflective decisions? Direct or constructive feedback? Planner or go-with-the-flow? Group or one-on-one?",
+      "Output of This Step": "A shared map of the team's working styles.",
+      "Tips & Pitfalls": "There is no right answer; this is about understanding each other.",
+      "Done When": "Everyone has placed themselves and reviewed the board.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:42",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 42,
+      "Workshop": [
+        {
+          "id": "spf:team-ice-breakers-workshop-template",
+          "label": "Team Ice Breakers Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Hopes, fears, learning, and support",
+      "Do This Now": "Add sticky notes about your hopes and fears for the project, what you want to learn, and how Tech Fleet can best support you.",
+      "Prompts / Questions": "What excites you about this project? What are you afraid of? What do you want to learn? How can we support you?",
+      "Output of This Step": "Shared hopes, fears, learning goals, and support needs.",
+      "Tips & Pitfalls": "Honesty here builds the safety the team will lean on later.",
+      "Done When": "Everyone has contributed their thoughts.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:43",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 43,
+      "Workshop": [
+        {
+          "id": "spf:team-ice-breakers-workshop-template",
+          "label": "Team Ice Breakers Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Crazy 6",
+      "Do This Now": "Sketch six quick things about yourself, one minute each, then share whatever you want.",
+      "Prompts / Questions": "Weekend vibe, favorite snack, guilty pleasure, something you can't live without, what you wanted to be as a kid, your spirit animal.",
+      "Output of This Step": "A fun, personal sketch from each teammate.",
+      "Tips & Pitfalls": "Rough drawings are perfect; it is about personality, not art.",
+      "Done When": "Everyone has sketched and shared.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:44",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 44,
+      "Workshop": [
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Read about strong agile teams",
+      "Do This Now": "Review the Agile Handbook material on the tenets (psychological safety, servant leadership, self-organization, continuous improvement, iterative value) and the pyramid that shows psychological safety as the foundation.",
+      "Prompts / Questions": "What makes an agile team strong, and why is psychological safety the base of the pyramid?",
+      "Output of This Step": "A shared understanding of the agile tenets before writing agreements.",
+      "Tips & Pitfalls": "The pyramid order matters; each tenet has to be in place before the next.",
+      "Done When": "The team shares a common understanding of the tenets.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:45",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 45,
+      "Workshop": [
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Define your agreements for each tenet",
+      "Do This Now": "As a team, answer how you will build each tenet and handle conflict, pivoting, communication, and collaboration, capturing takeaway agreements in each section.",
+      "Prompts / Questions": "How will we build psychological safety, service leadership, self-organization, and continuous improvement, and how will we handle conflict, pivoting, and communication?",
+      "Output of This Step": "Written agreements the whole team accepts, per category.",
+      "Tips & Pitfalls": "Use your own words; aim for agreements you will actually keep.",
+      "Done When": "Each category holds agreements the whole team buys into.",
+      "Time Box": "~45 min"
+    },
+    {
+      "id": "spf:46",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 46,
+      "Workshop": [
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Add your work items",
+      "Do This Now": "As a team, add all the tasks and future work you can identify into one shared space.",
+      "Prompts / Questions": "What work and future tasks can we identify together?",
+      "Output of This Step": "A backlog of candidate work.",
+      "Tips & Pitfalls": "Gather broadly first; do not judge or rank yet.",
+      "Done When": "The team has captured all the work it can think of.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:47",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 47,
+      "Workshop": [
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Choose your prioritization lens",
+      "Do This Now": "Decide whether to prioritize by risk and certainty or by effort and value.",
+      "Prompts / Questions": "Which lens fits this decision?",
+      "Output of This Step": "One agreed prioritization lens.",
+      "Tips & Pitfalls": "Risk and certainty suits validating assumptions; effort and value suits choosing what to build.",
+      "Done When": "The team agrees on one lens.",
+      "Time Box": "~3 min"
+    },
+    {
+      "id": "spf:48",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 48,
+      "Workshop": [
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Place items in the MoSCoW matrix",
+      "Do This Now": "Put each item into Must, Should, Could, or Won't based on the lens you chose.",
+      "Prompts / Questions": "Where does each item fall on the matrix?",
+      "Output of This Step": "A filled priority matrix.",
+      "Tips & Pitfalls": "It is a judgment call, and that is expected; agile lets you adjust later.",
+      "Done When": "Every item has a place on the matrix.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:49",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 49,
+      "Workshop": [
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Dot-vote the top items",
+      "Do This Now": "Agree how many votes each person gets, then vote. Run a second or third round to narrow.",
+      "Prompts / Questions": "Which items matter most right now?",
+      "Output of This Step": "The voted-up top items.",
+      "Tips & Pitfalls": "Multiple rounds sharpen a fuzzy top.",
+      "Done When": "The top items are clear.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:50",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 50,
+      "Workshop": [
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Finalize your top priorities",
+      "Do This Now": "Confirm the top pieces of work for the next iteration and move them into your plan.",
+      "Prompts / Questions": "What are we committing to next?",
+      "Output of This Step": "A finalized top-priority list for the next iteration.",
+      "Tips & Pitfalls": "Leave with something the team is genuinely committed to.",
+      "Done When": "The team agrees on the next iteration's priorities.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:51",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 51,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Pick the right intake path",
+      "Do This Now": "Choose the section that matches the client: one path for clients new to Tech Fleet, another for returning clients.",
+      "Prompts / Questions": "Has this client worked with Tech Fleet before?",
+      "Output of This Step": "The correct intake path selected.",
+      "Tips & Pitfalls": "A returning client adds a phase retrospective and a scope-change review.",
+      "Done When": "You are working in the right section for this client.",
+      "Time Box": "~2 min"
+    },
+    {
+      "id": "spf:52",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 52,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Walk the client through each topic",
+      "Do This Now": "Go topic by topic and capture the client's answers in their own words: audiences, goals, products, problems, current solutions, motivations, competitors, success and failure measures, ways of working, prior work, priorities, and milestones.",
+      "Prompts / Questions": "(Use the core questions.) What do you know about each of these areas?",
+      "Output of This Step": "The client's input recorded for every topic.",
+      "Tips & Pitfalls": "Listen and capture; do not jump to solving. Record even fuzzy answers.",
+      "Done When": "Every topic has the client's input captured.",
+      "Time Box": "~45 min"
+    },
+    {
+      "id": "spf:53",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 53,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Summarize takeaways per topic",
+      "Do This Now": "For each section, write a short summary of the key takeaways from what the client shared.",
+      "Prompts / Questions": "What are the most important takeaways from this topic?",
+      "Output of This Step": "A takeaways summary per topic.",
+      "Tips & Pitfalls": "Keep takeaways tight; they feed the team's plan.",
+      "Done When": "Each topic has a takeaways summary.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:54",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 54,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Turn takeaways into team action items",
+      "Do This Now": "For each section, translate the takeaways into concrete action items the team should make happen.",
+      "Prompts / Questions": "Based on this, what should the team actually do?",
+      "Output of This Step": "Action items per topic for the team.",
+      "Tips & Pitfalls": "This is what turns intake notes into a plan.",
+      "Done When": "Each topic has action items.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:55",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 55,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Capture the team's own kickoff questions",
+      "Do This Now": "Using the Kickoff Questions Table, list the questions the team wants to ask the client, and record the answers.",
+      "Prompts / Questions": "What else does the team need to ask the client before starting?",
+      "Output of This Step": "A filled kickoff questions table.",
+      "Tips & Pitfalls": "Bring the team's real unknowns, not just the standard questions.",
+      "Done When": "The team's questions are asked and answered.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:56",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 56,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Document it in the project repository",
+      "Do This Now": "Move the takeaways and action items into a Notion page in the project repository under Deliverables so the incoming team can review them.",
+      "Prompts / Questions": "Where will the team find this when they join?",
+      "Output of This Step": "The intake documented in the project repository.",
+      "Tips & Pitfalls": "Teammates are handed this to review when they are interviewed.",
+      "Done When": "The intake lives in the repository for the team.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:57",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 57,
+      "Workshop": [
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Learn the cross-functional \"hats\" model",
+      "Do This Now": "Review how cross-functional agile teams work: like a heist crew, people commit to the duties they want rather than sticking to one fixed title, and they re-decide every sprint.",
+      "Prompts / Questions": "What does it mean that we wear hats rather than hold fixed titles?",
+      "Output of This Step": "A shared understanding of the cross-functional model.",
+      "Tips & Pitfalls": "Titles do not limit you; you can commit to duties you have never done, and the team supports first-timers.",
+      "Done When": "The team understands the hats model.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:58",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 58,
+      "Workshop": [
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Review the typical responsibilities per function",
+      "Do This Now": "Look at the template RACI charts showing industry-standard duties per function, as a starting reference.",
+      "Prompts / Questions": "What does each function typically own?",
+      "Output of This Step": "Shared reference for typical duties.",
+      "Tips & Pitfalls": "This is a starting point, not a rule; the team can change it.",
+      "Done When": "The team has reviewed the typical responsibilities.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:59",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 59,
+      "Workshop": [
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Choose your hats for the sprint",
+      "Do This Now": "Each person picks the duties they want to commit to this sprint and adds those hats to their avatar.",
+      "Prompts / Questions": "Which duties do I want to commit to and grow into this sprint?",
+      "Output of This Step": "Each person's committed hats.",
+      "Tips & Pitfalls": "Choose based on the sprint goal and what you want to learn.",
+      "Done When": "Everyone has chosen their hats.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:60",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 60,
+      "Workshop": [
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Build the team's RACI from everyone's hats",
+      "Do This Now": "Assemble the cross-functional picture and mark Responsible, Accountable, Consulted, and Informed for each activity.",
+      "Prompts / Questions": "For each activity, who is R, A, C, and I?",
+      "Output of This Step": "A completed RACI chart for the sprint.",
+      "Tips & Pitfalls": "Exactly one Accountable per activity; the rest are Responsible, Consulted, or Informed.",
+      "Done When": "The sprint's RACI chart is complete.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:61",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 61,
+      "Workshop": [
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Rebuild it each sprint",
+      "Do This Now": "Make it a habit to re-discuss commitments and rebuild the RACI every sprint during planning.",
+      "Prompts / Questions": "Have our commitments changed for the coming sprint?",
+      "Output of This Step": "An up-to-date RACI each sprint.",
+      "Tips & Pitfalls": "The Scrum Master keeps this habit alive across the weeks.",
+      "Done When": "The team plans to refresh the RACI next sprint.",
+      "Time Box": "ongoing"
+    },
+    {
+      "id": "spf:62",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 62,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Identify your key audiences",
+      "Do This Now": "As a team, list the distinct audiences you need to support in the experience.",
+      "Prompts / Questions": "Who are the key audiences for this product or service?",
+      "Output of This Step": "A list of audiences to profile.",
+      "Tips & Pitfalls": "Support all the audiences the experience serves, not just the obvious one.",
+      "Done When": "The team agrees on the audiences to profile.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:63",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 63,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Set up a persona section per audience",
+      "Do This Now": "Copy a persona section for each audience and name it.",
+      "Prompts / Questions": "How many distinct personas do we need?",
+      "Output of This Step": "One labeled persona section per audience.",
+      "Tips & Pitfalls": "One section per audience keeps them from blurring together.",
+      "Done When": "Each audience has its own section.",
+      "Time Box": "~3 min"
+    },
+    {
+      "id": "spf:64",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 64,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Fill in each field with sticky notes",
+      "Do This Now": "As a cross-functional group, fill every field for each persona with sticky notes: demographics, where they go for info, accessibility considerations, tools used, goals, motivations, common tasks, and pain points.",
+      "Prompts / Questions": "For this audience: who are they, what do they need, and what gets in their way?",
+      "Output of This Step": "A filled persona per audience.",
+      "Tips & Pitfalls": "There is no wrong answer; capture every perspective, and flag guesses.",
+      "Done When": "Every field holds the team's input for each audience.",
+      "Time Box": "~15 min per audience"
+    },
+    {
+      "id": "spf:65",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 65,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Refine as research comes in",
+      "Do This Now": "Revisit and sharpen the personas as real research changes your understanding.",
+      "Prompts / Questions": "What has research taught us that changes this persona?",
+      "Output of This Step": "Personas that stay true as you learn.",
+      "Tips & Pitfalls": "Proto-personas become real personas once research backs them.",
+      "Done When": "The team has a plan to keep personas current.",
+      "Time Box": "ongoing"
+    },
+    {
+      "id": "spf:66",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 66,
+      "Workshop": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Review the deliverables per milestone",
+      "Do This Now": "Look at the pre-determined deliverables for each milestone in the agile lifecycle, for your project type (web platform, discovery, or service design).",
+      "Prompts / Questions": "What deliverables belong to each milestone for our kind of project?",
+      "Output of This Step": "Shared understanding of the deliverables available per milestone.",
+      "Tips & Pitfalls": "The lifecycle is non-linear; milestones repeat and overlap across phases.",
+      "Done When": "The team has reviewed the deliverables reference.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:67",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 67,
+      "Workshop": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Enter your project goals",
+      "Do This Now": "Summarize the project goals based on the client intake workshop.",
+      "Prompts / Questions": "What are the goals for this project, from the intake?",
+      "Output of This Step": "A clear summary of project goals.",
+      "Tips & Pitfalls": "Ground the plan in the client's actual goals, not assumptions.",
+      "Done When": "The project goals are written down.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:68",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 68,
+      "Workshop": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Set your project phase",
+      "Do This Now": "Mark whether the project is in phase 1, 2, 3, or 4.",
+      "Prompts / Questions": "Which phase are we in?",
+      "Output of This Step": "The project phase selected.",
+      "Tips & Pitfalls": "Phase determines which pre-built plan you will use.",
+      "Done When": "The phase is chosen.",
+      "Time Box": "~2 min"
+    },
+    {
+      "id": "spf:69",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 69,
+      "Workshop": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Choose your deliverables for this phase",
+      "Do This Now": "Pick the deliverables your team should produce this phase, using the milestone reference.",
+      "Prompts / Questions": "Which deliverables should we commit to this phase?",
+      "Output of This Step": "A chosen set of phase deliverables, grouped by milestone.",
+      "Tips & Pitfalls": "Choose based on the goals and phase, not everything at once.",
+      "Done When": "The phase's deliverables are chosen.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:70",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 70,
+      "Workshop": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Pick the matching phase plan",
+      "Do This Now": "Choose the pre-built project plan for your phase and delete the ones that do not apply.",
+      "Prompts / Questions": "Which pre-built plan matches our phase?",
+      "Output of This Step": "The right phase plan selected.",
+      "Tips & Pitfalls": "Deleting the others keeps the board focused on your plan.",
+      "Done When": "Only your phase's plan remains.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:71",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 71,
+      "Workshop": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Review and confirm sprint outcomes as a team",
+      "Do This Now": "Walk each sprint's planned outcomes with the whole team and adjust the timeline where needed.",
+      "Prompts / Questions": "Do these planned outcomes look right for each sprint?",
+      "Output of This Step": "A confirmed, adjusted phase plan.",
+      "Tips & Pitfalls": "This is a forecast; expect to shift outcomes as you learn.",
+      "Done When": "The whole team has confirmed the sprint outcomes.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:72",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 72,
+      "Workshop": [
+        {
+          "id": "spf:sprint-goals-workshop-template",
+          "label": "Sprint Goals Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Review this sprint's outcomes",
+      "Do This Now": "Pull up the outcomes the project plan calls for this sprint.",
+      "Prompts / Questions": "What outcomes are planned for this sprint?",
+      "Output of This Step": "Clarity on the sprint's planned outcomes.",
+      "Tips & Pitfalls": "Start from the project plan so the sprint ladders up to the phase.",
+      "Done When": "The team knows this sprint's planned outcomes.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:73",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 73,
+      "Workshop": [
+        {
+          "id": "spf:sprint-goals-workshop-template",
+          "label": "Sprint Goals Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Agree your single sprint goal",
+      "Do This Now": "As a team, distill the sprint into one clear objective that says why this sprint brings value.",
+      "Prompts / Questions": "What is the one thing this sprint is really about?",
+      "Output of This Step": "A single, agreed sprint goal.",
+      "Tips & Pitfalls": "One focus, not a list; it should be attainable in the sprint.",
+      "Done When": "The team agrees on one sprint goal.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:74",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 74,
+      "Workshop": [
+        {
+          "id": "spf:sprint-goals-workshop-template",
+          "label": "Sprint Goals Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Break the goal into steps",
+      "Do This Now": "Break the sprint goal and its outcomes into concrete steps of work.",
+      "Prompts / Questions": "What steps get us to this goal?",
+      "Output of This Step": "A list of steps for the sprint.",
+      "Tips & Pitfalls": "Small, clear steps make progress easy to track.",
+      "Done When": "The goal is broken into steps.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:75",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 75,
+      "Workshop": [
+        {
+          "id": "spf:sprint-goals-workshop-template",
+          "label": "Sprint Goals Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Assign an owner to each step",
+      "Do This Now": "Have teammates commit to owning each step.",
+      "Prompts / Questions": "Who owns each step?",
+      "Output of This Step": "Steps with named owners.",
+      "Tips & Pitfalls": "Owners can be anyone; commitments follow the RACI hats.",
+      "Done When": "Every step has an owner.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:76",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 76,
+      "Workshop": [
+        {
+          "id": "spf:sprint-goals-workshop-template",
+          "label": "Sprint Goals Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Confirm as a team and start the sprint",
+      "Do This Now": "Confirm the goal, steps, and owners together, then begin.",
+      "Prompts / Questions": "Are we aligned and ready to start?",
+      "Output of This Step": "A confirmed sprint plan the team is committed to.",
+      "Tips & Pitfalls": "Keep the goal visible for the daily standup.",
+      "Done When": "The team is aligned and the sprint begins.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:77",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 77,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-map-workshop-template",
+          "label": "Customer Experience Map Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Map the current experience per audience",
+      "Do This Now": "For each audience, build a flow chart of their experience today across the funnel: awareness, engagement, consideration, conversion, retention, loyalty. Note each step and the other audiences involved.",
+      "Prompts / Questions": "What does this audience actually do at each stage today?",
+      "Output of This Step": "A current-experience flow chart per audience.",
+      "Tips & Pitfalls": "Map what really happens today, not what you wish happened.",
+      "Done When": "Each audience has a current-experience flow chart.",
+      "Time Box": "varies"
+    },
+    {
+      "id": "spf:78",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 78,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-map-workshop-template",
+          "label": "Customer Experience Map Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Mark pain points, ideas, and questions",
+      "Do This Now": "Using the color legend, add red stickies for pain points, yellow for ideas to change, and blue for questions to the team.",
+      "Prompts / Questions": "Where does the experience break down, and what could change?",
+      "Output of This Step": "Pain points, ideas, and questions marked across the flow.",
+      "Tips & Pitfalls": "The legend keeps everyone reading the map the same way.",
+      "Done When": "The current map is annotated with pains, ideas, and questions.",
+      "Time Box": "varies"
+    },
+    {
+      "id": "spf:79",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 79,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-map-workshop-template",
+          "label": "Customer Experience Map Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Map the future experience per audience",
+      "Do This Now": "Build a future-experience flow chart for each audience, adding green stickies for the strategies that solve the current pain points.",
+      "Prompts / Questions": "How should this experience work, and what strategy fixes each pain point?",
+      "Output of This Step": "A future-experience flow chart per audience with strategies.",
+      "Tips & Pitfalls": "Tie each future strategy back to a real current pain point.",
+      "Done When": "Each audience has a future-experience flow chart.",
+      "Time Box": "varies"
+    },
+    {
+      "id": "spf:80",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 80,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-map-workshop-template",
+          "label": "Customer Experience Map Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Iterate through continuous discovery",
+      "Do This Now": "Revisit and update the maps as research teaches you more.",
+      "Prompts / Questions": "What has research changed about the current or future experience?",
+      "Output of This Step": "Living CX maps that stay accurate.",
+      "Tips & Pitfalls": "These are never finished; update them every research round.",
+      "Done When": "The team has a plan to keep the maps current.",
+      "Time Box": "ongoing"
+    },
+    {
+      "id": "spf:81",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 81,
+      "Workshop": [
+        {
+          "id": "spf:user-journey-map-workshop-template",
+          "label": "User Journey Map Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Choose the audience and scenario",
+      "Do This Now": "Pick one audience and the use-case scenario you will map their journey through.",
+      "Prompts / Questions": "Which single audience and scenario are we mapping?",
+      "Output of This Step": "A chosen audience and scenario.",
+      "Tips & Pitfalls": "One audience per map keeps the journey clear and specific.",
+      "Done When": "The audience and scenario are set.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:82",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 82,
+      "Workshop": [
+        {
+          "id": "spf:user-journey-map-workshop-template",
+          "label": "User Journey Map Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Lay out the steps in the table",
+      "Do This Now": "List the steps of the journey in the table, tagging each to a funnel stage (awareness, engagement, consideration, conversion, retention, loyalty).",
+      "Prompts / Questions": "What steps does this audience move through, and where in the funnel?",
+      "Output of This Step": "A table of journey steps mapped to funnel stages.",
+      "Tips & Pitfalls": "Base the steps on real use case scenarios, not guesses.",
+      "Done When": "Every step is listed and tagged to a stage.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:83",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 83,
+      "Workshop": [
+        {
+          "id": "spf:user-journey-map-workshop-template",
+          "label": "User Journey Map Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Detail each step",
+      "Do This Now": "For each step, capture the description, audiences involved, common tasks, pain points, sentiment (negative, neutral, positive), a potential KPI, and ideas to improve.",
+      "Prompts / Questions": "At this step: what happens, what do they do and feel, where does it hurt, and how would we measure it?",
+      "Output of This Step": "A fully detailed journey table.",
+      "Tips & Pitfalls": "Honest sentiment at each step is where the insight lives.",
+      "Done When": "Each step has its full detail.",
+      "Time Box": "~25 min"
+    },
+    {
+      "id": "spf:84",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 84,
+      "Workshop": [
+        {
+          "id": "spf:user-journey-map-workshop-template",
+          "label": "User Journey Map Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Iterate through discovery",
+      "Do This Now": "Revisit and refine the journey as research changes your understanding.",
+      "Prompts / Questions": "What has research changed about this journey?",
+      "Output of This Step": "A living journey map that stays accurate.",
+      "Tips & Pitfalls": "Pair it with the CX map; the two together tell the whole story.",
+      "Done When": "The team has a plan to keep the journey current.",
+      "Time Box": "ongoing"
+    },
+    {
+      "id": "spf:85",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 85,
+      "Workshop": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Learn the agile methods",
+      "Do This Now": "Read the detailed breakdowns of Kanban, Scrum, and Scaled Agile: their goals, roles, how they work, and pain points.",
+      "Prompts / Questions": "How does each agile method work, and which fits how we want to operate?",
+      "Output of This Step": "Shared understanding of the agile methods.",
+      "Tips & Pitfalls": "This is prerequisite reading; an informed process beats a guessed one.",
+      "Done When": "The team understands the methods.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:86",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 86,
+      "Workshop": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Learn the Kanban board and WIP limits",
+      "Do This Now": "Study how a Kanban board tracks work statuses (To Do, Doing, Done, Blocked) and how work-in-progress limits keep work flowing.",
+      "Prompts / Questions": "How do statuses and WIP limits keep our work moving?",
+      "Output of This Step": "Shared understanding of Kanban mechanics.",
+      "Tips & Pitfalls": "WIP limits force finishing before starting; a blocked lane keeps flow honest.",
+      "Done When": "The team understands the board and WIP limits.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:87",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 87,
+      "Workshop": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Study the example process flow chart",
+      "Do This Now": "Walk through the worked example of how work moves from intake through requirements, planning, sprint work, and demo, with its decision branches.",
+      "Prompts / Questions": "How does the example handle new work, priorities, and pivots?",
+      "Output of This Step": "A shared read of the example process.",
+      "Tips & Pitfalls": "Notice the decision branches; your process will have its own.",
+      "Done When": "The team has studied the example.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:88",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 88,
+      "Workshop": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Build your own team process flow chart",
+      "Do This Now": "Delete the example and map how work should actually flow on your team, across functions.",
+      "Prompts / Questions": "How does work really move through our team, step by step?",
+      "Output of This Step": "Your team's own process flow chart.",
+      "Tips & Pitfalls": "Make it yours; it should reflect how your team wants to work.",
+      "Done When": "The team's process flow chart is built.",
+      "Time Box": "varies"
+    },
+    {
+      "id": "spf:89",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 89,
+      "Workshop": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Implement it as Kanban board statuses",
+      "Do This Now": "Turn the flow into columns and statuses on your Notion Kanban board, with WIP limits.",
+      "Prompts / Questions": "What board statuses and limits express our process?",
+      "Output of This Step": "Kanban board statuses set up in Notion.",
+      "Tips & Pitfalls": "Keep statuses in priority order with fully refined items ready to pull.",
+      "Done When": "The board statuses are set up.",
+      "Time Box": "varies"
+    },
+    {
+      "id": "spf:90",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 90,
+      "Workshop": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Keep it updated",
+      "Do This Now": "Revisit and adjust the process whenever working agreements or retros change.",
+      "Prompts / Questions": "Has our process changed since last retro?",
+      "Output of This Step": "A living process map.",
+      "Tips & Pitfalls": "This changes with your working agreements and retrospectives.",
+      "Done When": "The team plans to keep it current.",
+      "Time Box": "ongoing"
+    },
+    {
+      "id": "spf:91",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 91,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Brainstorm segment traits",
+      "Do This Now": "As a team, brainstorm possible audience traits across geography, behavior, demographics, and socioeconomic status.",
+      "Prompts / Questions": "What traits could describe our audiences across these four lenses?",
+      "Output of This Step": "A pool of possible segment traits.",
+      "Tips & Pitfalls": "Cast wide first; you will narrow to what matters next.",
+      "Done When": "Traits are captured across all four lenses.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:92",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 92,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Choose impactful traits and label your audiences",
+      "Do This Now": "Pick the most impactful traits and use them to describe and label the focus audiences.",
+      "Prompts / Questions": "Which traits matter most, and what do we call each focus audience?",
+      "Output of This Step": "Labeled focus audiences with defining traits.",
+      "Tips & Pitfalls": "A clear label gives the team shared language for each audience.",
+      "Done When": "Focus audiences are labeled and described.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:93",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 93,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Identify each audience's motivations",
+      "Do This Now": "For each audience, capture what drives them to act and what they desire.",
+      "Prompts / Questions": "What drives this audience, and what do they want?",
+      "Output of This Step": "Motivations per audience.",
+      "Tips & Pitfalls": "Motivations explain the goals that follow.",
+      "Done When": "Each audience has its motivations.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:94",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 94,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Identify situational and life goals",
+      "Do This Now": "For each audience, capture the outcomes they want within your experience (situational) and in their life more broadly.",
+      "Prompts / Questions": "What do they want to achieve in our experience, and in life?",
+      "Output of This Step": "Situational and life goals per audience.",
+      "Tips & Pitfalls": "Tie goals back to the motivations you named.",
+      "Done When": "Each audience has situational and life goals.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:95",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 95,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Identify use cases to support",
+      "Do This Now": "For each audience, capture the most impactful scenarios to support: the problem aspect today, when it happens, the business goal for changing it, and future scenarios.",
+      "Prompts / Questions": "Which scenarios must we support to change this audience's experience?",
+      "Output of This Step": "Use case scenarios per audience.",
+      "Tips & Pitfalls": "Focus on the scenarios that most change the experience.",
+      "Done When": "Each audience has its key use cases.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:96",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 96,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Prioritize the use cases",
+      "Do This Now": "Place the use cases in a MoSCoW matrix by risk and certainty (or effort and value) to focus on the most valuable.",
+      "Prompts / Questions": "Which use cases matter most right now?",
+      "Output of This Step": "A prioritized set of use cases.",
+      "Tips & Pitfalls": "This tells the team where to aim research and design first.",
+      "Done When": "The use cases are prioritized.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:97",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 97,
+      "Workshop": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Define the business purpose and goals",
+      "Do This Now": "State the business's purpose and goals; if you did the client intake, copy the business goals over.",
+      "Prompts / Questions": "What is the business trying to achieve, and why?",
+      "Output of This Step": "Clear business purpose and goals.",
+      "Tips & Pitfalls": "Reuse the intake's goals so the KPIs ladder up to them.",
+      "Done When": "Business purpose and goals are written down.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:98",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 98,
+      "Workshop": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Define business success measurements and collection",
+      "Do This Now": "Define how the business will measure success against those goals, and how you will collect each measurement.",
+      "Prompts / Questions": "How will the business know it succeeded, and how do we measure it?",
+      "Output of This Step": "Business success measurements plus collection ideas.",
+      "Tips & Pitfalls": "A measure without a way to collect it is just a wish.",
+      "Done When": "Business measurements and collection are defined.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:99",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 99,
+      "Workshop": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Map each audience's world",
+      "Do This Now": "For each target audience, capture their relevant goals, pain points, motivations, common tasks, and steps in their process today.",
+      "Prompts / Questions": "For this audience: what are their goals, pains, motivations, tasks, and current steps?",
+      "Output of This Step": "A picture of each audience's current world.",
+      "Tips & Pitfalls": "Pull pains from your problem-statement and CX work if you have them.",
+      "Done When": "Each audience's world is mapped.",
+      "Time Box": "~15 min per audience"
+    },
+    {
+      "id": "spf:100",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 100,
+      "Workshop": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Define success measurements per step and outcome",
+      "Do This Now": "For each audience, define success measurements tied to the steps in their process and to the outcomes they want.",
+      "Prompts / Questions": "What would show success at each step, and for each outcome they want?",
+      "Output of This Step": "Success measurements per step and per outcome.",
+      "Tips & Pitfalls": "Measure both the journey (steps) and the destination (outcomes).",
+      "Done When": "Measurements are defined for steps and outcomes.",
+      "Time Box": "~15 min per audience"
+    },
+    {
+      "id": "spf:101",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 101,
+      "Workshop": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Define how to collect each measurement",
+      "Do This Now": "For each measurement, capture how you could collect it, inside or outside the experience.",
+      "Prompts / Questions": "How could we actually collect this measurement?",
+      "Output of This Step": "A collection plan for each measurement.",
+      "Tips & Pitfalls": "Think analytics, surveys, and observation, inside and outside the product.",
+      "Done When": "Every measurement has a collection idea.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:102",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 102,
+      "Workshop": [
+        {
+          "id": "spf:sprint-retro-workshop-template",
+          "label": "Sprint Retro Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Run the 4 Ls retro",
+      "Do This Now": "Everyone adds sticky notes to the four columns: I Liked, I Learned in Hindsight, I Lacked, and I Longed For.",
+      "Prompts / Questions": "This past sprint, what did you like, learn in hindsight, lack, and long for?",
+      "Output of This Step": "A full picture of how the sprint felt to the team.",
+      "Tips & Pitfalls": "Reflect honestly; this is a safe space, not a performance review.",
+      "Done When": "Everyone has reflected across the 4 Ls.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:103",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 103,
+      "Workshop": [
+        {
+          "id": "spf:sprint-retro-workshop-template",
+          "label": "Sprint Retro Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Recognize service leadership",
+      "Do This Now": "Name the teammates who showed great service leadership this sprint, and say why.",
+      "Prompts / Questions": "Who acted in service of others' growth this sprint, and how?",
+      "Output of This Step": "Service-leadership recognition for the team.",
+      "Tips & Pitfalls": "Specific praise means more than a generic thank-you.",
+      "Done When": "Teammates have been recognized.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:104",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 104,
+      "Workshop": [
+        {
+          "id": "spf:sprint-retro-workshop-template",
+          "label": "Sprint Retro Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Turn reflections into action items",
+      "Do This Now": "For each thing learned, write a How Might We statement, ideas to change it, whether it changes the working agreements, and who will own it.",
+      "Prompts / Questions": "What should we change, and who owns making it happen?",
+      "Output of This Step": "A set of owned action items to improve the process.",
+      "Tips & Pitfalls": "An action item without an owner rarely happens; assign each one.",
+      "Done When": "Each change has an owner.",
+      "Time Box": "~25 min"
+    },
+    {
+      "id": "spf:105",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 105,
+      "Workshop": [
+        {
+          "id": "spf:sprint-retro-workshop-template",
+          "label": "Sprint Retro Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Update working agreements and share",
+      "Do This Now": "Update the working agreements based on the action items and send the summary to the team.",
+      "Prompts / Questions": "What in our working agreements should change based on this?",
+      "Output of This Step": "Updated working agreements and a shared summary.",
+      "Tips & Pitfalls": "Product operations also updates the leadership project form.",
+      "Done When": "Agreements are updated and the summary is sent.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:106",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 106,
+      "Workshop": [
+        {
+          "id": "spf:agile-team-maturity-measurements-workshop-template",
+          "label": "Agile Team Maturity Measurements Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Run it right after the retro",
+      "Do This Now": "Hold this every sprint, immediately after the sprint retrospective.",
+      "Prompts / Questions": "Are we measuring our agility right after reflecting on the sprint?",
+      "Output of This Step": "The measurement session set up after the retro.",
+      "Tips & Pitfalls": "Doing it alongside the retro keeps reflection and measurement connected.",
+      "Done When": "The session is underway after the retro.",
+      "Time Box": "~2 min"
+    },
+    {
+      "id": "spf:107",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 107,
+      "Workshop": [
+        {
+          "id": "spf:agile-team-maturity-measurements-workshop-template",
+          "label": "Agile Team Maturity Measurements Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Rate each agility dimension 0 to 10",
+      "Do This Now": "Everyone stamps a dot on the 0-to-10 scale for each dimension: clarity, psychological safety, service leadership, cross-functional teamwork, teammate ownership, and self-organization.",
+      "Prompts / Questions": "On a 0 to 10 scale, how strongly did we show each dimension this sprint?",
+      "Output of This Step": "The team's ratings across all dimensions.",
+      "Tips & Pitfalls": "Rate the past sprint honestly; a low score is useful, not shameful.",
+      "Done When": "Every dimension has the team's dots.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:108",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 108,
+      "Workshop": [
+        {
+          "id": "spf:agile-team-maturity-measurements-workshop-template",
+          "label": "Agile Team Maturity Measurements Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Explain your scores",
+      "Do This Now": "For each dimension, add a sticky note saying what contributed to your score.",
+      "Prompts / Questions": "Why did you score this dimension the way you did?",
+      "Output of This Step": "The reasons behind each score.",
+      "Tips & Pitfalls": "The reasons matter more than the numbers.",
+      "Done When": "Each dimension has reasons attached.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:109",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 109,
+      "Workshop": [
+        {
+          "id": "spf:agile-team-maturity-measurements-workshop-template",
+          "label": "Agile Team Maturity Measurements Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Discuss and feed into action items",
+      "Do This Now": "Talk through the patterns and route the improvements into the retro's action items.",
+      "Prompts / Questions": "What do these scores tell us to change?",
+      "Output of This Step": "Improvements routed into the retro action items.",
+      "Tips & Pitfalls": "This is how measurement turns into real change.",
+      "Done When": "The insights feed the retro action items.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:110",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 110,
+      "Workshop": [
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Dump all your assumed problems",
+      "Do This Now": "For each audience, capture every problem you assume about the current state of the world.",
+      "Prompts / Questions": "What problems do we assume exist for each audience?",
+      "Output of This Step": "A raw pile of assumed problems, per audience.",
+      "Tips & Pitfalls": "Assumptions are welcome here; you will refine them next.",
+      "Done When": "Every assumed problem is captured.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:111",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 111,
+      "Workshop": [
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Break down the aspects (Table 1)",
+      "Do This Now": "For each problem, name the audience experiencing it and the raw aspects, the situations that contribute to it.",
+      "Prompts / Questions": "Who faces this, and what situations contribute to it?",
+      "Output of This Step": "A breakdown of each problem into its aspects.",
+      "Tips & Pitfalls": "One problem often hides several distinct aspects.",
+      "Done When": "Each problem is broken into aspects.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:112",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 112,
+      "Workshop": [
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Find the root with the 5 Whys",
+      "Do This Now": "For each aspect, keep asking why it is a problem until you reach the meaningful root.",
+      "Prompts / Questions": "Why is this a problem? And why is that? (Keep going.)",
+      "Output of This Step": "The root cause behind each aspect.",
+      "Tips & Pitfalls": "Stop when you reach a root that actually matters to the audience.",
+      "Done When": "Each aspect has a root.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:113",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 113,
+      "Workshop": [
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Compile the formal problem statement",
+      "Do This Now": "Combine the root and aspect with who faces it, when it is a problem, and why it matters.",
+      "Prompts / Questions": "Root + aspect + who + when + why: what is the full problem statement?",
+      "Output of This Step": "A formal problem statement per aspect.",
+      "Tips & Pitfalls": "Keep it a problem, never a solution.",
+      "Done When": "Each aspect has a formal problem statement.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:114",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 114,
+      "Workshop": [
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Build the problem checklist",
+      "Do This Now": "For each problem statement, add the user goal, the user need(s), and the consequences the user is trying to avoid. One audience per checklist.",
+      "Prompts / Questions": "What is their goal, their underlying need, and what are they trying to avoid?",
+      "Output of This Step": "A problem checklist per problem statement.",
+      "Tips & Pitfalls": "Goals and needs are outcomes, not solutions; watch that trap.",
+      "Done When": "Each problem has a checklist.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:115",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 115,
+      "Workshop": [
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Generate the user story",
+      "Do This Now": "Turn each checklist into a user story: As a [audience], I want [goal], so that [value or consequence avoided].",
+      "Prompts / Questions": "How do we say this as a user story?",
+      "Output of This Step": "A user story per problem.",
+      "Tips & Pitfalls": "Small, testable stories keep the build fast and adjustable.",
+      "Done When": "Each problem has a user story.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:116",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 116,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Read the agile foundations first",
+      "Do This Now": "Read the Agile Handbook references this board links: waterfall versus agile ways of work, agile philosophies, making strong teams, the Scrum method, and common deliverables.",
+      "Prompts / Questions": "What does the Agile Handbook say agile is, and how teams work?",
+      "Output of This Step": "Shared background before the discussion.",
+      "Tips & Pitfalls": "This is prerequisite reading; the session assumes it.",
+      "Done When": "The team has read the foundations.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:117",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 117,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Learn agile versus waterfall",
+      "Do This Now": "Compare the two manifestos and lifecycles: waterfall's siloed, sequential phases versus agile's parallel, iterative, feedback-driven work.",
+      "Prompts / Questions": "How is agile different from waterfall, in values and in how work flows?",
+      "Output of This Step": "A clear grasp of the agile-versus-waterfall difference.",
+      "Tips & Pitfalls": "Agile values the same things waterfall lists, but values the left side more.",
+      "Done When": "The team can explain the difference.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:118",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 118,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Learn the tenets of strong agile teams",
+      "Do This Now": "Study the tenets (self-organization, psychological safety, servant leadership, iterative value, continuous improvement) and the pyramid that orders them.",
+      "Prompts / Questions": "What makes an agile team strong, and in what order do the tenets build?",
+      "Output of This Step": "Shared understanding of the tenets and their order.",
+      "Tips & Pitfalls": "Psychological safety is the base; nothing else holds without it.",
+      "Done When": "The team understands the tenets and pyramid.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:119",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 119,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Learn the Four Stages of Team Growth",
+      "Do This Now": "Walk through Forming, Storming, Norming, and Performing, and the feelings and behaviors of each.",
+      "Prompts / Questions": "Which stage are we in, and what does each stage feel like?",
+      "Output of This Step": "A shared model of how teams grow.",
+      "Tips & Pitfalls": "Every team storms; naming it makes it easier to move through.",
+      "Done When": "The team understands the four stages.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:120",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 120,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Reflect together",
+      "Do This Now": "Fill the Living Agile Manifesto (what a team does when it lives each value), then reflect on what causes storming and how to move past it.",
+      "Prompts / Questions": "What does living each agile value look like for us, and how will we move toward performing?",
+      "Output of This Step": "Shared reflections that shape how the team will work.",
+      "Tips & Pitfalls": "There are no wrong answers; this builds the team's own norms.",
+      "Done When": "The team has reflected and shared.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:121",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 121,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Plan how to start agile",
+      "Do This Now": "Walk the Why, Who, and How checklist for standing up agile on your team.",
+      "Prompts / Questions": "What do we need to do to actually start working the agile way?",
+      "Output of This Step": "A shared checklist of next steps to start agile.",
+      "Tips & Pitfalls": "The Why (buy-in) often matters most; sell it as a service leader.",
+      "Done When": "The team knows how it will start agile.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:122",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 122,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "List potential research topics",
+      "Do This Now": "Brainstorm everything you want to learn about your audiences or focus area, one topic per sticky.",
+      "Prompts / Questions": "What do we want to learn right now?",
+      "Output of This Step": "A pool of possible research topics.",
+      "Tips & Pitfalls": "Cast wide; you will prioritize next.",
+      "Done When": "Topics are captured.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:123",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 123,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Prioritize topics and pick the top ones",
+      "Do This Now": "Place topics in a MoSCoW matrix by risk and certainty, and pick the top five or so for this iteration.",
+      "Prompts / Questions": "Which topics are riskiest and least certain, so most worth researching now?",
+      "Output of This Step": "A prioritized shortlist of topics.",
+      "Tips & Pitfalls": "You cannot research everything in one iteration; choose the vital few.",
+      "Done When": "The top topics are chosen.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:124",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 124,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Turn topics into questions, goals, and assumptions",
+      "Do This Now": "For each chosen topic, write a research question and goal, and the assumptions you hold about it.",
+      "Prompts / Questions": "What is the question, the goal, and what do we assume is true?",
+      "Output of This Step": "Research questions, goals, and assumptions.",
+      "Tips & Pitfalls": "An assumption is a hypothesis; you will test it, not trust it.",
+      "Done When": "Each topic has a question, goal, and assumptions.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:125",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 125,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Prioritize your assumptions",
+      "Do This Now": "Place your assumptions in a MoSCoW matrix by risk and certainty.",
+      "Prompts / Questions": "Which assumptions are riskiest and least certain?",
+      "Output of This Step": "A prioritized set of assumptions.",
+      "Tips & Pitfalls": "Test the assumptions that would hurt most if wrong.",
+      "Done When": "Assumptions are prioritized.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:126",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 126,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Map each assumption to a test",
+      "Do This Now": "For each assumption, capture the problem statement, implications if true and if false, direct questions to users, a task, and observations to measure.",
+      "Prompts / Questions": "How would we test this assumption, and what does it mean if it's true or false?",
+      "Output of This Step": "A filled assumption table.",
+      "Tips & Pitfalls": "Measure what people do (tasks, observations), not only what they say.",
+      "Done When": "Each assumption maps to a way to test it.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:127",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 127,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Choose your research methods",
+      "Do This Now": "For each question, pick the fitting method using the guide (generative vs evaluative, what vs why, short vs long term).",
+      "Prompts / Questions": "What method best answers this question?",
+      "Output of This Step": "A method chosen per question.",
+      "Tips & Pitfalls": "Method is the type of test; approach is how you run it. You may mix several.",
+      "Done When": "Methods are chosen.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:128",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 128,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Step Title": "Build the research test plan",
+      "Do This Now": "Document the plan: background, goals, questions, assumptions, and methodology (participants, screener, method, materials, measurements), plus the limitations.",
+      "Prompts / Questions": "What is our full, repeatable test plan?",
+      "Output of This Step": "A complete, documented research test plan.",
+      "Tips & Pitfalls": "Document it so it can be repeated, and state its limitations honestly.",
+      "Done When": "The test plan is complete.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:129",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 129,
+      "Workshop": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Enter your release-level vision components",
+      "Do This Now": "Capture the building blocks: your business why, target audiences, the problems and opportunities you assume, business goals, the value you deliver, your unique advantage, barriers and risks, costs, and KPIs.",
+      "Prompts / Questions": "Who are our audiences, what problems and goals matter, and what makes us different?",
+      "Output of This Step": "The raw components for your vision boards.",
+      "Tips & Pitfalls": "These are assumptions; they do not need to be validated yet.",
+      "Done When": "The vision components are captured.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:130",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 130,
+      "Workshop": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Prioritize each audience's problems",
+      "Do This Now": "For each audience, place the problems in a MoSCoW matrix by risk and certainty (or complexity and value).",
+      "Prompts / Questions": "Which problems are riskiest and least certain, so most worth solving first?",
+      "Output of This Step": "A prioritized problem set per audience.",
+      "Tips & Pitfalls": "No one knows the right order for sure; it is a judgment call agile lets you adjust.",
+      "Done When": "Each audience's problems are prioritized.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:131",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 131,
+      "Workshop": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Pick the top problems for the first release",
+      "Do This Now": "Choose the top few problems per audience as the near-term problems for MVP #1.",
+      "Prompts / Questions": "Which problems will we solve first?",
+      "Output of This Step": "The near-term problems for MVP #1.",
+      "Tips & Pitfalls": "Keep the first release focused; the rest belong to MMP.",
+      "Done When": "The top problems are chosen.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:132",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 132,
+      "Workshop": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Create vision boards per audience per release",
+      "Do This Now": "Build one vision board for MVP #1 (top problems) and one for MMP (all problems), per audience: vision statement, audience, problems, business goals, value per problem, competitive advantage, barriers, costs, KPIs, and use cases.",
+      "Prompts / Questions": "For this audience and release: what is the vision, and what value do we deliver?",
+      "Output of This Step": "A vision board per audience per release.",
+      "Tips & Pitfalls": "Write the one-sentence vision statement last, after the rest is filled in.",
+      "Done When": "Each audience has an MVP and MMP vision board.",
+      "Time Box": "~30 min"
+    },
+    {
+      "id": "spf:133",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 133,
+      "Workshop": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Define the scope of outcomes per release",
+      "Do This Now": "For each release, define the scope of outcomes to achieve based on the value and problems.",
+      "Prompts / Questions": "What outcomes will each release actually achieve?",
+      "Output of This Step": "A scope of outcomes per release.",
+      "Tips & Pitfalls": "Scope the outcomes, not a fixed feature list; it evolves.",
+      "Done When": "Each release has a scope of outcomes.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:134",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 134,
+      "Workshop": [
+        {
+          "id": "spf:backlog-management-workshop-template",
+          "label": "Backlog Management Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Start from your release scope",
+      "Do This Now": "Bring the scope of outcomes from the Vision and Scope workshop as your starting point.",
+      "Prompts / Questions": "What outcomes did we scope for this release?",
+      "Output of This Step": "The release scope, ready to break down.",
+      "Tips & Pitfalls": "The backlog should ladder up to the release vision and scope.",
+      "Done When": "The team has the release scope in hand.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:135",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 135,
+      "Workshop": [
+        {
+          "id": "spf:backlog-management-workshop-template",
+          "label": "Backlog Management Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Create epics and features",
+      "Do This Now": "Organize the scope into themes (epics) and the user-facing capabilities (features) inside them.",
+      "Prompts / Questions": "What are the big themes, and what features sit inside each?",
+      "Output of This Step": "Epics and their features.",
+      "Tips & Pitfalls": "Epics are big bodies of work; features are the usable pieces within.",
+      "Done When": "The scope is organized into epics and features.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:136",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 136,
+      "Workshop": [
+        {
+          "id": "spf:backlog-management-workshop-template",
+          "label": "Backlog Management Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Break features into tasks",
+      "Do This Now": "Break each feature into small, buildable task items.",
+      "Prompts / Questions": "What tasks make up each feature?",
+      "Output of This Step": "A set of tasks per feature.",
+      "Tips & Pitfalls": "Small tasks (INVEST) keep the work testable and fast to deliver.",
+      "Done When": "Features are broken into tasks.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:137",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 137,
+      "Workshop": [
+        {
+          "id": "spf:backlog-management-workshop-template",
+          "label": "Backlog Management Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Build the release roadmap",
+      "Do This Now": "Sequence the epics and features over time into a roadmap.",
+      "Prompts / Questions": "When will each epic and feature happen?",
+      "Output of This Step": "A release roadmap.",
+      "Tips & Pitfalls": "Keep it living; adjust as priorities and learning change.",
+      "Done When": "The roadmap is built.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:138",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 138,
+      "Workshop": [
+        {
+          "id": "spf:backlog-management-workshop-template",
+          "label": "Backlog Management Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Populate and prioritize the backlog",
+      "Do This Now": "Create the task tickets, order them by priority, and get them ready to write requirements against.",
+      "Prompts / Questions": "What is in the backlog, and in what order?",
+      "Output of This Step": "A populated, prioritized backlog.",
+      "Tips & Pitfalls": "Keep the top of the backlog refined and ready to pull at any moment.",
+      "Done When": "The backlog is populated and prioritized.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:139",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 139,
+      "Workshop": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Document the raw results",
+      "Do This Now": "For each question, task, and observation, record what actually happened, for example \"x of y people did Z.\"",
+      "Prompts / Questions": "What were the raw results of each question, task, and observation?",
+      "Output of This Step": "Documented raw results across the test.",
+      "Tips & Pitfalls": "Capture what people did and said separately; do not interpret yet.",
+      "Done When": "The raw results are documented.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:140",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 140,
+      "Workshop": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Cluster themes with an affinity map",
+      "Do This Now": "Group the observations into themes on an affinity map, and use a rainbow table to track which participants showed each finding.",
+      "Prompts / Questions": "What patterns and themes repeat across participants?",
+      "Output of This Step": "An affinity map of themes and a rainbow table.",
+      "Tips & Pitfalls": "The rainbow table shows what is common versus a one-off.",
+      "Done When": "Themes are clustered and tracked.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:141",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 141,
+      "Workshop": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Tie results back to each assumption",
+      "Do This Now": "Map the findings back to the assumptions you set out to test.",
+      "Prompts / Questions": "What does the evidence say about each assumption we tested?",
+      "Output of This Step": "Findings mapped to each assumption.",
+      "Tips & Pitfalls": "Stay honest; let the data speak, not your hopes.",
+      "Done When": "Each assumption has its evidence attached.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:142",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 142,
+      "Workshop": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Conclude each assumption",
+      "Do This Now": "Mark each assumption true, false, or undetermined, and assign an owner to the conclusion.",
+      "Prompts / Questions": "Was this assumption true, false, or undetermined?",
+      "Output of This Step": "A conclusion per assumption, with an owner.",
+      "Tips & Pitfalls": "\"Undetermined\" is a valid, useful result; do not force a verdict.",
+      "Done When": "Every assumption has a conclusion.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:143",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 143,
+      "Workshop": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Capture new research questions",
+      "Do This Now": "Write down the new assumptions and questions that emerged from this round.",
+      "Prompts / Questions": "What new questions do these results raise?",
+      "Output of This Step": "A list of new research questions.",
+      "Tips & Pitfalls": "Good research always breeds the next round of questions.",
+      "Done When": "New questions are captured.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:144",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 144,
+      "Workshop": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Prioritize the next research topics",
+      "Do This Now": "Place the new topics in a MoSCoW matrix, then feed them into the next Research Plan iteration.",
+      "Prompts / Questions": "Which new topics matter most next?",
+      "Output of This Step": "A prioritized set of next-round topics.",
+      "Tips & Pitfalls": "This is the loop; research never stops in agile.",
+      "Done When": "The next round is prioritized.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:145",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 145,
+      "Workshop": [
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Pull your analyzed findings",
+      "Do This Now": "Bring the conclusions and themes from the Research Analysis workshop.",
+      "Prompts / Questions": "What did our analysis conclude?",
+      "Output of This Step": "Your findings, ready to shape into a story.",
+      "Tips & Pitfalls": "Present analyzed conclusions, not raw notes.",
+      "Done When": "The findings are gathered.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:146",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 146,
+      "Workshop": [
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Structure the presentation",
+      "Do This Now": "Lay out the slides: background, goals, method, key findings, conclusions, recommendations, and next steps.",
+      "Prompts / Questions": "What structure will carry the story clearly?",
+      "Output of This Step": "A clear presentation structure.",
+      "Tips & Pitfalls": "A consistent structure helps stakeholders follow and trust it.",
+      "Done When": "The structure is set.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:147",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 147,
+      "Workshop": [
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Lead with the key findings",
+      "Do This Now": "Put the main findings and what they mean up front.",
+      "Prompts / Questions": "What are the most important things we learned, and why do they matter?",
+      "Output of This Step": "Key findings framed for impact.",
+      "Tips & Pitfalls": "Lead with meaning; details support, they do not open.",
+      "Done When": "The key findings are clear and prominent.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:148",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 148,
+      "Workshop": [
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Present honestly",
+      "Do This Now": "State who the data represents and the research's limitations.",
+      "Prompts / Questions": "Who does this data represent, and where might it fall short?",
+      "Output of This Step": "An honest framing of representation and limits.",
+      "Tips & Pitfalls": "Truthful limits protect the team from costly overreach.",
+      "Done When": "Representation and limits are stated.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:149",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 149,
+      "Workshop": [
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Turn findings into recommendations and next steps",
+      "Do This Now": "Translate the findings into actionable recommendations and clear next steps.",
+      "Prompts / Questions": "So what should the team do next?",
+      "Output of This Step": "Actionable recommendations and next steps.",
+      "Tips & Pitfalls": "Findings without recommendations rarely change anything.",
+      "Done When": "Recommendations and next steps are defined.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:150",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 150,
+      "Workshop": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Add your audience segments",
+      "Do This Now": "Drop in the audiences you want to storyboard for.",
+      "Prompts / Questions": "Which audiences are we telling stories about?",
+      "Output of This Step": "The audiences chosen to storyboard.",
+      "Tips & Pitfalls": "Focus on the audiences that matter most to this work.",
+      "Done When": "The audiences are listed.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:151",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 151,
+      "Workshop": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Add your use case scenarios",
+      "Do This Now": "Add the current and future use case scenarios, per audience, that you might storyboard.",
+      "Prompts / Questions": "What scenarios could we storyboard for each audience?",
+      "Output of This Step": "A set of candidate use case scenarios.",
+      "Tips & Pitfalls": "Pull these from your segmentation and discovery work.",
+      "Done When": "Scenarios are captured per audience.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:152",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 152,
+      "Workshop": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Prioritize and vote on the use cases",
+      "Do This Now": "Place the use cases in a MoSCoW matrix, then vote to choose which to storyboard.",
+      "Prompts / Questions": "Which use cases are most worth storyboarding now?",
+      "Output of This Step": "The chosen use cases to storyboard.",
+      "Tips & Pitfalls": "Use more than one voting round if the top is unclear.",
+      "Done When": "The team agrees which use cases to storyboard.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:153",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 153,
+      "Workshop": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Draw the current-state storyboard",
+      "Do This Now": "In breakouts, sketch each chosen use case as an eight-panel comic of the experience today: what the user does, struggles with, feels, and wishes they had.",
+      "Prompts / Questions": "What is the user's experience today, panel by panel?",
+      "Output of This Step": "A current-state storyboard per use case.",
+      "Tips & Pitfalls": "Low-fi is perfect; the narrative matters, not the art.",
+      "Done When": "Each chosen use case has a current-state storyboard.",
+      "Time Box": "~10 min each"
+    },
+    {
+      "id": "spf:154",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 154,
+      "Workshop": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Draw the future-state storyboard",
+      "Do This Now": "Sketch the blue-sky future: how the experience works once the user's problems are solved. Be specific about the solution, not just \"less confusion.\"",
+      "Prompts / Questions": "What could this experience be once the problems are gone?",
+      "Output of This Step": "A future-state storyboard per use case.",
+      "Tips & Pitfalls": "Go wild here; this is your creative wish list.",
+      "Done When": "Each use case has a future-state storyboard.",
+      "Time Box": "~10 min each"
+    },
+    {
+      "id": "spf:155",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 155,
+      "Workshop": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Analyze together",
+      "Do This Now": "Regroup, walk the storyboards as a team, and fill in the connecting details.",
+      "Prompts / Questions": "What do these stories tell us, and what's missing between the panels?",
+      "Output of This Step": "Shared understanding and a fuller story.",
+      "Tips & Pitfalls": "Bring the whole team's eyes to each story.",
+      "Done When": "The team has analyzed the storyboards.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:156",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 156,
+      "Workshop": [
+        {
+          "id": "spf:case-study-creation-workshop-template",
+          "label": "Case Study Creation Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Reflect on good versus bad case studies",
+      "Do This Now": "As a team, capture what makes a case study strong and what makes one weak.",
+      "Prompts / Questions": "What makes a good case study? What makes a bad one?",
+      "Output of This Step": "A shared picture of what to aim for and avoid.",
+      "Tips & Pitfalls": "Look at examples if you have them; specifics beat generalities.",
+      "Done When": "The team agrees on what strong looks like.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:157",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 157,
+      "Workshop": [
+        {
+          "id": "spf:case-study-creation-workshop-template",
+          "label": "Case Study Creation Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Identify the team actions and events needed",
+      "Do This Now": "Name what the team must do, and what events must happen during the project, to produce a great case study.",
+      "Prompts / Questions": "What must happen during the project for us to have a great story to tell?",
+      "Output of This Step": "A list of team actions and events to plan for.",
+      "Tips & Pitfalls": "Capturing decisions and collaboration as they happen is the secret.",
+      "Done When": "The needed actions and events are named.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:158",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 158,
+      "Workshop": [
+        {
+          "id": "spf:case-study-creation-workshop-template",
+          "label": "Case Study Creation Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Plan cross-team collaboration",
+      "Do This Now": "Decide how you will work with other teams to produce your case study.",
+      "Prompts / Questions": "How do we need to work with other teams to produce our case study?",
+      "Output of This Step": "A plan for the cross-team collaboration.",
+      "Tips & Pitfalls": "Case studies are richer when they capture real cross-functional work.",
+      "Done When": "The collaboration plan is set.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:159",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 159,
+      "Workshop": [
+        {
+          "id": "spf:case-study-creation-workshop-template",
+          "label": "Case Study Creation Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Build a story-driven case study outline",
+      "Do This Now": "Outline the story your case study will tell, from background through outcomes.",
+      "Prompts / Questions": "What is the story-driven outline of our case study?",
+      "Output of This Step": "A story-driven case study outline.",
+      "Tips & Pitfalls": "Structure it as a story of growth, not a list of deliverables.",
+      "Done When": "The team has an outline to carry forward.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:160",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 160,
+      "Workshop": [
+        {
+          "id": "spf:product-and-service-development-milestones-for-different-types-of-projects-works",
+          "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Learn the agile product and service development lifecycle",
+      "Do This Now": "Study the lifecycle and how its milestones flow, in parallel and repeating, not in a straight line.",
+      "Prompts / Questions": "What are the milestones, and how do they actually flow?",
+      "Output of This Step": "A shared model of the lifecycle.",
+      "Tips & Pitfalls": "These milestones repeat and overlap; they are not sequential phases.",
+      "Done When": "The team understands the lifecycle.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:161",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 161,
+      "Workshop": [
+        {
+          "id": "spf:product-and-service-development-milestones-for-different-types-of-projects-works",
+          "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Review each milestone and its deliverables",
+      "Do This Now": "Go milestone by milestone: what each one means and the deliverables it produces.",
+      "Prompts / Questions": "What does each milestone mean, and what does it produce?",
+      "Output of This Step": "Shared understanding of milestones and their deliverables.",
+      "Tips & Pitfalls": "Milestones are markers of progress, not fixed calendar phases.",
+      "Done When": "The team knows each milestone's deliverables.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:162",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 162,
+      "Workshop": [
+        {
+          "id": "spf:product-and-service-development-milestones-for-different-types-of-projects-works",
+          "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Learn the workshops per milestone",
+      "Do This Now": "See which workshops produce the deliverables in each milestone.",
+      "Prompts / Questions": "Which workshops produce each milestone's deliverables?",
+      "Output of This Step": "A map from milestones to the workshops that feed them.",
+      "Tips & Pitfalls": "This connects the training to the actual workshops the team runs.",
+      "Done When": "The team can map workshops to milestones.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:163",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 163,
+      "Workshop": [
+        {
+          "id": "spf:product-and-service-development-milestones-for-different-types-of-projects-works",
+          "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Review project types and their deliverables",
+      "Do This Now": "Look at Tech Fleet's project types (business strategy, website, service design; discovery-only through full build) and how their deliverables differ.",
+      "Prompts / Questions": "How do deliverables differ across our project types?",
+      "Output of This Step": "Understanding of how project type shapes the work.",
+      "Tips & Pitfalls": "Not every project does every milestone; match the deliverables to the type.",
+      "Done When": "The team understands the project types.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:168",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 168,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Enter your growth vision components",
+      "Do This Now": "Capture your why, the people you grow with, your growth problems and opportunities (service leadership, teamwork, skills, communication), your goals, the value you will bring, what makes you unique, your barriers, costs, and KPIs.",
+      "Prompts / Questions": "Why do I do this work, and where do I want to grow?",
+      "Output of This Step": "The building blocks of your growth vision.",
+      "Tips & Pitfalls": "Be honest about the hard growth areas; that is where the value is.",
+      "Done When": "Your growth components are captured.",
+      "Time Box": "~25 min"
+    },
+    {
+      "id": "spf:169",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 169,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Prioritize your growth problems",
+      "Do This Now": "Place your growth opportunities in a MoSCoW matrix by effort and value.",
+      "Prompts / Questions": "Which growth areas are high value and worth the effort now?",
+      "Output of This Step": "A prioritized set of growth opportunities.",
+      "Tips & Pitfalls": "You cannot grow everything at once; choose a few.",
+      "Done When": "Your growth problems are prioritized.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:170",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 170,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Pick your top few to work on now",
+      "Do This Now": "Choose the top few growth opportunities as your near-term focus.",
+      "Prompts / Questions": "What will I focus my growth on now?",
+      "Output of This Step": "Your near-term growth focus.",
+      "Tips & Pitfalls": "Near-term is your MVP; the rest is your MMP.",
+      "Done When": "Your top growth focus is chosen.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:171",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 171,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Create your growth vision boards",
+      "Do This Now": "Build a near-term (MVP) and a longer-term (MMP) vision board for your growth: vision statement, audiences, problems, goals, value, uniqueness, barriers, costs, KPIs.",
+      "Prompts / Questions": "What is my near-term and long-term growth vision?",
+      "Output of This Step": "MVP and MMP personal growth vision boards.",
+      "Tips & Pitfalls": "Write your one-sentence vision statement last.",
+      "Done When": "You have MVP and MMP growth vision boards.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:172",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 172,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Organize a growth backlog",
+      "Do This Now": "Break your growth vision into epics, features, and tasks.",
+      "Prompts / Questions": "What are the concrete pieces of my growth work?",
+      "Output of This Step": "A backlog of growth epics, features, and tasks.",
+      "Tips & Pitfalls": "Small, concrete tasks make growth actually happen.",
+      "Done When": "Your growth backlog is organized.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:173",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 173,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Create your personal growth roadmap",
+      "Do This Now": "Sequence your growth epics and features into a roadmap over the year.",
+      "Prompts / Questions": "When will I work on each part of my growth?",
+      "Output of This Step": "A personal growth roadmap.",
+      "Tips & Pitfalls": "Keep it living; revisit and pivot as you grow.",
+      "Done When": "Your growth roadmap is built.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:174",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 174,
+      "Workshop": [
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Prepare the walk-through",
+      "Do This Now": "Line up what is Done and not Done this sprint against the sprint goal.",
+      "Prompts / Questions": "What did we complete this sprint, measured against our sprint goal?",
+      "Output of This Step": "A clear picture of completed and incomplete work.",
+      "Tips & Pitfalls": "Be honest about what did not get done; that is useful information.",
+      "Done When": "The walk-through is prepared.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:175",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 175,
+      "Workshop": [
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Demonstrate the increment",
+      "Do This Now": "Show the completed work to stakeholders.",
+      "Prompts / Questions": "What does the completed work actually do?",
+      "Output of This Step": "A demonstration of the increment.",
+      "Tips & Pitfalls": "A demo is one way to show results, not the whole point of the review.",
+      "Done When": "The increment has been shown.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:176",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 176,
+      "Workshop": [
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Share what went well and problems solved",
+      "Do This Now": "Walk stakeholders through what went well this sprint and the problems the team solved.",
+      "Prompts / Questions": "What went well, and what did we work through?",
+      "Output of This Step": "Shared understanding of the sprint's progress.",
+      "Tips & Pitfalls": "Honest reflection builds trust with stakeholders.",
+      "Done When": "The team has shared its progress.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:177",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 177,
+      "Workshop": [
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Gather stakeholder feedback",
+      "Do This Now": "Collaborate with stakeholders on the value created and what matters next.",
+      "Prompts / Questions": "What do stakeholders think, and what should we prioritize next?",
+      "Output of This Step": "Stakeholder feedback and direction.",
+      "Tips & Pitfalls": "This is the real purpose: collaborate on what to do next.",
+      "Done When": "Feedback has been gathered.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:178",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 178,
+      "Workshop": [
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Route feedback into the plan",
+      "Do This Now": "Turn the feedback and next steps into backlog items and plan adjustments.",
+      "Prompts / Questions": "How does this feedback change our backlog and plan?",
+      "Output of This Step": "Feedback routed into the backlog and plan.",
+      "Tips & Pitfalls": "Feedback that never reaches the backlog changes nothing.",
+      "Done When": "The feedback is captured in the plan.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:179",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 179,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Identify your target personas",
+      "Do This Now": "Define the target personas and capture each one's traits and pain points (this readies the strategy).",
+      "Prompts / Questions": "Who are we designing for, and what are their traits and pains?",
+      "Output of This Step": "A set of target personas with traits and pains.",
+      "Tips & Pitfalls": "Pull from existing personas and stakeholder knowledge where you can.",
+      "Done When": "The target personas are defined.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:180",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 180,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Define how you will design for your personas",
+      "Do This Now": "Decide the design strategy for each persona: how you intend to meet their needs and expectations.",
+      "Prompts / Questions": "How do we want to design for each persona?",
+      "Output of This Step": "A design strategy per persona.",
+      "Tips & Pitfalls": "Tie each strategic choice back to a persona's need or pain.",
+      "Done When": "The design strategy is defined per persona.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:181",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 181,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Define your customer experience funnel strategy",
+      "Do This Now": "Define how you will support each persona across the lifecycle funnel (awareness through loyalty), and how you will drive conversion and long-term engagement.",
+      "Prompts / Questions": "How will we support and move each persona through the funnel?",
+      "Output of This Step": "A customer experience strategy and funnel definition.",
+      "Tips & Pitfalls": "Strategize the whole funnel, not just the first visit.",
+      "Done When": "The CX funnel strategy is defined.",
+      "Time Box": "~25 min"
+    },
+    {
+      "id": "spf:182",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 182,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Set the direction for the site map and content",
+      "Do This Now": "Define the content topics and navigation direction each audience needs, so the Site Map and CX Map workshops can build from it.",
+      "Prompts / Questions": "What must the site map, CX map, and content deliver, based on this strategy?",
+      "Output of This Step": "Strategic direction and requirements for the site map, CX map, and content.",
+      "Tips & Pitfalls": "This readies those workshops; it does not replace them.",
+      "Done When": "The direction for the site map and content is set.",
+      "Time Box": "~20 min"
+    }
+  ]
+}

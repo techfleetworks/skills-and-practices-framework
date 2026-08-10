@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "slug": "phase-1",
+    "Name": "Phase 1",
+    "New Milestones In This Phase": [
+      {
+        "slug": "continuous-discovery",
+        "label": "Continuous Discovery"
+      },
+      {
+        "slug": "scope",
+        "label": "Scope"
+      },
+      {
+        "slug": "vision",
+        "label": "Vision"
+      },
+      {
+        "slug": "intake",
+        "label": "Intake"
+      }
+    ],
+    "New Deliverables In This Phase": [
+      {
+        "slug": "vision-boards",
+        "label": "Vision Boards"
+      },
+      {
+        "slug": "problem-statements",
+        "label": "Problem Statements"
+      },
+      {
+        "slug": "problem-checklists",
+        "label": "Problem Checklists"
+      },
+      {
+        "slug": "epics-and-features",
+        "label": "Epics and Features"
+      },
+      {
+        "slug": "release-level-scope",
+        "label": "Release-level Scope"
+      },
+      {
+        "slug": "competitive-analysis",
+        "label": "Competitive Analysis"
+      },
+      {
+        "slug": "market-research-analysis",
+        "label": "Market Research Analysis"
+      },
+      {
+        "slug": "user-journey-map",
+        "label": "User Journey Map"
+      },
+      {
+        "slug": "user-personas",
+        "label": "User Personas"
+      },
+      {
+        "slug": "proto-personas",
+        "label": "Proto Personas"
+      },
+      {
+        "slug": "buyer-personas",
+        "label": "Buyer Personas"
+      },
+      {
+        "slug": "business-plan",
+        "label": "Business Plan"
+      },
+      {
+        "slug": "release-plan",
+        "label": "Release Plan"
+      },
+      {
+        "slug": "go-to-market-plan",
+        "label": "Go-To-Market Plan"
+      },
+      {
+        "slug": "statement-of-work",
+        "label": "Statement of Work"
+      },
+      {
+        "slug": "how-might-we-hmw-statements",
+        "label": "How Might We (HMW) Statements"
+      },
+      {
+        "slug": "key-performance-indicators-kpis",
+        "label": "Key Performance Indicators (KPI's)"
+      },
+      {
+        "slug": "objectives-and-key-results-okrs",
+        "label": "Objectives and Key Results (OKR's)"
+      },
+      {
+        "slug": "gantt-chart",
+        "label": "Gantt Chart"
+      },
+      {
+        "slug": "roadmap",
+        "label": "Roadmap"
+      },
+      {
+        "slug": "refined-backlog",
+        "label": "Refined Backlog"
+      },
+      {
+        "slug": "sprint-plan",
+        "label": "Sprint Plan"
+      },
+      {
+        "slug": "empathy-map",
+        "label": "Empathy Map"
+      },
+      {
+        "slug": "storyboard",
+        "label": "Storyboard"
+      },
+      {
+        "slug": "task-analysis",
+        "label": "Task Analysis"
+      },
+      {
+        "slug": "research-report",
+        "label": "Research Report"
+      },
+      {
+        "slug": "rainbow-table",
+        "label": "Rainbow Table"
+      },
+      {
+        "slug": "affinity-map",
+        "label": "Affinity Map"
+      },
+      {
+        "slug": "customer-experience-diagram",
+        "label": "Customer Experience Diagram"
+      },
+      {
+        "slug": "research-plan",
+        "label": "Research Plan"
+      },
+      {
+        "slug": "analytics-audit",
+        "label": "Analytics Audit"
+      },
+      {
+        "slug": "positioning-statement",
+        "label": "Positioning Statement"
+      },
+      {
+        "slug": "unique-value-proposition",
+        "label": "Unique Value Proposition"
+      },
+      {
+        "slug": "usability-test-report",
+        "label": "Usability Test Report"
+      },
+      {
+        "slug": "research-analysis",
+        "label": "Research Analysis"
+      },
+      {
+        "slug": "working-agreements",
+        "label": "Working Agreements"
+      },
+      {
+        "slug": "raci-charts",
+        "label": "RACI Charts"
+      },
+      {
+        "slug": "product-market-fit-analysis",
+        "label": "Product-Market Fit Analysis"
+      },
+      {
+        "slug": "project-plan",
+        "label": "Project Plan"
+      },
+      {
+        "slug": "stakeholder-feedback",
+        "label": "Stakeholder Feedback"
+      },
+      {
+        "slug": "personal-growth-roadmap",
+        "label": "Personal Growth Roadmap"
+      },
+      {
+        "slug": "project-goals-definition",
+        "label": "Project Goals Definition"
+      },
+      {
+        "slug": "pitch-deck",
+        "label": "Pitch Deck"
+      },
+      {
+        "slug": "kanban-board-statuses",
+        "label": "Kanban Board Statuses"
+      },
+      {
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
+      },
+      {
+        "slug": "team-process-map",
+        "label": "Team Process Map"
+      },
+      {
+        "slug": "psychological-safety-plan",
+        "label": "Psychological Safety Plan"
+      },
+      {
+        "slug": "agile-method",
+        "label": "Agile Method"
+      },
+      {
+        "slug": "team-charter",
+        "label": "Team Charter"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      }
+    ],
+    "Description": "This is the first chunk of work that gets started. It requires a foundation of problem-solving and discovery typically, but this is not always the case; sometimes phase 1 work starts with development! It depends on the previous work that's brought into the team."
+  },
+  {
+    "id": 2,
+    "slug": "phase-2",
+    "Name": "Phase 2",
+    "New Milestones In This Phase": [
+      {
+        "slug": "requirements",
+        "label": "Requirements"
+      },
+      {
+        "slug": "implement",
+        "label": "Implement"
+      },
+      {
+        "slug": "acceptance-testing",
+        "label": "Acceptance Testing"
+      }
+    ],
+    "New Deliverables In This Phase": [
+      {
+        "slug": "problem-statements",
+        "label": "Problem Statements"
+      },
+      {
+        "slug": "problem-checklists",
+        "label": "Problem Checklists"
+      },
+      {
+        "slug": "epics-and-features",
+        "label": "Epics and Features"
+      },
+      {
+        "slug": "acceptance-criteria",
+        "label": "Acceptance Criteria"
+      },
+      {
+        "slug": "user-story-statements",
+        "label": "User Story Statements"
+      },
+      {
+        "slug": "behavior-driven-development-scenarios",
+        "label": "Behavior-Driven Development Scenarios"
+      },
+      {
+        "slug": "system-architecture-diagram",
+        "label": "System Architecture Diagram"
+      },
+      {
+        "slug": "task-flows",
+        "label": "Task Flows"
+      },
+      {
+        "slug": "use-case-scenarios",
+        "label": "Use Case Scenarios"
+      },
+      {
+        "slug": "use-case-diagrams",
+        "label": "Use Case Diagrams"
+      },
+      {
+        "slug": "editorial-style-guide",
+        "label": "Editorial Style Guide"
+      },
+      {
+        "slug": "brand-identity",
+        "label": "Brand Identity"
+      },
+      {
+        "slug": "prioritized-backlog-tasks",
+        "label": "Prioritized Backlog Tasks"
+      },
+      {
+        "slug": "refined-backlog",
+        "label": "Refined Backlog"
+      },
+      {
+        "slug": "wireframes",
+        "label": "Wireframes"
+      },
+      {
+        "slug": "low-fidelity-prototypes",
+        "label": "Low-Fidelity Prototypes"
+      },
+      {
+        "slug": "high-fidelity-prototypes",
+        "label": "High-Fidelity Prototypes"
+      },
+      {
+        "slug": "ui-development-specifications",
+        "label": "UI Development Specifications"
+      },
+      {
+        "slug": "design-annotation",
+        "label": "Design Annotation"
+      },
+      {
+        "slug": "ux-audit-report",
+        "label": "UX Audit Report"
+      },
+      {
+        "slug": "sketches",
+        "label": "Sketches"
+      },
+      {
+        "slug": "customer-experience-diagram",
+        "label": "Customer Experience Diagram"
+      },
+      {
+        "slug": "design-system",
+        "label": "Design System"
+      },
+      {
+        "slug": "sitemap",
+        "label": "Sitemap"
+      },
+      {
+        "slug": "copywriting-document",
+        "label": "Copywriting Document"
+      },
+      {
+        "slug": "analytics-audit",
+        "label": "Analytics Audit"
+      },
+      {
+        "slug": "taxonomy",
+        "label": "Taxonomy"
+      },
+      {
+        "slug": "microcopy",
+        "label": "Microcopy"
+      },
+      {
+        "slug": "microservices-architecture",
+        "label": "Microservices Architecture"
+      },
+      {
+        "slug": "network-architecture",
+        "label": "Network Architecture"
+      },
+      {
+        "slug": "component-library",
+        "label": "Component Library"
+      },
+      {
+        "slug": "research-analysis",
+        "label": "Research Analysis"
+      },
+      {
+        "slug": "technical-architecture-specifications",
+        "label": "Technical Architecture Specifications"
+      },
+      {
+        "slug": "architecture-diagrams",
+        "label": "Architecture Diagrams"
+      },
+      {
+        "slug": "brand-archetypes",
+        "label": "Brand Archetypes"
+      },
+      {
+        "slug": "task-level-scope",
+        "label": "Task-Level Scope"
+      },
+      {
+        "slug": "code",
+        "label": "Code"
+      },
+      {
+        "slug": "entity-relationship-diagrams",
+        "label": "Entity Relationship Diagrams"
+      },
+      {
+        "slug": "hosting-infrastructure",
+        "label": "Hosting Infrastructure"
+      },
+      {
+        "slug": "stakeholder-feedback",
+        "label": "Stakeholder Feedback"
+      },
+      {
+        "slug": "content-inventory",
+        "label": "Content Inventory"
+      },
+      {
+        "slug": "qa-analysis",
+        "label": "QA Analysis"
+      },
+      {
+        "slug": "coding-documentation",
+        "label": "Coding Documentation"
+      },
+      {
+        "slug": "database-architecture",
+        "label": "Database Architecture"
+      },
+      {
+        "slug": "content-outline",
+        "label": "Content Outline"
+      },
+      {
+        "slug": "api-library",
+        "label": "API LIbrary"
+      },
+      {
+        "slug": "logo-and-brand-assets",
+        "label": "Logo and Brand Assets"
+      },
+      {
+        "slug": "accessibility-analysis",
+        "label": "Accessibility Analysis"
+      },
+      {
+        "slug": "smart-contracts",
+        "label": "Smart Contracts"
+      },
+      {
+        "slug": "seo-strategy",
+        "label": "SEO Strategy"
+      }
+    ],
+    "Continued Milestones In This Phase": [
+      {
+        "slug": "continuous-discovery",
+        "label": "Continuous Discovery"
+      },
+      {
+        "slug": "scope",
+        "label": "Scope"
+      },
+      {
+        "slug": "vision",
+        "label": "Vision"
+      },
+      {
+        "slug": "intake",
+        "label": "Intake"
+      }
+    ],
+    "Description": "This is a continued chunk of work on a continuous timeframe of iterative value delivery.",
+    "Continued Deliverables In This Phase": [
+      {
+        "slug": "vision-boards",
+        "label": "Vision Boards"
+      },
+      {
+        "slug": "problem-statements",
+        "label": "Problem Statements"
+      },
+      {
+        "slug": "problem-checklists",
+        "label": "Problem Checklists"
+      },
+      {
+        "slug": "epics-and-features",
+        "label": "Epics and Features"
+      },
+      {
+        "slug": "release-level-scope",
+        "label": "Release-level Scope"
+      },
+      {
+        "slug": "competitive-analysis",
+        "label": "Competitive Analysis"
+      },
+      {
+        "slug": "market-research-analysis",
+        "label": "Market Research Analysis"
+      },
+      {
+        "slug": "user-journey-map",
+        "label": "User Journey Map"
+      },
+      {
+        "slug": "user-personas",
+        "label": "User Personas"
+      },
+      {
+        "slug": "proto-personas",
+        "label": "Proto Personas"
+      },
+      {
+        "slug": "buyer-personas",
+        "label": "Buyer Personas"
+      },
+      {
+        "slug": "business-plan",
+        "label": "Business Plan"
+      },
+      {
+        "slug": "release-plan",
+        "label": "Release Plan"
+      },
+      {
+        "slug": "go-to-market-plan",
+        "label": "Go-To-Market Plan"
+      },
+      {
+        "slug": "statement-of-work",
+        "label": "Statement of Work"
+      },
+      {
+        "slug": "how-might-we-hmw-statements",
+        "label": "How Might We (HMW) Statements"
+      },
+      {
+        "slug": "key-performance-indicators-kpis",
+        "label": "Key Performance Indicators (KPI's)"
+      },
+      {
+        "slug": "objectives-and-key-results-okrs",
+        "label": "Objectives and Key Results (OKR's)"
+      },
+      {
+        "slug": "gantt-chart",
+        "label": "Gantt Chart"
+      },
+      {
+        "slug": "roadmap",
+        "label": "Roadmap"
+      },
+      {
+        "slug": "refined-backlog",
+        "label": "Refined Backlog"
+      },
+      {
+        "slug": "sprint-plan",
+        "label": "Sprint Plan"
+      },
+      {
+        "slug": "empathy-map",
+        "label": "Empathy Map"
+      },
+      {
+        "slug": "storyboard",
+        "label": "Storyboard"
+      },
+      {
+        "slug": "task-analysis",
+        "label": "Task Analysis"
+      },
+      {
+        "slug": "research-report",
+        "label": "Research Report"
+      },
+      {
+        "slug": "rainbow-table",
+        "label": "Rainbow Table"
+      },
+      {
+        "slug": "affinity-map",
+        "label": "Affinity Map"
+      },
+      {
+        "slug": "customer-experience-diagram",
+        "label": "Customer Experience Diagram"
+      },
+      {
+        "slug": "research-plan",
+        "label": "Research Plan"
+      },
+      {
+        "slug": "analytics-audit",
+        "label": "Analytics Audit"
+      },
+      {
+        "slug": "positioning-statement",
+        "label": "Positioning Statement"
+      },
+      {
+        "slug": "unique-value-proposition",
+        "label": "Unique Value Proposition"
+      },
+      {
+        "slug": "usability-test-report",
+        "label": "Usability Test Report"
+      },
+      {
+        "slug": "research-analysis",
+        "label": "Research Analysis"
+      },
+      {
+        "slug": "working-agreements",
+        "label": "Working Agreements"
+      },
+      {
+        "slug": "raci-charts",
+        "label": "RACI Charts"
+      },
+      {
+        "slug": "product-market-fit-analysis",
+        "label": "Product-Market Fit Analysis"
+      },
+      {
+        "slug": "project-plan",
+        "label": "Project Plan"
+      },
+      {
+        "slug": "stakeholder-feedback",
+        "label": "Stakeholder Feedback"
+      },
+      {
+        "slug": "personal-growth-roadmap",
+        "label": "Personal Growth Roadmap"
+      },
+      {
+        "slug": "project-goals-definition",
+        "label": "Project Goals Definition"
+      },
+      {
+        "slug": "pitch-deck",
+        "label": "Pitch Deck"
+      },
+      {
+        "slug": "kanban-board-statuses",
+        "label": "Kanban Board Statuses"
+      },
+      {
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
+      },
+      {
+        "slug": "team-process-map",
+        "label": "Team Process Map"
+      },
+      {
+        "slug": "psychological-safety-plan",
+        "label": "Psychological Safety Plan"
+      },
+      {
+        "slug": "agile-method",
+        "label": "Agile Method"
+      },
+      {
+        "slug": "team-charter",
+        "label": "Team Charter"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "phase-3",
+    "Name": "Phase 3",
+    "New Milestones In This Phase": [
+      {
+        "slug": "launch",
+        "label": "Launch"
+      }
+    ],
+    "New Deliverables In This Phase": [
+      {
+        "slug": "behavior-driven-development-scenarios",
+        "label": "Behavior-Driven Development Scenarios"
+      },
+      {
+        "slug": "qa-test-plan",
+        "label": "QA Test Plan"
+      },
+      {
+        "slug": "release-plan",
+        "label": "Release Plan"
+      },
+      {
+        "slug": "project-hand-off",
+        "label": "Project Hand-off"
+      },
+      {
+        "slug": "qa-test-cases",
+        "label": "QA Test Cases"
+      },
+      {
+        "slug": "stakeholder-feedback",
+        "label": "Stakeholder Feedback"
+      },
+      {
+        "slug": "qa-analysis",
+        "label": "QA Analysis"
+      },
+      {
+        "slug": "accessibility-analysis",
+        "label": "Accessibility Analysis"
+      }
+    ],
+    "Continued Milestones In This Phase": [
+      {
+        "slug": "continuous-discovery",
+        "label": "Continuous Discovery"
+      },
+      {
+        "slug": "requirements",
+        "label": "Requirements"
+      },
+      {
+        "slug": "scope",
+        "label": "Scope"
+      },
+      {
+        "slug": "implement",
+        "label": "Implement"
+      },
+      {
+        "slug": "vision",
+        "label": "Vision"
+      },
+      {
+        "slug": "acceptance-testing",
+        "label": "Acceptance Testing"
+      },
+      {
+        "slug": "intake",
+        "label": "Intake"
+      }
+    ],
+    "Description": "This is a continued chunk of work on a continuous timeframe of iterative value delivery.",
+    "Continued Deliverables In This Phase": [
+      {
+        "slug": "vision-boards",
+        "label": "Vision Boards"
+      },
+      {
+        "slug": "problem-statements",
+        "label": "Problem Statements"
+      },
+      {
+        "slug": "problem-checklists",
+        "label": "Problem Checklists"
+      },
+      {
+        "slug": "epics-and-features",
+        "label": "Epics and Features"
+      },
+      {
+        "slug": "release-level-scope",
+        "label": "Release-level Scope"
+      },
+      {
+        "slug": "acceptance-criteria",
+        "label": "Acceptance Criteria"
+      },
+      {
+        "slug": "user-story-statements",
+        "label": "User Story Statements"
+      },
+      {
+        "slug": "behavior-driven-development-scenarios",
+        "label": "Behavior-Driven Development Scenarios"
+      },
+      {
+        "slug": "system-architecture-diagram",
+        "label": "System Architecture Diagram"
+      },
+      {
+        "slug": "task-flows",
+        "label": "Task Flows"
+      },
+      {
+        "slug": "use-case-scenarios",
+        "label": "Use Case Scenarios"
+      },
+      {
+        "slug": "use-case-diagrams",
+        "label": "Use Case Diagrams"
+      },
+      {
+        "slug": "competitive-analysis",
+        "label": "Competitive Analysis"
+      },
+      {
+        "slug": "market-research-analysis",
+        "label": "Market Research Analysis"
+      },
+      {
+        "slug": "editorial-style-guide",
+        "label": "Editorial Style Guide"
+      },
+      {
+        "slug": "brand-identity",
+        "label": "Brand Identity"
+      },
+      {
+        "slug": "user-journey-map",
+        "label": "User Journey Map"
+      },
+      {
+        "slug": "user-personas",
+        "label": "User Personas"
+      },
+      {
+        "slug": "proto-personas",
+        "label": "Proto Personas"
+      },
+      {
+        "slug": "buyer-personas",
+        "label": "Buyer Personas"
+      },
+      {
+        "slug": "business-plan",
+        "label": "Business Plan"
+      },
+      {
+        "slug": "release-plan",
+        "label": "Release Plan"
+      },
+      {
+        "slug": "go-to-market-plan",
+        "label": "Go-To-Market Plan"
+      },
+      {
+        "slug": "statement-of-work",
+        "label": "Statement of Work"
+      },
+      {
+        "slug": "prioritized-backlog-tasks",
+        "label": "Prioritized Backlog Tasks"
+      },
+      {
+        "slug": "how-might-we-hmw-statements",
+        "label": "How Might We (HMW) Statements"
+      },
+      {
+        "slug": "key-performance-indicators-kpis",
+        "label": "Key Performance Indicators (KPI's)"
+      },
+      {
+        "slug": "objectives-and-key-results-okrs",
+        "label": "Objectives and Key Results (OKR's)"
+      },
+      {
+        "slug": "gantt-chart",
+        "label": "Gantt Chart"
+      },
+      {
+        "slug": "roadmap",
+        "label": "Roadmap"
+      },
+      {
+        "slug": "refined-backlog",
+        "label": "Refined Backlog"
+      },
+      {
+        "slug": "sprint-plan",
+        "label": "Sprint Plan"
+      },
+      {
+        "slug": "wireframes",
+        "label": "Wireframes"
+      },
+      {
+        "slug": "low-fidelity-prototypes",
+        "label": "Low-Fidelity Prototypes"
+      },
+      {
+        "slug": "high-fidelity-prototypes",
+        "label": "High-Fidelity Prototypes"
+      },
+      {
+        "slug": "ui-development-specifications",
+        "label": "UI Development Specifications"
+      },
+      {
+        "slug": "design-annotation",
+        "label": "Design Annotation"
+      },
+      {
+        "slug": "ux-audit-report",
+        "label": "UX Audit Report"
+      },
+      {
+        "slug": "empathy-map",
+        "label": "Empathy Map"
+      },
+      {
+        "slug": "storyboard",
+        "label": "Storyboard"
+      },
+      {
+        "slug": "sketches",
+        "label": "Sketches"
+      },
+      {
+        "slug": "task-analysis",
+        "label": "Task Analysis"
+      },
+      {
+        "slug": "research-report",
+        "label": "Research Report"
+      },
+      {
+        "slug": "rainbow-table",
+        "label": "Rainbow Table"
+      },
+      {
+        "slug": "affinity-map",
+        "label": "Affinity Map"
+      },
+      {
+        "slug": "customer-experience-diagram",
+        "label": "Customer Experience Diagram"
+      },
+      {
+        "slug": "research-plan",
+        "label": "Research Plan"
+      },
+      {
+        "slug": "design-system",
+        "label": "Design System"
+      },
+      {
+        "slug": "sitemap",
+        "label": "Sitemap"
+      },
+      {
+        "slug": "copywriting-document",
+        "label": "Copywriting Document"
+      },
+      {
+        "slug": "analytics-audit",
+        "label": "Analytics Audit"
+      },
+      {
+        "slug": "taxonomy",
+        "label": "Taxonomy"
+      },
+      {
+        "slug": "positioning-statement",
+        "label": "Positioning Statement"
+      },
+      {
+        "slug": "unique-value-proposition",
+        "label": "Unique Value Proposition"
+      },
+      {
+        "slug": "microcopy",
+        "label": "Microcopy"
+      },
+      {
+        "slug": "usability-test-report",
+        "label": "Usability Test Report"
+      },
+      {
+        "slug": "microservices-architecture",
+        "label": "Microservices Architecture"
+      },
+      {
+        "slug": "network-architecture",
+        "label": "Network Architecture"
+      },
+      {
+        "slug": "component-library",
+        "label": "Component Library"
+      },
+      {
+        "slug": "research-analysis",
+        "label": "Research Analysis"
+      },
+      {
+        "slug": "working-agreements",
+        "label": "Working Agreements"
+      },
+      {
+        "slug": "raci-charts",
+        "label": "RACI Charts"
+      },
+      {
+        "slug": "product-market-fit-analysis",
+        "label": "Product-Market Fit Analysis"
+      },
+      {
+        "slug": "technical-architecture-specifications",
+        "label": "Technical Architecture Specifications"
+      },
+      {
+        "slug": "architecture-diagrams",
+        "label": "Architecture Diagrams"
+      },
+      {
+        "slug": "brand-archetypes",
+        "label": "Brand Archetypes"
+      },
+      {
+        "slug": "task-level-scope",
+        "label": "Task-Level Scope"
+      },
+      {
+        "slug": "project-plan",
+        "label": "Project Plan"
+      },
+      {
+        "slug": "code",
+        "label": "Code"
+      },
+      {
+        "slug": "entity-relationship-diagrams",
+        "label": "Entity Relationship Diagrams"
+      },
+      {
+        "slug": "hosting-infrastructure",
+        "label": "Hosting Infrastructure"
+      },
+      {
+        "slug": "stakeholder-feedback",
+        "label": "Stakeholder Feedback"
+      },
+      {
+        "slug": "content-inventory",
+        "label": "Content Inventory"
+      },
+      {
+        "slug": "personal-growth-roadmap",
+        "label": "Personal Growth Roadmap"
+      },
+      {
+        "slug": "qa-analysis",
+        "label": "QA Analysis"
+      },
+      {
+        "slug": "project-goals-definition",
+        "label": "Project Goals Definition"
+      },
+      {
+        "slug": "coding-documentation",
+        "label": "Coding Documentation"
+      },
+      {
+        "slug": "database-architecture",
+        "label": "Database Architecture"
+      },
+      {
+        "slug": "content-outline",
+        "label": "Content Outline"
+      },
+      {
+        "slug": "pitch-deck",
+        "label": "Pitch Deck"
+      },
+      {
+        "slug": "kanban-board-statuses",
+        "label": "Kanban Board Statuses"
+      },
+      {
+        "slug": "api-library",
+        "label": "API LIbrary"
+      },
+      {
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
+      },
+      {
+        "slug": "logo-and-brand-assets",
+        "label": "Logo and Brand Assets"
+      },
+      {
+        "slug": "accessibility-analysis",
+        "label": "Accessibility Analysis"
+      },
+      {
+        "slug": "smart-contracts",
+        "label": "Smart Contracts"
+      },
+      {
+        "slug": "team-process-map",
+        "label": "Team Process Map"
+      },
+      {
+        "slug": "psychological-safety-plan",
+        "label": "Psychological Safety Plan"
+      },
+      {
+        "slug": "seo-strategy",
+        "label": "SEO Strategy"
+      },
+      {
+        "slug": "agile-method",
+        "label": "Agile Method"
+      },
+      {
+        "slug": "team-charter",
+        "label": "Team Charter"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "phase-n-1",
+    "Name": "Phase N + 1",
+    "New Milestones In This Phase": [
+      {
+        "slug": "launch",
+        "label": "Launch"
+      }
+    ],
+    "New Deliverables In This Phase": [
+      {
+        "slug": "behavior-driven-development-scenarios",
+        "label": "Behavior-Driven Development Scenarios"
+      },
+      {
+        "slug": "qa-test-plan",
+        "label": "QA Test Plan"
+      },
+      {
+        "slug": "release-plan",
+        "label": "Release Plan"
+      },
+      {
+        "slug": "project-hand-off",
+        "label": "Project Hand-off"
+      },
+      {
+        "slug": "qa-test-cases",
+        "label": "QA Test Cases"
+      },
+      {
+        "slug": "stakeholder-feedback",
+        "label": "Stakeholder Feedback"
+      },
+      {
+        "slug": "qa-analysis",
+        "label": "QA Analysis"
+      },
+      {
+        "slug": "accessibility-analysis",
+        "label": "Accessibility Analysis"
+      }
+    ],
+    "Continued Milestones In This Phase": [
+      {
+        "slug": "continuous-discovery",
+        "label": "Continuous Discovery"
+      },
+      {
+        "slug": "requirements",
+        "label": "Requirements"
+      },
+      {
+        "slug": "scope",
+        "label": "Scope"
+      },
+      {
+        "slug": "implement",
+        "label": "Implement"
+      },
+      {
+        "slug": "vision",
+        "label": "Vision"
+      },
+      {
+        "slug": "acceptance-testing",
+        "label": "Acceptance Testing"
+      },
+      {
+        "slug": "intake",
+        "label": "Intake"
+      }
+    ],
+    "Description": "This is a continued chunk of work on a continuous timeframe of iterative value delivery.",
+    "Continued Deliverables In This Phase": [
+      {
+        "slug": "vision-boards",
+        "label": "Vision Boards"
+      },
+      {
+        "slug": "problem-statements",
+        "label": "Problem Statements"
+      },
+      {
+        "slug": "problem-checklists",
+        "label": "Problem Checklists"
+      },
+      {
+        "slug": "epics-and-features",
+        "label": "Epics and Features"
+      },
+      {
+        "slug": "release-level-scope",
+        "label": "Release-level Scope"
+      },
+      {
+        "slug": "acceptance-criteria",
+        "label": "Acceptance Criteria"
+      },
+      {
+        "slug": "user-story-statements",
+        "label": "User Story Statements"
+      },
+      {
+        "slug": "behavior-driven-development-scenarios",
+        "label": "Behavior-Driven Development Scenarios"
+      },
+      {
+        "slug": "system-architecture-diagram",
+        "label": "System Architecture Diagram"
+      },
+      {
+        "slug": "task-flows",
+        "label": "Task Flows"
+      },
+      {
+        "slug": "use-case-scenarios",
+        "label": "Use Case Scenarios"
+      },
+      {
+        "slug": "use-case-diagrams",
+        "label": "Use Case Diagrams"
+      },
+      {
+        "slug": "competitive-analysis",
+        "label": "Competitive Analysis"
+      },
+      {
+        "slug": "market-research-analysis",
+        "label": "Market Research Analysis"
+      },
+      {
+        "slug": "editorial-style-guide",
+        "label": "Editorial Style Guide"
+      },
+      {
+        "slug": "brand-identity",
+        "label": "Brand Identity"
+      },
+      {
+        "slug": "user-journey-map",
+        "label": "User Journey Map"
+      },
+      {
+        "slug": "user-personas",
+        "label": "User Personas"
+      },
+      {
+        "slug": "proto-personas",
+        "label": "Proto Personas"
+      },
+      {
+        "slug": "buyer-personas",
+        "label": "Buyer Personas"
+      },
+      {
+        "slug": "business-plan",
+        "label": "Business Plan"
+      },
+      {
+        "slug": "release-plan",
+        "label": "Release Plan"
+      },
+      {
+        "slug": "go-to-market-plan",
+        "label": "Go-To-Market Plan"
+      },
+      {
+        "slug": "statement-of-work",
+        "label": "Statement of Work"
+      },
+      {
+        "slug": "prioritized-backlog-tasks",
+        "label": "Prioritized Backlog Tasks"
+      },
+      {
+        "slug": "how-might-we-hmw-statements",
+        "label": "How Might We (HMW) Statements"
+      },
+      {
+        "slug": "key-performance-indicators-kpis",
+        "label": "Key Performance Indicators (KPI's)"
+      },
+      {
+        "slug": "objectives-and-key-results-okrs",
+        "label": "Objectives and Key Results (OKR's)"
+      },
+      {
+        "slug": "gantt-chart",
+        "label": "Gantt Chart"
+      },
+      {
+        "slug": "roadmap",
+        "label": "Roadmap"
+      },
+      {
+        "slug": "refined-backlog",
+        "label": "Refined Backlog"
+      },
+      {
+        "slug": "sprint-plan",
+        "label": "Sprint Plan"
+      },
+      {
+        "slug": "wireframes",
+        "label": "Wireframes"
+      },
+      {
+        "slug": "low-fidelity-prototypes",
+        "label": "Low-Fidelity Prototypes"
+      },
+      {
+        "slug": "high-fidelity-prototypes",
+        "label": "High-Fidelity Prototypes"
+      },
+      {
+        "slug": "ui-development-specifications",
+        "label": "UI Development Specifications"
+      },
+      {
+        "slug": "design-annotation",
+        "label": "Design Annotation"
+      },
+      {
+        "slug": "ux-audit-report",
+        "label": "UX Audit Report"
+      },
+      {
+        "slug": "empathy-map",
+        "label": "Empathy Map"
+      },
+      {
+        "slug": "storyboard",
+        "label": "Storyboard"
+      },
+      {
+        "slug": "sketches",
+        "label": "Sketches"
+      },
+      {
+        "slug": "task-analysis",
+        "label": "Task Analysis"
+      },
+      {
+        "slug": "research-report",
+        "label": "Research Report"
+      },
+      {
+        "slug": "rainbow-table",
+        "label": "Rainbow Table"
+      },
+      {
+        "slug": "affinity-map",
+        "label": "Affinity Map"
+      },
+      {
+        "slug": "customer-experience-diagram",
+        "label": "Customer Experience Diagram"
+      },
+      {
+        "slug": "research-plan",
+        "label": "Research Plan"
+      },
+      {
+        "slug": "design-system",
+        "label": "Design System"
+      },
+      {
+        "slug": "sitemap",
+        "label": "Sitemap"
+      },
+      {
+        "slug": "copywriting-document",
+        "label": "Copywriting Document"
+      },
+      {
+        "slug": "analytics-audit",
+        "label": "Analytics Audit"
+      },
+      {
+        "slug": "taxonomy",
+        "label": "Taxonomy"
+      },
+      {
+        "slug": "positioning-statement",
+        "label": "Positioning Statement"
+      },
+      {
+        "slug": "unique-value-proposition",
+        "label": "Unique Value Proposition"
+      },
+      {
+        "slug": "microcopy",
+        "label": "Microcopy"
+      },
+      {
+        "slug": "usability-test-report",
+        "label": "Usability Test Report"
+      },
+      {
+        "slug": "microservices-architecture",
+        "label": "Microservices Architecture"
+      },
+      {
+        "slug": "network-architecture",
+        "label": "Network Architecture"
+      },
+      {
+        "slug": "component-library",
+        "label": "Component Library"
+      },
+      {
+        "slug": "research-analysis",
+        "label": "Research Analysis"
+      },
+      {
+        "slug": "working-agreements",
+        "label": "Working Agreements"
+      },
+      {
+        "slug": "raci-charts",
+        "label": "RACI Charts"
+      },
+      {
+        "slug": "product-market-fit-analysis",
+        "label": "Product-Market Fit Analysis"
+      },
+      {
+        "slug": "technical-architecture-specifications",
+        "label": "Technical Architecture Specifications"
+      },
+      {
+        "slug": "architecture-diagrams",
+        "label": "Architecture Diagrams"
+      },
+      {
+        "slug": "brand-archetypes",
+        "label": "Brand Archetypes"
+      },
+      {
+        "slug": "task-level-scope",
+        "label": "Task-Level Scope"
+      },
+      {
+        "slug": "project-plan",
+        "label": "Project Plan"
+      },
+      {
+        "slug": "code",
+        "label": "Code"
+      },
+      {
+        "slug": "entity-relationship-diagrams",
+        "label": "Entity Relationship Diagrams"
+      },
+      {
+        "slug": "hosting-infrastructure",
+        "label": "Hosting Infrastructure"
+      },
+      {
+        "slug": "stakeholder-feedback",
+        "label": "Stakeholder Feedback"
+      },
+      {
+        "slug": "content-inventory",
+        "label": "Content Inventory"
+      },
+      {
+        "slug": "personal-growth-roadmap",
+        "label": "Personal Growth Roadmap"
+      },
+      {
+        "slug": "qa-analysis",
+        "label": "QA Analysis"
+      },
+      {
+        "slug": "project-goals-definition",
+        "label": "Project Goals Definition"
+      },
+      {
+        "slug": "coding-documentation",
+        "label": "Coding Documentation"
+      },
+      {
+        "slug": "database-architecture",
+        "label": "Database Architecture"
+      },
+      {
+        "slug": "content-outline",
+        "label": "Content Outline"
+      },
+      {
+        "slug": "pitch-deck",
+        "label": "Pitch Deck"
+      },
+      {
+        "slug": "kanban-board-statuses",
+        "label": "Kanban Board Statuses"
+      },
+      {
+        "slug": "api-library",
+        "label": "API LIbrary"
+      },
+      {
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
+      },
+      {
+        "slug": "logo-and-brand-assets",
+        "label": "Logo and Brand Assets"
+      },
+      {
+        "slug": "accessibility-analysis",
+        "label": "Accessibility Analysis"
+      },
+      {
+        "slug": "smart-contracts",
+        "label": "Smart Contracts"
+      },
+      {
+        "slug": "team-process-map",
+        "label": "Team Process Map"
+      },
+      {
+        "slug": "psychological-safety-plan",
+        "label": "Psychological Safety Plan"
+      },
+      {
+        "slug": "seo-strategy",
+        "label": "SEO Strategy"
+      },
+      {
+        "slug": "agile-method",
+        "label": "Agile Method"
+      },
+      {
+        "slug": "team-charter",
+        "label": "Team Charter"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      }
+    ]
+  }
+]

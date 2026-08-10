@@ -1,0 +1,173 @@
+{
+  "@context": "../../schema/context.jsonld",
+  "@graph": [
+    {
+      "id": "spf:in-house-company",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:CompanyType",
+        "skos:Concept"
+      ],
+      "Name": "In-house Company",
+      "Data Type": [
+        {
+          "id": "spf:company-type",
+          "label": "Company Type"
+        }
+      ],
+      "Key Project Deliverables for This Environment": [
+        {
+          "id": "spf:business-plan",
+          "label": "Business Plan"
+        },
+        {
+          "id": "spf:go-to-market-plan",
+          "label": "Go-To-Market Plan"
+        }
+      ],
+      "Stakeholders": [
+        {
+          "id": "spf:end-user",
+          "label": "End-user"
+        },
+        {
+          "id": "spf:internal-teammate",
+          "label": "Internal Teammate"
+        },
+        {
+          "id": "spf:cross-functional-stakeholder",
+          "label": "Cross-functional Stakeholder"
+        },
+        {
+          "id": "spf:customer",
+          "label": "Customer"
+        }
+      ]
+    },
+    {
+      "id": "spf:agency",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:CompanyType",
+        "skos:Concept"
+      ],
+      "Name": "Agency",
+      "Data Type": [
+        {
+          "id": "spf:company-type",
+          "label": "Company Type"
+        }
+      ],
+      "Key Project Deliverables for This Environment": [
+        {
+          "id": "spf:project-hand-off",
+          "label": "Project Hand-off"
+        },
+        {
+          "id": "spf:statement-of-work",
+          "label": "Statement of Work"
+        }
+      ],
+      "Stakeholders": [
+        {
+          "id": "spf:client",
+          "label": "Client"
+        },
+        {
+          "id": "spf:end-user",
+          "label": "End-user"
+        },
+        {
+          "id": "spf:internal-teammate",
+          "label": "Internal Teammate"
+        },
+        {
+          "id": "spf:cross-functional-stakeholder",
+          "label": "Cross-functional Stakeholder"
+        },
+        {
+          "id": "spf:customer",
+          "label": "Customer"
+        }
+      ]
+    },
+    {
+      "id": "spf:freelance-and-consulting",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:CompanyType",
+        "skos:Concept"
+      ],
+      "Name": "Freelance and Consulting",
+      "Data Type": [
+        {
+          "id": "spf:company-type",
+          "label": "Company Type"
+        }
+      ],
+      "Key Project Deliverables for This Environment": [
+        {
+          "id": "spf:project-hand-off",
+          "label": "Project Hand-off"
+        },
+        {
+          "id": "spf:statement-of-work",
+          "label": "Statement of Work"
+        }
+      ],
+      "Stakeholders": [
+        {
+          "id": "spf:client",
+          "label": "Client"
+        },
+        {
+          "id": "spf:end-user",
+          "label": "End-user"
+        },
+        {
+          "id": "spf:customer",
+          "label": "Customer"
+        }
+      ]
+    },
+    {
+      "id": "spf:startup",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:CompanyType",
+        "skos:Concept"
+      ],
+      "Name": "Startup",
+      "Data Type": [
+        {
+          "id": "spf:company-type",
+          "label": "Company Type"
+        }
+      ],
+      "Key Project Deliverables for This Environment": [
+        {
+          "id": "spf:pitch-deck",
+          "label": "Pitch Deck"
+        }
+      ],
+      "Stakeholders": [
+        {
+          "id": "spf:end-user",
+          "label": "End-user"
+        },
+        {
+          "id": "spf:internal-teammate",
+          "label": "Internal Teammate"
+        },
+        {
+          "id": "spf:cross-functional-stakeholder",
+          "label": "Cross-functional Stakeholder"
+        },
+        {
+          "id": "spf:customer",
+          "label": "Customer"
+        }
+      ]
+    }
+  ]
+}

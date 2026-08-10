@@ -1,0 +1,262 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://techfleetworks.github.io/skills-and-practices-framework/schema/framework-data/workshops.schema.json",
+  "title": "workshops",
+  "description": "A record in the workshops dataset of the Skills & Practices Framework. Field names are the framework's own; see schema/context.jsonld for the schema.org / SKOS mapping.",
+  "type": "object",
+  "required": [
+    "slug"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "Workshop Name": {
+      "type": "string"
+    },
+    "Public Workshop Link": {
+      "type": "string"
+    },
+    "Does a Trainer Facilitate This Workshop At Tech Fleet?": {
+      "type": "string"
+    },
+    "What Milestone Does This Workshop Belong To?": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "When Does It Happen in the Project Phase?": {
+      "type": "string"
+    },
+    "What Week Does It Typically Happen In Tech Fleet Projects?": {
+      "type": "string"
+    },
+    "Practices That This Workshop Teaches": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "What Duty Runs This Workshop?": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Workshop Summary": {
+      "type": "string"
+    },
+    "Workshop Goals": {
+      "type": "string"
+    },
+    "Workshop Steps to Complete": {
+      "type": "string"
+    },
+    "Why Is This Workshop Valuable?": {
+      "type": "string"
+    },
+    "How Often Should You Do the Workshop?": {
+      "type": "string"
+    },
+    "Who Owns the Workshop?": {
+      "type": "string"
+    },
+    "Expected Outcomes": {
+      "type": "string"
+    },
+    "Additional Details": {
+      "type": "string"
+    },
+    "Example Workshop": {
+      "type": "string"
+    },
+    "Workshop Steps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Workshop Pitch Statement": {
+      "type": "string"
+    },
+    "What You Need Before You Start": {
+      "type": "string"
+    },
+    "The Core Questions You're Answering": {
+      "type": "string"
+    },
+    "What \"Done Well\" Looks Like": {
+      "type": "string"
+    },
+    "Who Takes Part": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Time Needed": {
+      "type": "string"
+    },
+    "Common Pitfalls & Tips": {
+      "type": "string"
+    },
+    "Where to Keep the Output": {
+      "type": "string"
+    },
+    "Raw FigJam Content": {
+      "type": "string"
+    },
+    "Workshop Template Sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Workshop Brief": {
+      "type": "string"
+    },
+    "Where Can I Learn More?": {
+      "type": "string"
+    },
+    "Deliverable the Workshop Produces": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Related Activities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "Related Workshop Skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    }
+  }
+}

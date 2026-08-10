@@ -1,0 +1,2895 @@
+{
+  "@context": "../../schema/context.jsonld",
+  "@graph": [
+    {
+      "id": "spf:3",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 3,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "So What",
+      "What Goes Here": "A short paragraph on why this work came about and why it is prioritized now, so everyone understands the stakes."
+    },
+    {
+      "id": "spf:4",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 4,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Problems You Assume (per audience)",
+      "What Goes Here": "Every problem the team assumes about the current state, listed for each audience."
+    },
+    {
+      "id": "spf:5",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 5,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "How Might We Transformation Table",
+      "What Goes Here": "Columns: person who took the row, the original research result or assumed problem, and the resulting HMW statement (\"How might we solve the problem and serve the need?\")."
+    },
+    {
+      "id": "spf:6",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 6,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Prioritization Matrix (Risk and Certainty)",
+      "What Goes Here": "A MoSCoW matrix: place each HMW by risk and certainty. Top = high risk, low certainty; High = high risk, high certainty; Medium = low risk, low certainty; Low = low risk, high certainty."
+    },
+    {
+      "id": "spf:7",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 7,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Crazy 8's, Round 1",
+      "What Goes Here": "Eight boxes. Sketch eight ideas in eight minutes for your chosen HMW, one minute per idea."
+    },
+    {
+      "id": "spf:8",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 8,
+      "Workshop": [
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "Crazy 8's, Round 2",
+      "What Goes Here": "Eight boxes. Sketch eight new ideas built on your starred favorite three, again eight minutes."
+    },
+    {
+      "id": "spf:9",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 9,
+      "Workshop": [
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "I THINK",
+      "What Goes Here": "What is going on in the user's mind: their thoughts, beliefs, and preoccupations about the situation."
+    },
+    {
+      "id": "spf:10",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 10,
+      "Workshop": [
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "I ACT",
+      "What Goes Here": "What the user actually does: their observable behaviors and actions."
+    },
+    {
+      "id": "spf:11",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 11,
+      "Workshop": [
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "I'M MOTIVATED BY",
+      "What Goes Here": "What drives this user: their goals and motivations."
+    },
+    {
+      "id": "spf:12",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 12,
+      "Workshop": [
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "I FEEL",
+      "What Goes Here": "The user's emotional state: worries, frustrations, and hopes."
+    },
+    {
+      "id": "spf:13",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 13,
+      "Workshop": [
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "I SAY",
+      "What Goes Here": "What the user says out loud about the situation; representative quotes."
+    },
+    {
+      "id": "spf:14",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 14,
+      "Workshop": [
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "I VALUE",
+      "What Goes Here": "What matters most to this user: their principles and priorities."
+    },
+    {
+      "id": "spf:15",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 15,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Problems to Solve",
+      "What Goes Here": "The business and user problems that create the opportunity for this analysis."
+    },
+    {
+      "id": "spf:16",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 16,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Outcomes of the Analysis",
+      "What Goes Here": "What the team hopes to gain from running the analysis."
+    },
+    {
+      "id": "spf:17",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 17,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Scope Selection",
+      "What Goes Here": "Check which of the five analyses to run this round: market research, competitor analysis, feature comparison, design pattern analysis, product positioning."
+    },
+    {
+      "id": "spf:18",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 18,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Market Size Table",
+      "What Goes Here": "Columns: Market, Channels/Segments, Today's Market Size, Top Companies in the Segment, Projected Growth. Fill from cited online research."
+    },
+    {
+      "id": "spf:19",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 19,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Market Opportunity",
+      "What Goes Here": "Which market segment has the largest opportunity, and why."
+    },
+    {
+      "id": "spf:20",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 20,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "Audience Segmentation",
+      "What Goes Here": "Your target audience broken into geographic, behavioral, demographic, and socioeconomic segments."
+    },
+    {
+      "id": "spf:21",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 21,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Section / Prompt": "Competitor Questions",
+      "What Goes Here": "The questions you want answered about direct and indirect competitors, unique to your project."
+    },
+    {
+      "id": "spf:22",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 22,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "8",
+      "Section / Prompt": "Direct and Indirect Competitor Analysis Table",
+      "What Goes Here": "Per competitor: direct or indirect, market segment, website, main features, how they differentiate, what they do well and poorly, plus your project-specific questions."
+    },
+    {
+      "id": "spf:23",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 23,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "9",
+      "Section / Prompt": "Feature Comparison Chart",
+      "What Goes Here": "Your product versus competitors across each feature (present or absent), to reveal what is common, unique, and missing."
+    },
+    {
+      "id": "spf:24",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 24,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "10",
+      "Section / Prompt": "Design Pattern Analysis Table",
+      "What Goes Here": "Per competitor: website, key design patterns, what makes them effective or ineffective, and how you will apply them."
+    },
+    {
+      "id": "spf:25",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 25,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "11",
+      "Section / Prompt": "Unique Value Summary",
+      "What Goes Here": "What competitors do not do well, and what your business can do differently."
+    },
+    {
+      "id": "spf:26",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 26,
+      "Workshop": [
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        }
+      ],
+      "Order": "12",
+      "Section / Prompt": "Product Positioning Statement",
+      "What Goes Here": "Template: For [audience], our product solves [problems]. Other businesses [how they solve it]. Unlike them, we [your unique value]."
+    },
+    {
+      "id": "spf:27",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 27,
+      "Workshop": [
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Contributing Factors of Conflict",
+      "What Goes Here": "Sticky notes of the thoughts, behaviors, and decisions that have led you or teammates into conflict before."
+    },
+    {
+      "id": "spf:28",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 28,
+      "Workshop": [
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Service Leadership Reflection",
+      "What Goes Here": "Your thoughts on how this approach to conflict reflects psychological safety and service leadership."
+    },
+    {
+      "id": "spf:29",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 29,
+      "Workshop": [
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Breakout Plan (per group)",
+      "What Goes Here": "Name your team group, then agree: what actions will you take when conflict arises, and what is each teammate's responsibility when they notice conflict?"
+    },
+    {
+      "id": "spf:30",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 30,
+      "Workshop": [
+        {
+          "id": "spf:team-ice-breakers-workshop-template",
+          "label": "Team Ice Breakers Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Introductions Card",
+      "What Goes Here": "Your intro: how you discovered Tech Fleet, your hidden talent or secret superpower, and where in the world you'd go if you could go anywhere."
+    },
+    {
+      "id": "spf:31",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 31,
+      "Workshop": [
+        {
+          "id": "spf:team-ice-breakers-workshop-template",
+          "label": "Team Ice Breakers Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Working Style Scales",
+      "What Goes Here": "Place your name on each scale: extrovert/introvert; hands-on vs research-first learning; gut vs reflective decisions; direct vs constructive feedback; planner vs go-with-the-flow; group vs one-on-one."
+    },
+    {
+      "id": "spf:32",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 32,
+      "Workshop": [
+        {
+          "id": "spf:team-ice-breakers-workshop-template",
+          "label": "Team Ice Breakers Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Hopes, Fears, Learning, Support",
+      "What Goes Here": "Sticky notes for your hopes and fears about the project, what you want to learn in the residency, and how Tech Fleet can best support you."
+    },
+    {
+      "id": "spf:33",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 33,
+      "Workshop": [
+        {
+          "id": "spf:team-ice-breakers-workshop-template",
+          "label": "Team Ice Breakers Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Crazy 6",
+      "What Goes Here": "Six boxes: sketch your weekend vibe, favorite snack, guilty pleasure, something you can't live without, what you wanted to be as a kid, and your spirit animal (one minute each)."
+    },
+    {
+      "id": "spf:34",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 34,
+      "Workshop": [
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Psychological Safety",
+      "What Goes Here": "How the team will build psychological safety (for example: celebrate disagreement, make space for every voice, allow first tries and experimentation)."
+    },
+    {
+      "id": "spf:35",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 35,
+      "Workshop": [
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Service Leadership",
+      "What Goes Here": "How the team will build service leadership (for example: seek to understand, check assumptions, support each other's growth, set clear expectations)."
+    },
+    {
+      "id": "spf:36",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 36,
+      "Workshop": [
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Self-Organization",
+      "What Goes Here": "How the team will build self-organization (for example: take initiative when things are unclear, build consensus, decide together how to work and what to prioritize)."
+    },
+    {
+      "id": "spf:37",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 37,
+      "Workshop": [
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Continuous Improvement",
+      "What Goes Here": "How the team will build continuous improvement (for example: make room to fail and adjust, reflect on root causes without judgment)."
+    },
+    {
+      "id": "spf:38",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 38,
+      "Workshop": [
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Conflict",
+      "What Goes Here": "How the team will resolve conflict (for example: be service leaders in conflict, confront it constructively, talk it out first, stay respectful)."
+    },
+    {
+      "id": "spf:39",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 39,
+      "Workshop": [
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "Pivoting",
+      "What Goes Here": "How the team will handle pivoting (for example: embrace changing plans together, reflect continuously on whether to pivot, act when it's time)."
+    },
+    {
+      "id": "spf:40",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 40,
+      "Workshop": [
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Section / Prompt": "Communication",
+      "What Goes Here": "How the team will communicate together, in the team's own words."
+    },
+    {
+      "id": "spf:41",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 41,
+      "Workshop": [
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        }
+      ],
+      "Order": "8",
+      "Section / Prompt": "Cross-Functional Collaboration",
+      "What Goes Here": "How the team will collaborate across functions, in the team's own words."
+    },
+    {
+      "id": "spf:42",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 42,
+      "Workshop": [
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        }
+      ],
+      "Order": "9",
+      "Section / Prompt": "Moving Past Storming",
+      "What Goes Here": "What the team agrees to do to move past the storming stage of team growth."
+    },
+    {
+      "id": "spf:43",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 43,
+      "Workshop": [
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Backlog of Work",
+      "What Goes Here": "All the tasks and future work the team can identify, gathered together before prioritizing."
+    },
+    {
+      "id": "spf:44",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 44,
+      "Workshop": [
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Priority Matrix: Risk and Certainty",
+      "What Goes Here": "A MoSCoW matrix. Top = high risk, low certainty; High = high risk, high certainty; Medium = low risk, low certainty; Low = low risk, high certainty."
+    },
+    {
+      "id": "spf:45",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 45,
+      "Workshop": [
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Priority Matrix: Effort and Value",
+      "What Goes Here": "A MoSCoW matrix. Top = low effort, high value; High = high effort, high value; Medium = low effort, low value; Low = high effort, low value."
+    },
+    {
+      "id": "spf:46",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 46,
+      "Workshop": [
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Top Priorities for the Next Iteration",
+      "What Goes Here": "The dot-voted top work items the team commits to for the next iteration."
+    },
+    {
+      "id": "spf:47",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 47,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Audiences",
+      "What Goes Here": "Who are the audiences involved in this product? List each, with as much detail as known. (Capture takeaways and action items for the team.)"
+    },
+    {
+      "id": "spf:48",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 48,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Business Goals",
+      "What Goes Here": "The goals the business is trying to achieve."
+    },
+    {
+      "id": "spf:49",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 49,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Products and Services",
+      "What Goes Here": "The products and services, existing or planned, the business uses to meet its goals."
+    },
+    {
+      "id": "spf:50",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 50,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Current-State Problems",
+      "What Goes Here": "The problems this product solves, for users and businesses, and the pain points in the world today."
+    },
+    {
+      "id": "spf:51",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 51,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Current-State Flow",
+      "What Goes Here": "How those problems and pain points get solved in the world today, with or without your product."
+    },
+    {
+      "id": "spf:52",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 52,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "Audience Motivations",
+      "What Goes Here": "What motivates each audience, from what you know so far."
+    },
+    {
+      "id": "spf:53",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 53,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Section / Prompt": "Market Competitors",
+      "What Goes Here": "Other products chasing the same goals: what they are, what they do well, their gaps, and what is still unknown."
+    },
+    {
+      "id": "spf:54",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 54,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "8",
+      "Section / Prompt": "Measures of Success",
+      "What Goes Here": "What, in five years, would show the business succeeded."
+    },
+    {
+      "id": "spf:55",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 55,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "9",
+      "Section / Prompt": "Measures of Failure",
+      "What Goes Here": "What, in five years, would deem the project a failure."
+    },
+    {
+      "id": "spf:56",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 56,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "10",
+      "Section / Prompt": "Ways of Working Together",
+      "What Goes Here": "How the client wants to work with the team: meetings, communication, seeing work in progress, and who else to involve."
+    },
+    {
+      "id": "spf:57",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 57,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "11",
+      "Section / Prompt": "Previous Work",
+      "What Goes Here": "A summary of, and links to, work done before this phase (by Tech Fleet or the business)."
+    },
+    {
+      "id": "spf:58",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 58,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "12",
+      "Section / Prompt": "Priorities and Near-Term Milestones",
+      "What Goes Here": "The client's priorities for this phase, and the business milestones they want to hit in the next three to six months."
+    },
+    {
+      "id": "spf:59",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 59,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "13",
+      "Section / Prompt": "Returning Client: Retrospective and Scope Changes",
+      "What Goes Here": "For returning clients only: what they liked, learned, lacked, and longed for last phase, and what has changed in scope."
+    },
+    {
+      "id": "spf:60",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 60,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "14",
+      "Section / Prompt": "Takeaways and Action Items",
+      "What Goes Here": "For every topic above, a short summary of takeaways and the resulting action items for the team."
+    },
+    {
+      "id": "spf:61",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 61,
+      "Workshop": [
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        }
+      ],
+      "Order": "15",
+      "Section / Prompt": "Kickoff Questions Table",
+      "What Goes Here": "The team's own questions to ask the client, paired with the client's answers."
+    },
+    {
+      "id": "spf:62",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 62,
+      "Workshop": [
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "RACI Definitions",
+      "What Goes Here": "Responsible does the work; Accountable oversees it and ensures success (exactly one per activity); Consulted reviews and advises; Informed is kept in the loop."
+    },
+    {
+      "id": "spf:63",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 63,
+      "Workshop": [
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Choose Your Hats (Avatar Builder)",
+      "What Goes Here": "Each person builds an avatar and adds the hats (duties) they commit to this sprint, free to stretch beyond their usual function."
+    },
+    {
+      "id": "spf:64",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 64,
+      "Workshop": [
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "RACI Chart: General Project Activities",
+      "What Goes Here": "R/A/C/I across the team for general project activities, such as the client kickoff, defining goals and deliverables, tracking progress, and scheduling meetings."
+    },
+    {
+      "id": "spf:65",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 65,
+      "Workshop": [
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "RACI Chart: UX Design and Writing Activities",
+      "What Goes Here": "R/A/C/I for UX and writing activities, such as prototypes, design systems, copywriting, personas, journey maps, and UX audits."
+    },
+    {
+      "id": "spf:66",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 66,
+      "Workshop": [
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "RACI Chart: Managing the Product",
+      "What Goes Here": "R/A/C/I for product activities, such as coaching, market research, unique value proposition, business plan, product-market fit, and feature analysis."
+    },
+    {
+      "id": "spf:67",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 67,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Demographics",
+      "What Goes Here": "Age range, education background, and socioeconomic data for this audience."
+    },
+    {
+      "id": "spf:68",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 68,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Where They Go for Information",
+      "What Goes Here": "Where the audience gets resources, practice, feedback, and community."
+    },
+    {
+      "id": "spf:69",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 69,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Accessibility and Social Considerations",
+      "What Goes Here": "Ranges of cognitive and physical abilities, and cultural considerations."
+    },
+    {
+      "id": "spf:70",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 70,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Tools Used Today",
+      "What Goes Here": "The products, technical or non-technical, the user uses to accomplish their goals today."
+    },
+    {
+      "id": "spf:71",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 71,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Life and Situational Goals",
+      "What Goes Here": "What the user wants to achieve, both in the moment and in life."
+    },
+    {
+      "id": "spf:72",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 72,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "User Motivations",
+      "What Goes Here": "What motivates this user to succeed."
+    },
+    {
+      "id": "spf:73",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 73,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Section / Prompt": "Common Tasks Today",
+      "What Goes Here": "The common tasks the user does related to the experience today."
+    },
+    {
+      "id": "spf:74",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 74,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "8",
+      "Section / Prompt": "User Pain Points",
+      "What Goes Here": "The challenges this user faces today."
+    },
+    {
+      "id": "spf:75",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 75,
+      "Workshop": [
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        }
+      ],
+      "Order": "9",
+      "Section / Prompt": "Additional Notes",
+      "What Goes Here": "Anything else worth capturing that the other fields do not cover."
+    },
+    {
+      "id": "spf:76",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 76,
+      "Workshop": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Project Goals",
+      "What Goes Here": "A summary of the project goals, based on the client intake workshop."
+    },
+    {
+      "id": "spf:77",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 77,
+      "Workshop": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Project Phase",
+      "What Goes Here": "Which phase the project is in (1, 2, 3, or 4)."
+    },
+    {
+      "id": "spf:78",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 78,
+      "Workshop": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Chosen Deliverables for This Phase",
+      "What Goes Here": "The deliverables the team will produce this phase, grouped by milestone (Intake, Discovery, Vision, Scope, Requirements, Experience Design, Development, Acceptance Testing)."
+    },
+    {
+      "id": "spf:79",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 79,
+      "Workshop": [
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Phase Project Plan (Pre-Kickoff to Hand-Off)",
+      "What Goes Here": "The forecast of planned outcomes per function across the pre-kickoff sprint, four two-week sprints, and the hand-off week."
+    },
+    {
+      "id": "spf:80",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 80,
+      "Workshop": [
+        {
+          "id": "spf:sprint-goals-workshop-template",
+          "label": "Sprint Goals Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Sprint Goal",
+      "What Goes Here": "The single objective for this sprint, and why it brings value."
+    },
+    {
+      "id": "spf:81",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 81,
+      "Workshop": [
+        {
+          "id": "spf:sprint-goals-workshop-template",
+          "label": "Sprint Goals Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Outcomes for This Sprint",
+      "What Goes Here": "The planned outcomes for this sprint, pulled from the project plan."
+    },
+    {
+      "id": "spf:82",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 82,
+      "Workshop": [
+        {
+          "id": "spf:sprint-goals-workshop-template",
+          "label": "Sprint Goals Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Steps and Assignees",
+      "What Goes Here": "The goal broken into concrete steps, each with an owner."
+    },
+    {
+      "id": "spf:83",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 83,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-map-workshop-template",
+          "label": "Customer Experience Map Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Color Legend",
+      "What Goes Here": "Red = a pain point, Yellow = an idea to change, Blue = a question to the team, Green = a strategy to solve a pain point (used on the future map)."
+    },
+    {
+      "id": "spf:84",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 84,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-map-workshop-template",
+          "label": "Customer Experience Map Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Current Experience Flow Chart (per audience)",
+      "What Goes Here": "A flow chart of each audience's experience today across the funnel (awareness, engagement, consideration, conversion, retention, loyalty), showing each step, the audiences involved, and the pain points."
+    },
+    {
+      "id": "spf:85",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 85,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-map-workshop-template",
+          "label": "Customer Experience Map Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Future Experience Flow Chart (per audience)",
+      "What Goes Here": "A flow chart of each audience's intended future experience across the funnel, with green strategies that solve the current pain points."
+    },
+    {
+      "id": "spf:86",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 86,
+      "Workshop": [
+        {
+          "id": "spf:user-journey-map-workshop-template",
+          "label": "User Journey Map Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Customer Lifecycle Funnel",
+      "What Goes Here": "The six stages every step maps to: Awareness, Engagement, Consideration, Conversion, Retention, and Loyalty."
+    },
+    {
+      "id": "spf:87",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 87,
+      "Workshop": [
+        {
+          "id": "spf:user-journey-map-workshop-template",
+          "label": "User Journey Map Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Journey Table (per audience)",
+      "What Goes Here": "One row per step, with columns: step in the process, funnel stage, description, audiences involved, common tasks, common pain points, current sentiment (negative/neutral/positive), potential KPI measurement, and ideas to improve the step."
+    },
+    {
+      "id": "spf:88",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 88,
+      "Workshop": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Agile Methods Reference (Prerequisite Reading)",
+      "What Goes Here": "Detailed breakdowns of Kanban, Scrum, and Scaled Agile: their goals, roles, how they work, and their pain points."
+    },
+    {
+      "id": "spf:89",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 89,
+      "Workshop": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Kanban Board and WIP Limits",
+      "What Goes Here": "How a Kanban board tracks work statuses (To Do, Doing, Done, Blocked) with work-in-progress limits so work keeps flowing."
+    },
+    {
+      "id": "spf:90",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 90,
+      "Workshop": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Example Team Process Flow Chart",
+      "What Goes Here": "A worked example of how work moves through a team, from intake through requirements, planning, sprint work, and demo, with decision branches."
+    },
+    {
+      "id": "spf:91",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 91,
+      "Workshop": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Your Team Process Flow Chart",
+      "What Goes Here": "Your team's own flow chart of how work gets done across functions (delete the example and build yours)."
+    },
+    {
+      "id": "spf:92",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 92,
+      "Workshop": [
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Kanban Board Statuses",
+      "What Goes Here": "The board columns and statuses your team will use to implement the process, with WIP limits."
+    },
+    {
+      "id": "spf:93",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 93,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Segmentation Definition",
+      "What Goes Here": "Your target audiences broken into geographic, behavioral, demographic, and socioeconomic segments."
+    },
+    {
+      "id": "spf:94",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 94,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Audience Label and Traits",
+      "What Goes Here": "A semantic label per focus audience and the segment traits that define it."
+    },
+    {
+      "id": "spf:95",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 95,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Motivations",
+      "What Goes Here": "What drives each audience to take action, and what they desire."
+    },
+    {
+      "id": "spf:96",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 96,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Situational Goals",
+      "What Goes Here": "The outcomes each audience wants to achieve within your experience."
+    },
+    {
+      "id": "spf:97",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 97,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Life Goals",
+      "What Goes Here": "The broader life outcomes each audience wants, based on their motivations."
+    },
+    {
+      "id": "spf:98",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 98,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "Use Cases to Support",
+      "What Goes Here": "Per audience: the scenario-based problem aspect, when it happens today, the business goal for changing it, and the future scenarios to support."
+    },
+    {
+      "id": "spf:99",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 99,
+      "Workshop": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Section / Prompt": "Use Case Prioritization",
+      "What Goes Here": "A MoSCoW matrix ranking the use cases by risk and certainty, or effort and value."
+    },
+    {
+      "id": "spf:100",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 100,
+      "Workshop": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Business Purpose and Goals",
+      "What Goes Here": "The business's purpose and the goals it is trying to achieve (reuse the client intake's goals if available)."
+    },
+    {
+      "id": "spf:101",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 101,
+      "Workshop": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Business Measurements of Success",
+      "What Goes Here": "How the business will measure success against its goals, plus ideas for how to collect each measurement."
+    },
+    {
+      "id": "spf:102",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 102,
+      "Workshop": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Per-Audience: Goals, Pains, Motivations, Tasks, Steps",
+      "What Goes Here": "For each target audience: their relevant goals, pain points, motivations, common tasks, and the steps in their process today."
+    },
+    {
+      "id": "spf:103",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 103,
+      "Workshop": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Success Measurements per Step",
+      "What Goes Here": "Success measurements and KPIs tied to each step of the audience's current process."
+    },
+    {
+      "id": "spf:104",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 104,
+      "Workshop": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Success Measurements per Outcome",
+      "What Goes Here": "Success measurements and KPIs tied to the outcomes and goals each audience wants to achieve."
+    },
+    {
+      "id": "spf:105",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 105,
+      "Workshop": [
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "How to Collect the Measurements",
+      "What Goes Here": "Ideas for collecting each measurement, inside or outside the experience."
+    },
+    {
+      "id": "spf:106",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 106,
+      "Workshop": [
+        {
+          "id": "spf:sprint-retro-workshop-template",
+          "label": "Sprint Retro Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "The 4 Ls",
+      "What Goes Here": "Sticky notes under four headings: I Liked, I Learned in Hindsight, I Lacked, and I Longed For."
+    },
+    {
+      "id": "spf:107",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 107,
+      "Workshop": [
+        {
+          "id": "spf:sprint-retro-workshop-template",
+          "label": "Sprint Retro Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Service Leadership Shoutouts",
+      "What Goes Here": "Which teammates showed great service leadership this sprint, and why."
+    },
+    {
+      "id": "spf:108",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 108,
+      "Workshop": [
+        {
+          "id": "spf:sprint-retro-workshop-template",
+          "label": "Sprint Retro Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Retro Action Items",
+      "What Goes Here": "For each item learned: a How Might We statement, ideas to change it, whether it updates the working agreements, and who owns the action item."
+    },
+    {
+      "id": "spf:109",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 109,
+      "Workshop": [
+        {
+          "id": "spf:agile-team-maturity-measurements-workshop-template",
+          "label": "Agile Team Maturity Measurements Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Agility Ratings (0 to 10)",
+      "What Goes Here": "Rate the past sprint from 0 to 10 on each dimension: Clarity, Psychological Safety, Service Leadership, Cross-Functional Teamwork, Teammate Ownership, and Self-Organization."
+    },
+    {
+      "id": "spf:110",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 110,
+      "Workshop": [
+        {
+          "id": "spf:agile-team-maturity-measurements-workshop-template",
+          "label": "Agile Team Maturity Measurements Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Score Reasoning",
+      "What Goes Here": "For each dimension, a sticky note explaining your score and what contributed to it."
+    },
+    {
+      "id": "spf:111",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 111,
+      "Workshop": [
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Dump Your Assumed Problems",
+      "What Goes Here": "Every problem you assume about the current state of the world, listed per audience."
+    },
+    {
+      "id": "spf:112",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 112,
+      "Workshop": [
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Table 1: Breaking Down Aspects",
+      "What Goes Here": "Per problem: the unrefined statement, the audience experiencing it, and the raw aspects (the situations that contribute to it)."
+    },
+    {
+      "id": "spf:113",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 113,
+      "Workshop": [
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Table 2: Problem Statements, Checklists, and User Stories",
+      "What Goes Here": "Per aspect: the root (via the 5 Whys), the combined root-plus-aspect sentence, when it is a problem, why it matters, the formal problem statement, then the user goal, user need, consequences to avoid, and the resulting user story (As a [audience], I want [goal], so that [value])."
+    },
+    {
+      "id": "spf:114",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 114,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Agile vs. Waterfall",
+      "What Goes Here": "The two manifestos and lifecycles side by side: waterfall's siloed, sequential phases versus agile's parallel, iterative, feedback-driven work."
+    },
+    {
+      "id": "spf:115",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 115,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Tenets of Strong Agile Teams (and the Pyramid)",
+      "What Goes Here": "Self-organization, psychological safety, servant leadership, iterative value, and continuous improvement, ordered as a pyramid with psychological safety at the base."
+    },
+    {
+      "id": "spf:116",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 116,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Agile Tenet Checklists",
+      "What Goes Here": "Yes/no checklists to gauge each tenet on your team (for example: does the team volunteer for work, voice dissent, deliver incrementally, and fail forward?)."
+    },
+    {
+      "id": "spf:117",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 117,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "The Four Stages of Team Growth",
+      "What Goes Here": "Forming, Storming, Norming, and Performing: the tasks, feelings, and behaviors of each stage."
+    },
+    {
+      "id": "spf:118",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 118,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Living Agile Manifesto (Reflection)",
+      "What Goes Here": "What a team actually does when it values individuals and interactions, working results, customer collaboration, and responding to change."
+    },
+    {
+      "id": "spf:119",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 119,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "Checklist to Start Agile",
+      "What Goes Here": "The Why (generate buy-in, educate on agile), the Who (build the first sprint RACI), and the How (project plan, process map, Kanban board, sprint plan, first sprint, working agreements)."
+    },
+    {
+      "id": "spf:120",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 120,
+      "Workshop": [
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Section / Prompt": "Storming Reflections",
+      "What Goes Here": "The team's thoughts on what contributes to storming, and what actions and behaviors help move from storming toward performing."
+    },
+    {
+      "id": "spf:121",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 121,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Research Topics",
+      "What Goes Here": "Every topic you want to learn about your audiences or focus area, one per sticky note."
+    },
+    {
+      "id": "spf:122",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 122,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Topic Prioritization Matrix",
+      "What Goes Here": "A MoSCoW matrix ranking topics by risk and certainty; pick the top few for this iteration."
+    },
+    {
+      "id": "spf:123",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 123,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Research Questions, Goals, and Assumptions",
+      "What Goes Here": "Each chosen topic written as a research question and a goal, plus the assumptions you hold about it."
+    },
+    {
+      "id": "spf:124",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 124,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Assumption Table",
+      "What Goes Here": "Per row: research topic question, assumption, priority, assumptive problem statement, audience, implication if true, implication if false, direct question to users, task for users, and observation to measure."
+    },
+    {
+      "id": "spf:125",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 125,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Assumption Prioritization Matrix",
+      "What Goes Here": "A MoSCoW matrix ranking assumptions by risk and certainty."
+    },
+    {
+      "id": "spf:126",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 126,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "Method Selection Guide",
+      "What Goes Here": "Choosing a research method from the question type: generative vs evaluative, what vs why, short vs long term (for example: interview, survey, card sort, usability test, diary study, analytics audit)."
+    },
+    {
+      "id": "spf:127",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 127,
+      "Workshop": [
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Section / Prompt": "Research Test Plan",
+      "What Goes Here": "The documented plan: background, research goals, research questions, assumptions, and methodology (participant description, screener criteria, test method, test materials, test measurements), plus the research's limitations."
+    },
+    {
+      "id": "spf:128",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 128,
+      "Workshop": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Vision Components",
+      "What Goes Here": "The building blocks: business why, target audiences, problems and opportunities, business goals, value, unique advantage, barriers and risks, costs, and KPIs."
+    },
+    {
+      "id": "spf:129",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 129,
+      "Workshop": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Problem Prioritization Matrix (per audience)",
+      "What Goes Here": "A MoSCoW matrix per audience, ranking problems by risk and certainty (or complexity and value)."
+    },
+    {
+      "id": "spf:130",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 130,
+      "Workshop": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Top Problems per Audience",
+      "What Goes Here": "The top few problems to solve near-term, chosen for the first release."
+    },
+    {
+      "id": "spf:131",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 131,
+      "Workshop": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Release Vision Board (MVP and MMP, per audience)",
+      "What Goes Here": "Per audience per release: vision statement, audience, user and business problems, business goals, value per problem, competitive advantage, barriers to success, costs, KPIs, and use cases to support."
+    },
+    {
+      "id": "spf:132",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 132,
+      "Workshop": [
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Scope of Outcomes per Release",
+      "What Goes Here": "The outcomes each release will achieve, based on the value and problems it addresses."
+    },
+    {
+      "id": "spf:133",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 133,
+      "Workshop": [
+        {
+          "id": "spf:backlog-management-workshop-template",
+          "label": "Backlog Management Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Epics and Features",
+      "What Goes Here": "The release scope organized into themes (epics) and the user-facing capabilities (features) inside them."
+    },
+    {
+      "id": "spf:134",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 134,
+      "Workshop": [
+        {
+          "id": "spf:backlog-management-workshop-template",
+          "label": "Backlog Management Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Tasks",
+      "What Goes Here": "The small, buildable task items inside each feature."
+    },
+    {
+      "id": "spf:135",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 135,
+      "Workshop": [
+        {
+          "id": "spf:backlog-management-workshop-template",
+          "label": "Backlog Management Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Release Roadmap",
+      "What Goes Here": "The epics and features sequenced over time."
+    },
+    {
+      "id": "spf:136",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 136,
+      "Workshop": [
+        {
+          "id": "spf:backlog-management-workshop-template",
+          "label": "Backlog Management Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Prioritized Backlog",
+      "What Goes Here": "The task tickets, ordered by priority and ready to write requirements against."
+    },
+    {
+      "id": "spf:137",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 137,
+      "Workshop": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Raw Test Results",
+      "What Goes Here": "Per question, task, and observation: the raw findings (for example, 'x of y people did Z')."
+    },
+    {
+      "id": "spf:138",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 138,
+      "Workshop": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Affinity Map and Rainbow Table",
+      "What Goes Here": "Findings clustered into themes, with a rainbow table tracking which participants exhibited each one."
+    },
+    {
+      "id": "spf:139",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 139,
+      "Workshop": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Assumption Conclusions",
+      "What Goes Here": "Per assumption: the results, the conclusion (true, false, or undetermined), and who owns it."
+    },
+    {
+      "id": "spf:140",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 140,
+      "Workshop": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "New Research Questions",
+      "What Goes Here": "The new topics and assumptions that emerged from this round of testing."
+    },
+    {
+      "id": "spf:141",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 141,
+      "Workshop": [
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Next-Round Prioritization",
+      "What Goes Here": "A MoSCoW matrix ranking the new research topics for the next iteration."
+    },
+    {
+      "id": "spf:142",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 142,
+      "Workshop": [
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Presentation Structure",
+      "What Goes Here": "Background, research goals, method, key findings, conclusions, recommendations, and next steps."
+    },
+    {
+      "id": "spf:143",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 143,
+      "Workshop": [
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Key Findings",
+      "What Goes Here": "The main results and what they mean for the product and its users."
+    },
+    {
+      "id": "spf:144",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 144,
+      "Workshop": [
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Representation and Limitations",
+      "What Goes Here": "Who the data represents and the honest limits of the research."
+    },
+    {
+      "id": "spf:145",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 145,
+      "Workshop": [
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Recommendations and Next Steps",
+      "What Goes Here": "The actionable recommendations and what the team should do next."
+    },
+    {
+      "id": "spf:146",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 146,
+      "Workshop": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Audience Segments",
+      "What Goes Here": "The audiences you want to storyboard for."
+    },
+    {
+      "id": "spf:147",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 147,
+      "Workshop": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Use Case Scenarios",
+      "What Goes Here": "The current and future use case scenarios per audience."
+    },
+    {
+      "id": "spf:148",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 148,
+      "Workshop": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Use Case Prioritization and Vote",
+      "What Goes Here": "A MoSCoW matrix and a team vote to choose which use cases to storyboard."
+    },
+    {
+      "id": "spf:149",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 149,
+      "Workshop": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Current-State Storyboard (8 panels)",
+      "What Goes Here": "An eight-panel comic of the user's experience today: what they do, struggle with, feel, and wish they had."
+    },
+    {
+      "id": "spf:150",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 150,
+      "Workshop": [
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Future-State Storyboard (8 panels)",
+      "What Goes Here": "An eight-panel comic of the blue-sky future once the user's problems are solved, specific about how each problem is addressed."
+    },
+    {
+      "id": "spf:151",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 151,
+      "Workshop": [
+        {
+          "id": "spf:case-study-creation-workshop-template",
+          "label": "Case Study Creation Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "What Makes a Good (and Bad) Case Study",
+      "What Goes Here": "The team's reflections on what strong and weak case studies look like."
+    },
+    {
+      "id": "spf:152",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 152,
+      "Workshop": [
+        {
+          "id": "spf:case-study-creation-workshop-template",
+          "label": "Case Study Creation Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Team Actions and Events Needed",
+      "What Goes Here": "What the team must do, and what events must happen during the project, to produce a great case study."
+    },
+    {
+      "id": "spf:153",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 153,
+      "Workshop": [
+        {
+          "id": "spf:case-study-creation-workshop-template",
+          "label": "Case Study Creation Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Cross-Team Collaboration",
+      "What Goes Here": "How you will work with other teams to produce your case study."
+    },
+    {
+      "id": "spf:154",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 154,
+      "Workshop": [
+        {
+          "id": "spf:case-study-creation-workshop-template",
+          "label": "Case Study Creation Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Story-Driven Case Study Outline",
+      "What Goes Here": "The outline of the story your case study will tell, from background through outcomes."
+    },
+    {
+      "id": "spf:155",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 155,
+      "Workshop": [
+        {
+          "id": "spf:product-and-service-development-milestones-for-different-types-of-projects-works",
+          "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "The Agile Product and Service Lifecycle",
+      "What Goes Here": "The milestones (Intake, Discovery, Vision, Scope, Requirements, Implement, Acceptance Testing) and how they flow, non-linearly and in parallel."
+    },
+    {
+      "id": "spf:156",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 156,
+      "Workshop": [
+        {
+          "id": "spf:product-and-service-development-milestones-for-different-types-of-projects-works",
+          "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Deliverables per Milestone",
+      "What Goes Here": "The deliverable sets that belong to each milestone."
+    },
+    {
+      "id": "spf:157",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 157,
+      "Workshop": [
+        {
+          "id": "spf:product-and-service-development-milestones-for-different-types-of-projects-works",
+          "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Workshops per Milestone",
+      "What Goes Here": "Which workshops produce each milestone's deliverables."
+    },
+    {
+      "id": "spf:158",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 158,
+      "Workshop": [
+        {
+          "id": "spf:product-and-service-development-milestones-for-different-types-of-projects-works",
+          "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Project Types and Their Deliverables",
+      "What Goes Here": "How deliverables differ across business-strategy, website, and service-design projects (discovery-only, discovery-plus-design, and full build), and how MVP builds toward MMP."
+    },
+    {
+      "id": "spf:163",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 163,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Personal Growth Vision Components",
+      "What Goes Here": "Your why, growth audiences, problems and opportunities, goals, value per problem, what makes you unique, barriers, costs, and KPIs."
+    },
+    {
+      "id": "spf:164",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 164,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Growth Priorities",
+      "What Goes Here": "A MoSCoW matrix ranking your growth opportunities by effort and value."
+    },
+    {
+      "id": "spf:165",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 165,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Top Growth Problems",
+      "What Goes Here": "Your top few growth opportunities to work on near-term."
+    },
+    {
+      "id": "spf:166",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 166,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Personal Growth Vision Boards (MVP and MMP)",
+      "What Goes Here": "Your near-term and longer-term growth vision, each with vision statement, audiences, problems, goals, value, uniqueness, barriers, costs, and KPIs."
+    },
+    {
+      "id": "spf:167",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 167,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Growth Backlog (Epics, Features, Tasks)",
+      "What Goes Here": "Your growth work organized into epics, features, and tasks."
+    },
+    {
+      "id": "spf:168",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 168,
+      "Workshop": [
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "Personal Growth Roadmap",
+      "What Goes Here": "Your growth epics and features sequenced into a roadmap over the year."
+    },
+    {
+      "id": "spf:169",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 169,
+      "Workshop": [
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Sprint Goal and What's Done",
+      "What Goes Here": "The sprint goal, and what was and was not completed this sprint."
+    },
+    {
+      "id": "spf:170",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 170,
+      "Workshop": [
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Demo of the Increment",
+      "What Goes Here": "The demonstration of the completed work to stakeholders."
+    },
+    {
+      "id": "spf:171",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 171,
+      "Workshop": [
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "What Went Well and Problems Solved",
+      "What Goes Here": "The team's reflections on what went well this sprint and the problems it solved."
+    },
+    {
+      "id": "spf:172",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 172,
+      "Workshop": [
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Stakeholder Feedback and Next Steps",
+      "What Goes Here": "The feedback gathered from stakeholders and how the plan adapts as a result."
+    },
+    {
+      "id": "spf:173",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 173,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Target Personas (prep)",
+      "What Goes Here": "The target personas, with each one's traits and pain points, that the strategy is built around."
+    },
+    {
+      "id": "spf:174",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 174,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Designing for Personas (strategy)",
+      "What Goes Here": "The design strategy for each persona: how you intend to meet their needs and expectations."
+    },
+    {
+      "id": "spf:175",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 175,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Customer Experience Funnel Strategy",
+      "What Goes Here": "How each persona will be supported across the lifecycle funnel (awareness, engagement, consideration, conversion, retention, loyalty), and how you will drive conversion and long-term engagement."
+    },
+    {
+      "id": "spf:176",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 176,
+      "Workshop": [
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Direction for the Site Map and Content",
+      "What Goes Here": "The content topics and navigation direction each audience needs, readying the Site Map and CX Map workshops (which produce those artifacts)."
+    }
+  ]
+}

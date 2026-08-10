@@ -1,0 +1,721 @@
+{
+  "@context": "../../schema/context.jsonld",
+  "@graph": [
+    {
+      "id": "spf:website-project",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:ProjectType",
+        "skos:Concept"
+      ],
+      "Project Type": "Website Project",
+      "Project Type Description": "A Website Project is a comprehensive initiative to design, develop, and optimize a digital platform that meets user needs and business goals. During this project, teams produce deliverables such as user personas, site maps, and accessibility analyses to inform design decisions, along with prototypes, content strategies, and analytics reports to ensure a user-centered and high-performing website.",
+      "Key Specializations Involved": [
+        {
+          "id": "spf:qualitative-ux-research",
+          "label": "Qualitative UX Research"
+        },
+        {
+          "id": "spf:interaction-design",
+          "label": "Interaction Design"
+        },
+        {
+          "id": "spf:information-architecture",
+          "label": "Information Architecture"
+        },
+        {
+          "id": "spf:content-strategy",
+          "label": "Content Strategy"
+        },
+        {
+          "id": "spf:customer-experience-design",
+          "label": "Customer Experience Design"
+        },
+        {
+          "id": "spf:quantitative-ux-research",
+          "label": "Quantitative UX Research"
+        },
+        {
+          "id": "spf:product-operations",
+          "label": "Product Operations"
+        },
+        {
+          "id": "spf:branding",
+          "label": "Branding"
+        },
+        {
+          "id": "spf:search-engine-optimization",
+          "label": "Search Engine Optimization"
+        },
+        {
+          "id": "spf:ux-strategy",
+          "label": "UX Strategy"
+        },
+        {
+          "id": "spf:ui-design",
+          "label": "UI Design"
+        },
+        {
+          "id": "spf:accessibility-specialist",
+          "label": "Accessibility Specialist"
+        },
+        {
+          "id": "spf:front-end-developer",
+          "label": "Front-End Developer"
+        },
+        {
+          "id": "spf:back-end-developer",
+          "label": "Back-end Developer"
+        },
+        {
+          "id": "spf:information-security",
+          "label": "Information Security"
+        },
+        {
+          "id": "spf:growth-product-management",
+          "label": "Growth Product Management"
+        },
+        {
+          "id": "spf:sprint-master",
+          "label": "Sprint Master"
+        }
+      ],
+      "UNIQUE Functions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        },
+        {
+          "id": "spf:ux-researcher",
+          "label": "UX Researcher"
+        },
+        {
+          "id": "spf:product-designer",
+          "label": "Product Designer"
+        },
+        {
+          "id": "spf:ux-writer",
+          "label": "UX Writer"
+        },
+        {
+          "id": "spf:project-manager",
+          "label": "Project Manager"
+        },
+        {
+          "id": "spf:engineer",
+          "label": "Engineer"
+        },
+        {
+          "id": "spf:product-owner",
+          "label": "Product Owner"
+        },
+        {
+          "id": "spf:product-manager",
+          "label": "Product Manager"
+        },
+        {
+          "id": "spf:business-analyst",
+          "label": "Business Analyst"
+        },
+        {
+          "id": "spf:agile-coach",
+          "label": "Agile Coach"
+        }
+      ],
+      "UX Research Deliverables": [
+        {
+          "id": "spf:user-personas",
+          "label": "User Personas"
+        },
+        {
+          "id": "spf:proto-personas",
+          "label": "Proto Personas"
+        },
+        {
+          "id": "spf:buyer-personas",
+          "label": "Buyer Personas"
+        },
+        {
+          "id": "spf:empathy-map",
+          "label": "Empathy Map"
+        },
+        {
+          "id": "spf:affinity-map",
+          "label": "Affinity Map"
+        },
+        {
+          "id": "spf:sitemap",
+          "label": "Sitemap"
+        },
+        {
+          "id": "spf:analytics-audit",
+          "label": "Analytics Audit"
+        },
+        {
+          "id": "spf:accessibility-analysis",
+          "label": "Accessibility Analysis"
+        }
+      ],
+      "UX Design Deliverables": [
+        {
+          "id": "spf:low-fidelity-prototypes",
+          "label": "Low-Fidelity Prototypes"
+        },
+        {
+          "id": "spf:high-fidelity-prototypes",
+          "label": "High-Fidelity Prototypes"
+        }
+      ],
+      "Product Milestones": [
+        {
+          "id": "spf:continuous-discovery",
+          "label": "Continuous Discovery"
+        },
+        {
+          "id": "spf:requirements",
+          "label": "Requirements"
+        },
+        {
+          "id": "spf:scope",
+          "label": "Scope"
+        },
+        {
+          "id": "spf:implement",
+          "label": "Implement"
+        },
+        {
+          "id": "spf:launch",
+          "label": "Launch"
+        },
+        {
+          "id": "spf:vision",
+          "label": "Vision"
+        },
+        {
+          "id": "spf:acceptance-testing",
+          "label": "Acceptance Testing"
+        },
+        {
+          "id": "spf:intake",
+          "label": "Intake"
+        }
+      ]
+    },
+    {
+      "id": "spf:web-application-project",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:ProjectType",
+        "skos:Concept"
+      ],
+      "Project Type": "Web Application Project",
+      "Project Type Description": "A Web Application Project is a collaborative effort to design, develop, and optimize a user-centric web platform that meets business goals and user needs. During this project, teams produce detailed user experience strategies, wireframes, prototypes, and functional code, along with comprehensive research reports, branding assets, and accessibility guidelines to ensure a seamless and engaging user experience.",
+      "Key Specializations Involved": [
+        {
+          "id": "spf:qualitative-ux-research",
+          "label": "Qualitative UX Research"
+        },
+        {
+          "id": "spf:interaction-design",
+          "label": "Interaction Design"
+        },
+        {
+          "id": "spf:information-architecture",
+          "label": "Information Architecture"
+        },
+        {
+          "id": "spf:customer-experience-design",
+          "label": "Customer Experience Design"
+        },
+        {
+          "id": "spf:quantitative-ux-research",
+          "label": "Quantitative UX Research"
+        },
+        {
+          "id": "spf:product-operations",
+          "label": "Product Operations"
+        },
+        {
+          "id": "spf:branding",
+          "label": "Branding"
+        },
+        {
+          "id": "spf:ui-design",
+          "label": "UI Design"
+        },
+        {
+          "id": "spf:accessibility-specialist",
+          "label": "Accessibility Specialist"
+        },
+        {
+          "id": "spf:front-end-developer",
+          "label": "Front-End Developer"
+        },
+        {
+          "id": "spf:back-end-developer",
+          "label": "Back-end Developer"
+        },
+        {
+          "id": "spf:information-security",
+          "label": "Information Security"
+        },
+        {
+          "id": "spf:growth-product-management",
+          "label": "Growth Product Management"
+        },
+        {
+          "id": "spf:sprint-master",
+          "label": "Sprint Master"
+        }
+      ],
+      "UNIQUE Functions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        },
+        {
+          "id": "spf:ux-researcher",
+          "label": "UX Researcher"
+        },
+        {
+          "id": "spf:product-designer",
+          "label": "Product Designer"
+        },
+        {
+          "id": "spf:ux-writer",
+          "label": "UX Writer"
+        },
+        {
+          "id": "spf:project-manager",
+          "label": "Project Manager"
+        },
+        {
+          "id": "spf:engineer",
+          "label": "Engineer"
+        },
+        {
+          "id": "spf:product-owner",
+          "label": "Product Owner"
+        },
+        {
+          "id": "spf:product-manager",
+          "label": "Product Manager"
+        },
+        {
+          "id": "spf:business-analyst",
+          "label": "Business Analyst"
+        },
+        {
+          "id": "spf:agile-coach",
+          "label": "Agile Coach"
+        }
+      ],
+      "Product Milestones": [
+        {
+          "id": "spf:continuous-discovery",
+          "label": "Continuous Discovery"
+        },
+        {
+          "id": "spf:requirements",
+          "label": "Requirements"
+        },
+        {
+          "id": "spf:scope",
+          "label": "Scope"
+        },
+        {
+          "id": "spf:implement",
+          "label": "Implement"
+        },
+        {
+          "id": "spf:launch",
+          "label": "Launch"
+        },
+        {
+          "id": "spf:vision",
+          "label": "Vision"
+        },
+        {
+          "id": "spf:acceptance-testing",
+          "label": "Acceptance Testing"
+        },
+        {
+          "id": "spf:intake",
+          "label": "Intake"
+        }
+      ]
+    },
+    {
+      "id": "spf:mobile-app-project",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:ProjectType",
+        "skos:Concept"
+      ],
+      "Project Type": "Mobile App Project",
+      "Project Type Description": "A Mobile App Project is a collaborative effort to design, develop, and optimize a mobile application that meets user needs and business goals. During this project, teams produce detailed user experience and interface designs, research insights, functional prototypes, and comprehensive documentation to guide development and ensure a seamless user experience.",
+      "Key Specializations Involved": [
+        {
+          "id": "spf:qualitative-ux-research",
+          "label": "Qualitative UX Research"
+        },
+        {
+          "id": "spf:interaction-design",
+          "label": "Interaction Design"
+        },
+        {
+          "id": "spf:information-architecture",
+          "label": "Information Architecture"
+        },
+        {
+          "id": "spf:customer-experience-design",
+          "label": "Customer Experience Design"
+        },
+        {
+          "id": "spf:quantitative-ux-research",
+          "label": "Quantitative UX Research"
+        },
+        {
+          "id": "spf:product-operations",
+          "label": "Product Operations"
+        },
+        {
+          "id": "spf:branding",
+          "label": "Branding"
+        },
+        {
+          "id": "spf:ui-design",
+          "label": "UI Design"
+        },
+        {
+          "id": "spf:full-stack-developer",
+          "label": "Full Stack Developer"
+        },
+        {
+          "id": "spf:information-security",
+          "label": "Information Security"
+        },
+        {
+          "id": "spf:growth-product-management",
+          "label": "Growth Product Management"
+        },
+        {
+          "id": "spf:mobile-native-development",
+          "label": "Mobile Native Development"
+        },
+        {
+          "id": "spf:sprint-master",
+          "label": "Sprint Master"
+        }
+      ],
+      "UNIQUE Functions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        },
+        {
+          "id": "spf:ux-researcher",
+          "label": "UX Researcher"
+        },
+        {
+          "id": "spf:product-designer",
+          "label": "Product Designer"
+        },
+        {
+          "id": "spf:ux-writer",
+          "label": "UX Writer"
+        },
+        {
+          "id": "spf:project-manager",
+          "label": "Project Manager"
+        },
+        {
+          "id": "spf:engineer",
+          "label": "Engineer"
+        },
+        {
+          "id": "spf:product-owner",
+          "label": "Product Owner"
+        },
+        {
+          "id": "spf:product-manager",
+          "label": "Product Manager"
+        },
+        {
+          "id": "spf:business-analyst",
+          "label": "Business Analyst"
+        },
+        {
+          "id": "spf:agile-coach",
+          "label": "Agile Coach"
+        }
+      ],
+      "Product Milestones": [
+        {
+          "id": "spf:continuous-discovery",
+          "label": "Continuous Discovery"
+        },
+        {
+          "id": "spf:requirements",
+          "label": "Requirements"
+        },
+        {
+          "id": "spf:scope",
+          "label": "Scope"
+        },
+        {
+          "id": "spf:implement",
+          "label": "Implement"
+        },
+        {
+          "id": "spf:launch",
+          "label": "Launch"
+        },
+        {
+          "id": "spf:vision",
+          "label": "Vision"
+        },
+        {
+          "id": "spf:acceptance-testing",
+          "label": "Acceptance Testing"
+        },
+        {
+          "id": "spf:intake",
+          "label": "Intake"
+        }
+      ]
+    },
+    {
+      "id": "spf:service-design-project",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:ProjectType",
+        "skos:Concept"
+      ],
+      "Project Type": "Service Design Project",
+      "Project Type Description": "A Service Design Project is a comprehensive initiative aimed at creating seamless and effective customer experiences by integrating various design and research disciplines. During this project, teams produce detailed service blueprints, customer journey maps, and user personas, along with prototypes, wireframes, and content strategies to ensure a cohesive and user-centered service delivery.",
+      "Key Specializations Involved": [
+        {
+          "id": "spf:qualitative-ux-research",
+          "label": "Qualitative UX Research"
+        },
+        {
+          "id": "spf:service-design",
+          "label": "Service Design"
+        },
+        {
+          "id": "spf:customer-experience-design",
+          "label": "Customer Experience Design"
+        },
+        {
+          "id": "spf:quantitative-ux-research",
+          "label": "Quantitative UX Research"
+        },
+        {
+          "id": "spf:product-operations",
+          "label": "Product Operations"
+        },
+        {
+          "id": "spf:branding",
+          "label": "Branding"
+        },
+        {
+          "id": "spf:growth-product-management",
+          "label": "Growth Product Management"
+        },
+        {
+          "id": "spf:sprint-master",
+          "label": "Sprint Master"
+        }
+      ],
+      "UNIQUE Functions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        },
+        {
+          "id": "spf:ux-researcher",
+          "label": "UX Researcher"
+        },
+        {
+          "id": "spf:product-designer",
+          "label": "Product Designer"
+        },
+        {
+          "id": "spf:ux-writer",
+          "label": "UX Writer"
+        },
+        {
+          "id": "spf:project-manager",
+          "label": "Project Manager"
+        },
+        {
+          "id": "spf:product-owner",
+          "label": "Product Owner"
+        },
+        {
+          "id": "spf:product-manager",
+          "label": "Product Manager"
+        },
+        {
+          "id": "spf:business-analyst",
+          "label": "Business Analyst"
+        },
+        {
+          "id": "spf:agile-coach",
+          "label": "Agile Coach"
+        }
+      ],
+      "Product Milestones": [
+        {
+          "id": "spf:continuous-discovery",
+          "label": "Continuous Discovery"
+        },
+        {
+          "id": "spf:scope",
+          "label": "Scope"
+        },
+        {
+          "id": "spf:launch",
+          "label": "Launch"
+        },
+        {
+          "id": "spf:vision",
+          "label": "Vision"
+        },
+        {
+          "id": "spf:acceptance-testing",
+          "label": "Acceptance Testing"
+        },
+        {
+          "id": "spf:intake",
+          "label": "Intake"
+        }
+      ]
+    },
+    {
+      "id": "spf:discovery-project",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:ProjectType",
+        "skos:Concept"
+      ],
+      "Project Type": "Discovery Project",
+      "Project Type Description": "A Discovery Project is a collaborative effort to understand user needs, define problem spaces, and identify viable solutions to inform product development. During this project, teams produce insights through qualitative and quantitative UX research, user journey maps, and strategic documentation, culminating in a clear product vision and prioritized roadmap to guide subsequent design and development phases.",
+      "Key Specializations Involved": [
+        {
+          "id": "spf:qualitative-ux-research",
+          "label": "Qualitative UX Research"
+        },
+        {
+          "id": "spf:customer-experience-design",
+          "label": "Customer Experience Design"
+        },
+        {
+          "id": "spf:quantitative-ux-research",
+          "label": "Quantitative UX Research"
+        },
+        {
+          "id": "spf:product-operations",
+          "label": "Product Operations"
+        },
+        {
+          "id": "spf:ux-strategy",
+          "label": "UX Strategy"
+        },
+        {
+          "id": "spf:growth-product-management",
+          "label": "Growth Product Management"
+        },
+        {
+          "id": "spf:growth",
+          "label": "growth"
+        },
+        {
+          "id": "spf:sprint-master",
+          "label": "Sprint Master"
+        }
+      ],
+      "UNIQUE Functions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        },
+        {
+          "id": "spf:ux-researcher",
+          "label": "UX Researcher"
+        },
+        {
+          "id": "spf:product-designer",
+          "label": "Product Designer"
+        },
+        {
+          "id": "spf:project-manager",
+          "label": "Project Manager"
+        },
+        {
+          "id": "spf:product-owner",
+          "label": "Product Owner"
+        },
+        {
+          "id": "spf:product-manager",
+          "label": "Product Manager"
+        },
+        {
+          "id": "spf:business-analyst",
+          "label": "Business Analyst"
+        },
+        {
+          "id": "spf:agile-coach",
+          "label": "Agile Coach"
+        }
+      ],
+      "Product Milestones": [
+        {
+          "id": "spf:continuous-discovery",
+          "label": "Continuous Discovery"
+        },
+        {
+          "id": "spf:scope",
+          "label": "Scope"
+        },
+        {
+          "id": "spf:launch",
+          "label": "Launch"
+        },
+        {
+          "id": "spf:vision",
+          "label": "Vision"
+        },
+        {
+          "id": "spf:acceptance-testing",
+          "label": "Acceptance Testing"
+        },
+        {
+          "id": "spf:intake",
+          "label": "Intake"
+        }
+      ]
+    }
+  ]
+}

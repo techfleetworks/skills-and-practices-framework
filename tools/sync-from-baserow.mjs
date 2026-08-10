@@ -35,6 +35,7 @@ const ENTITIES = [
   { id: 1124480, file: "workshop-steps" },
   { id: 1124481, file: "workshop-template-sections" },
   { id: 1124520, file: "handoff-deliverables-map" },
+  { id: 1124363, file: "project-phases" },
 ];
 
 const slugify = s => String(s ?? "").toLowerCase().normalize("NFKD")

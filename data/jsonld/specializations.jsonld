@@ -1,0 +1,1496 @@
+{
+  "@context": "../../schema/context.jsonld",
+  "@graph": [
+    {
+      "id": "spf:qualitative-ux-research",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Qualitative UX Research",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes this specialization unique is its focus on understanding people's emotions and experiences, rather than just numbers and data. Unlike other research roles that might focus on statistics, Qualitative UX Research is all about the stories and feelings behind user interactions. It's like being a storyteller who helps design better products by understanding what users truly need and want.",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-researcher",
+          "label": "UX Researcher"
+        },
+        {
+          "id": "spf:product-designer",
+          "label": "Product Designer"
+        }
+      ],
+      "Roles": "UX (User Experience) Researcher",
+      "Specialization Tasks": [
+        {
+          "id": "spf:analyzing-research-findings",
+          "label": "Analyzing Research Findings"
+        },
+        {
+          "id": "spf:presenting-research-results",
+          "label": "Presenting Research Results"
+        },
+        {
+          "id": "spf:moderating-ux-research",
+          "label": "Moderating UX Research"
+        },
+        {
+          "id": "spf:secondary-research",
+          "label": "Secondary Research"
+        },
+        {
+          "id": "spf:card-sorting",
+          "label": "Card Sorting "
+        },
+        {
+          "id": "spf:interviewing",
+          "label": "Interviewing"
+        },
+        {
+          "id": "spf:diary-studies",
+          "label": "Diary Studies"
+        },
+        {
+          "id": "spf:contextual-inquiries",
+          "label": "Contextual Inquiries"
+        },
+        {
+          "id": "spf:observing-ethnography",
+          "label": "Observing (Ethnography)"
+        },
+        {
+          "id": "spf:usability-testing",
+          "label": "Usability Testing"
+        },
+        {
+          "id": "spf:prototype-concept-testing",
+          "label": "Prototype Concept Testing "
+        },
+        {
+          "id": "spf:a-b-prototype-test-creation",
+          "label": "A/B Prototype Test Creation"
+        },
+        {
+          "id": "spf:user-acceptance-testing",
+          "label": "User Acceptance Testing"
+        },
+        {
+          "id": "spf:facilitating-agile-workshops",
+          "label": "Facilitating Agile Workshops"
+        },
+        {
+          "id": "spf:identifying-research-patterns",
+          "label": "Identifying Research Patterns"
+        },
+        {
+          "id": "spf:experiment-design",
+          "label": "Experiment Design"
+        },
+        {
+          "id": "spf:creating-research-plans",
+          "label": "Creating Research Plans"
+        },
+        {
+          "id": "spf:choosing-research-methods",
+          "label": "Choosing Research Methods"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        },
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        },
+        {
+          "id": "spf:service-design-project",
+          "label": "Service Design Project"
+        },
+        {
+          "id": "spf:discovery-project",
+          "label": "Discovery Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:interaction-design",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Interaction Design",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes Interaction Design special is its focus on how people interact with technology. Unlike other design fields that might focus more on how things look, Interaction Design is all about making sure things are easy and fun to use. It's like being a detective, figuring out what users need and how to make their experience as smooth as possible. You'll be the bridge between technology and people, ensuring that digital products are not just functional but also enjoyable.",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        }
+      ],
+      "Roles": "UX (User Experience) Designer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:wireframing",
+          "label": "Wireframing"
+        },
+        {
+          "id": "spf:storyboarding",
+          "label": "Storyboarding"
+        },
+        {
+          "id": "spf:prototype-creation",
+          "label": "Prototype Creation"
+        },
+        {
+          "id": "spf:facilitating-agile-workshops",
+          "label": "Facilitating Agile Workshops"
+        },
+        {
+          "id": "spf:clickable-prototype-creation",
+          "label": "Clickable Prototype Creation"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        },
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:information-architecture",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Information Architecture",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes Information Architecture unique is its focus on making information easy to find and use, unlike other specializations that might focus more on how things look or function. It's like being the mastermind behind a treasure map, ensuring everyone can find the treasure (or information) they're looking for without getting lost.",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        }
+      ],
+      "Roles": "UX (User Experience) Designer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:card-sorting",
+          "label": "Card Sorting "
+        },
+        {
+          "id": "spf:facilitating-agile-workshops",
+          "label": "Facilitating Agile Workshops"
+        },
+        {
+          "id": "spf:inventorying-content",
+          "label": "Inventorying Content"
+        },
+        {
+          "id": "spf:site-map-testing",
+          "label": "Site Map Testing"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        },
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:content-strategy",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Content Strategy",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes content strategy special is that it's not just about creating content; it's about making sure the content connects with the right people and serves a purpose. Unlike other roles that might focus only on writing or design, content strategists look at the big picture. They figure out what the audience needs and how to deliver it in the best way possible, making sure every piece of content has a clear goal and fits into a larger plan.",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-writer",
+          "label": "UX Writer"
+        }
+      ],
+      "Roles": "UX (User Experience) Writer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:card-sorting",
+          "label": "Card Sorting "
+        },
+        {
+          "id": "spf:facilitating-agile-workshops",
+          "label": "Facilitating Agile Workshops"
+        },
+        {
+          "id": "spf:inventorying-content",
+          "label": "Inventorying Content"
+        },
+        {
+          "id": "spf:copywriting",
+          "label": "Copywriting"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:service-design",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Service Design",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes Service Design unique is its focus on the big picture. Unlike other specializations that might focus on just one part of a service, Service Design looks at the entire journey a customer takes. It's like being a director of a movie, making sure every scene fits together to tell a great story. You'll work with different teams and use your imagination to create services that people love and find easy to use.",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        }
+      ],
+      "Roles": "UX (User Experience) Designer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:storyboarding",
+          "label": "Storyboarding"
+        },
+        {
+          "id": "spf:customer-segmentation",
+          "label": "Customer Segmentation"
+        },
+        {
+          "id": "spf:customer-experience-mapping",
+          "label": "Customer Experience Mapping"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:service-design-project",
+          "label": "Service Design Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:customer-experience-design",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Customer Experience Design",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes Customer Experience Design special is that it's all about understanding people and making their experiences enjoyable and memorable. Unlike other specializations that might focus more on the technical side of things, this one is all about empathy and creativity. You'll be the one making sure that every interaction a customer has with a product or service is as smooth and delightful as possible!",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        }
+      ],
+      "Roles": "UX (User Experience) Designer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:storyboarding",
+          "label": "Storyboarding"
+        },
+        {
+          "id": "spf:facilitating-agile-workshops",
+          "label": "Facilitating Agile Workshops"
+        },
+        {
+          "id": "spf:customer-experience-mapping",
+          "label": "Customer Experience Mapping"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        },
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        },
+        {
+          "id": "spf:service-design-project",
+          "label": "Service Design Project"
+        },
+        {
+          "id": "spf:discovery-project",
+          "label": "Discovery Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:quantitative-ux-research",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Quantitative UX Research",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes Quantitative UX Research unique is its focus on numbers and data to understand user behavior, unlike other UX specializations that might focus more on design or direct user interaction. You'll be like a scientist in the UX world, using data to uncover insights and improve user experiences. It's perfect for those who love puzzles and finding patterns in data!",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-researcher",
+          "label": "UX Researcher"
+        },
+        {
+          "id": "spf:product-designer",
+          "label": "Product Designer"
+        }
+      ],
+      "Roles": "UX (User Experience) Researcher",
+      "Specialization Tasks": [
+        {
+          "id": "spf:analyzing-research-findings",
+          "label": "Analyzing Research Findings"
+        },
+        {
+          "id": "spf:presenting-research-results",
+          "label": "Presenting Research Results"
+        },
+        {
+          "id": "spf:surveys",
+          "label": "Surveys"
+        },
+        {
+          "id": "spf:usability-testing",
+          "label": "Usability Testing"
+        },
+        {
+          "id": "spf:a-b-prototype-test-creation",
+          "label": "A/B Prototype Test Creation"
+        },
+        {
+          "id": "spf:facilitating-agile-workshops",
+          "label": "Facilitating Agile Workshops"
+        },
+        {
+          "id": "spf:identifying-research-patterns",
+          "label": "Identifying Research Patterns"
+        },
+        {
+          "id": "spf:creating-research-plans",
+          "label": "Creating Research Plans"
+        },
+        {
+          "id": "spf:calculating-statistics",
+          "label": "Calculating Statistics"
+        },
+        {
+          "id": "spf:collecting-analytics",
+          "label": "Collecting Analytics"
+        },
+        {
+          "id": "spf:choosing-research-methods",
+          "label": "Choosing Research Methods"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        },
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        },
+        {
+          "id": "spf:service-design-project",
+          "label": "Service Design Project"
+        },
+        {
+          "id": "spf:discovery-project",
+          "label": "Discovery Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:product-operations",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Product Operations",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes Product Operations unique is its focus on the big picture and the details. Unlike other roles that might focus solely on creating a product or marketing it, Product Operations ensures that every part of the process is efficient and effective. It's about making sure everyone is on the same page and working towards the same goals, which is crucial for the success of any project.",
+      "Tech Job Category": "Operations, Product Management",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:project-manager",
+          "label": "Project Manager"
+        },
+        {
+          "id": "spf:product-owner",
+          "label": "Product Owner"
+        }
+      ],
+      "Roles": "Product Owner",
+      "Specialization Tasks": [
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:sprint-planning",
+          "label": "Sprint Planning"
+        },
+        {
+          "id": "spf:velocity-calculation",
+          "label": "Velocity Calculation"
+        },
+        {
+          "id": "spf:identifying-priorities",
+          "label": "Identifying Priorities"
+        },
+        {
+          "id": "spf:defining-team-working-agreements",
+          "label": "Defining Team Working Agreements"
+        },
+        {
+          "id": "spf:team-role-and-responsibility-definition",
+          "label": "Team Role and Responsibility Definition"
+        },
+        {
+          "id": "spf:tracking-milestone-progress",
+          "label": "Tracking Milestone Progress"
+        },
+        {
+          "id": "spf:tracking-epic-progress",
+          "label": "Tracking Epic Progress"
+        },
+        {
+          "id": "spf:tracking-sprint-progress",
+          "label": "Tracking Sprint Progress"
+        },
+        {
+          "id": "spf:coaching-team-mates",
+          "label": "Coaching Team Mates"
+        },
+        {
+          "id": "spf:sprint-retrospective-facilitation",
+          "label": "Sprint Retrospective Facilitation"
+        },
+        {
+          "id": "spf:sprint-demo-facilitation",
+          "label": "Sprint Demo Facilitation"
+        },
+        {
+          "id": "spf:defining-team-process",
+          "label": "Defining Team Process"
+        },
+        {
+          "id": "spf:analyzing-project-risk",
+          "label": "Analyzing Project Risk"
+        },
+        {
+          "id": "spf:choosing-an-agile-method",
+          "label": "Choosing an Agile Method"
+        },
+        {
+          "id": "spf:leading-agile-transformation",
+          "label": "Leading Agile Transformation"
+        },
+        {
+          "id": "spf:defining-research-operations",
+          "label": "Defining Research Operations"
+        },
+        {
+          "id": "spf:defining-ux-design-operations",
+          "label": "Defining UX Design Operations"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        },
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        },
+        {
+          "id": "spf:service-design-project",
+          "label": "Service Design Project"
+        },
+        {
+          "id": "spf:discovery-project",
+          "label": "Discovery Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:branding",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Branding",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes Branding unique is its focus on storytelling and visual creativity. Unlike other specializations that might focus more on numbers or technical details, Branding is all about creating a memorable image and feeling. It's about making sure a brand stands out and connects with people on an emotional level. So, if you love mixing art with strategy and enjoy making things look and sound awesome, Branding could be your perfect fit!",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-writer",
+          "label": "UX Writer"
+        }
+      ],
+      "Roles": "UX (User Experience) Writer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:brand-identity-formation",
+          "label": "Brand Identity Formation"
+        },
+        {
+          "id": "spf:icon-and-logo-creation",
+          "label": "Icon and Logo Creation"
+        },
+        {
+          "id": "spf:customer-segmentation",
+          "label": "Customer Segmentation"
+        },
+        {
+          "id": "spf:entity-relationship-creation",
+          "label": "Entity Relationship Creation"
+        },
+        {
+          "id": "spf:copywriting",
+          "label": "Copywriting"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        },
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        },
+        {
+          "id": "spf:service-design-project",
+          "label": "Service Design Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:search-engine-optimization",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Search Engine Optimization",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes SEO unique is its focus on making websites stand out in search results, which is different from other digital marketing specializations that might focus more on social media or email marketing. SEO requires a mix of technical know-how and creativity to improve a website's ranking, making it a dynamic and ever-evolving field. You'll be constantly learning and adapting to new trends and technologies, which keeps the work exciting and challenging.",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        },
+        {
+          "id": "spf:ux-writer",
+          "label": "UX Writer"
+        }
+      ],
+      "Roles": "UX (User Experience) Designer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:inventorying-content",
+          "label": "Inventorying Content"
+        },
+        {
+          "id": "spf:search-engine-optimization-seo-design",
+          "label": "Search Engine Optimization (SEO) Design"
+        },
+        {
+          "id": "spf:measuring-accessibility",
+          "label": "Measuring Accessibility"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:ux-strategy",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "UX Strategy",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes UX Strategy unique is its focus on the big picture. Unlike other roles that might focus on just designing or coding, UX Strategy is all about understanding the whole user journey and making sure every part of a product fits together perfectly. It's like being the director of a movie, where you make sure every scene works together to tell a great story.",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        },
+        {
+          "id": "spf:ux-researcher",
+          "label": "UX Researcher"
+        },
+        {
+          "id": "spf:product-designer",
+          "label": "Product Designer"
+        }
+      ],
+      "Roles": "UX (User Experience) Designer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:feature-vision-definition",
+          "label": "Feature Vision Definition"
+        },
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:storyboarding",
+          "label": "Storyboarding"
+        },
+        {
+          "id": "spf:ux-heuristics-analysis",
+          "label": "UX Heuristics Analysis"
+        },
+        {
+          "id": "spf:user-acceptance-testing",
+          "label": "User Acceptance Testing"
+        },
+        {
+          "id": "spf:facilitating-agile-workshops",
+          "label": "Facilitating Agile Workshops"
+        },
+        {
+          "id": "spf:rapid-ideation",
+          "label": "Rapid Ideation"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:discovery-project",
+          "label": "Discovery Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:ui-design",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "UI Design",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes UI Design unique is its focus on how things look and how users interact with them. Unlike other design fields that might focus more on the technical side or the overall user experience, UI Design is all about making sure the interface is visually appealing and easy to use. It's like being an artist and a problem-solver at the same time, ensuring that every button and icon is both beautiful and functional.",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        }
+      ],
+      "Roles": "UX (User Experience) Designer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:design-component-creation",
+          "label": "Design Component Creation"
+        },
+        {
+          "id": "spf:icon-and-logo-creation",
+          "label": "Icon and Logo Creation"
+        },
+        {
+          "id": "spf:ui-kit-creation",
+          "label": "UI Kit Creation"
+        },
+        {
+          "id": "spf:prototype-creation",
+          "label": "Prototype Creation"
+        },
+        {
+          "id": "spf:facilitating-agile-workshops",
+          "label": "Facilitating Agile Workshops"
+        },
+        {
+          "id": "spf:creating-illustrations",
+          "label": "Creating Illustrations"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        },
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:accessibility-specialist",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Accessibility Specialist",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes an Accessibility Specialist unique is the focus on inclusivity. Unlike other roles in tech that might focus solely on design or functionality, this specialization is all about ensuring that digital spaces are welcoming and usable for everyone, regardless of their abilities. It's like being a digital architect who builds ramps and elevators in the online world, making sure no one is left out.",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        }
+      ],
+      "Roles": "UX (User Experience) Designer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:ux-heuristics-analysis",
+          "label": "UX Heuristics Analysis"
+        },
+        {
+          "id": "spf:facilitating-agile-workshops",
+          "label": "Facilitating Agile Workshops"
+        },
+        {
+          "id": "spf:search-engine-optimization-seo-design",
+          "label": "Search Engine Optimization (SEO) Design"
+        },
+        {
+          "id": "spf:measuring-accessibility",
+          "label": "Measuring Accessibility"
+        },
+        {
+          "id": "spf:optimizing-seo",
+          "label": "Optimizing SEO"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:front-end-developer",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Front-End Developer",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes being a Front-End Developer unique is that you get to combine creativity with technology. Unlike other tech roles that might focus more on the behind-the-scenes stuff, you'll be working on the parts of websites that people see and use every day. It's like being an artist and a problem-solver at the same time, making sure that websites are not only beautiful but also easy to use.",
+      "Tech Job Category": "Engineering",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:engineer",
+          "label": "Engineer"
+        }
+      ],
+      "Roles": "Developer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:generating-problem-statements",
+          "label": "Generating Problem Statements"
+        },
+        {
+          "id": "spf:technical-architecture-creation",
+          "label": "Technical Architecture Creation"
+        },
+        {
+          "id": "spf:documenting-code",
+          "label": "Documenting Code"
+        },
+        {
+          "id": "spf:deploying-code",
+          "label": "Deploying Code"
+        },
+        {
+          "id": "spf:creating-rest-apis",
+          "label": "Creating REST APIs"
+        },
+        {
+          "id": "spf:front-end-coding",
+          "label": "Front-End Coding"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:back-end-developer",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Back-end Developer",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes back-end development unique is that, unlike front-end developers who focus on what users see and interact with, back-end developers ensure everything works perfectly behind the curtain. It's like being the wizard who makes sure the magic happens without anyone noticing the hard work involved.",
+      "Tech Job Category": "Engineering",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:engineer",
+          "label": "Engineer"
+        }
+      ],
+      "Roles": "Developer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:technical-architecture-creation",
+          "label": "Technical Architecture Creation"
+        },
+        {
+          "id": "spf:documenting-code",
+          "label": "Documenting Code"
+        },
+        {
+          "id": "spf:deploying-code",
+          "label": "Deploying Code"
+        },
+        {
+          "id": "spf:server-side-coding",
+          "label": "Server-Side Coding"
+        },
+        {
+          "id": "spf:database-creation",
+          "label": "Database Creation"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:full-stack-developer",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Full Stack Developer",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes a Full Stack Developer unique is their ability to handle both the visual and technical sides of a project. Unlike specialists who focus only on front-end or back-end development, Full Stack Developers can switch between both, making them versatile and highly valuable in tech teams. They can see the big picture and understand how different parts of a project connect, which helps them create more cohesive and efficient solutions.",
+      "Tech Job Category": "Engineering",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:engineer",
+          "label": "Engineer"
+        }
+      ],
+      "Roles": "Developer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:technical-architecture-creation",
+          "label": "Technical Architecture Creation"
+        },
+        {
+          "id": "spf:documenting-code",
+          "label": "Documenting Code"
+        },
+        {
+          "id": "spf:deploying-code",
+          "label": "Deploying Code"
+        },
+        {
+          "id": "spf:entity-relationship-creation",
+          "label": "Entity Relationship Creation"
+        },
+        {
+          "id": "spf:creating-rest-apis",
+          "label": "Creating REST APIs"
+        },
+        {
+          "id": "spf:server-side-coding",
+          "label": "Server-Side Coding"
+        },
+        {
+          "id": "spf:front-end-coding",
+          "label": "Front-End Coding"
+        },
+        {
+          "id": "spf:database-creation",
+          "label": "Database Creation"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:web3-developer",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Web3 Developer",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes a Web3 Developer unique is the focus on blockchain, which is like a digital ledger that keeps everything secure and transparent. Unlike other developers who might work on regular websites or apps, you'll be building the future of the internet, where everything is decentralized. This means no single company controls the data, making it a fairer and more open space for everyone. It's a bit like being a digital pioneer, exploring new frontiers in technology!",
+      "Tech Job Category": "Engineering",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:engineer",
+          "label": "Engineer"
+        }
+      ],
+      "Roles": "Developer",
+      "Specialization Tasks": [
+        {
+          "id": "spf:server-side-coding",
+          "label": "Server-Side Coding"
+        },
+        {
+          "id": "spf:front-end-coding",
+          "label": "Front-End Coding"
+        },
+        {
+          "id": "spf:blockchain-coding",
+          "label": "Blockchain Coding"
+        }
+      ]
+    },
+    {
+      "id": "spf:information-security",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Information Security",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes Information Security unique is its focus on keeping data safe from hackers, unlike other tech roles that might focus on building or maintaining systems. You'll be on the front lines, ensuring that sensitive information stays protected, which is crucial in our digital world. It's like being a superhero for the internet, using your skills to keep everyone safe online!",
+      "Tech Job Category": "Information Technology",
+      "Specialization Tasks": [
+        {
+          "id": "spf:threat-modeling",
+          "label": "Threat Modeling"
+        },
+        {
+          "id": "spf:penetration-testing",
+          "label": "Penetration Testing"
+        },
+        {
+          "id": "spf:firewall-configuration",
+          "label": "Firewall Configuration"
+        },
+        {
+          "id": "spf:security-protocol-definition",
+          "label": "Security Protocol Definition"
+        },
+        {
+          "id": "spf:information-security-audit",
+          "label": "Information Security Audit"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        },
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:ai-user-experience",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "AI User Experience",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes AI User Experience unique is its focus on blending technology with human needs. Unlike other tech roles that might focus solely on coding or data, this specialization is all about making sure the technology feels natural and intuitive for people to use. It's like being a bridge between the tech world and everyday users, ensuring that AI tools are not just smart but also user-friendly and enjoyable.",
+      "Tech Job Category": "User Experience",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        },
+        {
+          "id": "spf:ux-writer",
+          "label": "UX Writer"
+        },
+        {
+          "id": "spf:project-manager",
+          "label": "Project Manager"
+        }
+      ],
+      "Specialization Tasks": [
+        {
+          "id": "spf:wireframing",
+          "label": "Wireframing"
+        },
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:storyboarding",
+          "label": "Storyboarding"
+        },
+        {
+          "id": "spf:developing-information-architecture",
+          "label": "Developing Information Architecture"
+        },
+        {
+          "id": "spf:prototype-creation",
+          "label": "Prototype Creation"
+        },
+        {
+          "id": "spf:customer-experience-mapping",
+          "label": "Customer Experience Mapping"
+        },
+        {
+          "id": "spf:creating-ai-prompts",
+          "label": "Creating AI Prompts"
+        },
+        {
+          "id": "spf:copywriting",
+          "label": "Copywriting"
+        }
+      ]
+    },
+    {
+      "id": "spf:growth-product-management",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Growth Product Management",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "What Makes This Specialization Unique?": "What makes Growth Product Management unique is its focus on growing a product's reach and success. Unlike other product management roles that might focus more on developing the product itself, this specialization is all about making sure the product finds its audience and thrives in the market. It's like being the coach of a sports team, where your job is to make sure the team wins by reaching more fans and playing the best game possible!",
+      "Tech Job Category": "Product Management",
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:project-manager",
+          "label": "Project Manager"
+        },
+        {
+          "id": "spf:product-owner",
+          "label": "Product Owner"
+        },
+        {
+          "id": "spf:product-manager",
+          "label": "Product Manager"
+        }
+      ],
+      "Specialization Tasks": [
+        {
+          "id": "spf:release-scope-definition",
+          "label": "Release Scope Definition"
+        },
+        {
+          "id": "spf:requirements-gathering",
+          "label": "Requirements Gathering"
+        },
+        {
+          "id": "spf:requirements-refinement",
+          "label": "Requirements Refinement"
+        },
+        {
+          "id": "spf:feature-scope-definition",
+          "label": "Feature Scope Definition"
+        },
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:product-positioning",
+          "label": "Product Positioning"
+        },
+        {
+          "id": "spf:product-roadmap-maintenance",
+          "label": "Product Roadmap Maintenance"
+        },
+        {
+          "id": "spf:market-research",
+          "label": "Market Research"
+        },
+        {
+          "id": "spf:developing-go-to-market-strategy",
+          "label": "Developing Go-To-Market Strategy"
+        },
+        {
+          "id": "spf:customer-segmentation",
+          "label": "Customer Segmentation"
+        },
+        {
+          "id": "spf:price-testing",
+          "label": "Price Testing"
+        },
+        {
+          "id": "spf:creating-presentations",
+          "label": "Creating Presentations"
+        },
+        {
+          "id": "spf:product-backlog-maintenance",
+          "label": "Product Backlog Maintenance"
+        },
+        {
+          "id": "spf:release-vision-definition",
+          "label": "Release Vision Definition"
+        },
+        {
+          "id": "spf:investigating-competitors",
+          "label": "Investigating Competitors"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        },
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        },
+        {
+          "id": "spf:service-design-project",
+          "label": "Service Design Project"
+        },
+        {
+          "id": "spf:discovery-project",
+          "label": "Discovery Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:mobile-native-development",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Mobile Native Development",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:devops",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "DevOps",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "Specialization Tasks": [
+        {
+          "id": "spf:autotest-creation",
+          "label": "Autotest Creation"
+        }
+      ]
+    },
+    {
+      "id": "spf:growth",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "growth",
+      "Project Types": [
+        {
+          "id": "spf:discovery-project",
+          "label": "Discovery Project"
+        }
+      ]
+    },
+    {
+      "id": "spf:sprint-master",
+      "type": [
+        "spf:Thing",
+        "skos:Concept"
+      ],
+      "Specialization Name": "Sprint Master",
+      "Data Type": [
+        {
+          "id": "spf:job-specialization",
+          "label": "Job Specialization"
+        }
+      ],
+      "Related Tech Fleet Positions": [
+        {
+          "id": "spf:agile-coach",
+          "label": "Agile Coach"
+        }
+      ],
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        },
+        {
+          "id": "spf:web-application-project",
+          "label": "Web Application Project"
+        },
+        {
+          "id": "spf:mobile-app-project",
+          "label": "Mobile App Project"
+        },
+        {
+          "id": "spf:service-design-project",
+          "label": "Service Design Project"
+        },
+        {
+          "id": "spf:discovery-project",
+          "label": "Discovery Project"
+        }
+      ]
+    }
+  ]
+}

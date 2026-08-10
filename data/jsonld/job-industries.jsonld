@@ -1,0 +1,2067 @@
+{
+  "@context": "../../schema/context.jsonld",
+  "@graph": [
+    {
+      "id": "spf:academia",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Academia",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:academia",
+          "label": "Academia"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:research-facilitation",
+          "label": "Research Facilitation"
+        },
+        {
+          "id": "spf:experiment-design",
+          "label": "Experiment Design"
+        },
+        {
+          "id": "spf:research-analysis",
+          "label": "Research Analysis"
+        },
+        {
+          "id": "spf:data-analysis",
+          "label": "Data Analysis"
+        },
+        {
+          "id": "spf:statistics",
+          "label": "Statistics"
+        },
+        {
+          "id": "spf:executive-summaries",
+          "label": "Executive Summaries"
+        },
+        {
+          "id": "spf:presentation",
+          "label": "Presentation"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Professor\n2. Lecturer\n3. Research Assistant\n4. Teaching Assistant\n5. Postdoctoral Researcher\n6. Department Chair\n7. Academic Advisor",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        }
+      ]
+    },
+    {
+      "id": "spf:accounting",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Accounting",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:accounting",
+          "label": "Accounting"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:data-analysis",
+          "label": "Data Analysis"
+        },
+        {
+          "id": "spf:statistics",
+          "label": "Statistics"
+        },
+        {
+          "id": "spf:executive-summaries",
+          "label": "Executive Summaries"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:logical-thinking",
+          "label": "Logical Thinking"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Accountant\n2. Auditor\n3. Bookkeeper\n4. Certified Public Accountant (CPA)\n5. Controller\n6. Tax Preparer\n7. Accounts Payable Specialist",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:agriculture",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Agriculture",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:agriculture",
+          "label": "Agriculture"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:data-analysis",
+          "label": "Data Analysis"
+        },
+        {
+          "id": "spf:project-management",
+          "label": "Project Management"
+        },
+        {
+          "id": "spf:process-management",
+          "label": "Process Management"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:systems-thinking",
+          "label": "Systems Thinking"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Farmer\n2. Farm Manager\n3. Agronomist\n4. Agricultural Technician\n5. Crop Scientist\n6. Ranch Manager",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:business",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Business",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:business",
+          "label": "Business"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:executive-summaries",
+          "label": "Executive Summaries"
+        },
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:buy-in-generation",
+          "label": "Buy-in Generation"
+        },
+        {
+          "id": "spf:stakeholder-management",
+          "label": "Stakeholder Management"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:strategic-thinking",
+          "label": "Strategic Thinking"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Business Analyst\n2. Operations Manager\n3. Account Manager\n4. Business Development Representative\n5. Office Manager\n6. Administrative Assistant",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:construction",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Construction",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:construction",
+          "label": "Construction"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:project-management",
+          "label": "Project Management"
+        },
+        {
+          "id": "spf:process-management",
+          "label": "Process Management"
+        },
+        {
+          "id": "spf:stakeholder-management",
+          "label": "Stakeholder Management"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:systems-thinking",
+          "label": "Systems Thinking"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Construction Project Manager\n2. Site Supervisor\n3. Estimator\n4. Foreman\n5. Civil Engineer\n6. General Contractor",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:negotiation",
+          "label": "Negotiation"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:creative",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Creative",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:creative",
+          "label": "Creative"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:information-hierarchy",
+          "label": "Information Hierarchy"
+        },
+        {
+          "id": "spf:typography",
+          "label": "Typography"
+        },
+        {
+          "id": "spf:graphic-design",
+          "label": "Graphic Design"
+        },
+        {
+          "id": "spf:visual-signifiers",
+          "label": "Visual Signifiers"
+        },
+        {
+          "id": "spf:icon-design",
+          "label": "Icon Design"
+        },
+        {
+          "id": "spf:design-thinking",
+          "label": "Design Thinking"
+        },
+        {
+          "id": "spf:presentation",
+          "label": "Presentation"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Graphic Designer\n2. Art Director\n3. Illustrator\n4. Photographer\n5. Copywriter\n6. Creative Director",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:creativity",
+          "label": "Creativity"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        }
+      ]
+    },
+    {
+      "id": "spf:finance",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Finance",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:finance",
+          "label": "Finance"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:data-analysis",
+          "label": "Data Analysis"
+        },
+        {
+          "id": "spf:product-market-fit",
+          "label": "Product-Market Fit"
+        },
+        {
+          "id": "spf:statistics",
+          "label": "Statistics"
+        },
+        {
+          "id": "spf:executive-summaries",
+          "label": "Executive Summaries"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:logical-thinking",
+          "label": "Logical Thinking"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:strategic-thinking",
+          "label": "Strategic Thinking"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Financial Analyst\n2. Investment Banker\n3. Financial Advisor\n4. Loan Officer\n5. Portfolio Manager\n6. Risk Analyst",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:government",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Government",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:government",
+          "label": "Government"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:executive-summaries",
+          "label": "Executive Summaries"
+        },
+        {
+          "id": "spf:process-management",
+          "label": "Process Management"
+        },
+        {
+          "id": "spf:stakeholder-management",
+          "label": "Stakeholder Management"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Policy Analyst\n2. Program Manager\n3. Administrative Officer\n4. Public Affairs Specialist\n5. Budget Analyst\n6. Case Worker",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:hospitality",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Hospitality",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:hospitality",
+          "label": "Hospitality"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:customer-experience-strategy",
+          "label": "Customer Experience Strategy"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Hotel Manager\n2. Front Desk Agent\n3. Event Coordinator\n4. Concierge\n5. Restaurant Manager\n6. Guest Services Representative",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:conflict-resolution",
+          "label": "Conflict Resolution"
+        },
+        {
+          "id": "spf:initiative",
+          "label": "Initiative"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:verbal-communication",
+          "label": "Verbal Communication"
+        },
+        {
+          "id": "spf:teamwork",
+          "label": "Teamwork"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:industrial-design",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Industrial Design",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:industrial-design",
+          "label": "Industrial Design"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:interaction-design",
+          "label": "Interaction Design"
+        },
+        {
+          "id": "spf:design-patterns",
+          "label": "Design Patterns"
+        },
+        {
+          "id": "spf:prototyping",
+          "label": "Prototyping"
+        },
+        {
+          "id": "spf:information-hierarchy",
+          "label": "Information Hierarchy"
+        },
+        {
+          "id": "spf:typography",
+          "label": "Typography"
+        },
+        {
+          "id": "spf:graphic-design",
+          "label": "Graphic Design"
+        },
+        {
+          "id": "spf:visual-signifiers",
+          "label": "Visual Signifiers"
+        },
+        {
+          "id": "spf:user-interface-design",
+          "label": "User Interface Design"
+        },
+        {
+          "id": "spf:design-thinking",
+          "label": "Design Thinking"
+        },
+        {
+          "id": "spf:making-wireframes",
+          "label": "Making Wireframes"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Industrial Designer\n2. Product Designer\n3. Design Engineer\n4. CAD Designer\n5. Prototyping Specialist",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:creativity",
+          "label": "Creativity"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        }
+      ]
+    },
+    {
+      "id": "spf:legal",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Legal",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:legal",
+          "label": "Legal"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:research-analysis",
+          "label": "Research Analysis"
+        },
+        {
+          "id": "spf:executive-summaries",
+          "label": "Executive Summaries"
+        },
+        {
+          "id": "spf:logical-thinking",
+          "label": "Logical Thinking"
+        },
+        {
+          "id": "spf:stakeholder-management",
+          "label": "Stakeholder Management"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Paralegal\n2. Attorney\n3. Legal Assistant\n4. Compliance Officer\n5. Contract Specialist\n6. Legal Secretary",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:marketing",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Marketing",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:marketing",
+          "label": "Marketing"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:go-to-market-strategy",
+          "label": "Go-to-Market Strategy"
+        },
+        {
+          "id": "spf:product-market-fit",
+          "label": "Product-Market Fit"
+        },
+        {
+          "id": "spf:presentation",
+          "label": "Presentation"
+        },
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:buy-in-generation",
+          "label": "Buy-in Generation"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:strategic-thinking",
+          "label": "Strategic Thinking"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Marketing Manager\n2. Brand Manager\n3. Content Marketer\n4. Social Media Manager\n5. Digital Marketing Specialist\n6. Marketing Coordinator",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:creativity",
+          "label": "Creativity"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        }
+      ]
+    },
+    {
+      "id": "spf:medical",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Medical",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:medical",
+          "label": "Medical"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:data-analysis",
+          "label": "Data Analysis"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:systems-thinking",
+          "label": "Systems Thinking"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Registered Nurse\n2. Physician\n3. Medical Assistant\n4. Healthcare Administrator\n5. Clinical Coordinator\n6. Medical Technologist",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:conflict-resolution",
+          "label": "Conflict Resolution"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:mental-health",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Mental Health",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:mental-health",
+          "label": "Mental Health"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Therapist\n2. Counselor\n3. Social Worker\n4. Psychologist\n5. Case Manager\n6. Behavioral Health Specialist",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:delivering-feedback",
+          "label": "Delivering Feedback"
+        },
+        {
+          "id": "spf:coaching",
+          "label": "Coaching"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:conflict-resolution",
+          "label": "Conflict Resolution"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:receiving-feedback",
+          "label": "Receiving Feedback"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:nonprofit",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Nonprofit",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:nonprofit",
+          "label": "Nonprofit"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:buy-in-generation",
+          "label": "Buy-in Generation"
+        },
+        {
+          "id": "spf:stakeholder-management",
+          "label": "Stakeholder Management"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Program Coordinator\n2. Development Director\n3. Grant Writer\n4. Volunteer Coordinator\n5. Outreach Specialist\n6. Executive Director",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:primary-and-secondary-education",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Primary and Secondary Education",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:primary-and-secondary-education",
+          "label": "Primary and Secondary Education"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:presentation",
+          "label": "Presentation"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Teacher\n2. School Counselor\n3. Instructional Coordinator\n4. Principal\n5. Teaching Assistant\n6. Curriculum Specialist",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:public-speaking",
+          "label": "Public Speaking"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:delivering-feedback",
+          "label": "Delivering Feedback"
+        },
+        {
+          "id": "spf:coaching",
+          "label": "Coaching"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:conflict-resolution",
+          "label": "Conflict Resolution"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        }
+      ]
+    },
+    {
+      "id": "spf:program-management",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Program Management",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:program-management",
+          "label": "Program Management"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:prioritization",
+          "label": "Prioritization"
+        },
+        {
+          "id": "spf:project-management",
+          "label": "Project Management"
+        },
+        {
+          "id": "spf:process-management",
+          "label": "Process Management"
+        },
+        {
+          "id": "spf:scrum-management",
+          "label": "Scrum Management"
+        },
+        {
+          "id": "spf:working-agreements",
+          "label": "Working Agreements"
+        },
+        {
+          "id": "spf:stakeholder-management",
+          "label": "Stakeholder Management"
+        },
+        {
+          "id": "spf:strategic-thinking",
+          "label": "Strategic Thinking"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Program Manager\n2. Project Coordinator\n3. Operations Manager\n4. Portfolio Manager\n5. PMO Analyst",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:meeting-facilitation",
+          "label": "Meeting Facilitation"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:project-management",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Project Management",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:project-management",
+          "label": "Project Management"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:backlog-management",
+          "label": "Backlog Management"
+        },
+        {
+          "id": "spf:velocity-measurement",
+          "label": "Velocity Measurement"
+        },
+        {
+          "id": "spf:prioritization",
+          "label": "Prioritization"
+        },
+        {
+          "id": "spf:project-management",
+          "label": "Project Management"
+        },
+        {
+          "id": "spf:process-management",
+          "label": "Process Management"
+        },
+        {
+          "id": "spf:scrum-management",
+          "label": "Scrum Management"
+        },
+        {
+          "id": "spf:working-agreements",
+          "label": "Working Agreements"
+        },
+        {
+          "id": "spf:stakeholder-management",
+          "label": "Stakeholder Management"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Project Manager\n2. Project Coordinator\n3. Program Manager\n4. Scrum Master\n5. PMO Lead",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:negotiation",
+          "label": "Negotiation"
+        },
+        {
+          "id": "spf:meeting-facilitation",
+          "label": "Meeting Facilitation"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:expectation-setting",
+          "label": "Expectation Setting"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:real-estate",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Real Estate",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:real-estate",
+          "label": "Real Estate"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:customer-experience-strategy",
+          "label": "Customer Experience Strategy"
+        },
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:buy-in-generation",
+          "label": "Buy-in Generation"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Real Estate Agent\n2. Broker\n3. Property Manager\n4. Leasing Consultant\n5. Appraiser\n6. Real Estate Analyst",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:negotiation",
+          "label": "Negotiation"
+        },
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:retail",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Retail",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:retail",
+          "label": "Retail"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:customer-experience-strategy",
+          "label": "Customer Experience Strategy"
+        },
+        {
+          "id": "spf:data-analysis",
+          "label": "Data Analysis"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Store Manager\n2. Sales Associate\n3. Assistant Manager\n4. Merchandiser\n5. Buyer\n6. Cashier",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:conflict-resolution",
+          "label": "Conflict Resolution"
+        },
+        {
+          "id": "spf:initiative",
+          "label": "Initiative"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:verbal-communication",
+          "label": "Verbal Communication"
+        },
+        {
+          "id": "spf:teamwork",
+          "label": "Teamwork"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:sales",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Sales",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:sales",
+          "label": "Sales"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:go-to-market-strategy",
+          "label": "Go-to-Market Strategy"
+        },
+        {
+          "id": "spf:customer-experience-strategy",
+          "label": "Customer Experience Strategy"
+        },
+        {
+          "id": "spf:product-market-fit",
+          "label": "Product-Market Fit"
+        },
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:buy-in-generation",
+          "label": "Buy-in Generation"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Sales Representative\n2. Account Executive\n3. Sales Manager\n4. Business Development Representative\n5. Inside Sales Representative",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:tourism",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Tourism",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:tourism",
+          "label": "Tourism"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:customer-experience-strategy",
+          "label": "Customer Experience Strategy"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Travel Agent\n2. Tour Guide\n3. Tourism Coordinator\n4. Destination Manager\n5. Travel Consultant",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:public-speaking",
+          "label": "Public Speaking"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:conflict-resolution",
+          "label": "Conflict Resolution"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:relationship-building",
+          "label": "Relationship Building"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:verbal-communication",
+          "label": "Verbal Communication"
+        },
+        {
+          "id": "spf:teamwork",
+          "label": "Teamwork"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:transportation",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Transportation",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:transportation",
+          "label": "Transportation"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:data-analysis",
+          "label": "Data Analysis"
+        },
+        {
+          "id": "spf:project-management",
+          "label": "Project Management"
+        },
+        {
+          "id": "spf:process-management",
+          "label": "Process Management"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:systems-thinking",
+          "label": "Systems Thinking"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Logistics Coordinator\n2. Dispatcher\n3. Fleet Manager\n4. Supply Chain Analyst\n5. Operations Manager\n6. Driver",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:development",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Development",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:development",
+          "label": "Development"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:object-oriented-programming-languages",
+          "label": "Object-oriented Programming Languages"
+        },
+        {
+          "id": "spf:algorithm-design",
+          "label": "Algorithm Design"
+        },
+        {
+          "id": "spf:command-line-scripting-languages",
+          "label": "Command Line Scripting Languages"
+        },
+        {
+          "id": "spf:network-architecture",
+          "label": "Network Architecture"
+        },
+        {
+          "id": "spf:information-security",
+          "label": "Information Security"
+        },
+        {
+          "id": "spf:database-architecture",
+          "label": "Database Architecture"
+        },
+        {
+          "id": "spf:database-management",
+          "label": "Database Management"
+        },
+        {
+          "id": "spf:apis",
+          "label": "API's"
+        },
+        {
+          "id": "spf:server-side-scripting-languages",
+          "label": "Server-Side Scripting Languages"
+        },
+        {
+          "id": "spf:database-queries",
+          "label": "Database Queries"
+        },
+        {
+          "id": "spf:web-scripting-languages",
+          "label": "Web Scripting Languages"
+        },
+        {
+          "id": "spf:ui-specifications-for-development",
+          "label": "UI Specifications for Development"
+        },
+        {
+          "id": "spf:responsive-design",
+          "label": "Responsive Design"
+        },
+        {
+          "id": "spf:logical-thinking",
+          "label": "Logical Thinking"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:systems-thinking",
+          "label": "Systems Thinking"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Software Developer\n2. Software Engineer\n3. Front-End Developer\n4. Back-End Developer\n5. Full Stack Developer\n6. DevOps Engineer",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        }
+      ]
+    },
+    {
+      "id": "spf:product-management",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Product Management",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:product-management",
+          "label": "Product Management"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:problem-statements",
+          "label": "Problem Statements"
+        },
+        {
+          "id": "spf:vision-formation",
+          "label": "Vision Formation"
+        },
+        {
+          "id": "spf:backlog-management",
+          "label": "Backlog Management"
+        },
+        {
+          "id": "spf:requirements-management",
+          "label": "Requirements Management"
+        },
+        {
+          "id": "spf:go-to-market-strategy",
+          "label": "Go-to-Market Strategy"
+        },
+        {
+          "id": "spf:epic-and-feature-management",
+          "label": "Epic and Feature Management"
+        },
+        {
+          "id": "spf:release-management",
+          "label": "Release Management"
+        },
+        {
+          "id": "spf:prioritization",
+          "label": "Prioritization"
+        },
+        {
+          "id": "spf:product-market-fit",
+          "label": "Product-Market Fit"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:stakeholder-management",
+          "label": "Stakeholder Management"
+        },
+        {
+          "id": "spf:strategic-thinking",
+          "label": "Strategic Thinking"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Product Manager\n2. Associate Product Manager\n3. Senior Product Manager\n4. Product Owner\n5. Group Product Manager",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ]
+    },
+    {
+      "id": "spf:user-experience-research",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "User Experience Research",
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:interviewing",
+          "label": "Interviewing"
+        },
+        {
+          "id": "spf:survey-design",
+          "label": "Survey Design"
+        },
+        {
+          "id": "spf:usability-testing",
+          "label": "Usability Testing"
+        },
+        {
+          "id": "spf:research-facilitation",
+          "label": "Research Facilitation"
+        },
+        {
+          "id": "spf:experiment-design",
+          "label": "Experiment Design"
+        },
+        {
+          "id": "spf:research-analysis",
+          "label": "Research Analysis"
+        },
+        {
+          "id": "spf:affinity-mapping",
+          "label": "Affinity Mapping"
+        },
+        {
+          "id": "spf:contextual-inquiries",
+          "label": "Contextual Inquiries"
+        },
+        {
+          "id": "spf:mental-models",
+          "label": "Mental Models"
+        },
+        {
+          "id": "spf:ethnography",
+          "label": "Ethnography"
+        },
+        {
+          "id": "spf:heuristics",
+          "label": "Heuristics"
+        },
+        {
+          "id": "spf:data-analysis",
+          "label": "Data Analysis"
+        },
+        {
+          "id": "spf:ux-research-method-selection",
+          "label": "UX Research Method Selection"
+        },
+        {
+          "id": "spf:statistics",
+          "label": "Statistics"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. UX Researcher\n2. User Researcher\n3. Design Researcher\n4. UX Research Lead\n5. Research Assistant",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        }
+      ]
+    },
+    {
+      "id": "spf:user-experience-design",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "User Experience Design",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:user-experience-design",
+          "label": "User Experience Design"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:interaction-design",
+          "label": "Interaction Design"
+        },
+        {
+          "id": "spf:information-architecture",
+          "label": "Information Architecture"
+        },
+        {
+          "id": "spf:gestalt-principles",
+          "label": "Gestalt Principles"
+        },
+        {
+          "id": "spf:design-patterns",
+          "label": "Design Patterns"
+        },
+        {
+          "id": "spf:prototyping",
+          "label": "Prototyping"
+        },
+        {
+          "id": "spf:information-hierarchy",
+          "label": "Information Hierarchy"
+        },
+        {
+          "id": "spf:typography",
+          "label": "Typography"
+        },
+        {
+          "id": "spf:visual-signifiers",
+          "label": "Visual Signifiers"
+        },
+        {
+          "id": "spf:design-systems-management",
+          "label": "Design Systems Management"
+        },
+        {
+          "id": "spf:user-interface-design",
+          "label": "User Interface Design"
+        },
+        {
+          "id": "spf:accessibility",
+          "label": "Accessibility"
+        },
+        {
+          "id": "spf:design-thinking",
+          "label": "Design Thinking"
+        },
+        {
+          "id": "spf:making-wireframes",
+          "label": "Making Wireframes"
+        },
+        {
+          "id": "spf:responsive-design",
+          "label": "Responsive Design"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. UX Designer\n2. UI Designer\n3. Product Designer\n4. Interaction Designer\n5. Visual Designer",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:creativity",
+          "label": "Creativity"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        }
+      ]
+    },
+    {
+      "id": "spf:film",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Film",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:film",
+          "label": "Film"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:graphic-design",
+          "label": "Graphic Design"
+        },
+        {
+          "id": "spf:visual-signifiers",
+          "label": "Visual Signifiers"
+        },
+        {
+          "id": "spf:project-management",
+          "label": "Project Management"
+        },
+        {
+          "id": "spf:presentation",
+          "label": "Presentation"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Director\n2. Producer\n3. Cinematographer\n4. Film Editor\n5. Screenwriter\n6. Production Assistant",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:public-speaking",
+          "label": "Public Speaking"
+        },
+        {
+          "id": "spf:negotiation",
+          "label": "Negotiation"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:creativity",
+          "label": "Creativity"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        }
+      ]
+    },
+    {
+      "id": "spf:theatre",
+      "type": [
+        "schema:DefinedTerm",
+        "spf:JobIndustry",
+        "skos:Concept"
+      ],
+      "Job Industry Name": "Theatre",
+      "Transitioning into UX Research Roles": [
+        {
+          "id": "spf:theatre",
+          "label": "Theatre"
+        }
+      ],
+      "Transferrable Technical Skills Coming From This Industry": [
+        {
+          "id": "spf:presentation",
+          "label": "Presentation"
+        }
+      ],
+      "Common Job Titles Within This Industry": "1. Actor\n2. Stage Manager\n3. Director\n4. Set Designer\n5. Playwright\n6. Production Manager",
+      "Transferrable Interpersonal Skills Coming From This Industry": [
+        {
+          "id": "spf:public-speaking",
+          "label": "Public Speaking"
+        },
+        {
+          "id": "spf:negotiation",
+          "label": "Negotiation"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:conflict-resolution",
+          "label": "Conflict Resolution"
+        },
+        {
+          "id": "spf:creativity",
+          "label": "Creativity"
+        },
+        {
+          "id": "spf:initiative",
+          "label": "Initiative"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:verbal-communication",
+          "label": "Verbal Communication"
+        },
+        {
+          "id": "spf:teamwork",
+          "label": "Teamwork"
+        }
+      ]
+    }
+  ]
+}

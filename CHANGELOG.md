@@ -36,6 +36,12 @@ means "read the notes before you update."
 - A mind map (SVG) for each of the 15 data types in `data/visualizations/`, showing the data
   type at the center and its two-way relationship to every other data type, generated from
   the data by `tools/build-mindmaps.mjs`.
+- A machine-readable schema layer that keeps our own names: `schema/context.jsonld` maps every
+  field name and type to schema.org, SKOS, or our `spf:` namespace; `data/jsonld/` is the
+  JSON-LD view (our exact field names as keys); `schema/framework-data/*.schema.json` is a JSON
+  Schema per entity; and `tools/validate.mjs` fails the build if any relationship points at a
+  row that does not exist. Built by `tools/build-jsonld.mjs` and `tools/build-schemas.mjs`.
+- `project-phases` added as a data entity (the milestone-to-phase links now resolve).
 
 **Changed**
 - Grouped the framework's data forms under `data/`: `data/json` (structured data),
