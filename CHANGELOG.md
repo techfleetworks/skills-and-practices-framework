@@ -42,6 +42,11 @@ means "read the notes before you update."
   Schema per entity; and `tools/validate.mjs` fails the build if any relationship points at a
   row that does not exist. Built by `tools/build-jsonld.mjs` and `tools/build-schemas.mjs`.
 - `project-phases` added as a data entity (the milestone-to-phase links now resolve).
+- A documented API: `openapi/openapi.json` describes every dataset as a standard OpenAPI 3.1
+  contract (generated from the manifest by `tools/build-openapi.mjs`, so it always matches the
+  data), and `api/index.html` renders it as a browsable docs website using Scalar (free and open
+  source), with a live "Try it" against the real files. A `.nojekyll` marker lets GitHub Pages
+  serve the JSON and docs as-is.
 
 **Changed**
 - Grouped the framework's data forms under `data/`: `data/json` (structured data),

@@ -1,0 +1,794 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "The Skills & Practices Framework API",
+    "version": "0.1.0",
+    "summary": "An open, machine-readable map of how people work well together.",
+    "description": "A static, read-only API over the Skills & Practices Framework. Every endpoint is a JSON file served by GitHub Pages, so it is free and always available. Field names are the framework's own; see schema/context.jsonld for the schema.org and SKOS mapping. Data is licensed CC BY 4.0 (credit Tech Fleet); the code is Apache-2.0.",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "contact": {
+      "name": "Tech Fleet",
+      "url": "https://techfleet.org"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://techfleetworks.github.io/skills-and-practices-framework",
+      "description": "GitHub Pages (static JSON)"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Index",
+      "description": "Start here: what datasets exist."
+    },
+    {
+      "name": "Framework data",
+      "description": "The core data types (skills, practices, deliverables, milestones, and more)."
+    },
+    {
+      "name": "Career transitioning",
+      "description": "For each target field, how to move into it from another line of work."
+    }
+  ],
+  "paths": {
+    "/data/json/manifest.json": {
+      "get": {
+        "tags": [
+          "Index"
+        ],
+        "summary": "Dataset manifest",
+        "description": "Lists every dataset in the framework, its file, record count, and primary field. Start here to discover what is available.",
+        "operationId": "getManifest",
+        "responses": {
+          "200": {
+            "description": "The manifest.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/data-types.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Data Types",
+        "description": "Returns the full Data Types dataset (15 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_data_types",
+        "responses": {
+          "200": {
+            "description": "The Data Types records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/data-types.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/skills.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Skills",
+        "description": "Returns the full Skills dataset (115 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_skills",
+        "responses": {
+          "200": {
+            "description": "The Skills records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/skills.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/practices.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Practices",
+        "description": "Returns the full Practices dataset (7 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_practices",
+        "responses": {
+          "200": {
+            "description": "The Practices records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/practices.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/practice-components.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Practice Components",
+        "description": "Returns the full Practice Components dataset (44 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_practice_components",
+        "responses": {
+          "200": {
+            "description": "The Practice Components records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/practice-components.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/activities.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Activities",
+        "description": "Returns the full Activities dataset (100 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_activities",
+        "responses": {
+          "200": {
+            "description": "The Activities records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/activities.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/duties.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Duties",
+        "description": "Returns the full Duties dataset (18 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_duties",
+        "responses": {
+          "200": {
+            "description": "The Duties records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/duties.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/job-functions.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Job Functions",
+        "description": "Returns the full Job Functions dataset (11 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_job_functions",
+        "responses": {
+          "200": {
+            "description": "The Job Functions records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/job-functions.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/deliverables.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Deliverables",
+        "description": "Returns the full Deliverables dataset (104 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_deliverables",
+        "responses": {
+          "200": {
+            "description": "The Deliverables records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/deliverables.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/milestones.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Milestones",
+        "description": "Returns the full Milestones dataset (9 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_milestones",
+        "responses": {
+          "200": {
+            "description": "The Milestones records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/milestones.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/specializations.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Specializations",
+        "description": "Returns the full Specializations dataset (24 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_specializations",
+        "responses": {
+          "200": {
+            "description": "The Specializations records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/specializations.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/methodologies.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Methodologies",
+        "description": "Returns the full Methodologies dataset (6 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_methodologies",
+        "responses": {
+          "200": {
+            "description": "The Methodologies records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/methodologies.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/tools.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Tools",
+        "description": "Returns the full Tools dataset (17 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_tools",
+        "responses": {
+          "200": {
+            "description": "The Tools records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/tools.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/company-types.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Company Types",
+        "description": "Returns the full Company Types dataset (4 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_company_types",
+        "responses": {
+          "200": {
+            "description": "The Company Types records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/company-types.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/stakeholders.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Stakeholders",
+        "description": "Returns the full Stakeholders dataset (5 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_stakeholders",
+        "responses": {
+          "200": {
+            "description": "The Stakeholders records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/stakeholders.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/job-industries.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Job Industries",
+        "description": "Returns the full Job Industries dataset (29 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_job_industries",
+        "responses": {
+          "200": {
+            "description": "The Job Industries records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/job-industries.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/project-types.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Project Types",
+        "description": "Returns the full Project Types dataset (5 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_project_types",
+        "responses": {
+          "200": {
+            "description": "The Project Types records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/project-types.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/workshops.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Workshops",
+        "description": "Returns the full Workshops dataset (33 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_workshops",
+        "responses": {
+          "200": {
+            "description": "The Workshops records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/workshops.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/workshop-steps.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Workshop Steps",
+        "description": "Returns the full Workshop Steps dataset (167 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_workshop_steps",
+        "responses": {
+          "200": {
+            "description": "The Workshop Steps records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/workshop-steps.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/workshop-template-sections.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Workshop Template Sections",
+        "description": "Returns the full Workshop Template Sections dataset (170 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_workshop_template_sections",
+        "responses": {
+          "200": {
+            "description": "The Workshop Template Sections records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/workshop-template-sections.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/handoff-deliverables-map.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Handoff Deliverables Map",
+        "description": "Returns the full Handoff Deliverables Map dataset (26 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_handoff_deliverables_map",
+        "responses": {
+          "200": {
+            "description": "The Handoff Deliverables Map records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/handoff-deliverables-map.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/framework-data/project-phases.json": {
+      "get": {
+        "tags": [
+          "Framework data"
+        ],
+        "summary": "Get Project Phases",
+        "description": "Returns the full Project Phases dataset (4 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_project_phases",
+        "responses": {
+          "200": {
+            "description": "The Project Phases records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "../schema/framework-data/project-phases.schema.json"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/career-transitioning/Transitioning_into_UX_Design.json": {
+      "get": {
+        "tags": [
+          "Career transitioning"
+        ],
+        "summary": "Get Transitioning Into UX Design",
+        "description": "Returns the full Transitioning Into UX Design dataset (28 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_Transitioning_into_UX_Design",
+        "responses": {
+          "200": {
+            "description": "The Transitioning Into UX Design records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "description": "A source-to-target career-transition row: Target Field, Transition From, the unique Summary of the Gaps and Training Recommendations, the shared A Day in the Life, and linked skills, tasks, tools, and deliverables."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/career-transitioning/Transitioning_into_UX_Writing.json": {
+      "get": {
+        "tags": [
+          "Career transitioning"
+        ],
+        "summary": "Get Transitioning Into UX Writing",
+        "description": "Returns the full Transitioning Into UX Writing dataset (28 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_Transitioning_into_UX_Writing",
+        "responses": {
+          "200": {
+            "description": "The Transitioning Into UX Writing records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "description": "A source-to-target career-transition row: Target Field, Transition From, the unique Summary of the Gaps and Training Recommendations, the shared A Day in the Life, and linked skills, tasks, tools, and deliverables."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/career-transitioning/Transitioning_into_Business_Analysis.json": {
+      "get": {
+        "tags": [
+          "Career transitioning"
+        ],
+        "summary": "Get Transitioning Into Business Analysis",
+        "description": "Returns the full Transitioning Into Business Analysis dataset (29 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_Transitioning_into_Business_Analysis",
+        "responses": {
+          "200": {
+            "description": "The Transitioning Into Business Analysis records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "description": "A source-to-target career-transition row: Target Field, Transition From, the unique Summary of the Gaps and Training Recommendations, the shared A Day in the Life, and linked skills, tasks, tools, and deliverables."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/career-transitioning/Transitioning_into_Product_Ownership.json": {
+      "get": {
+        "tags": [
+          "Career transitioning"
+        ],
+        "summary": "Get Transitioning Into Product Ownership",
+        "description": "Returns the full Transitioning Into Product Ownership dataset (29 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_Transitioning_into_Product_Ownership",
+        "responses": {
+          "200": {
+            "description": "The Transitioning Into Product Ownership records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "description": "A source-to-target career-transition row: Target Field, Transition From, the unique Summary of the Gaps and Training Recommendations, the shared A Day in the Life, and linked skills, tasks, tools, and deliverables."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/career-transitioning/Transitioning_into_Product_Management.json": {
+      "get": {
+        "tags": [
+          "Career transitioning"
+        ],
+        "summary": "Get Transitioning Into Product Management",
+        "description": "Returns the full Transitioning Into Product Management dataset (29 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_Transitioning_into_Product_Management",
+        "responses": {
+          "200": {
+            "description": "The Transitioning Into Product Management records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "description": "A source-to-target career-transition row: Target Field, Transition From, the unique Summary of the Gaps and Training Recommendations, the shared A Day in the Life, and linked skills, tasks, tools, and deliverables."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/career-transitioning/Transitioning_into_UX_Research.json": {
+      "get": {
+        "tags": [
+          "Career transitioning"
+        ],
+        "summary": "Get Transitioning Into UX Research",
+        "description": "Returns the full Transitioning Into UX Research dataset (29 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_Transitioning_into_UX_Research",
+        "responses": {
+          "200": {
+            "description": "The Transitioning Into UX Research records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "description": "A source-to-target career-transition row: Target Field, Transition From, the unique Summary of the Gaps and Training Recommendations, the shared A Day in the Life, and linked skills, tasks, tools, and deliverables."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/career-transitioning/Transitioning_into_Agile_Coaching.json": {
+      "get": {
+        "tags": [
+          "Career transitioning"
+        ],
+        "summary": "Get Transitioning Into Agile Coaching",
+        "description": "Returns the full Transitioning Into Agile Coaching dataset (29 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_Transitioning_into_Agile_Coaching",
+        "responses": {
+          "200": {
+            "description": "The Transitioning Into Agile Coaching records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "description": "A source-to-target career-transition row: Target Field, Transition From, the unique Summary of the Gaps and Training Recommendations, the shared A Day in the Life, and linked skills, tasks, tools, and deliverables."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/json/career-transitioning/Transitioning_into_Software_Engineering.json": {
+      "get": {
+        "tags": [
+          "Career transitioning"
+        ],
+        "summary": "Get Transitioning Into Software Engineering",
+        "description": "Returns the full Transitioning Into Software Engineering dataset (28 records). Each relationship is a {slug, label} reference to another record.",
+        "operationId": "get_Transitioning_into_Software_Engineering",
+        "responses": {
+          "200": {
+            "description": "The Transitioning Into Software Engineering records.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "description": "A source-to-target career-transition row: Target Field, Transition From, the unique Summary of the Gaps and Training Recommendations, the shared A Day in the Life, and linked skills, tasks, tools, and deliverables."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
