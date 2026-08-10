@@ -22,6 +22,15 @@ means "read the notes before you update."
 
 ## Unreleased
 
+_Nothing yet._
+
+## v1.0.0 — 2026-08-10
+
+The public launch. After three years in the making and a year and a half of use inside real
+Tech Fleet projects, the Skills & Practices Framework is public for the first time: the full
+data, a plain-language README for every data type, a machine-readable schema that keeps the
+framework's own names, and a documented, browsable API anyone can read for free.
+
 **Added**
 - The career-change layer: eight "Transitioning Into" fields (UX Research, UX Design, UX
   Writing, Business Analysis, Product Ownership, Product Management, Agile Coaching, Software
@@ -95,4 +104,4 @@ pre-release, not the public launch (that will be v1.0.0).
 
 ---
 
-*Versions below 1.0.0 are early pre-releases. Version 1.0.0 will mark the public launch.*
+*Versions below 1.0.0 were early pre-releases. Version 1.0.0 is the public launch.*
