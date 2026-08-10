@@ -9,24 +9,6 @@
         "label": "Academia"
       }
     ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "research-facilitation",
@@ -79,24 +61,6 @@
         "slug": "time-management",
         "label": "Time Management"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      }
     ]
   },
   {
@@ -104,24 +68,6 @@
     "slug": "accounting",
     "Job Industry Name": "Accounting",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "accounting",
         "label": "Accounting"
@@ -179,24 +125,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      }
     ]
   },
   {
@@ -204,24 +132,6 @@
     "slug": "agriculture",
     "Job Industry Name": "Agriculture",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "agriculture",
         "label": "Agriculture"
@@ -279,24 +189,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      }
     ]
   },
   {
@@ -304,24 +196,6 @@
     "slug": "business",
     "Job Industry Name": "Business",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "business",
-        "label": "Business"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "business",
-        "label": "Business"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "business",
-        "label": "Business"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "business",
         "label": "Business"
@@ -375,24 +249,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "business",
-        "label": "Business"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "business",
-        "label": "Business"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "business",
-        "label": "Business"
-      }
     ]
   },
   {
@@ -400,24 +256,6 @@
     "slug": "construction",
     "Job Industry Name": "Construction",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "construction",
-        "label": "Construction"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "construction",
-        "label": "Construction"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "construction",
-        "label": "Construction"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "construction",
         "label": "Construction"
@@ -475,24 +313,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "construction",
-        "label": "Construction"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "construction",
-        "label": "Construction"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "construction",
-        "label": "Construction"
-      }
     ]
   },
   {
@@ -500,24 +320,6 @@
     "slug": "creative",
     "Job Industry Name": "Creative",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "creative",
-        "label": "Creative"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "creative",
-        "label": "Creative"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "creative",
-        "label": "Creative"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "creative",
         "label": "Creative"
@@ -575,24 +377,6 @@
         "slug": "time-management",
         "label": "Time Management"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "creative",
-        "label": "Creative"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "creative",
-        "label": "Creative"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "creative",
-        "label": "Creative"
-      }
     ]
   },
   {
@@ -600,24 +384,6 @@
     "slug": "finance",
     "Job Industry Name": "Finance",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "finance",
-        "label": "Finance"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "finance",
-        "label": "Finance"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "finance",
-        "label": "Finance"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "finance",
         "label": "Finance"
@@ -679,24 +445,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "finance",
-        "label": "Finance"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "finance",
-        "label": "Finance"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "finance",
-        "label": "Finance"
-      }
     ]
   },
   {
@@ -704,24 +452,6 @@
     "slug": "government",
     "Job Industry Name": "Government",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "government",
-        "label": "Government"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "government",
-        "label": "Government"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "government",
-        "label": "Government"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "government",
         "label": "Government"
@@ -779,24 +509,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "government",
-        "label": "Government"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "government",
-        "label": "Government"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "government",
-        "label": "Government"
-      }
     ]
   },
   {
@@ -804,24 +516,6 @@
     "slug": "hospitality",
     "Job Industry Name": "Hospitality",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "hospitality",
         "label": "Hospitality"
@@ -879,24 +573,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      }
     ]
   },
   {
@@ -904,24 +580,6 @@
     "slug": "industrial-design",
     "Job Industry Name": "Industrial Design",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "indutrial-design",
         "label": "Indutrial Design"
@@ -991,24 +649,6 @@
         "slug": "critical-thinking",
         "label": "Critical Thinking"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      }
     ]
   },
   {
@@ -1016,24 +656,6 @@
     "slug": "legal",
     "Job Industry Name": "Legal",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "legal",
-        "label": "Legal"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "legal",
-        "label": "Legal"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "legal",
-        "label": "Legal"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "legal",
         "label": "Legal"
@@ -1087,24 +709,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "legal",
-        "label": "Legal"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "legal",
-        "label": "Legal"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "legal",
-        "label": "Legal"
-      }
     ]
   },
   {
@@ -1112,24 +716,6 @@
     "slug": "marketing",
     "Job Industry Name": "Marketing",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "marketing",
         "label": "Marketing"
@@ -1187,24 +773,6 @@
         "slug": "relationship-building",
         "label": "Relationship Building"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      }
     ]
   },
   {
@@ -1212,24 +780,6 @@
     "slug": "medical",
     "Job Industry Name": "Medical",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "medical",
-        "label": "Medical"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "medical",
-        "label": "Medical"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "medical",
-        "label": "Medical"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "medical",
         "label": "Medical"
@@ -1287,24 +837,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "medical",
-        "label": "Medical"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "medical",
-        "label": "Medical"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "medical",
-        "label": "Medical"
-      }
     ]
   },
   {
@@ -1312,24 +844,6 @@
     "slug": "mental-health",
     "Job Industry Name": "Mental Health",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "mental-health",
         "label": "Mental Health"
@@ -1383,24 +897,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      }
     ]
   },
   {
@@ -1408,24 +904,6 @@
     "slug": "nonprofit",
     "Job Industry Name": "Nonprofit",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "nonprofit",
         "label": "Nonprofit"
@@ -1479,24 +957,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      }
     ]
   },
   {
@@ -1504,24 +964,6 @@
     "slug": "primary-and-secondary-education",
     "Job Industry Name": "Primary and Secondary Education",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "primary-and-secondary-education",
         "label": "Primary and Secondary Education"
@@ -1579,24 +1021,6 @@
         "slug": "time-management",
         "label": "Time Management"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      }
     ]
   },
   {
@@ -1604,24 +1028,6 @@
     "slug": "program-management",
     "Job Industry Name": "Program Management",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "program-management",
         "label": "Program Management"
@@ -1683,24 +1089,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      }
     ]
   },
   {
@@ -1708,24 +1096,6 @@
     "slug": "project-management",
     "Job Industry Name": "Project Management",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "project-management",
         "label": "Project Management"
@@ -1799,24 +1169,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      }
     ]
   },
   {
@@ -1824,24 +1176,6 @@
     "slug": "real-estate",
     "Job Industry Name": "Real Estate",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "real-estate",
         "label": "Real Estate"
@@ -1899,24 +1233,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      }
     ]
   },
   {
@@ -1924,24 +1240,6 @@
     "slug": "retail",
     "Job Industry Name": "Retail",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "retail",
-        "label": "Retail"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "retail",
-        "label": "Retail"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "retail",
-        "label": "Retail"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "retail",
         "label": "Retail"
@@ -2003,24 +1301,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "retail",
-        "label": "Retail"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "retail",
-        "label": "Retail"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "retail",
-        "label": "Retail"
-      }
     ]
   },
   {
@@ -2028,24 +1308,6 @@
     "slug": "sales",
     "Job Industry Name": "Sales",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "sales",
-        "label": "Sales"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "sales",
-        "label": "Sales"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "sales",
-        "label": "Sales"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "sales",
         "label": "Sales"
@@ -2103,24 +1365,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "sales",
-        "label": "Sales"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "sales",
-        "label": "Sales"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "sales",
-        "label": "Sales"
-      }
     ]
   },
   {
@@ -2128,24 +1372,6 @@
     "slug": "tourism",
     "Job Industry Name": "Tourism",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "tourism",
         "label": "Tourism"
@@ -2203,24 +1429,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      }
     ]
   },
   {
@@ -2228,24 +1436,6 @@
     "slug": "transportation",
     "Job Industry Name": "Transportation",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "transportation",
         "label": "Transportation"
@@ -2299,24 +1489,6 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      }
     ]
   },
   {
@@ -2324,24 +1496,6 @@
     "slug": "development",
     "Job Industry Name": "Development",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "development",
-        "label": "Development"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "development",
         "label": "Development"
@@ -2423,24 +1577,6 @@
         "slug": "critical-thinking",
         "label": "Critical Thinking"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      }
     ]
   },
   {
@@ -2448,24 +1584,6 @@
     "slug": "product-management",
     "Job Industry Name": "Product Management",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "product-management",
         "label": "Product Management"
@@ -2531,48 +1649,12 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
     ]
   },
   {
     "id": 26,
     "slug": "user-experience-research",
     "Job Industry Name": "User Experience Research",
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "interviewing",
@@ -2649,24 +1731,6 @@
         "slug": "critical-thinking",
         "label": "Critical Thinking"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
-      }
     ]
   },
   {
@@ -2674,18 +1738,6 @@
     "slug": "user-experience-design",
     "Job Industry Name": "User Experience Design",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "user-experience-design",
         "label": "User Experience Design"
@@ -2763,24 +1815,6 @@
         "slug": "critical-thinking",
         "label": "Critical Thinking"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      }
     ]
   },
   {
@@ -2788,24 +1822,6 @@
     "slug": "film",
     "Job Industry Name": "Film",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "film",
-        "label": "Film"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "film",
-        "label": "Film"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "film",
-        "label": "Film"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "film",
         "label": "Film"
@@ -2863,24 +1879,6 @@
         "slug": "time-management",
         "label": "Time Management"
       }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "film",
-        "label": "Film"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "film",
-        "label": "Film"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "film",
-        "label": "Film"
-      }
     ]
   },
   {
@@ -2888,24 +1886,6 @@
     "slug": "theatre",
     "Job Industry Name": "Theatre",
     "Transitioning into UX Research Roles": [
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
       {
         "slug": "theatre",
         "label": "Theatre"
@@ -2962,24 +1942,6 @@
       {
         "slug": "teamwork",
         "label": "Teamwork"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "theatre",
-        "label": "Theatre"
       }
     ]
   }

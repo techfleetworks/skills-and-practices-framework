@@ -335,32 +335,6 @@
         "label": "AI User Experience"
       }
     ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "UX (User Experience) Design",
     "Milestones": [
       {
@@ -672,32 +646,6 @@
       {
         "slug": "growth-product-management",
         "label": "Growth Product Management"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Roles": "Product Management",
@@ -1043,32 +991,6 @@
       {
         "slug": "growth-product-management",
         "label": "Growth Product Management"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Roles": "Business Analysis",
@@ -1418,32 +1340,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "Business Analysis",
     "Milestones": [
       {
@@ -1767,32 +1663,6 @@
         "label": "UI Design"
       }
     ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Milestones": [
       {
         "slug": "implement",
@@ -2081,32 +1951,6 @@
       {
         "slug": "branding",
         "label": "Branding"
-      }
-    ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -2447,32 +2291,6 @@
         "label": "Trello"
       }
     ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "Business Analysis",
     "Milestones": [
       {
@@ -2762,32 +2580,6 @@
       {
         "slug": "ui-design",
         "label": "UI Design"
-      }
-    ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Roles": "Graphic Design",
@@ -3129,32 +2921,6 @@
         "label": "UX Strategy"
       }
     ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "Product Ownership",
     "Milestones": [
       {
@@ -3488,32 +3254,6 @@
       {
         "slug": "growth-product-management",
         "label": "Growth Product Management"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Roles": "Product Ownership",
@@ -3859,32 +3599,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -4243,32 +3957,6 @@
         "label": "Lean UX Method"
       }
     ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "UX (User Experience) Research",
     "Milestones": [
       {
@@ -4596,32 +4284,6 @@
         "label": "Continuous Discovery Method"
       }
     ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "Product Management, UX (User Experience) Strategy",
     "Milestones": [
       {
@@ -4912,58 +4574,6 @@
       }
     ],
     "Associated Agile Methodologies": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
-    "Methodologies 5": [
       {
         "slug": "google-design-sprint-method",
         "label": "Google Design Sprint Method"
@@ -5328,32 +4938,6 @@
         "label": "Trello"
       }
     ],
-    "Methodologies 5": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "Scrum Master",
     "Milestones": [
       {
@@ -5617,32 +5201,6 @@
       {
         "slug": "product-operations",
         "label": "Product Operations"
-      }
-    ],
-    "Methodologies 5": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Roles": "Scrum Master",
@@ -5912,32 +5470,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Roles": "UX (User Experience) Strategy",
@@ -6293,32 +5825,6 @@
         "label": "Lean UX Method"
       }
     ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "UX (User Experience) Research",
     "Milestones": [
       {
@@ -6660,32 +6166,6 @@
       {
         "slug": "trello",
         "label": "Trello"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -7108,32 +6588,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Methodologies 5": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "Scrum Master, Project Management, Product Operations",
     "Milestones": [
       {
@@ -7485,32 +6939,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Methodologies 5": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "Scrum Master, Product Operations",
     "Milestones": [
       {
@@ -7806,32 +7234,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Roles": "UX (User Experience) Research",
@@ -8157,32 +7559,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -8513,32 +7889,6 @@
         "label": "Lean UX Method"
       }
     ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Activity Description": "Card sorting asks people to group and label items the way that makes sense to them. It reveals how users naturally organize information.",
     "Why Is This Activity Important?": "It helps a team structure a product to match how users think, not how the team happens to.",
     "How Does the Activity Relate to Milestones and Deliverables and Workshops?": "It feeds research plans and analysis and shapes information architecture like sitemaps. It can run as a group activity or a remote study.",
@@ -8805,32 +8155,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -9149,32 +8473,6 @@
         "label": "Lean UX Method"
       }
     ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -9491,32 +8789,6 @@
       {
         "slug": "ai-user-experience",
         "label": "AI User Experience"
-      }
-    ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -9847,32 +9119,6 @@
         "label": "Continuous Discovery Method"
       }
     ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -10177,32 +9423,6 @@
         "label": "Lean UX Method"
       }
     ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -10501,32 +9721,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -10841,32 +10035,6 @@
         "label": "Lean UX Method"
       }
     ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -11179,32 +10347,6 @@
       {
         "slug": "quantitative-ux-research",
         "label": "Quantitative UX Research"
-      }
-    ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -11531,32 +10673,6 @@
         "label": "Lean UX Method"
       }
     ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Activity Description": "Prototype concept testing puts an early prototype in front of users to check whether an idea works before building it. It tests the concept, not the polish.",
     "Why Is This Activity Important?": "Testing early saves the team from building something users do not actually want.",
     "How Does the Activity Relate to Milestones and Deliverables and Workshops?": "It feeds research reports, plans, and analysis and loops back into design. It is a core agile habit of learning before committing.",
@@ -11851,32 +10967,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -12203,32 +11293,6 @@
       {
         "slug": "ui-design",
         "label": "UI Design"
-      }
-    ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -12571,32 +11635,6 @@
       {
         "slug": "ai-user-experience",
         "label": "AI User Experience"
-      }
-    ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -13005,32 +12043,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Roles": "UX (User Experience) Design",
@@ -13612,32 +12624,6 @@
         "label": "Product Operations"
       }
     ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Milestones": [
       {
         "slug": "vision",
@@ -13958,32 +12944,6 @@
         "label": "Lean UX Method"
       }
     ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Milestones": [
       {
         "slug": "requirements",
@@ -14278,32 +13238,6 @@
       {
         "slug": "growth-product-management",
         "label": "Growth Product Management"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Roles": "Product Management",
@@ -14669,32 +13603,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -15835,58 +14743,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
-    "Methodologies 5": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "Scrum Master",
     "Milestones": [
       {
@@ -16216,32 +15072,6 @@
       {
         "slug": "ux-strategy",
         "label": "UX Strategy"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -16634,32 +15464,6 @@
         "label": "Accessibility Specialist"
       }
     ],
-    "Methodologies 5": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "Product Ownership, UX (User Experience) Design, UX (User Experience) Research, UX (User Experience) Writing",
     "Milestones": [
       {
@@ -16975,32 +15779,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -17402,58 +16180,6 @@
       }
     ],
     "Associated Agile Methodologies": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
-    "Methodologies 5": [
       {
         "slug": "google-design-sprint-method",
         "label": "Google Design Sprint Method"
@@ -19134,32 +17860,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Methodologies 5": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "Scrum Master",
     "Milestones": [
       {
@@ -19434,58 +18134,6 @@
       }
     ],
     "Associated Agile Methodologies": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
-    "Methodologies 5": [
       {
         "slug": "google-design-sprint-method",
         "label": "Google Design Sprint Method"
@@ -19808,32 +18456,6 @@
         "label": "Lean UX Method"
       }
     ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "UX (User Experience) Research",
     "Milestones": [
       {
@@ -20141,32 +18763,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -20766,32 +19362,6 @@
         "label": "Search Engine Optimization"
       }
     ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Milestones": [
       {
         "slug": "implement",
@@ -21126,32 +19696,6 @@
       {
         "slug": "continuous-discovery-method",
         "label": "Continuous Discovery Method"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -21498,32 +20042,6 @@
         "label": "Continuous Discovery Method"
       }
     ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -21808,32 +20326,6 @@
       {
         "slug": "growth-product-management",
         "label": "Growth Product Management"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -22742,32 +21234,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "Scrum Master, Product Ownership, Product Operations",
     "Milestones": [
       {
@@ -23093,32 +21559,6 @@
         "label": "Continuous Discovery Method"
       }
     ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Roles": "UX (User Experience) Strategy",
     "Milestones": [
       {
@@ -23348,84 +21788,6 @@
       {
         "slug": "growth-product-management",
         "label": "Growth Product Management"
-      }
-    ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
-    "Methodologies 4": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
-    "Methodologies 5": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Milestones": [
@@ -24424,32 +22786,6 @@
         "label": "Accessibility Specialist"
       }
     ],
-    "Methodologies 3": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
-      }
-    ],
     "Milestones": [
       {
         "slug": "implement",
@@ -24808,32 +23144,6 @@
       {
         "slug": "lean-ux-method",
         "label": "Lean UX Method"
-      }
-    ],
-    "Methodologies 2": [
-      {
-        "slug": "google-design-sprint-method",
-        "label": "Google Design Sprint Method"
-      },
-      {
-        "slug": "scrum-method",
-        "label": "Scrum Method"
-      },
-      {
-        "slug": "kanban-method",
-        "label": "Kanban Method"
-      },
-      {
-        "slug": "continuous-discovery-method",
-        "label": "Continuous Discovery Method"
-      },
-      {
-        "slug": "lean-ux-method",
-        "label": "Lean UX Method"
-      },
-      {
-        "slug": "scaled-agile-framework-method",
-        "label": "Scaled Agile Framework Method"
       }
     ],
     "Roles": "UX (User Experience) Research",

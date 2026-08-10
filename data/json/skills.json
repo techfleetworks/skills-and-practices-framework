@@ -65,12 +65,6 @@
         "label": "Product Designer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -315,13 +309,6 @@
         "label": "Product Designer"
       }
     ],
-    "Transitioning into UX Design copy": "Mental Health",
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-research",
-        "label": "UX (User Experience) Research"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -402,18 +389,6 @@
         "label": "Product Designer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-research",
-        "label": "UX (User Experience) Research"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "ux-user-experience-research",
-        "label": "UX (User Experience) Research"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -488,13 +463,6 @@
       {
         "slug": "product-designer",
         "label": "Product Designer"
-      }
-    ],
-    "Transitioning into UX Design copy": "Mental Health",
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-research",
-        "label": "UX (User Experience) Research"
       }
     ],
     "Milestones": [
@@ -581,7 +549,6 @@
         "label": "Product Designer"
       }
     ],
-    "Transitioning into UX Design copy": "User Experience Research",
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -668,12 +635,6 @@
       {
         "slug": "business-analyst",
         "label": "Business Analyst"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
       }
     ],
     "Milestones": [
@@ -766,34 +727,6 @@
       {
         "slug": "business-analyst",
         "label": "Business Analyst"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
       }
     ],
     "Milestones": [
@@ -904,22 +837,6 @@
       {
         "slug": "business-analyst",
         "label": "Business Analyst"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
       }
     ],
     "Milestones": [
@@ -1036,34 +953,6 @@
         "label": "Business Analyst"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -1154,30 +1043,6 @@
         "label": "Business Analyst"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -1266,12 +1131,6 @@
         "label": "Business Analyst"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -1350,7 +1209,6 @@
         "label": "UX Writer"
       }
     ],
-    "Transitioning into UX Design copy": "Creative, Marketing",
     "Milestones": [
       {
         "slug": "implement",
@@ -1419,26 +1277,6 @@
       {
         "slug": "ui-designer",
         "label": "UI Designer"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
       }
     ],
     "Milestones": [
@@ -1537,26 +1375,6 @@
         "label": "UI Designer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -1639,19 +1457,6 @@
       {
         "slug": "business-analyst",
         "label": "Business Analyst"
-      }
-    ],
-    "Transitioning into UX Design copy": "Business, Real Estate",
-    "Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
       }
     ],
     "Milestones": [
@@ -1744,19 +1549,6 @@
       {
         "slug": "ui-designer",
         "label": "UI Designer"
-      }
-    ],
-    "Transitioning into UX Design copy": "Marketing, User Experience Research",
-    "Roles 2": [
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
       }
     ],
     "Milestones": [
@@ -1973,16 +1765,6 @@
         "label": "UI Designer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      }
-    ],
     "Milestones": [
       {
         "slug": "implement",
@@ -2067,16 +1849,6 @@
         "label": "UI Designer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "implement",
@@ -2155,12 +1927,6 @@
       {
         "slug": "ui-designer",
         "label": "UI Designer"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
       }
     ],
     "Milestones": [
@@ -2253,26 +2019,6 @@
       {
         "slug": "ui-designer",
         "label": "UI Designer"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      },
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
       }
     ],
     "Milestones": [
@@ -2463,7 +2209,6 @@
         "label": "UI Designer"
       }
     ],
-    "Transitioning into UX Design copy": "Creative",
     "Milestones": [
       {
         "slug": "implement",
@@ -2646,16 +2391,6 @@
         "label": "Business Analyst"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -2740,26 +2475,6 @@
       {
         "slug": "ui-designer",
         "label": "UI Designer"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      },
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
       }
     ],
     "Milestones": [
@@ -2850,13 +2565,6 @@
       {
         "slug": "product-designer",
         "label": "Product Designer"
-      }
-    ],
-    "Transitioning into UX Design copy": "User Experience Research",
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
       }
     ],
     "Milestones": [
@@ -3100,19 +2808,6 @@
       }
     ],
     "Transitioning into UX Research": "Academia, Accounting, Agriculture, Business, Construction, Creative, Finance, Government, Hospitality, Indutrial Design, Legal, Marketing, Medical, Mental Health, Nonprofit, Primary and Secondary Education, Real Estate, Retail, Sales, Tourism, Transportation",
-    "Transitioning into UX Design copy": "Academia, Accounting, Business, Creative, Film, Hospitality, Indutrial Design, Legal, Marketing, Mental Health, Nonprofit, Primary and Secondary Education, Real Estate, Retail, Sales, Theatre, Tourism, Transportation, User Experience Research",
-    "Roles 2": [
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -3205,18 +2900,6 @@
       {
         "slug": "business-analyst",
         "label": "Business Analyst"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
       }
     ],
     "Milestones": [
@@ -3327,12 +3010,6 @@
         "label": "Business Analyst"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -3433,20 +3110,6 @@
       {
         "slug": "agile-coach",
         "label": "Agile Coach"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
       }
     ],
     "Milestones": [
@@ -3751,7 +3414,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Transitioning into UX Design copy": "Academia, Business, Finance, Hospitality, Indutrial Design, Legal, Marketing, Nonprofit, Real Estate, Sales",
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -3768,24 +3430,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -3932,7 +3576,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Transitioning into UX Design copy": "Business",
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -4169,18 +3812,6 @@
         "label": "UI Designer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
-      }
-    ],
     "Milestones": [
       {
         "slug": "implement",
@@ -4339,26 +3970,6 @@
       {
         "slug": "product-designer",
         "label": "Product Designer"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "ux-user-experience-research",
-        "label": "UX (User Experience) Research"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "ux-user-experience-research",
-        "label": "UX (User Experience) Research"
       }
     ],
     "Milestones": [
@@ -4735,7 +4346,6 @@
         "label": "Business Analyst"
       }
     ],
-    "Transitioning into UX Design copy": "Accounting, Business, Finance, Government, Legal, Marketing, Program Management",
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -4993,7 +4603,6 @@
       }
     ],
     "Transitioning into UX Research": "Academia, Accounting, Agriculture, Business, Construction, Creative, Finance, Government, Hospitality, Indutrial Design, Legal, Marketing, Medical, Mental Health, Nonprofit, Primary and Secondary Education, Real Estate, Retail, Sales, Tourism, Transportation",
-    "Transitioning into UX Design copy": "Academia, Accounting, Business, Creative, Finance, Government, Hospitality, Indutrial Design, Legal, Marketing, Medical, Mental Health, Nonprofit, Primary and Secondary Education, Real Estate, Retail, Sales, Tourism, Transportation",
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -5026,28 +4635,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -5134,34 +4721,6 @@
       {
         "slug": "project-manager",
         "label": "Project Manager"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
       }
     ],
     "Milestones": [
@@ -5254,7 +4813,6 @@
         "label": "Business Analyst"
       }
     ],
-    "Transitioning into UX Design copy": "User Experience Research",
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -5347,23 +4905,6 @@
       {
         "slug": "project-manager",
         "label": "Project Manager"
-      }
-    ],
-    "Transitioning into UX Design copy": "Business, Construction, Creative, Development, Government, Indutrial Design, Legal, Marketing, Nonprofit",
-    "Roles 2": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
       }
     ],
     "Milestones": [
@@ -5591,39 +5132,6 @@
       }
     ],
     "Transitioning into UX Research": "Academia, Accounting, Agriculture, Business, Construction, Creative, Finance, Government, Hospitality, Indutrial Design, Legal, Marketing, Medical, Mental Health, Nonprofit, Primary and Secondary Education, Real Estate, Retail, Sales, Tourism, Transportation",
-    "Transitioning into UX Design copy": "Academia, Accounting, Business, Finance, Government, Indutrial Design, Legal, Marketing, Medical, Mental Health, Nonprofit, Primary and Secondary Education, Real Estate, Sales",
-    "Roles 2": [
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -5648,16 +5156,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -5722,18 +5220,6 @@
       {
         "slug": "engineer",
         "label": "Engineer"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "development",
-        "label": "Development"
       }
     ],
     "Job Industry": [
@@ -5806,12 +5292,6 @@
         "label": "Engineer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      }
-    ],
     "Job Industry": [
       {
         "slug": "development",
@@ -5876,12 +5356,6 @@
       {
         "slug": "engineer",
         "label": "Engineer"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
       }
     ],
     "Job Industry": [
@@ -5964,13 +5438,6 @@
       {
         "slug": "business-analyst",
         "label": "Business Analyst"
-      }
-    ],
-    "Transitioning into UX Design copy": "Business",
-    "Roles 3": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
       }
     ],
     "Milestones": [
@@ -6065,22 +5532,6 @@
         "label": "Engineer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      },
-      {
-        "slug": "information-security-analysis",
-        "label": "Information Security Analysis"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      }
-    ],
     "Milestones": [
       {
         "slug": "implement",
@@ -6157,18 +5608,6 @@
         "label": "Engineer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "information-security-analysis",
-        "label": "Information Security Analysis"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "information-security-analysis",
-        "label": "Information Security Analysis"
-      }
-    ],
     "Job Industry": [
       {
         "slug": "development",
@@ -6229,12 +5668,6 @@
       {
         "slug": "ux-researcher",
         "label": "UX Researcher"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-research",
-        "label": "UX (User Experience) Research"
       }
     ],
     "Milestones": [
@@ -6305,16 +5738,6 @@
         "label": "Engineer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      }
-    ],
     "Milestones": [
       {
         "slug": "requirements",
@@ -6383,7 +5806,6 @@
         "label": "UX Designer"
       }
     ],
-    "Transitioning into UX Design copy": "User Experience Research",
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -6452,16 +5874,6 @@
       {
         "slug": "engineer",
         "label": "Engineer"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
       }
     ],
     "Milestones": [
@@ -6658,16 +6070,6 @@
         "label": "Engineer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      }
-    ],
     "Job Industry": [
       {
         "slug": "development",
@@ -6808,20 +6210,6 @@
       {
         "slug": "agile-coach",
         "label": "Agile Coach"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      },
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
       }
     ],
     "Milestones": [
@@ -7216,12 +6604,6 @@
         "label": "Engineer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      }
-    ],
     "Milestones": [
       {
         "slug": "requirements",
@@ -7290,12 +6672,6 @@
         "label": "Engineer"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "development",
-        "label": "Development"
-      }
-    ],
     "Job Industry": [
       {
         "slug": "development",
@@ -7362,7 +6738,6 @@
         "label": "UX Researcher"
       }
     ],
-    "Transitioning into UX Design copy": "Academia, Accounting, Business, Finance, Indutrial Design, Marketing, Primary and Secondary Education, Real Estate",
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -7619,12 +6994,6 @@
       {
         "slug": "product-owner",
         "label": "Product Owner"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
       }
     ],
     "Milestones": [
@@ -7969,12 +7338,6 @@
       {
         "slug": "ux-designer",
         "label": "UX Designer"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
       }
     ],
     "Milestones": [
@@ -8565,12 +7928,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -8659,12 +8016,6 @@
       {
         "slug": "product-owner",
         "label": "Product Owner"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
       }
     ],
     "Milestones": [
@@ -8761,12 +8112,6 @@
       {
         "slug": "engineer",
         "label": "Engineer"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
       }
     ],
     "Milestones": [
@@ -8877,12 +8222,6 @@
       {
         "slug": "project-manager",
         "label": "Project Manager"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
       }
     ],
     "Milestones": [
@@ -9213,52 +8552,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "ux-user-experience-research",
-        "label": "UX (User Experience) Research"
-      },
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      },
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -9291,36 +8584,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -9577,18 +8840,6 @@
       {
         "slug": "agile-coach",
         "label": "Agile Coach"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "account-management",
-        "label": "Account Management"
       }
     ],
     "Milestones": [
@@ -10161,22 +9412,6 @@
       {
         "slug": "agile-coach",
         "label": "Agile Coach"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
       }
     ],
     "Milestones": [
@@ -10759,72 +9994,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      },
-      {
-        "slug": "information-security-analysis",
-        "label": "Information Security Analysis"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
-      },
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
-      },
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -10861,76 +10030,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "industrial-design",
-        "label": "Industrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -11111,16 +10210,6 @@
         "label": "All Milestones"
       }
     ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      }
-    ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
   },
   {
@@ -11177,30 +10266,10 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      }
-    ],
     "Milestones": [
       {
         "slug": "intake",
         "label": "Intake"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
       }
     ],
     "Where Can I Learn More?": "Atlassian Agile Coach, with guides on agile, Scrum, and Kanban: https://www.atlassian.com/agile"
@@ -11735,16 +10804,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -11781,108 +10840,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "industrial-design",
-        "label": "Industrial Design"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -12049,22 +11006,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -12081,36 +11022,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -12285,32 +11196,6 @@
       {
         "slug": "implement",
         "label": "Implement"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "industrial-design",
-        "label": "Industrial Design"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -12845,72 +11730,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      },
-      {
-        "slug": "information-security-analysis",
-        "label": "Information Security Analysis"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
-      },
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
-      },
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -12947,108 +11766,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "industrial-design",
-        "label": "Industrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -13255,12 +11972,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -13829,20 +12540,6 @@
         "label": "All Milestones"
       }
     ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      }
-    ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
   },
   {
@@ -14375,68 +13072,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      },
-      {
-        "slug": "information-security-analysis",
-        "label": "Information Security Analysis"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
-      },
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
-      },
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -14655,18 +13290,6 @@
       {
         "slug": "agile-coach",
         "label": "Agile Coach"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "account-management",
-        "label": "Account Management"
       }
     ],
     "Milestones": [
@@ -15251,18 +13874,6 @@
       {
         "slug": "agile-coach",
         "label": "Agile Coach"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "account-management",
-        "label": "Account Management"
       }
     ],
     "Milestones": [
@@ -15913,80 +14524,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -17083,72 +15620,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      },
-      {
-        "slug": "information-security-analysis",
-        "label": "Information Security Analysis"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
-      },
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
-      },
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -17385,66 +15856,10 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 3": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "vision",
         "label": "Vision"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -17611,70 +16026,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      },
-      {
-        "slug": "information-security-analysis",
-        "label": "Information Security Analysis"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
-      },
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
-      },
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -17793,28 +16144,6 @@
       {
         "slug": "product-owner",
         "label": "Product Owner"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      },
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
-      },
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
       }
     ],
     "Milestones": [
@@ -18377,72 +16706,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      },
-      {
-        "slug": "information-security-analysis",
-        "label": "Information Security Analysis"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
-      },
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
-      },
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -18479,84 +16742,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -19087,22 +17272,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -19139,24 +17308,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -19687,20 +17838,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -19737,24 +17874,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -19961,22 +18080,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
-    "Roles 3": [
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -20001,12 +18104,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"
@@ -20539,16 +18636,6 @@
       {
         "slug": "agile-coach",
         "label": "Agile Coach"
-      }
-    ],
-    "Roles 2": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
       }
     ],
     "Milestones": [
@@ -21121,72 +19208,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Roles 2": [
-      {
-        "slug": "ux-user-experience-design",
-        "label": "UX (User Experience) Design"
-      },
-      {
-        "slug": "business-analysis",
-        "label": "Business Analysis"
-      },
-      {
-        "slug": "product-ownership",
-        "label": "Product Ownership"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "scrum-master",
-        "label": "Scrum Master"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "solutions-architecture",
-        "label": "Solutions Architecture"
-      },
-      {
-        "slug": "information-security-analysis",
-        "label": "Information Security Analysis"
-      },
-      {
-        "slug": "ux-user-experience-writing",
-        "label": "UX (User Experience) Writing"
-      },
-      {
-        "slug": "agile-coaching",
-        "label": "Agile Coaching"
-      },
-      {
-        "slug": "qa-analysis",
-        "label": "QA Analysis"
-      },
-      {
-        "slug": "graphic-design",
-        "label": "Graphic Design"
-      },
-      {
-        "slug": "ux-user-experience-strategy",
-        "label": "UX (User Experience) Strategy"
-      },
-      {
-        "slug": "product-operations",
-        "label": "Product Operations"
-      },
-      {
-        "slug": "account-management",
-        "label": "Account Management"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -21223,84 +19244,6 @@
       {
         "slug": "all-milestones",
         "label": "All Milestones"
-      }
-    ],
-    "Job Industry - Transferrable Technical Skills Coming From This Industry 2": [
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
       }
     ],
     "Where Can I Learn More?": "Nielsen Norman Group, a trusted source for UX research and design: https://www.nngroup.com/"

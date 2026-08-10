@@ -40,6 +40,14 @@ const ENTITIES = [
 const slugify = s => String(s ?? "").toLowerCase().normalize("NFKD")
   .replace(/[’'"]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 80);
 
+// --- cleaning rules (normalization pass) ---
+// Drop Baserow lookup/duplicate columns: any field named "…copy" or ending in " <number>".
+const DROP = /\bcopy\b|\s\d+$/i;
+// Rename real fields Baserow happened to name with a "copy" suffix (per-entity).
+const RENAME = { "project-types": { "UX Design Deliverables copy": "UX Design Deliverables" } };
+const dedupe = arr => { const seen = new Set(); return arr.filter(x => { const k = x.slug ?? JSON.stringify(x); if (seen.has(k)) return false; seen.add(k); return true; }); };
+const isRawLookup = v => Array.isArray(v) && v.length && typeof v[0] === "object" && v[0] && "value" in v[0] && !("slug" in v[0]);
+
 async function getFields(id) {
   const r = await fetch(`${BASE}/api/database/fields/table/${id}/`, { headers: hdr });
   if (!r.ok) throw new Error(`fields ${id}: ${r.status}`);
@@ -61,7 +69,7 @@ const isEmpty = v => v == null || v === "" || (Array.isArray(v) && v.length === 
 function normalize(value, field) {
   switch (field.type) {
     case "link_row":
-      return value.map(v => ({ slug: slugify(v.value), label: v.value }));
+      return dedupe(value.map(v => ({ slug: slugify(v.value), label: v.value })));
     case "single_select":
       return value ? value.value : null;
     case "multiple_select":
@@ -71,7 +79,9 @@ function normalize(value, field) {
     case "multiple_collaborators":
       return value.map(v => v.name);
     default:
-      return value; // text, long_text, number, boolean, date, formula, lookup, rollup, etc.
+      // lookup/rollup fields come back as [{ids,value}]; normalize to clean {slug,label}
+      if (isRawLookup(value)) return dedupe(value.map(v => ({ slug: slugify(v.value), label: v.value })));
+      return value; // text, long_text, number, boolean, date, etc.
   }
 }
 
@@ -88,11 +98,13 @@ for (const ent of ENTITIES) {
     else seen.set(slug, 1);
     const rec = { id: row.id, slug };
     for (const f of fields) {
+      const key = (RENAME[ent.file] && RENAME[ent.file][f.name]) || f.name;
+      if (DROP.test(key)) continue; // drop lookup/duplicate cruft columns
       const v = row[f.name];
       if (isEmpty(v)) continue;
       const nv = normalize(v, f);
       if (isEmpty(nv)) continue;
-      rec[f.name] = nv;
+      rec[key] = nv;
     }
     return rec;
   });

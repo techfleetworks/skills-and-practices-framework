@@ -34,6 +34,10 @@ means "read the notes before you update."
   `data/handbooks` (long-form prose), and `data/visualizations` (mind maps). The handbooks
   and visualizations are the same framework data in other forms, so they live with the JSON.
   Documentation about the framework (the per-type READMEs) stays in `docs/data-types/`.
+- Normalized `data/json` to product-grade: dropped 46 Baserow lookup/duplicate columns,
+  converted lookup fields to clean, deduplicated `{slug, label}` relationships, and renamed
+  the mislabeled `UX Design Deliverables copy` to `UX Design Deliverables` (no data lost).
+  The cleaning rules live in `tools/sync-from-baserow.mjs`, so every future export stays clean.
 
 ## v0.1.0 — 2026-08-10
 

@@ -96,7 +96,6 @@
         "label": "Choosing Research Methods"
       }
     ],
-    "Roles 2": "UX (User Experience) Research",
     "Project Types": [
       {
         "slug": "website-project",
@@ -165,7 +164,6 @@
         "label": "Clickable Prototype Creation"
       }
     ],
-    "Roles 2": "UX (User Experience) Design",
     "Project Types": [
       {
         "slug": "website-project",
@@ -278,7 +276,6 @@
         "label": "Copywriting"
       }
     ],
-    "Roles 2": "UX (User Experience) Design, UX (User Experience) Writing",
     "Project Types": [
       {
         "slug": "website-project",
@@ -327,7 +324,6 @@
         "label": "Customer Experience Mapping"
       }
     ],
-    "Roles 2": "UX (User Experience) Design",
     "Project Types": [
       {
         "slug": "service-design-project",
@@ -376,7 +372,6 @@
         "label": "Customer Experience Mapping"
       }
     ],
-    "Roles 2": "UX (User Experience) Design, UX (User Experience) Writing",
     "Project Types": [
       {
         "slug": "website-project",
@@ -469,7 +464,6 @@
         "label": "Choosing Research Methods"
       }
     ],
-    "Roles 2": "UX (User Experience) Research",
     "Project Types": [
       {
         "slug": "website-project",
@@ -590,7 +584,6 @@
         "label": "Defining UX Design Operations"
       }
     ],
-    "Roles 2": "Business Analysis, Agile Coaching, Product Management, Product Ownership, Project Management, Scrum Master, UX (User Experience) Design",
     "Project Types": [
       {
         "slug": "website-project",
@@ -655,7 +648,6 @@
         "label": "Copywriting"
       }
     ],
-    "Roles 2": "UX (User Experience) Design, UX (User Experience) Writing",
     "Project Types": [
       {
         "slug": "website-project",
@@ -716,7 +708,6 @@
         "label": "Measuring Accessibility"
       }
     ],
-    "Roles 2": "UX (User Experience) Design, UX (User Experience) Writing",
     "Project Types": [
       {
         "slug": "website-project",
@@ -785,7 +776,6 @@
         "label": "Rapid Ideation"
       }
     ],
-    "Roles 2": "UX (User Experience) Design, UX (User Experience) Research, UX (User Experience) Writing",
     "Project Types": [
       {
         "slug": "website-project",
@@ -846,7 +836,6 @@
         "label": "Creating Illustrations"
       }
     ],
-    "Roles 2": "UX (User Experience) Design",
     "Project Types": [
       {
         "slug": "website-project",
@@ -907,7 +896,6 @@
         "label": "Optimizing SEO"
       }
     ],
-    "Roles 2": "UX (User Experience) Design, UX (User Experience) Writing",
     "Project Types": [
       {
         "slug": "website-project",
@@ -964,7 +952,6 @@
         "label": "Front-End Coding"
       }
     ],
-    "Roles 2": "Development",
     "Project Types": [
       {
         "slug": "website-project",
@@ -1017,7 +1004,6 @@
         "label": "Database Creation"
       }
     ],
-    "Roles 2": "Development",
     "Project Types": [
       {
         "slug": "website-project",
@@ -1082,7 +1068,6 @@
         "label": "Database Creation"
       }
     ],
-    "Roles 2": "Development",
     "Project Types": [
       {
         "slug": "mobile-app-project",
@@ -1122,8 +1107,7 @@
         "slug": "blockchain-coding",
         "label": "Blockchain Coding"
       }
-    ],
-    "Roles 2": "Development"
+    ]
   },
   {
     "id": 18,
@@ -1159,7 +1143,6 @@
         "label": "Information Security Audit"
       }
     ],
-    "Roles 2": "Information Security Analysis, QA Analysis, Solutions Architecture",
     "Project Types": [
       {
         "slug": "website-project",
@@ -1238,8 +1221,7 @@
         "slug": "copywriting",
         "label": "Copywriting"
       }
-    ],
-    "Roles 2": "UX (User Experience) Design, UX (User Experience) Writing, UX (User Experience) Research"
+    ]
   },
   {
     "id": 20,
@@ -1329,7 +1311,6 @@
         "label": "Investigating Competitors"
       }
     ],
-    "Roles 2": "Product Management",
     "Project Types": [
       {
         "slug": "website-project",

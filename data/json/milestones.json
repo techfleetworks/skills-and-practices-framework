@@ -1012,7 +1012,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Projects 3": "Philly Truce, PILR Training App, Ruminate, Safe Place International, Science To People, Taino Conference Website (Hosted by Casa Areyto), Taino Language App (Hosted by Casa Areyto), The Melanin Village, Thrive Out Loud (Sean's Legacy)",
     "Project Types": [
       {
         "slug": "website-project",
@@ -1259,20 +1258,6 @@
       {
         "slug": "phase-1",
         "label": "Phase 1"
-      }
-    ],
-    "Project Phases - New Milestones In This Phase 2": [
-      {
-        "slug": "phase-2",
-        "label": "Phase 2"
-      },
-      {
-        "slug": "phase-3",
-        "label": "Phase 3"
-      },
-      {
-        "slug": "phase-n-1",
-        "label": "Phase N + 1"
       }
     ],
     "Milestone Description": "Continuous Discovery is the practice of staying connected to the people a team is building for, instead of guessing what they need. Throughout a project the team keeps interviewing users, digging into problems, and testing its assumptions, and it turns what it hears into clear problem statements and a read on the competition. The name says it plainly: this is continuous. You learn a little at a time, all the way through, so the team is never designing in the dark.",
@@ -2073,7 +2058,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Projects 3": "Baddies in Tech",
     "Project Types": [
       {
         "slug": "website-project",
@@ -2162,16 +2146,6 @@
       {
         "slug": "phase-2",
         "label": "Phase 2"
-      }
-    ],
-    "Project Phases - New Milestones In This Phase 2": [
-      {
-        "slug": "phase-3",
-        "label": "Phase 3"
-      },
-      {
-        "slug": "phase-n-1",
-        "label": "Phase N + 1"
       }
     ],
     "Milestone Description": "Requirements is the work of turning a rough idea into a shared picture of what to build. The team writes what it has learned as user stories and acceptance criteria, plain statements of what needs to happen and how everyone will know it is finished. In agile work you write just enough to get moving and keep refining as you learn, rather than trying to spell out every detail before anyone starts.",
@@ -2572,7 +2546,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Projects 3": "Baddies in Tech",
     "Project Types": [
       {
         "slug": "website-project",
@@ -2611,20 +2584,6 @@
       {
         "slug": "phase-1",
         "label": "Phase 1"
-      }
-    ],
-    "Project Phases - New Milestones In This Phase 2": [
-      {
-        "slug": "phase-2",
-        "label": "Phase 2"
-      },
-      {
-        "slug": "phase-3",
-        "label": "Phase 3"
-      },
-      {
-        "slug": "phase-n-1",
-        "label": "Phase N + 1"
       }
     ],
     "Milestone Description": "Scope is where a team decides what to take on now and what can wait. There are always more ideas than time, so the team chooses which pieces of work, the epics and features, to commit to and which to set aside for later. The goal is not to do everything, but to pick the right things to do first, and to keep adjusting that choice as the work teaches the team more.",
@@ -3668,16 +3627,6 @@
       {
         "slug": "phase-2",
         "label": "Phase 2"
-      }
-    ],
-    "Project Phases - New Milestones In This Phase 2": [
-      {
-        "slug": "phase-3",
-        "label": "Phase 3"
-      },
-      {
-        "slug": "phase-n-1",
-        "label": "Phase N + 1"
       }
     ],
     "Milestone Description": "Implement is where the building happens and plans become real. Wireframes turn into working screens, and the product's components and brand come together. It is the hands-on, make-it-real work, and it usually takes the most time and energy, done in short repeating cycles rather than one long push.",
@@ -4977,20 +4926,6 @@
         "label": "Phase 1"
       }
     ],
-    "Project Phases - New Milestones In This Phase 2": [
-      {
-        "slug": "phase-2",
-        "label": "Phase 2"
-      },
-      {
-        "slug": "phase-3",
-        "label": "Phase 3"
-      },
-      {
-        "slug": "phase-n-1",
-        "label": "Phase N + 1"
-      }
-    ],
     "Milestone Description": "Vision is where a team decides where it is headed and why the trip is worth taking. Before working through the details, the team steps back to describe the bigger picture: who it is serving, what success looks like, and a rough roadmap to get there. This becomes the reference point people line their work up against.",
     "Why Is This Milestone Important?": "Without a shared vision, teams drift and small decisions turn into debates. A clear vision gives people a standard to measure their choices against, which makes day-to-day decisions faster and more consistent.",
     "When Should You Do This Milestone In Projects?": "Vision usually takes shape early, but it is worth returning to. As the team learns, the picture can change, so revisiting the vision partway through, even after a launch, is a healthy part of iterating rather than a sign that something went wrong.",
@@ -5577,7 +5512,6 @@
         "label": "Agile Coach"
       }
     ],
-    "Projects 3": "Baddies in Tech",
     "Project Types": [
       {
         "slug": "website-project",
@@ -5670,16 +5604,6 @@
       {
         "slug": "phase-2",
         "label": "Phase 2"
-      }
-    ],
-    "Project Phases - New Milestones In This Phase 2": [
-      {
-        "slug": "phase-3",
-        "label": "Phase 3"
-      },
-      {
-        "slug": "phase-n-1",
-        "label": "Phase N + 1"
       }
     ],
     "Milestone Description": "Acceptance Testing is the team's reality check on whether the work truly does what it should. The team puts the work in front of users and against its own quality standards, and this is where problems like a confusing screen or a broken flow show up while they are still cheap to fix.",
@@ -6464,20 +6388,6 @@
       {
         "slug": "phase-1",
         "label": "Phase 1"
-      }
-    ],
-    "Project Phases - New Milestones In This Phase 2": [
-      {
-        "slug": "phase-2",
-        "label": "Phase 2"
-      },
-      {
-        "slug": "phase-3",
-        "label": "Phase 3"
-      },
-      {
-        "slug": "phase-n-1",
-        "label": "Phase N + 1"
       }
     ],
     "Milestone Description": "Intake is the first real handshake of a project, where the team and the client get on the same page before the work begins. Together they sort out what the project is, what success means, and how they will work together, and they capture it in things like a statement of work and a set of shared agreements. It is short, but it sets the tone for everything after.",

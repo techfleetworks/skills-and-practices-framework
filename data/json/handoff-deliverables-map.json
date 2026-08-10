@@ -22,18 +22,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 75,
-          "database_table_1124240": 6
-        },
-        "value": "Project Plan Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 85,
-          "database_table_1124240": 6
-        },
-        "value": "Project Plan Workshop Template"
+        "slug": "project-plan-workshop-template",
+        "label": "Project Plan Workshop Template"
       }
     ],
     "Unique ID": 1
@@ -61,18 +51,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 75,
-          "database_table_1124240": 6
-        },
-        "value": "Project Plan Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 85,
-          "database_table_1124240": 6
-        },
-        "value": "Project Plan Workshop Template"
+        "slug": "project-plan-workshop-template",
+        "label": "Project Plan Workshop Template"
       }
     ],
     "Unique ID": 2
@@ -96,11 +76,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 68,
-          "database_table_1124240": 5
-        },
-        "value": "RACI Hats Workshop Template"
+        "slug": "raci-hats-workshop-template",
+        "label": "RACI Hats Workshop Template"
       }
     ],
     "Unique ID": 3
@@ -137,11 +114,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 27,
-          "database_table_1124240": 4
-        },
-        "value": "Client Kickoff Workshop Template"
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
       }
     ],
     "Unique ID": 5
@@ -178,11 +152,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 99,
-          "database_table_1124240": 8
-        },
-        "value": "Team Process Mapping Workshop Template"
+        "slug": "team-process-mapping-workshop-template",
+        "label": "Team Process Mapping Workshop Template"
       }
     ],
     "Unique ID": 7
@@ -206,11 +177,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 27,
-          "database_table_1124240": 4
-        },
-        "value": "Client Kickoff Workshop Template"
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
       }
     ],
     "Unique ID": 8
@@ -242,25 +210,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 2,
-          "database_table_1124240": 13
-        },
-        "value": "Scenario-Based Problem Statement Generation Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 3,
-          "database_table_1124240": 13
-        },
-        "value": "Scenario-Based Problem Statement Generation Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 7,
-          "database_table_1124240": 13
-        },
-        "value": "Scenario-Based Problem Statement Generation Workshop Template"
+        "slug": "scenario-based-problem-statement-generation-workshop-template",
+        "label": "Scenario-Based Problem Statement Generation Workshop Template"
       }
     ],
     "Unique ID": 9
@@ -300,46 +251,16 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 51,
-          "database_table_1124240": 15
-        },
-        "value": "Research Plan Workshop Template"
+        "slug": "research-plan-workshop-template",
+        "label": "Research Plan Workshop Template"
       },
       {
-        "ids": {
-          "database_table_669475": 47,
-          "database_table_1124240": 20
-        },
-        "value": "UX Research Analysis Workshop Template"
+        "slug": "ux-research-analysis-workshop-template",
+        "label": "UX Research Analysis Workshop Template"
       },
       {
-        "ids": {
-          "database_table_669475": 48,
-          "database_table_1124240": 20
-        },
-        "value": "UX Research Analysis Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 49,
-          "database_table_1124240": 20
-        },
-        "value": "UX Research Analysis Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 66,
-          "database_table_1124240": 20
-        },
-        "value": "UX Research Analysis Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 47,
-          "database_table_1124240": 29
-        },
-        "value": "Research Analysis Presentation Slide Template"
+        "slug": "research-analysis-presentation-slide-template",
+        "label": "Research Analysis Presentation Slide Template"
       }
     ],
     "Unique ID": 10
@@ -363,11 +284,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 30,
-          "database_table_1124240": 30
-        },
-        "value": "KPI Success Measurements Definition Workshop Template"
+        "slug": "kpi-success-measurements-definition-workshop-template",
+        "label": "KPI Success Measurements Definition Workshop Template"
       }
     ],
     "Unique ID": 11
@@ -415,32 +333,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 1,
-          "database_table_1124240": 7
-        },
-        "value": "Vision and Scope Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 4,
-          "database_table_1124240": 7
-        },
-        "value": "Vision and Scope Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 5,
-          "database_table_1124240": 7
-        },
-        "value": "Vision and Scope Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 24,
-          "database_table_1124240": 7
-        },
-        "value": "Vision and Scope Workshop Template"
+        "slug": "vision-and-scope-workshop-template",
+        "label": "Vision and Scope Workshop Template"
       }
     ],
     "Unique ID": 12
@@ -488,32 +382,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 1,
-          "database_table_1124240": 7
-        },
-        "value": "Vision and Scope Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 4,
-          "database_table_1124240": 7
-        },
-        "value": "Vision and Scope Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 5,
-          "database_table_1124240": 7
-        },
-        "value": "Vision and Scope Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 24,
-          "database_table_1124240": 7
-        },
-        "value": "Vision and Scope Workshop Template"
+        "slug": "vision-and-scope-workshop-template",
+        "label": "Vision and Scope Workshop Template"
       }
     ],
     "Unique ID": 13
@@ -537,11 +407,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 72,
-          "database_table_1124240": 11
-        },
-        "value": "Sprint Retro Workshop Template"
+        "slug": "sprint-retro-workshop-template",
+        "label": "Sprint Retro Workshop Template"
       }
     ],
     "Unique ID": 14
@@ -605,53 +472,20 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 44,
-          "database_table_1124240": 17
-        },
-        "value": "Storyboarding Workshop Template"
+        "slug": "storyboarding-workshop-template",
+        "label": "Storyboarding Workshop Template"
       },
       {
-        "ids": {
-          "database_table_669475": 50,
-          "database_table_1124240": 23
-        },
-        "value": "Customer Experience Map Workshop Template"
+        "slug": "customer-experience-map-workshop-template",
+        "label": "Customer Experience Map Workshop Template"
       },
       {
-        "ids": {
-          "database_table_669475": 18,
-          "database_table_1124240": 24
-        },
-        "value": "User Journey Map Workshop Template"
+        "slug": "user-journey-map-workshop-template",
+        "label": "User Journey Map Workshop Template"
       },
       {
-        "ids": {
-          "database_table_669475": 18,
-          "database_table_1124240": 36
-        },
-        "value": "Customer Experience Strategy Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 50,
-          "database_table_1124240": 36
-        },
-        "value": "Customer Experience Strategy Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 54,
-          "database_table_1124240": 36
-        },
-        "value": "Customer Experience Strategy Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 105,
-          "database_table_1124240": 36
-        },
-        "value": "Customer Experience Strategy Workshop Template"
+        "slug": "customer-experience-strategy-workshop-template",
+        "label": "Customer Experience Strategy Workshop Template"
       }
     ],
     "Unique ID": 15
@@ -726,11 +560,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 45,
-          "database_table_1124240": 16
-        },
-        "value": "Rapid Ideation Workshop Template"
+        "slug": "rapid-ideation-workshop-template",
+        "label": "Rapid Ideation Workshop Template"
       }
     ],
     "Unique ID": 17
@@ -767,11 +598,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 52,
-          "database_table_1124240": 34
-        },
-        "value": "Tech Fleet Sprint Demo Slide Deck Template"
+        "slug": "tech-fleet-sprint-demo-slide-deck-template",
+        "label": "Tech Fleet Sprint Demo Slide Deck Template"
       }
     ],
     "Unique ID": 19
@@ -808,11 +636,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 80,
-          "database_table_1124240": 34
-        },
-        "value": "Tech Fleet Sprint Demo Slide Deck Template"
+        "slug": "tech-fleet-sprint-demo-slide-deck-template",
+        "label": "Tech Fleet Sprint Demo Slide Deck Template"
       }
     ],
     "Unique ID": 21
@@ -836,11 +661,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 35,
-          "database_table_1124240": 8
-        },
-        "value": "Team Process Mapping Workshop Template"
+        "slug": "team-process-mapping-workshop-template",
+        "label": "Team Process Mapping Workshop Template"
       }
     ],
     "Unique ID": 22
@@ -890,11 +712,8 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 72,
-          "database_table_1124240": 11
-        },
-        "value": "Sprint Retro Workshop Template"
+        "slug": "sprint-retro-workshop-template",
+        "label": "Sprint Retro Workshop Template"
       }
     ],
     "Unique ID": 25
@@ -922,25 +741,12 @@
     ],
     "Workshop Associated with the Deliverables": [
       {
-        "ids": {
-          "database_table_669475": 47,
-          "database_table_1124240": 20
-        },
-        "value": "UX Research Analysis Workshop Template"
+        "slug": "ux-research-analysis-workshop-template",
+        "label": "UX Research Analysis Workshop Template"
       },
       {
-        "ids": {
-          "database_table_669475": 66,
-          "database_table_1124240": 20
-        },
-        "value": "UX Research Analysis Workshop Template"
-      },
-      {
-        "ids": {
-          "database_table_669475": 47,
-          "database_table_1124240": 29
-        },
-        "value": "Research Analysis Presentation Slide Template"
+        "slug": "research-analysis-presentation-slide-template",
+        "label": "Research Analysis Presentation Slide Template"
       }
     ],
     "Unique ID": 26

@@ -1169,7 +1169,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Transitioning into UX Design copy": "Academia, Accounting, Agriculture, Business, Construction, Creative, Development, Film, Finance, Government, Hospitality, Indutrial Design, Legal, Marketing, Medical, Mental Health, Nonprofit, Primary and Secondary Education, Program Management, Project Management, Real Estate, Retail, Sales, Theatre, Tourism, Transportation, User Experience Research",
     "Workshops": "Customer Experience Workshop",
     "Activities": [
       {
@@ -1225,176 +1224,6 @@
         "label": "Creating Annotations"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "icon-and-logo-creation",
-        "label": "Icon and Logo Creation"
-      },
-      {
-        "slug": "feature-vision-definition",
-        "label": "Feature Vision Definition"
-      },
-      {
-        "slug": "feature-scope-definition",
-        "label": "Feature Scope Definition"
-      },
-      {
-        "slug": "analyzing-research-findings",
-        "label": "Analyzing Research Findings"
-      },
-      {
-        "slug": "presenting-research-results",
-        "label": "Presenting Research Results"
-      },
-      {
-        "slug": "moderating-ux-research",
-        "label": "Moderating UX Research"
-      },
-      {
-        "slug": "secondary-research",
-        "label": "Secondary Research"
-      },
-      {
-        "slug": "card-sorting",
-        "label": "Card Sorting "
-      },
-      {
-        "slug": "interviewing",
-        "label": "Interviewing"
-      },
-      {
-        "slug": "surveys",
-        "label": "Surveys"
-      },
-      {
-        "slug": "diary-studies",
-        "label": "Diary Studies"
-      },
-      {
-        "slug": "contextual-inquiries",
-        "label": "Contextual Inquiries"
-      },
-      {
-        "slug": "observing-ethnography",
-        "label": "Observing (Ethnography)"
-      },
-      {
-        "slug": "usability-testing",
-        "label": "Usability Testing"
-      },
-      {
-        "slug": "prototype-concept-testing",
-        "label": "Prototype Concept Testing "
-      },
-      {
-        "slug": "a-b-prototype-test-creation",
-        "label": "A/B Prototype Test Creation"
-      },
-      {
-        "slug": "ux-heuristics-analysis",
-        "label": "UX Heuristics Analysis"
-      },
-      {
-        "slug": "market-research",
-        "label": "Market Research"
-      },
-      {
-        "slug": "autotest-creation",
-        "label": "Autotest Creation"
-      },
-      {
-        "slug": "user-acceptance-testing",
-        "label": "User Acceptance Testing"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "information-security-audit",
-        "label": "Information Security Audit"
-      },
-      {
-        "slug": "identifying-research-patterns",
-        "label": "Identifying Research Patterns"
-      },
-      {
-        "slug": "experiment-design",
-        "label": "Experiment Design"
-      },
-      {
-        "slug": "inventorying-content",
-        "label": "Inventorying Content"
-      },
-      {
-        "slug": "developing-go-to-market-strategy",
-        "label": "Developing Go-To-Market Strategy"
-      },
-      {
-        "slug": "entity-relationship-creation",
-        "label": "Entity Relationship Creation"
-      },
-      {
-        "slug": "creating-rest-apis",
-        "label": "Creating REST APIs"
-      },
-      {
-        "slug": "creating-research-plans",
-        "label": "Creating Research Plans"
-      },
-      {
-        "slug": "calculating-statistics",
-        "label": "Calculating Statistics"
-      },
-      {
-        "slug": "site-map-testing",
-        "label": "Site Map Testing"
-      },
-      {
-        "slug": "copywriting",
-        "label": "Copywriting"
-      },
-      {
-        "slug": "server-side-coding",
-        "label": "Server-Side Coding"
-      },
-      {
-        "slug": "front-end-coding",
-        "label": "Front-End Coding"
-      },
-      {
-        "slug": "creating-illustrations",
-        "label": "Creating Illustrations"
-      },
-      {
-        "slug": "blockchain-coding",
-        "label": "Blockchain Coding"
-      },
-      {
-        "slug": "collecting-analytics",
-        "label": "Collecting Analytics"
-      },
-      {
-        "slug": "primary-research",
-        "label": "Primary Research"
-      },
-      {
-        "slug": "choosing-research-methods",
-        "label": "Choosing Research Methods"
-      },
-      {
-        "slug": "maintaining-the-client-relationship",
-        "label": "Maintaining the Client Relationship"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
-      },
-      {
-        "slug": "investigating-competitors",
-        "label": "Investigating Competitors"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -1433,56 +1262,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "scope",
-        "label": "Scope"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "implement",
-        "label": "Implement"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "implement",
-        "label": "Implement"
-      }
-    ],
     "Job Titles in the World": "Product Designer, UI Engineer",
     "Practices": [
       {
@@ -1516,237 +1295,44 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 1,
-          "database_table_669475": 37
-        },
-        "value": "Wireframes"
+        "slug": "wireframes",
+        "label": "Wireframes"
       },
       {
-        "ids": {
-          "database_table_669472": 37,
-          "database_table_669475": 37
-        },
-        "value": "Wireframes"
+        "slug": "low-fidelity-prototypes",
+        "label": "Low-Fidelity Prototypes"
       },
       {
-        "ids": {
-          "database_table_669472": 49,
-          "database_table_669475": 37
-        },
-        "value": "Wireframes"
+        "slug": "high-fidelity-prototypes",
+        "label": "High-Fidelity Prototypes"
       },
       {
-        "ids": {
-          "database_table_669472": 36,
-          "database_table_669475": 38
-        },
-        "value": "Low-Fidelity Prototypes"
+        "slug": "ui-development-specifications",
+        "label": "UI Development Specifications"
       },
       {
-        "ids": {
-          "database_table_669472": 37,
-          "database_table_669475": 38
-        },
-        "value": "Low-Fidelity Prototypes"
+        "slug": "design-annotation",
+        "label": "Design Annotation"
       },
       {
-        "ids": {
-          "database_table_669472": 49,
-          "database_table_669475": 38
-        },
-        "value": "Low-Fidelity Prototypes"
+        "slug": "design-system",
+        "label": "Design System"
       },
       {
-        "ids": {
-          "database_table_669472": 36,
-          "database_table_669475": 39
-        },
-        "value": "High-Fidelity Prototypes"
+        "slug": "sitemap",
+        "label": "Sitemap"
       },
       {
-        "ids": {
-          "database_table_669472": 37,
-          "database_table_669475": 39
-        },
-        "value": "High-Fidelity Prototypes"
+        "slug": "taxonomy",
+        "label": "Taxonomy"
       },
       {
-        "ids": {
-          "database_table_669472": 49,
-          "database_table_669475": 39
-        },
-        "value": "High-Fidelity Prototypes"
+        "slug": "component-library",
+        "label": "Component Library"
       },
       {
-        "ids": {
-          "database_table_669472": 93,
-          "database_table_669475": 40
-        },
-        "value": "UI Development Specifications"
-      },
-      {
-        "ids": {
-          "database_table_669472": 93,
-          "database_table_669475": 41
-        },
-        "value": "Design Annotation"
-      },
-      {
-        "ids": {
-          "database_table_669472": 35,
-          "database_table_669475": 53
-        },
-        "value": "Design System"
-      },
-      {
-        "ids": {
-          "database_table_669472": 36,
-          "database_table_669475": 54
-        },
-        "value": "Sitemap"
-      },
-      {
-        "ids": {
-          "database_table_669472": 36,
-          "database_table_669475": 57
-        },
-        "value": "Taxonomy"
-      },
-      {
-        "ids": {
-          "database_table_669472": 5,
-          "database_table_669475": 65
-        },
-        "value": "Component Library"
-      },
-      {
-        "ids": {
-          "database_table_669472": 35,
-          "database_table_669475": 65
-        },
-        "value": "Component Library"
-      },
-      {
-        "ids": {
-          "database_table_669472": 73,
-          "database_table_669475": 101
-        },
-        "value": "SEO Strategy"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
+        "slug": "seo-strategy",
+        "label": "SEO Strategy"
       }
     ],
     "Duty Description": "The UX Design duty is about shaping how a product actually works for the people using it, turning rough ideas into screens and flows that feel simple. Day to day that means sketching wireframes, building clickable prototypes, and pulling patterns together into a design system so the whole product feels like one coherent thing. Designers rarely work in a straight line; they try something, put it in front of people, and refine it as the team learns.",
@@ -3164,116 +2750,6 @@
         "label": "Choosing Research Methods"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "wireframing",
-        "label": "Wireframing"
-      },
-      {
-        "slug": "design-component-creation",
-        "label": "Design Component Creation"
-      },
-      {
-        "slug": "feature-vision-definition",
-        "label": "Feature Vision Definition"
-      },
-      {
-        "slug": "feature-scope-definition",
-        "label": "Feature Scope Definition"
-      },
-      {
-        "slug": "generating-problem-statements",
-        "label": "Generating Problem Statements"
-      },
-      {
-        "slug": "storyboarding",
-        "label": "Storyboarding"
-      },
-      {
-        "slug": "product-positioning",
-        "label": "Product Positioning"
-      },
-      {
-        "slug": "ui-kit-creation",
-        "label": "UI Kit Creation"
-      },
-      {
-        "slug": "developing-information-architecture",
-        "label": "Developing Information Architecture"
-      },
-      {
-        "slug": "prototype-creation",
-        "label": "Prototype Creation"
-      },
-      {
-        "slug": "market-research",
-        "label": "Market Research"
-      },
-      {
-        "slug": "clickable-prototype-creation",
-        "label": "Clickable Prototype Creation"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "developing-go-to-market-strategy",
-        "label": "Developing Go-To-Market Strategy"
-      },
-      {
-        "slug": "customer-segmentation",
-        "label": "Customer Segmentation"
-      },
-      {
-        "slug": "price-testing",
-        "label": "Price Testing"
-      },
-      {
-        "slug": "customer-experience-mapping",
-        "label": "Customer Experience Mapping"
-      },
-      {
-        "slug": "creating-rest-apis",
-        "label": "Creating REST APIs"
-      },
-      {
-        "slug": "search-engine-optimization-seo-design",
-        "label": "Search Engine Optimization (SEO) Design"
-      },
-      {
-        "slug": "rapid-ideation",
-        "label": "Rapid Ideation"
-      },
-      {
-        "slug": "user-story-generation",
-        "label": "User Story Generation"
-      },
-      {
-        "slug": "measuring-accessibility",
-        "label": "Measuring Accessibility"
-      },
-      {
-        "slug": "copywriting",
-        "label": "Copywriting"
-      },
-      {
-        "slug": "creating-annotations",
-        "label": "Creating Annotations"
-      },
-      {
-        "slug": "maintaining-the-client-relationship",
-        "label": "Maintaining the Client Relationship"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
-      },
-      {
-        "slug": "investigating-competitors",
-        "label": "Investigating Competitors"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -3312,84 +2788,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "scope",
-        "label": "Scope"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      }
-    ],
     "Job Titles in the World": "Product Designer",
     "Practices": [
       {
@@ -3423,438 +2821,76 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 96,
-          "database_table_669475": 14
-        },
-        "value": "Competitive Analysis"
+        "slug": "competitive-analysis",
+        "label": "Competitive Analysis"
       },
       {
-        "ids": {
-          "database_table_669472": 23,
-          "database_table_669475": 18
-        },
-        "value": "User Journey Map"
+        "slug": "user-journey-map",
+        "label": "User Journey Map"
       },
       {
-        "ids": {
-          "database_table_669472": 88,
-          "database_table_669475": 18
-        },
-        "value": "User Journey Map"
+        "slug": "wireframes",
+        "label": "Wireframes"
       },
       {
-        "ids": {
-          "database_table_669472": 34,
-          "database_table_669475": 37
-        },
-        "value": "Wireframes"
+        "slug": "low-fidelity-prototypes",
+        "label": "Low-Fidelity Prototypes"
       },
       {
-        "ids": {
-          "database_table_669472": 34,
-          "database_table_669475": 38
-        },
-        "value": "Low-Fidelity Prototypes"
+        "slug": "high-fidelity-prototypes",
+        "label": "High-Fidelity Prototypes"
       },
       {
-        "ids": {
-          "database_table_669472": 34,
-          "database_table_669475": 39
-        },
-        "value": "High-Fidelity Prototypes"
+        "slug": "ux-audit-report",
+        "label": "UX Audit Report"
       },
       {
-        "ids": {
-          "database_table_669472": 40,
-          "database_table_669475": 42
-        },
-        "value": "UX Audit Report"
+        "slug": "empathy-map",
+        "label": "Empathy Map"
       },
       {
-        "ids": {
-          "database_table_669472": 86,
-          "database_table_669475": 42
-        },
-        "value": "UX Audit Report"
+        "slug": "task-analysis",
+        "label": "Task Analysis"
       },
       {
-        "ids": {
-          "database_table_669472": 23,
-          "database_table_669475": 43
-        },
-        "value": "Empathy Map"
+        "slug": "research-report",
+        "label": "Research Report"
       },
       {
-        "ids": {
-          "database_table_669472": 88,
-          "database_table_669475": 43
-        },
-        "value": "Empathy Map"
+        "slug": "rainbow-table",
+        "label": "Rainbow Table"
       },
       {
-        "ids": {
-          "database_table_669472": 74,
-          "database_table_669475": 46
-        },
-        "value": "Task Analysis"
+        "slug": "affinity-map",
+        "label": "Affinity Map"
       },
       {
-        "ids": {
-          "database_table_669472": 12,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
+        "slug": "research-plan",
+        "label": "Research Plan"
       },
       {
-        "ids": {
-          "database_table_669472": 18,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
+        "slug": "sitemap",
+        "label": "Sitemap"
       },
       {
-        "ids": {
-          "database_table_669472": 22,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
+        "slug": "analytics-audit",
+        "label": "Analytics Audit"
       },
       {
-        "ids": {
-          "database_table_669472": 23,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
+        "slug": "usability-test-report",
+        "label": "Usability Test Report"
       },
       {
-        "ids": {
-          "database_table_669472": 25,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
+        "slug": "research-analysis",
+        "label": "Research Analysis"
       },
       {
-        "ids": {
-          "database_table_669472": 26,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
+        "slug": "stakeholder-feedback",
+        "label": "Stakeholder Feedback"
       },
       {
-        "ids": {
-          "database_table_669472": 29,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 30,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 31,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 32,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 33,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 47,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 79,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 88,
-          "database_table_669475": 47
-        },
-        "value": "Research Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 12,
-          "database_table_669475": 48
-        },
-        "value": "Rainbow Table"
-      },
-      {
-        "ids": {
-          "database_table_669472": 23,
-          "database_table_669475": 49
-        },
-        "value": "Affinity Map"
-      },
-      {
-        "ids": {
-          "database_table_669472": 74,
-          "database_table_669475": 49
-        },
-        "value": "Affinity Map"
-      },
-      {
-        "ids": {
-          "database_table_669472": 88,
-          "database_table_669475": 49
-        },
-        "value": "Affinity Map"
-      },
-      {
-        "ids": {
-          "database_table_669472": 23,
-          "database_table_669475": 51
-        },
-        "value": "Research Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 24,
-          "database_table_669475": 51
-        },
-        "value": "Research Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 26,
-          "database_table_669475": 51
-        },
-        "value": "Research Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 31,
-          "database_table_669475": 51
-        },
-        "value": "Research Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 32,
-          "database_table_669475": 51
-        },
-        "value": "Research Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 33,
-          "database_table_669475": 51
-        },
-        "value": "Research Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 47,
-          "database_table_669475": 51
-        },
-        "value": "Research Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 59,
-          "database_table_669475": 51
-        },
-        "value": "Research Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 74,
-          "database_table_669475": 51
-        },
-        "value": "Research Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 88,
-          "database_table_669475": 51
-        },
-        "value": "Research Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 89,
-          "database_table_669475": 51
-        },
-        "value": "Research Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 79,
-          "database_table_669475": 54
-        },
-        "value": "Sitemap"
-      },
-      {
-        "ids": {
-          "database_table_669472": 77,
-          "database_table_669475": 56
-        },
-        "value": "Analytics Audit"
-      },
-      {
-        "ids": {
-          "database_table_669472": 86,
-          "database_table_669475": 56
-        },
-        "value": "Analytics Audit"
-      },
-      {
-        "ids": {
-          "database_table_669472": 12,
-          "database_table_669475": 61
-        },
-        "value": "Usability Test Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 18,
-          "database_table_669475": 61
-        },
-        "value": "Usability Test Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 32,
-          "database_table_669475": 61
-        },
-        "value": "Usability Test Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 74,
-          "database_table_669475": 61
-        },
-        "value": "Usability Test Report"
-      },
-      {
-        "ids": {
-          "database_table_669472": 12,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 22,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 23,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 24,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 26,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 31,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 32,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 33,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 47,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 58,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 77,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 79,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 88,
-          "database_table_669475": 66
-        },
-        "value": "Research Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 47,
-          "database_table_669475": 80
-        },
-        "value": "Stakeholder Feedback"
-      },
-      {
-        "ids": {
-          "database_table_669472": 78,
-          "database_table_669475": 95
-        },
-        "value": "Accessibility Analysis"
+        "slug": "accessibility-analysis",
+        "label": "Accessibility Analysis"
       }
     ],
     "Workshops - What RACI Hat Owns This Workshop?": [
@@ -4951,7 +3987,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Transitioning from Other Fields 2": "Agriculture",
     "Activities": [
       {
         "slug": "requirements-gathering",
@@ -4982,248 +4017,6 @@
         "label": "Creating Acceptance Criteria"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "wireframing",
-        "label": "Wireframing"
-      },
-      {
-        "slug": "design-component-creation",
-        "label": "Design Component Creation"
-      },
-      {
-        "slug": "brand-identity-formation",
-        "label": "Brand Identity Formation"
-      },
-      {
-        "slug": "icon-and-logo-creation",
-        "label": "Icon and Logo Creation"
-      },
-      {
-        "slug": "feature-vision-definition",
-        "label": "Feature Vision Definition"
-      },
-      {
-        "slug": "feature-scope-definition",
-        "label": "Feature Scope Definition"
-      },
-      {
-        "slug": "analyzing-research-findings",
-        "label": "Analyzing Research Findings"
-      },
-      {
-        "slug": "presenting-research-results",
-        "label": "Presenting Research Results"
-      },
-      {
-        "slug": "defining-team-working-agreements",
-        "label": "Defining Team Working Agreements"
-      },
-      {
-        "slug": "moderating-ux-research",
-        "label": "Moderating UX Research"
-      },
-      {
-        "slug": "secondary-research",
-        "label": "Secondary Research"
-      },
-      {
-        "slug": "card-sorting",
-        "label": "Card Sorting "
-      },
-      {
-        "slug": "interviewing",
-        "label": "Interviewing"
-      },
-      {
-        "slug": "surveys",
-        "label": "Surveys"
-      },
-      {
-        "slug": "storyboarding",
-        "label": "Storyboarding"
-      },
-      {
-        "slug": "product-positioning",
-        "label": "Product Positioning"
-      },
-      {
-        "slug": "diary-studies",
-        "label": "Diary Studies"
-      },
-      {
-        "slug": "contextual-inquiries",
-        "label": "Contextual Inquiries"
-      },
-      {
-        "slug": "observing-ethnography",
-        "label": "Observing (Ethnography)"
-      },
-      {
-        "slug": "usability-testing",
-        "label": "Usability Testing"
-      },
-      {
-        "slug": "prototype-concept-testing",
-        "label": "Prototype Concept Testing "
-      },
-      {
-        "slug": "a-b-prototype-test-creation",
-        "label": "A/B Prototype Test Creation"
-      },
-      {
-        "slug": "ui-kit-creation",
-        "label": "UI Kit Creation"
-      },
-      {
-        "slug": "developing-information-architecture",
-        "label": "Developing Information Architecture"
-      },
-      {
-        "slug": "prototype-creation",
-        "label": "Prototype Creation"
-      },
-      {
-        "slug": "tracking-epic-progress",
-        "label": "Tracking Epic Progress"
-      },
-      {
-        "slug": "ux-heuristics-analysis",
-        "label": "UX Heuristics Analysis"
-      },
-      {
-        "slug": "market-research",
-        "label": "Market Research"
-      },
-      {
-        "slug": "qa-testing",
-        "label": "QA Testing"
-      },
-      {
-        "slug": "user-acceptance-testing",
-        "label": "User Acceptance Testing"
-      },
-      {
-        "slug": "clickable-prototype-creation",
-        "label": "Clickable Prototype Creation"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "threat-modeling",
-        "label": "Threat Modeling"
-      },
-      {
-        "slug": "penetration-testing",
-        "label": "Penetration Testing"
-      },
-      {
-        "slug": "firewall-configuration",
-        "label": "Firewall Configuration"
-      },
-      {
-        "slug": "security-protocol-definition",
-        "label": "Security Protocol Definition"
-      },
-      {
-        "slug": "information-security-audit",
-        "label": "Information Security Audit"
-      },
-      {
-        "slug": "identifying-research-patterns",
-        "label": "Identifying Research Patterns"
-      },
-      {
-        "slug": "experiment-design",
-        "label": "Experiment Design"
-      },
-      {
-        "slug": "technical-architecture-creation",
-        "label": "Technical Architecture Creation"
-      },
-      {
-        "slug": "inventorying-content",
-        "label": "Inventorying Content"
-      },
-      {
-        "slug": "documenting-code",
-        "label": "Documenting Code"
-      },
-      {
-        "slug": "entity-relationship-creation",
-        "label": "Entity Relationship Creation"
-      },
-      {
-        "slug": "search-engine-optimization-seo-design",
-        "label": "Search Engine Optimization (SEO) Design"
-      },
-      {
-        "slug": "creating-research-plans",
-        "label": "Creating Research Plans"
-      },
-      {
-        "slug": "rapid-ideation",
-        "label": "Rapid Ideation"
-      },
-      {
-        "slug": "calculating-statistics",
-        "label": "Calculating Statistics"
-      },
-      {
-        "slug": "measuring-accessibility",
-        "label": "Measuring Accessibility"
-      },
-      {
-        "slug": "site-map-testing",
-        "label": "Site Map Testing"
-      },
-      {
-        "slug": "server-side-coding",
-        "label": "Server-Side Coding"
-      },
-      {
-        "slug": "front-end-coding",
-        "label": "Front-End Coding"
-      },
-      {
-        "slug": "database-creation",
-        "label": "Database Creation"
-      },
-      {
-        "slug": "blockchain-coding",
-        "label": "Blockchain Coding"
-      },
-      {
-        "slug": "collecting-analytics",
-        "label": "Collecting Analytics"
-      },
-      {
-        "slug": "primary-research",
-        "label": "Primary Research"
-      },
-      {
-        "slug": "choosing-research-methods",
-        "label": "Choosing Research Methods"
-      },
-      {
-        "slug": "optimizing-seo",
-        "label": "Optimizing SEO"
-      },
-      {
-        "slug": "creating-annotations",
-        "label": "Creating Annotations"
-      },
-      {
-        "slug": "maintaining-the-client-relationship",
-        "label": "Maintaining the Client Relationship"
-      },
-      {
-        "slug": "investigating-competitors",
-        "label": "Investigating Competitors"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -5252,88 +4045,6 @@
       {
         "slug": "acceptance-testing",
         "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "scope",
-        "label": "Scope"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
       },
       {
         "slug": "intake",
@@ -5377,459 +4088,82 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 3,
-          "database_table_669475": 2
-        },
-        "value": "Problem Statements"
+        "slug": "problem-statements",
+        "label": "Problem Statements"
       },
       {
-        "ids": {
-          "database_table_669472": 11,
-          "database_table_669475": 2
-        },
-        "value": "Problem Statements"
+        "slug": "problem-checklists",
+        "label": "Problem Checklists"
       },
       {
-        "ids": {
-          "database_table_669472": 3,
-          "database_table_669475": 3
-        },
-        "value": "Problem Checklists"
+        "slug": "acceptance-criteria",
+        "label": "Acceptance Criteria"
       },
       {
-        "ids": {
-          "database_table_669472": 11,
-          "database_table_669475": 3
-        },
-        "value": "Problem Checklists"
+        "slug": "user-story-statements",
+        "label": "User Story Statements"
       },
       {
-        "ids": {
-          "database_table_669472": 3,
-          "database_table_669475": 6
-        },
-        "value": "Acceptance Criteria"
+        "slug": "behavior-driven-development-scenarios",
+        "label": "Behavior-Driven Development Scenarios"
       },
       {
-        "ids": {
-          "database_table_669472": 4,
-          "database_table_669475": 6
-        },
-        "value": "Acceptance Criteria"
+        "slug": "task-flows",
+        "label": "Task Flows"
       },
       {
-        "ids": {
-          "database_table_669472": 7,
-          "database_table_669475": 6
-        },
-        "value": "Acceptance Criteria"
+        "slug": "use-case-scenarios",
+        "label": "Use Case Scenarios"
       },
       {
-        "ids": {
-          "database_table_669472": 9,
-          "database_table_669475": 6
-        },
-        "value": "Acceptance Criteria"
+        "slug": "use-case-diagrams",
+        "label": "Use Case Diagrams"
       },
       {
-        "ids": {
-          "database_table_669472": 10,
-          "database_table_669475": 6
-        },
-        "value": "Acceptance Criteria"
+        "slug": "project-hand-off",
+        "label": "Project Hand-off"
       },
       {
-        "ids": {
-          "database_table_669472": 95,
-          "database_table_669475": 6
-        },
-        "value": "Acceptance Criteria"
+        "slug": "statement-of-work",
+        "label": "Statement of Work"
       },
       {
-        "ids": {
-          "database_table_669472": 3,
-          "database_table_669475": 7
-        },
-        "value": "User Story Statements"
+        "slug": "how-might-we-hmw-statements",
+        "label": "How Might We (HMW) Statements"
       },
       {
-        "ids": {
-          "database_table_669472": 4,
-          "database_table_669475": 7
-        },
-        "value": "User Story Statements"
+        "slug": "key-performance-indicators-kpis",
+        "label": "Key Performance Indicators (KPI's)"
       },
       {
-        "ids": {
-          "database_table_669472": 7,
-          "database_table_669475": 7
-        },
-        "value": "User Story Statements"
+        "slug": "objectives-and-key-results-okrs",
+        "label": "Objectives and Key Results (OKR's)"
       },
       {
-        "ids": {
-          "database_table_669472": 76,
-          "database_table_669475": 7
-        },
-        "value": "User Story Statements"
+        "slug": "gantt-chart",
+        "label": "Gantt Chart"
       },
       {
-        "ids": {
-          "database_table_669472": 7,
-          "database_table_669475": 8
-        },
-        "value": "Behavior-Driven Development Scenarios"
+        "slug": "refined-backlog",
+        "label": "Refined Backlog"
       },
       {
-        "ids": {
-          "database_table_669472": 7,
-          "database_table_669475": 11
-        },
-        "value": "Task Flows"
+        "slug": "task-level-scope",
+        "label": "Task-Level Scope"
       },
       {
-        "ids": {
-          "database_table_669472": 95,
-          "database_table_669475": 11
-        },
-        "value": "Task Flows"
+        "slug": "project-plan",
+        "label": "Project Plan"
       },
       {
-        "ids": {
-          "database_table_669472": 7,
-          "database_table_669475": 12
-        },
-        "value": "Use Case Scenarios"
-      },
-      {
-        "ids": {
-          "database_table_669472": 95,
-          "database_table_669475": 12
-        },
-        "value": "Use Case Scenarios"
-      },
-      {
-        "ids": {
-          "database_table_669472": 95,
-          "database_table_669475": 13
-        },
-        "value": "Use Case Diagrams"
-      },
-      {
-        "ids": {
-          "database_table_669472": 19,
-          "database_table_669475": 26
-        },
-        "value": "Project Hand-off"
-      },
-      {
-        "ids": {
-          "database_table_669472": 19,
-          "database_table_669475": 27
-        },
-        "value": "Statement of Work"
-      },
-      {
-        "ids": {
-          "database_table_669472": 11,
-          "database_table_669475": 29
-        },
-        "value": "How Might We (HMW) Statements"
-      },
-      {
-        "ids": {
-          "database_table_669472": 19,
-          "database_table_669475": 30
-        },
-        "value": "Key Performance Indicators (KPI's)"
-      },
-      {
-        "ids": {
-          "database_table_669472": 19,
-          "database_table_669475": 31
-        },
-        "value": "Objectives and Key Results (OKR's)"
-      },
-      {
-        "ids": {
-          "database_table_669472": 19,
-          "database_table_669475": 32
-        },
-        "value": "Gantt Chart"
-      },
-      {
-        "ids": {
-          "database_table_669472": 4,
-          "database_table_669475": 35
-        },
-        "value": "Refined Backlog"
-      },
-      {
-        "ids": {
-          "database_table_669472": 7,
-          "database_table_669475": 74
-        },
-        "value": "Task-Level Scope"
-      },
-      {
-        "ids": {
-          "database_table_669472": 95,
-          "database_table_669475": 74
-        },
-        "value": "Task-Level Scope"
-      },
-      {
-        "ids": {
-          "database_table_669472": 19,
-          "database_table_669475": 75
-        },
-        "value": "Project Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 19,
-          "database_table_669475": 85
-        },
-        "value": "Project Goals Definition"
-      }
-    ],
-    "Transitioning into UX Design Roles 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
+        "slug": "project-goals-definition",
+        "label": "Project Goals Definition"
       }
     ],
     "Workshops - What RACI Hat Owns This Workshop?": [
       {
         "slug": "client-kickoff-workshop-template",
         "label": "Client Kickoff Workshop Template"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
       }
     ],
     "Duty Description": "The Business Analysis duty turns fuzzy requests into a clear, shared picture of what to build. Analysts gather requirements, write user stories and acceptance criteria, and shape problem statements so everyone agrees on what needs to happen and how they will know it is done. In agile work they write just enough to get moving and keep refining as the team learns.",
@@ -6988,7 +5322,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Transitioning from Other Fields 2": "Agriculture",
     "Activities": [
       {
         "slug": "feature-vision-definition",
@@ -7009,276 +5342,6 @@
       {
         "slug": "product-backlog-maintenance",
         "label": "Product Backlog Maintenance"
-      }
-    ],
-    "Activities 2": [
-      {
-        "slug": "wireframing",
-        "label": "Wireframing"
-      },
-      {
-        "slug": "design-component-creation",
-        "label": "Design Component Creation"
-      },
-      {
-        "slug": "brand-identity-formation",
-        "label": "Brand Identity Formation"
-      },
-      {
-        "slug": "icon-and-logo-creation",
-        "label": "Icon and Logo Creation"
-      },
-      {
-        "slug": "generating-problem-statements",
-        "label": "Generating Problem Statements"
-      },
-      {
-        "slug": "analyzing-research-findings",
-        "label": "Analyzing Research Findings"
-      },
-      {
-        "slug": "presenting-research-results",
-        "label": "Presenting Research Results"
-      },
-      {
-        "slug": "defining-team-working-agreements",
-        "label": "Defining Team Working Agreements"
-      },
-      {
-        "slug": "moderating-ux-research",
-        "label": "Moderating UX Research"
-      },
-      {
-        "slug": "secondary-research",
-        "label": "Secondary Research"
-      },
-      {
-        "slug": "card-sorting",
-        "label": "Card Sorting "
-      },
-      {
-        "slug": "interviewing",
-        "label": "Interviewing"
-      },
-      {
-        "slug": "surveys",
-        "label": "Surveys"
-      },
-      {
-        "slug": "storyboarding",
-        "label": "Storyboarding"
-      },
-      {
-        "slug": "product-positioning",
-        "label": "Product Positioning"
-      },
-      {
-        "slug": "diary-studies",
-        "label": "Diary Studies"
-      },
-      {
-        "slug": "contextual-inquiries",
-        "label": "Contextual Inquiries"
-      },
-      {
-        "slug": "observing-ethnography",
-        "label": "Observing (Ethnography)"
-      },
-      {
-        "slug": "usability-testing",
-        "label": "Usability Testing"
-      },
-      {
-        "slug": "prototype-concept-testing",
-        "label": "Prototype Concept Testing "
-      },
-      {
-        "slug": "a-b-prototype-test-creation",
-        "label": "A/B Prototype Test Creation"
-      },
-      {
-        "slug": "ui-kit-creation",
-        "label": "UI Kit Creation"
-      },
-      {
-        "slug": "developing-information-architecture",
-        "label": "Developing Information Architecture"
-      },
-      {
-        "slug": "prototype-creation",
-        "label": "Prototype Creation"
-      },
-      {
-        "slug": "ux-heuristics-analysis",
-        "label": "UX Heuristics Analysis"
-      },
-      {
-        "slug": "market-research",
-        "label": "Market Research"
-      },
-      {
-        "slug": "qa-testing",
-        "label": "QA Testing"
-      },
-      {
-        "slug": "autotest-creation",
-        "label": "Autotest Creation"
-      },
-      {
-        "slug": "user-acceptance-testing",
-        "label": "User Acceptance Testing"
-      },
-      {
-        "slug": "clickable-prototype-creation",
-        "label": "Clickable Prototype Creation"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "threat-modeling",
-        "label": "Threat Modeling"
-      },
-      {
-        "slug": "penetration-testing",
-        "label": "Penetration Testing"
-      },
-      {
-        "slug": "firewall-configuration",
-        "label": "Firewall Configuration"
-      },
-      {
-        "slug": "security-protocol-definition",
-        "label": "Security Protocol Definition"
-      },
-      {
-        "slug": "information-security-audit",
-        "label": "Information Security Audit"
-      },
-      {
-        "slug": "identifying-research-patterns",
-        "label": "Identifying Research Patterns"
-      },
-      {
-        "slug": "experiment-design",
-        "label": "Experiment Design"
-      },
-      {
-        "slug": "technical-architecture-creation",
-        "label": "Technical Architecture Creation"
-      },
-      {
-        "slug": "developing-go-to-market-strategy",
-        "label": "Developing Go-To-Market Strategy"
-      },
-      {
-        "slug": "customer-segmentation",
-        "label": "Customer Segmentation"
-      },
-      {
-        "slug": "price-testing",
-        "label": "Price Testing"
-      },
-      {
-        "slug": "documenting-code",
-        "label": "Documenting Code"
-      },
-      {
-        "slug": "deploying-code",
-        "label": "Deploying Code"
-      },
-      {
-        "slug": "customer-experience-mapping",
-        "label": "Customer Experience Mapping"
-      },
-      {
-        "slug": "entity-relationship-creation",
-        "label": "Entity Relationship Creation"
-      },
-      {
-        "slug": "search-engine-optimization-seo-design",
-        "label": "Search Engine Optimization (SEO) Design"
-      },
-      {
-        "slug": "creating-research-plans",
-        "label": "Creating Research Plans"
-      },
-      {
-        "slug": "rapid-ideation",
-        "label": "Rapid Ideation"
-      },
-      {
-        "slug": "user-story-generation",
-        "label": "User Story Generation"
-      },
-      {
-        "slug": "calculating-statistics",
-        "label": "Calculating Statistics"
-      },
-      {
-        "slug": "site-map-testing",
-        "label": "Site Map Testing"
-      },
-      {
-        "slug": "copywriting",
-        "label": "Copywriting"
-      },
-      {
-        "slug": "server-side-coding",
-        "label": "Server-Side Coding"
-      },
-      {
-        "slug": "front-end-coding",
-        "label": "Front-End Coding"
-      },
-      {
-        "slug": "database-creation",
-        "label": "Database Creation"
-      },
-      {
-        "slug": "creating-illustrations",
-        "label": "Creating Illustrations"
-      },
-      {
-        "slug": "blockchain-coding",
-        "label": "Blockchain Coding"
-      },
-      {
-        "slug": "collecting-analytics",
-        "label": "Collecting Analytics"
-      },
-      {
-        "slug": "analyzing-project-risk",
-        "label": "Analyzing Project Risk"
-      },
-      {
-        "slug": "primary-research",
-        "label": "Primary Research"
-      },
-      {
-        "slug": "choosing-research-methods",
-        "label": "Choosing Research Methods"
-      },
-      {
-        "slug": "optimizing-seo",
-        "label": "Optimizing SEO"
-      },
-      {
-        "slug": "creating-annotations",
-        "label": "Creating Annotations"
-      },
-      {
-        "slug": "maintaining-the-client-relationship",
-        "label": "Maintaining the Client Relationship"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
-      },
-      {
-        "slug": "investigating-competitors",
-        "label": "Investigating Competitors"
       }
     ],
     "Milestones": [
@@ -7309,100 +5372,6 @@
       {
         "slug": "acceptance-testing",
         "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "scope",
-        "label": "Scope"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
       },
       {
         "slug": "intake",
@@ -7446,299 +5415,32 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 9,
-          "database_table_669475": 6
-        },
-        "value": "Acceptance Criteria"
+        "slug": "acceptance-criteria",
+        "label": "Acceptance Criteria"
       },
       {
-        "ids": {
-          "database_table_669472": 10,
-          "database_table_669475": 6
-        },
-        "value": "Acceptance Criteria"
+        "slug": "competitive-analysis",
+        "label": "Competitive Analysis"
       },
       {
-        "ids": {
-          "database_table_669472": 96,
-          "database_table_669475": 14
-        },
-        "value": "Competitive Analysis"
+        "slug": "prioritized-backlog-tasks",
+        "label": "Prioritized Backlog Tasks"
       },
       {
-        "ids": {
-          "database_table_669472": 17,
-          "database_table_669475": 28
-        },
-        "value": "Prioritized Backlog Tasks"
+        "slug": "roadmap",
+        "label": "Roadmap"
       },
       {
-        "ids": {
-          "database_table_669472": 39,
-          "database_table_669475": 34
-        },
-        "value": "Roadmap"
+        "slug": "refined-backlog",
+        "label": "Refined Backlog"
       },
       {
-        "ids": {
-          "database_table_669472": 17,
-          "database_table_669475": 35
-        },
-        "value": "Refined Backlog"
+        "slug": "sprint-plan",
+        "label": "Sprint Plan"
       },
       {
-        "ids": {
-          "database_table_669472": 90,
-          "database_table_669475": 35
-        },
-        "value": "Refined Backlog"
-      },
-      {
-        "ids": {
-          "database_table_669472": 14,
-          "database_table_669475": 36
-        },
-        "value": "Sprint Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 14,
-          "database_table_669475": 76
-        },
-        "value": "Sprint Goals"
-      }
-    ],
-    "Transitioning into Business Analysis Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
+        "slug": "sprint-goals",
+        "label": "Sprint Goals"
       }
     ],
     "Duty Description": "The Product Ownership duty decides what the team should build next and in what order. Owners maintain the backlog, prioritize the work, and keep a roadmap so the team always has a clear, ranked list to pull from. Priorities shift as the team learns, so this is constant, iterative work rather than a plan set once at the start.",
@@ -8953,7 +6655,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Transitioning from Other Fields 2": "Agriculture",
     "Activities": [
       {
         "slug": "release-scope-definition",
@@ -8996,164 +6697,6 @@
         "label": "Investigating Competitors"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "wireframing",
-        "label": "Wireframing"
-      },
-      {
-        "slug": "feature-vision-definition",
-        "label": "Feature Vision Definition"
-      },
-      {
-        "slug": "feature-scope-definition",
-        "label": "Feature Scope Definition"
-      },
-      {
-        "slug": "generating-problem-statements",
-        "label": "Generating Problem Statements"
-      },
-      {
-        "slug": "analyzing-research-findings",
-        "label": "Analyzing Research Findings"
-      },
-      {
-        "slug": "presenting-research-results",
-        "label": "Presenting Research Results"
-      },
-      {
-        "slug": "defining-team-working-agreements",
-        "label": "Defining Team Working Agreements"
-      },
-      {
-        "slug": "moderating-ux-research",
-        "label": "Moderating UX Research"
-      },
-      {
-        "slug": "secondary-research",
-        "label": "Secondary Research"
-      },
-      {
-        "slug": "card-sorting",
-        "label": "Card Sorting "
-      },
-      {
-        "slug": "interviewing",
-        "label": "Interviewing"
-      },
-      {
-        "slug": "surveys",
-        "label": "Surveys"
-      },
-      {
-        "slug": "storyboarding",
-        "label": "Storyboarding"
-      },
-      {
-        "slug": "diary-studies",
-        "label": "Diary Studies"
-      },
-      {
-        "slug": "contextual-inquiries",
-        "label": "Contextual Inquiries"
-      },
-      {
-        "slug": "observing-ethnography",
-        "label": "Observing (Ethnography)"
-      },
-      {
-        "slug": "usability-testing",
-        "label": "Usability Testing"
-      },
-      {
-        "slug": "prototype-concept-testing",
-        "label": "Prototype Concept Testing "
-      },
-      {
-        "slug": "a-b-prototype-test-creation",
-        "label": "A/B Prototype Test Creation"
-      },
-      {
-        "slug": "ui-kit-creation",
-        "label": "UI Kit Creation"
-      },
-      {
-        "slug": "prototype-creation",
-        "label": "Prototype Creation"
-      },
-      {
-        "slug": "tracking-epic-progress",
-        "label": "Tracking Epic Progress"
-      },
-      {
-        "slug": "ux-heuristics-analysis",
-        "label": "UX Heuristics Analysis"
-      },
-      {
-        "slug": "user-acceptance-testing",
-        "label": "User Acceptance Testing"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "security-protocol-definition",
-        "label": "Security Protocol Definition"
-      },
-      {
-        "slug": "identifying-research-patterns",
-        "label": "Identifying Research Patterns"
-      },
-      {
-        "slug": "experiment-design",
-        "label": "Experiment Design"
-      },
-      {
-        "slug": "search-engine-optimization-seo-design",
-        "label": "Search Engine Optimization (SEO) Design"
-      },
-      {
-        "slug": "creating-research-plans",
-        "label": "Creating Research Plans"
-      },
-      {
-        "slug": "rapid-ideation",
-        "label": "Rapid Ideation"
-      },
-      {
-        "slug": "calculating-statistics",
-        "label": "Calculating Statistics"
-      },
-      {
-        "slug": "site-map-testing",
-        "label": "Site Map Testing"
-      },
-      {
-        "slug": "collecting-analytics",
-        "label": "Collecting Analytics"
-      },
-      {
-        "slug": "analyzing-project-risk",
-        "label": "Analyzing Project Risk"
-      },
-      {
-        "slug": "primary-research",
-        "label": "Primary Research"
-      },
-      {
-        "slug": "choosing-research-methods",
-        "label": "Choosing Research Methods"
-      },
-      {
-        "slug": "optimizing-seo",
-        "label": "Optimizing SEO"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -9192,100 +6735,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "scope",
-        "label": "Scope"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "scope",
-        "label": "Scope"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
     "Practices": [
       {
         "slug": "shared-ownership",
@@ -9318,312 +6767,84 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 91,
-          "database_table_669475": 1
-        },
-        "value": "Vision Boards"
+        "slug": "vision-boards",
+        "label": "Vision Boards"
       },
       {
-        "ids": {
-          "database_table_669472": 2,
-          "database_table_669475": 4
-        },
-        "value": "Epics and Features"
+        "slug": "epics-and-features",
+        "label": "Epics and Features"
       },
       {
-        "ids": {
-          "database_table_669472": 2,
-          "database_table_669475": 5
-        },
-        "value": "Release-level Scope"
+        "slug": "release-level-scope",
+        "label": "Release-level Scope"
       },
       {
-        "ids": {
-          "database_table_669472": 96,
-          "database_table_669475": 14
-        },
-        "value": "Competitive Analysis"
+        "slug": "competitive-analysis",
+        "label": "Competitive Analysis"
       },
       {
-        "ids": {
-          "database_table_669472": 42,
-          "database_table_669475": 15
-        },
-        "value": "Market Research Analysis"
+        "slug": "market-research-analysis",
+        "label": "Market Research Analysis"
       },
       {
-        "ids": {
-          "database_table_669472": 63,
-          "database_table_669475": 18
-        },
-        "value": "User Journey Map"
+        "slug": "user-journey-map",
+        "label": "User Journey Map"
       },
       {
-        "ids": {
-          "database_table_669472": 63,
-          "database_table_669475": 19
-        },
-        "value": "User Personas"
+        "slug": "user-personas",
+        "label": "User Personas"
       },
       {
-        "ids": {
-          "database_table_669472": 63,
-          "database_table_669475": 20
-        },
-        "value": "Proto Personas"
+        "slug": "proto-personas",
+        "label": "Proto Personas"
       },
       {
-        "ids": {
-          "database_table_669472": 63,
-          "database_table_669475": 21
-        },
-        "value": "Buyer Personas"
+        "slug": "buyer-personas",
+        "label": "Buyer Personas"
       },
       {
-        "ids": {
-          "database_table_669472": 13,
-          "database_table_669475": 22
-        },
-        "value": "Business Plan"
+        "slug": "business-plan",
+        "label": "Business Plan"
       },
       {
-        "ids": {
-          "database_table_669472": 42,
-          "database_table_669475": 22
-        },
-        "value": "Business Plan"
+        "slug": "marketing-plan",
+        "label": "Marketing Plan"
       },
       {
-        "ids": {
-          "database_table_669472": 64,
-          "database_table_669475": 22
-        },
-        "value": "Business Plan"
+        "slug": "release-plan",
+        "label": "Release Plan"
       },
       {
-        "ids": {
-          "database_table_669472": 28,
-          "database_table_669475": 23
-        },
-        "value": "Marketing Plan"
+        "slug": "go-to-market-plan",
+        "label": "Go-To-Market Plan"
       },
       {
-        "ids": {
-          "database_table_669472": 42,
-          "database_table_669475": 23
-        },
-        "value": "Marketing Plan"
+        "slug": "roadmap",
+        "label": "Roadmap"
       },
       {
-        "ids": {
-          "database_table_669472": 62,
-          "database_table_669475": 23
-        },
-        "value": "Marketing Plan"
+        "slug": "empathy-map",
+        "label": "Empathy Map"
       },
       {
-        "ids": {
-          "database_table_669472": 63,
-          "database_table_669475": 23
-        },
-        "value": "Marketing Plan"
+        "slug": "positioning-statement",
+        "label": "Positioning Statement"
       },
       {
-        "ids": {
-          "database_table_669472": 2,
-          "database_table_669475": 24
-        },
-        "value": "Release Plan"
+        "slug": "unique-value-proposition",
+        "label": "Unique Value Proposition"
       },
       {
-        "ids": {
-          "database_table_669472": 28,
-          "database_table_669475": 24
-        },
-        "value": "Release Plan"
+        "slug": "product-market-fit-analysis",
+        "label": "Product-Market Fit Analysis"
       },
       {
-        "ids": {
-          "database_table_669472": 42,
-          "database_table_669475": 24
-        },
-        "value": "Release Plan"
+        "slug": "pitch-deck",
+        "label": "Pitch Deck"
       },
       {
-        "ids": {
-          "database_table_669472": 62,
-          "database_table_669475": 24
-        },
-        "value": "Release Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 63,
-          "database_table_669475": 24
-        },
-        "value": "Release Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 91,
-          "database_table_669475": 24
-        },
-        "value": "Release Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 13,
-          "database_table_669475": 25
-        },
-        "value": "Go-To-Market Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 42,
-          "database_table_669475": 25
-        },
-        "value": "Go-To-Market Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 62,
-          "database_table_669475": 25
-        },
-        "value": "Go-To-Market Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 64,
-          "database_table_669475": 25
-        },
-        "value": "Go-To-Market Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 41,
-          "database_table_669475": 34
-        },
-        "value": "Roadmap"
-      },
-      {
-        "ids": {
-          "database_table_669472": 63,
-          "database_table_669475": 43
-        },
-        "value": "Empathy Map"
-      },
-      {
-        "ids": {
-          "database_table_669472": 28,
-          "database_table_669475": 58
-        },
-        "value": "Positioning Statement"
-      },
-      {
-        "ids": {
-          "database_table_669472": 42,
-          "database_table_669475": 58
-        },
-        "value": "Positioning Statement"
-      },
-      {
-        "ids": {
-          "database_table_669472": 62,
-          "database_table_669475": 58
-        },
-        "value": "Positioning Statement"
-      },
-      {
-        "ids": {
-          "database_table_669472": 63,
-          "database_table_669475": 58
-        },
-        "value": "Positioning Statement"
-      },
-      {
-        "ids": {
-          "database_table_669472": 28,
-          "database_table_669475": 59
-        },
-        "value": "Unique Value Proposition"
-      },
-      {
-        "ids": {
-          "database_table_669472": 42,
-          "database_table_669475": 59
-        },
-        "value": "Unique Value Proposition"
-      },
-      {
-        "ids": {
-          "database_table_669472": 28,
-          "database_table_669475": 69
-        },
-        "value": "Product-Market Fit Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 42,
-          "database_table_669475": 69
-        },
-        "value": "Product-Market Fit Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 62,
-          "database_table_669475": 69
-        },
-        "value": "Product-Market Fit Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 63,
-          "database_table_669475": 69
-        },
-        "value": "Product-Market Fit Analysis"
-      },
-      {
-        "ids": {
-          "database_table_669472": 28,
-          "database_table_669475": 89
-        },
-        "value": "Pitch Deck"
-      },
-      {
-        "ids": {
-          "database_table_669472": 42,
-          "database_table_669475": 89
-        },
-        "value": "Pitch Deck"
-      },
-      {
-        "ids": {
-          "database_table_669472": 62,
-          "database_table_669475": 89
-        },
-        "value": "Pitch Deck"
-      },
-      {
-        "ids": {
-          "database_table_669472": 63,
-          "database_table_669475": 89
-        },
-        "value": "Pitch Deck"
-      },
-      {
-        "ids": {
-          "database_table_669472": 91,
-          "database_table_669475": 89
-        },
-        "value": "Pitch Deck"
-      },
-      {
-        "ids": {
-          "database_table_669472": 63,
-          "database_table_669475": 92
-        },
-        "value": "Customer Segmentation"
+        "slug": "customer-segmentation",
+        "label": "Customer Segmentation"
       }
     ],
     "Workshops - What RACI Hat Owns This Workshop?": [
@@ -9650,124 +6871,6 @@
       {
         "slug": "product-and-service-development-milestones-for-different-types-of-projects-works",
         "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
       }
     ],
     "Duty Description": "The Product Management duty sets the direction for a product, the what and the why behind the work. Managers dig into users and the market, shape the vision and strategy, and rally the team around which problems are worth solving. They do not build it all themselves; they help everyone pull in the same direction.",
@@ -10658,7 +7761,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Transitioning from Other Fields 2": "Agriculture",
     "Activities": [
       {
         "slug": "sprint-planning",
@@ -10689,16 +7791,6 @@
         "label": "Sprint Demo Facilitation"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -10727,84 +7819,6 @@
       {
         "slug": "acceptance-testing",
         "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
       },
       {
         "slug": "intake",
@@ -10847,206 +7861,32 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 46,
-          "database_table_669475": 33
-        },
-        "value": "Burn Down Chart"
+        "slug": "burn-down-chart",
+        "label": "Burn Down Chart"
       },
       {
-        "ids": {
-          "database_table_669472": 15,
-          "database_table_669475": 35
-        },
-        "value": "Refined Backlog"
+        "slug": "refined-backlog",
+        "label": "Refined Backlog"
       },
       {
-        "ids": {
-          "database_table_669472": 46,
-          "database_table_669475": 35
-        },
-        "value": "Refined Backlog"
+        "slug": "sprint-plan",
+        "label": "Sprint Plan"
       },
       {
-        "ids": {
-          "database_table_669472": 14,
-          "database_table_669475": 36
-        },
-        "value": "Sprint Plan"
+        "slug": "sprint-demo-presentation",
+        "label": "Sprint Demo Presentation"
       },
       {
-        "ids": {
-          "database_table_669472": 16,
-          "database_table_669475": 36
-        },
-        "value": "Sprint Plan"
+        "slug": "sprint-retro-action-items",
+        "label": "Sprint Retro Action Items"
       },
       {
-        "ids": {
-          "database_table_669472": 46,
-          "database_table_669475": 36
-        },
-        "value": "Sprint Plan"
+        "slug": "sprint-goals",
+        "label": "Sprint Goals"
       },
       {
-        "ids": {
-          "database_table_669472": 57,
-          "database_table_669475": 52
-        },
-        "value": "Sprint Demo Presentation"
-      },
-      {
-        "ids": {
-          "database_table_669472": 56,
-          "database_table_669475": 72
-        },
-        "value": "Sprint Retro Action Items"
-      },
-      {
-        "ids": {
-          "database_table_669472": 14,
-          "database_table_669475": 76
-        },
-        "value": "Sprint Goals"
-      },
-      {
-        "ids": {
-          "database_table_669472": 15,
-          "database_table_669475": 76
-        },
-        "value": "Sprint Goals"
-      },
-      {
-        "ids": {
-          "database_table_669472": 16,
-          "database_table_669475": 76
-        },
-        "value": "Sprint Goals"
-      },
-      {
-        "ids": {
-          "database_table_669472": 56,
-          "database_table_669475": 98
-        },
-        "value": "Agile Maturity Measurements"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
+        "slug": "agile-maturity-measurements",
+        "label": "Agile Maturity Measurements"
       }
     ],
     "Duty Description": "The Scrum Master duty helps a team run smoothly using agile methods like Scrum. Rather than managing people, scrum masters facilitate the rhythm of the work, sprint planning, retrospectives, and demos, and clear roadblocks so the team can focus. A lot of the job is protecting the process and helping the team keep improving.",
@@ -11832,20 +8672,6 @@
         "label": "Maintaining the Client Relationship"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "defining-team-working-agreements",
-        "label": "Defining Team Working Agreements"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -11874,60 +8700,6 @@
       {
         "slug": "acceptance-testing",
         "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "vision",
-        "label": "Vision"
       },
       {
         "slug": "intake",
@@ -11970,39 +8742,24 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 38,
-          "database_table_669475": 32
-        },
-        "value": "Gantt Chart"
+        "slug": "gantt-chart",
+        "label": "Gantt Chart"
       },
       {
-        "ids": {
-          "database_table_669472": 38,
-          "database_table_669475": 34
-        },
-        "value": "Roadmap"
+        "slug": "roadmap",
+        "label": "Roadmap"
       },
       {
-        "ids": {
-          "database_table_669472": 87,
-          "database_table_669475": 75
-        },
-        "value": "Project Plan"
+        "slug": "project-plan",
+        "label": "Project Plan"
       },
       {
-        "ids": {
-          "database_table_669472": 87,
-          "database_table_669475": 97
-        },
-        "value": "Risk Analysis"
+        "slug": "risk-analysis",
+        "label": "Risk Analysis"
       },
       {
-        "ids": {
-          "database_table_669472": 43,
-          "database_table_669475": 102
-        },
-        "value": "Meeting Agendas"
+        "slug": "meeting-agendas",
+        "label": "Meeting Agendas"
       }
     ],
     "Duty Description": "The Project Management duty keeps the work organized and moving. Project managers track what needs to happen, watch the schedule and risks, and keep clients and teammates in the loop so nothing important slips. Much of the job is communication and clearing roadblocks before they slow the team down.",
@@ -12921,7 +9678,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Transitioning from Other Fields 2 copy": "Agriculture",
     "Activities": [
       {
         "slug": "documenting-code",
@@ -12950,56 +9706,6 @@
       {
         "slug": "blockchain-coding",
         "label": "Blockchain Coding"
-      }
-    ],
-    "Activities 2": [
-      {
-        "slug": "feature-vision-definition",
-        "label": "Feature Vision Definition"
-      },
-      {
-        "slug": "feature-scope-definition",
-        "label": "Feature Scope Definition"
-      },
-      {
-        "slug": "defining-team-working-agreements",
-        "label": "Defining Team Working Agreements"
-      },
-      {
-        "slug": "qa-testing",
-        "label": "QA Testing"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "threat-modeling",
-        "label": "Threat Modeling"
-      },
-      {
-        "slug": "penetration-testing",
-        "label": "Penetration Testing"
-      },
-      {
-        "slug": "firewall-configuration",
-        "label": "Firewall Configuration"
-      },
-      {
-        "slug": "security-protocol-definition",
-        "label": "Security Protocol Definition"
-      },
-      {
-        "slug": "information-security-audit",
-        "label": "Information Security Audit"
-      },
-      {
-        "slug": "technical-architecture-creation",
-        "label": "Technical Architecture Creation"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
       }
     ],
     "Milestones": [
@@ -13040,56 +9746,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "scope",
-        "label": "Scope"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      }
-    ],
     "Job Titles in the World": "UI Engineer",
     "Practices": [
       {
@@ -13119,95 +9775,28 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 65,
-          "database_table_669475": 77
-        },
-        "value": "Code"
+        "slug": "code",
+        "label": "Code"
       },
       {
-        "ids": {
-          "database_table_669472": 66,
-          "database_table_669475": 77
-        },
-        "value": "Code"
+        "slug": "entity-relationship-diagrams",
+        "label": "Entity Relationship Diagrams"
       },
       {
-        "ids": {
-          "database_table_669472": 72,
-          "database_table_669475": 77
-        },
-        "value": "Code"
+        "slug": "coding-documentation",
+        "label": "Coding Documentation"
       },
       {
-        "ids": {
-          "database_table_669472": 81,
-          "database_table_669475": 77
-        },
-        "value": "Code"
+        "slug": "database-architecture",
+        "label": "Database Architecture"
       },
       {
-        "ids": {
-          "database_table_669472": 82,
-          "database_table_669475": 77
-        },
-        "value": "Code"
+        "slug": "api-library",
+        "label": "API LIbrary"
       },
       {
-        "ids": {
-          "database_table_669472": 85,
-          "database_table_669475": 77
-        },
-        "value": "Code"
-      },
-      {
-        "ids": {
-          "database_table_669472": 83,
-          "database_table_669475": 78
-        },
-        "value": "Entity Relationship Diagrams"
-      },
-      {
-        "ids": {
-          "database_table_669472": 65,
-          "database_table_669475": 86
-        },
-        "value": "Coding Documentation"
-      },
-      {
-        "ids": {
-          "database_table_669472": 82,
-          "database_table_669475": 86
-        },
-        "value": "Coding Documentation"
-      },
-      {
-        "ids": {
-          "database_table_669472": 83,
-          "database_table_669475": 87
-        },
-        "value": "Database Architecture"
-      },
-      {
-        "ids": {
-          "database_table_669472": 81,
-          "database_table_669475": 91
-        },
-        "value": "API LIbrary"
-      },
-      {
-        "ids": {
-          "database_table_669472": 82,
-          "database_table_669475": 91
-        },
-        "value": "API LIbrary"
-      },
-      {
-        "ids": {
-          "database_table_669472": 85,
-          "database_table_669475": 96
-        },
-        "value": "Smart Contracts"
+        "slug": "smart-contracts",
+        "label": "Smart Contracts"
       }
     ],
     "Duty Description": "The Development duty builds the product, turning designs and requirements into working software. Developers write and document code, build APIs and databases, and deploy what they make so it runs the way it should. It is problem-solving work, breaking a big challenge into small pieces and getting each one working, often in short cycles alongside the rest of the team.",
@@ -14018,7 +10607,6 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Transitioning from Other Fields 2 copy copy": "Agriculture",
     "Activities": [
       {
         "slug": "technical-architecture-creation",
@@ -14027,48 +10615,6 @@
       {
         "slug": "entity-relationship-creation",
         "label": "Entity Relationship Creation"
-      }
-    ],
-    "Activities 2": [
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "threat-modeling",
-        "label": "Threat Modeling"
-      },
-      {
-        "slug": "penetration-testing",
-        "label": "Penetration Testing"
-      },
-      {
-        "slug": "firewall-configuration",
-        "label": "Firewall Configuration"
-      },
-      {
-        "slug": "security-protocol-definition",
-        "label": "Security Protocol Definition"
-      },
-      {
-        "slug": "information-security-audit",
-        "label": "Information Security Audit"
-      },
-      {
-        "slug": "server-side-coding",
-        "label": "Server-Side Coding"
-      },
-      {
-        "slug": "front-end-coding",
-        "label": "Front-End Coding"
-      },
-      {
-        "slug": "blockchain-coding",
-        "label": "Blockchain Coding"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
       }
     ],
     "Milestones": [
@@ -14109,52 +10655,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      }
-    ],
     "Practices": [
       {
         "slug": "shared-ownership",
@@ -14183,185 +10683,36 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 60,
-          "database_table_669475": 10
-        },
-        "value": "System Architecture Diagram"
+        "slug": "system-architecture-diagram",
+        "label": "System Architecture Diagram"
       },
       {
-        "ids": {
-          "database_table_669472": 60,
-          "database_table_669475": 62
-        },
-        "value": "Microservices Architecture"
+        "slug": "microservices-architecture",
+        "label": "Microservices Architecture"
       },
       {
-        "ids": {
-          "database_table_669472": 60,
-          "database_table_669475": 63
-        },
-        "value": "Network Architecture"
+        "slug": "network-architecture",
+        "label": "Network Architecture"
       },
       {
-        "ids": {
-          "database_table_669472": 60,
-          "database_table_669475": 70
-        },
-        "value": "Technical Architecture Specifications"
+        "slug": "technical-architecture-specifications",
+        "label": "Technical Architecture Specifications"
       },
       {
-        "ids": {
-          "database_table_669472": 60,
-          "database_table_669475": 71
-        },
-        "value": "Architecture Diagrams"
+        "slug": "architecture-diagrams",
+        "label": "Architecture Diagrams"
       },
       {
-        "ids": {
-          "database_table_669472": 60,
-          "database_table_669475": 78
-        },
-        "value": "Entity Relationship Diagrams"
+        "slug": "entity-relationship-diagrams",
+        "label": "Entity Relationship Diagrams"
       },
       {
-        "ids": {
-          "database_table_669472": 60,
-          "database_table_669475": 79
-        },
-        "value": "Hosting Infrastructure"
+        "slug": "hosting-infrastructure",
+        "label": "Hosting Infrastructure"
       },
       {
-        "ids": {
-          "database_table_669472": 60,
-          "database_table_669475": 87
-        },
-        "value": "Database Architecture"
-      },
-      {
-        "ids": {
-          "database_table_669472": 70,
-          "database_table_669475": 87
-        },
-        "value": "Database Architecture"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
+        "slug": "database-architecture",
+        "label": "Database Architecture"
       }
     ],
     "Duty Description": "The Solutions Architecture duty designs the technical foundation a product is built on. Architects map out how the system fits together, its databases, services, network, and hosting, so developers have a solid, scalable base to build against. It is big-picture technical work that shapes how well everything else holds up.",
@@ -15142,7 +11493,6 @@
         "label": "Spreadsheet Tools"
       }
     ],
-    "Transitioning from Other Fields 2 copy copy": "Agriculture",
     "Activities": [
       {
         "slug": "threat-modeling",
@@ -15165,20 +11515,6 @@
         "label": "Information Security Audit"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "defining-team-working-agreements",
-        "label": "Defining Team Working Agreements"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -15191,40 +11527,6 @@
       {
         "slug": "scope",
         "label": "Scope"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
       },
       {
         "slug": "implement",
@@ -15279,39 +11581,8 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 51,
-          "database_table_669475": 63
-        },
-        "value": "Network Architecture"
-      },
-      {
-        "ids": {
-          "database_table_669472": 52,
-          "database_table_669475": 63
-        },
-        "value": "Network Architecture"
-      },
-      {
-        "ids": {
-          "database_table_669472": 53,
-          "database_table_669475": 63
-        },
-        "value": "Network Architecture"
-      },
-      {
-        "ids": {
-          "database_table_669472": 54,
-          "database_table_669475": 63
-        },
-        "value": "Network Architecture"
-      },
-      {
-        "ids": {
-          "database_table_669472": 55,
-          "database_table_669475": 63
-        },
-        "value": "Network Architecture"
+        "slug": "network-architecture",
+        "label": "Network Architecture"
       }
     ],
     "Duty Description": "The Information Security Analysis duty protects a product and its users from threats. Analysts model how something could be attacked, test for weaknesses, configure defenses, and audit the system to keep data safe. It is careful, detail-driven work that looks for problems before someone with bad intent does.",
@@ -16396,76 +12667,6 @@
         "label": "Copywriting"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "design-component-creation",
-        "label": "Design Component Creation"
-      },
-      {
-        "slug": "feature-vision-definition",
-        "label": "Feature Vision Definition"
-      },
-      {
-        "slug": "feature-scope-definition",
-        "label": "Feature Scope Definition"
-      },
-      {
-        "slug": "storyboarding",
-        "label": "Storyboarding"
-      },
-      {
-        "slug": "ui-kit-creation",
-        "label": "UI Kit Creation"
-      },
-      {
-        "slug": "developing-information-architecture",
-        "label": "Developing Information Architecture"
-      },
-      {
-        "slug": "prototype-creation",
-        "label": "Prototype Creation"
-      },
-      {
-        "slug": "market-research",
-        "label": "Market Research"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "customer-experience-mapping",
-        "label": "Customer Experience Mapping"
-      },
-      {
-        "slug": "creating-rest-apis",
-        "label": "Creating REST APIs"
-      },
-      {
-        "slug": "search-engine-optimization-seo-design",
-        "label": "Search Engine Optimization (SEO) Design"
-      },
-      {
-        "slug": "rapid-ideation",
-        "label": "Rapid Ideation"
-      },
-      {
-        "slug": "measuring-accessibility",
-        "label": "Measuring Accessibility"
-      },
-      {
-        "slug": "maintaining-the-client-relationship",
-        "label": "Maintaining the Client Relationship"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
-      },
-      {
-        "slug": "investigating-competitors",
-        "label": "Investigating Competitors"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -16504,56 +12705,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "scope",
-        "label": "Scope"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "implement",
-        "label": "Implement"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "implement",
-        "label": "Implement"
-      }
-    ],
     "Job Titles in the World": "Product Designer",
     "Practices": [
       {
@@ -16587,178 +12738,36 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 6,
-          "database_table_669475": 16
-        },
-        "value": "Editorial Style Guide"
+        "slug": "editorial-style-guide",
+        "label": "Editorial Style Guide"
       },
       {
-        "ids": {
-          "database_table_669472": 6,
-          "database_table_669475": 17
-        },
-        "value": "Brand Identity"
+        "slug": "brand-identity",
+        "label": "Brand Identity"
       },
       {
-        "ids": {
-          "database_table_669472": 80,
-          "database_table_669475": 55
-        },
-        "value": "Copywriting Document"
+        "slug": "copywriting-document",
+        "label": "Copywriting Document"
       },
       {
-        "ids": {
-          "database_table_669472": 80,
-          "database_table_669475": 60
-        },
-        "value": "Microcopy"
+        "slug": "microcopy",
+        "label": "Microcopy"
       },
       {
-        "ids": {
-          "database_table_669472": 6,
-          "database_table_669475": 73
-        },
-        "value": "Brand Archetypes"
+        "slug": "brand-archetypes",
+        "label": "Brand Archetypes"
       },
       {
-        "ids": {
-          "database_table_669472": 61,
-          "database_table_669475": 82
-        },
-        "value": "Content Inventory"
+        "slug": "content-inventory",
+        "label": "Content Inventory"
       },
       {
-        "ids": {
-          "database_table_669472": 61,
-          "database_table_669475": 88
-        },
-        "value": "Content Outline"
+        "slug": "content-outline",
+        "label": "Content Outline"
       },
       {
-        "ids": {
-          "database_table_669472": 6,
-          "database_table_669475": 94
-        },
-        "value": "Logo and Brand Assets"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
+        "slug": "logo-and-brand-assets",
+        "label": "Logo and Brand Assets"
       }
     ],
     "Duty Description": "The UX Writing duty crafts the words inside a product, the buttons, labels, messages, and instructions that guide people along. Writers shape a clear voice, build style guides, and cut anything confusing so the product feels simple to use. It sounds small, but the right words can make or break whether people understand what to do.",
@@ -17529,17 +13538,10 @@
         "label": "Scaled Agile Framework Method"
       }
     ],
-    "Transitioning from Other Fields 2": "Agriculture",
     "Activities": [
       {
         "slug": "coaching-team-mates",
         "label": "Coaching Team Mates"
-      }
-    ],
-    "Activities 2": [
-      {
-        "slug": "defining-team-working-agreements",
-        "label": "Defining Team Working Agreements"
       }
     ],
     "Milestones": [
@@ -17580,60 +13582,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "intake",
-        "label": "Intake"
-      }
-    ],
     "Practices": [
       {
         "slug": "shared-ownership",
@@ -17666,11 +13614,8 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 50,
-          "database_table_669475": 83
-        },
-        "value": "Personal Growth Roadmap"
+        "slug": "personal-growth-roadmap",
+        "label": "Personal Growth Roadmap"
       }
     ],
     "Workshops - What RACI Hat Owns This Workshop?": [
@@ -17725,124 +13670,6 @@
       {
         "slug": "tech-fleet-sprint-demo-slide-deck-template",
         "label": "Tech Fleet Sprint Demo Slide Deck Template"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
       }
     ],
     "Duty Description": "The Agile Coaching duty helps teams work better together, not by managing them but by guiding how they collaborate. Coaches teach agile ways of working, run workshops, and help a team build trust, ownership, and steady improvement. Much of the job is noticing how people interact and gently helping them get unstuck.",
@@ -18575,7 +14402,6 @@
         "label": "Spreadsheet Tools"
       }
     ],
-    "Transitioning from Other Fields 2 copy copy": "Agriculture",
     "Activities": [
       {
         "slug": "qa-testing",
@@ -18584,32 +14410,6 @@
       {
         "slug": "autotest-creation",
         "label": "Autotest Creation"
-      }
-    ],
-    "Activities 2": [
-      {
-        "slug": "defining-team-working-agreements",
-        "label": "Defining Team Working Agreements"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "server-side-coding",
-        "label": "Server-Side Coding"
-      },
-      {
-        "slug": "front-end-coding",
-        "label": "Front-End Coding"
-      },
-      {
-        "slug": "blockchain-coding",
-        "label": "Blockchain Coding"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
       }
     ],
     "Milestones": [
@@ -18650,52 +14450,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      }
-    ],
     "Practices": [
       {
         "slug": "shared-ownership",
@@ -18724,32 +14478,16 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 44,
-          "database_table_669475": 9
-        },
-        "value": "QA Test Plan"
+        "slug": "qa-test-plan",
+        "label": "QA Test Plan"
       },
       {
-        "ids": {
-          "database_table_669472": 44,
-          "database_table_669475": 64
-        },
-        "value": "QA Test Cases"
+        "slug": "qa-test-cases",
+        "label": "QA Test Cases"
       },
       {
-        "ids": {
-          "database_table_669472": 45,
-          "database_table_669475": 64
-        },
-        "value": "QA Test Cases"
-      },
-      {
-        "ids": {
-          "database_table_669472": 44,
-          "database_table_669475": 84
-        },
-        "value": "QA Analysis"
+        "slug": "qa-analysis",
+        "label": "QA Analysis"
       }
     ],
     "Duty Description": "The QA Analysis duty makes sure the product actually works before it reaches users. QA analysts write test plans and cases, put the product through its paces, and catch bugs and broken flows while they are still cheap to fix. In agile work they test continuously, checking each piece as it is built rather than waiting until the very end.",
@@ -19472,20 +15210,6 @@
         "label": "Creating Illustrations"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "defining-team-working-agreements",
-        "label": "Defining Team Working Agreements"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -19524,48 +15248,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "implement",
-        "label": "Implement"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "implement",
-        "label": "Implement"
-      }
-    ],
     "Job Titles in the World": "UI Engineer, Product Designer",
     "Practices": [
       {
@@ -19595,18 +15277,8 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 8,
-          "database_table_669475": 94
-        },
-        "value": "Logo and Brand Assets"
-      },
-      {
-        "ids": {
-          "database_table_669472": 84,
-          "database_table_669475": 94
-        },
-        "value": "Logo and Brand Assets"
+        "slug": "logo-and-brand-assets",
+        "label": "Logo and Brand Assets"
       }
     ],
     "Duty Description": "The Graphic Design duty creates the visual pieces that give a product its personality, logos, icons, illustrations, and brand assets. Designers turn ideas into clean, recognizable visuals that help a product look polished and feel like itself. It is craft-focused work where small details add up to a strong overall impression.",
@@ -20671,180 +16343,6 @@
         "label": "Theatre"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "wireframing",
-        "label": "Wireframing"
-      },
-      {
-        "slug": "design-component-creation",
-        "label": "Design Component Creation"
-      },
-      {
-        "slug": "feature-vision-definition",
-        "label": "Feature Vision Definition"
-      },
-      {
-        "slug": "feature-scope-definition",
-        "label": "Feature Scope Definition"
-      },
-      {
-        "slug": "generating-problem-statements",
-        "label": "Generating Problem Statements"
-      },
-      {
-        "slug": "analyzing-research-findings",
-        "label": "Analyzing Research Findings"
-      },
-      {
-        "slug": "presenting-research-results",
-        "label": "Presenting Research Results"
-      },
-      {
-        "slug": "moderating-ux-research",
-        "label": "Moderating UX Research"
-      },
-      {
-        "slug": "secondary-research",
-        "label": "Secondary Research"
-      },
-      {
-        "slug": "card-sorting",
-        "label": "Card Sorting "
-      },
-      {
-        "slug": "interviewing",
-        "label": "Interviewing"
-      },
-      {
-        "slug": "surveys",
-        "label": "Surveys"
-      },
-      {
-        "slug": "storyboarding",
-        "label": "Storyboarding"
-      },
-      {
-        "slug": "product-positioning",
-        "label": "Product Positioning"
-      },
-      {
-        "slug": "diary-studies",
-        "label": "Diary Studies"
-      },
-      {
-        "slug": "contextual-inquiries",
-        "label": "Contextual Inquiries"
-      },
-      {
-        "slug": "observing-ethnography",
-        "label": "Observing (Ethnography)"
-      },
-      {
-        "slug": "usability-testing",
-        "label": "Usability Testing"
-      },
-      {
-        "slug": "prototype-concept-testing",
-        "label": "Prototype Concept Testing "
-      },
-      {
-        "slug": "a-b-prototype-test-creation",
-        "label": "A/B Prototype Test Creation"
-      },
-      {
-        "slug": "ui-kit-creation",
-        "label": "UI Kit Creation"
-      },
-      {
-        "slug": "developing-information-architecture",
-        "label": "Developing Information Architecture"
-      },
-      {
-        "slug": "prototype-creation",
-        "label": "Prototype Creation"
-      },
-      {
-        "slug": "ux-heuristics-analysis",
-        "label": "UX Heuristics Analysis"
-      },
-      {
-        "slug": "market-research",
-        "label": "Market Research"
-      },
-      {
-        "slug": "user-acceptance-testing",
-        "label": "User Acceptance Testing"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "identifying-research-patterns",
-        "label": "Identifying Research Patterns"
-      },
-      {
-        "slug": "experiment-design",
-        "label": "Experiment Design"
-      },
-      {
-        "slug": "price-testing",
-        "label": "Price Testing"
-      },
-      {
-        "slug": "creating-rest-apis",
-        "label": "Creating REST APIs"
-      },
-      {
-        "slug": "search-engine-optimization-seo-design",
-        "label": "Search Engine Optimization (SEO) Design"
-      },
-      {
-        "slug": "creating-research-plans",
-        "label": "Creating Research Plans"
-      },
-      {
-        "slug": "rapid-ideation",
-        "label": "Rapid Ideation"
-      },
-      {
-        "slug": "user-story-generation",
-        "label": "User Story Generation"
-      },
-      {
-        "slug": "calculating-statistics",
-        "label": "Calculating Statistics"
-      },
-      {
-        "slug": "site-map-testing",
-        "label": "Site Map Testing"
-      },
-      {
-        "slug": "collecting-analytics",
-        "label": "Collecting Analytics"
-      },
-      {
-        "slug": "primary-research",
-        "label": "Primary Research"
-      },
-      {
-        "slug": "choosing-research-methods",
-        "label": "Choosing Research Methods"
-      },
-      {
-        "slug": "maintaining-the-client-relationship",
-        "label": "Maintaining the Client Relationship"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
-      },
-      {
-        "slug": "investigating-competitors",
-        "label": "Investigating Competitors"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -20883,72 +16381,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "scope",
-        "label": "Scope"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "acceptance-testing",
-        "label": "Acceptance Testing"
-      }
-    ],
     "Job Titles in the World": "Product Designer",
     "Practices": [
       {
@@ -20982,160 +16414,28 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 68,
-          "database_table_669475": 18
-        },
-        "value": "User Journey Map"
+        "slug": "user-journey-map",
+        "label": "User Journey Map"
       },
       {
-        "ids": {
-          "database_table_669472": 27,
-          "database_table_669475": 44
-        },
-        "value": "Storyboard"
+        "slug": "storyboard",
+        "label": "Storyboard"
       },
       {
-        "ids": {
-          "database_table_669472": 75,
-          "database_table_669475": 45
-        },
-        "value": "Sketches"
+        "slug": "sketches",
+        "label": "Sketches"
       },
       {
-        "ids": {
-          "database_table_669472": 68,
-          "database_table_669475": 50
-        },
-        "value": "Customer Experience Diagram"
+        "slug": "customer-experience-diagram",
+        "label": "Customer Experience Diagram"
       },
       {
-        "ids": {
-          "database_table_669472": 92,
-          "database_table_669475": 101
-        },
-        "value": "SEO Strategy"
+        "slug": "seo-strategy",
+        "label": "SEO Strategy"
       },
       {
-        "ids": {
-          "database_table_669472": 75,
-          "database_table_669475": 105
-        },
-        "value": "Strategy Definition"
-      }
-    ],
-    "Transitioning into UX Research Roles 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
       }
     ],
     "Workshops - What RACI Hat Owns This Workshop?": [
@@ -21902,20 +17202,6 @@
         "label": "Defining UX Design Operations"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "defining-team-working-agreements",
-        "label": "Defining Team Working Agreements"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      },
-      {
-        "slug": "creating-acceptance-criteria",
-        "label": "Creating Acceptance Criteria"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -21954,40 +17240,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
-    "Milestones copy copy": [
-      {
-        "slug": "intake",
-        "label": "Intake"
-      }
-    ],
-    "Milestones copy copy copy": [
-      {
-        "slug": "intake",
-        "label": "Intake"
-      }
-    ],
     "Practices": [
       {
         "slug": "shared-ownership",
@@ -22020,88 +17272,32 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 20,
-          "database_table_669475": 67
-        },
-        "value": "Working Agreements"
+        "slug": "working-agreements",
+        "label": "Working Agreements"
       },
       {
-        "ids": {
-          "database_table_669472": 21,
-          "database_table_669475": 68
-        },
-        "value": "RACI Charts"
+        "slug": "raci-charts",
+        "label": "RACI Charts"
       },
       {
-        "ids": {
-          "database_table_669472": 98,
-          "database_table_669475": 68
-        },
-        "value": "RACI Charts"
+        "slug": "kanban-board-statuses",
+        "label": "Kanban Board Statuses"
       },
       {
-        "ids": {
-          "database_table_669472": 67,
-          "database_table_669475": 90
-        },
-        "value": "Kanban Board Statuses"
+        "slug": "team-process-map",
+        "label": "Team Process Map"
       },
       {
-        "ids": {
-          "database_table_669472": 67,
-          "database_table_669475": 99
-        },
-        "value": "Team Process Map"
+        "slug": "psychological-safety-plan",
+        "label": "Psychological Safety Plan"
       },
       {
-        "ids": {
-          "database_table_669472": 98,
-          "database_table_669475": 99
-        },
-        "value": "Team Process Map"
+        "slug": "agile-method",
+        "label": "Agile Method"
       },
       {
-        "ids": {
-          "database_table_669472": 99,
-          "database_table_669475": 99
-        },
-        "value": "Team Process Map"
-      },
-      {
-        "ids": {
-          "database_table_669472": 100,
-          "database_table_669475": 99
-        },
-        "value": "Team Process Map"
-      },
-      {
-        "ids": {
-          "database_table_669472": 20,
-          "database_table_669475": 100
-        },
-        "value": "Psychological Safety Plan"
-      },
-      {
-        "ids": {
-          "database_table_669472": 97,
-          "database_table_669475": 103
-        },
-        "value": "Agile Method"
-      },
-      {
-        "ids": {
-          "database_table_669472": 98,
-          "database_table_669475": 103
-        },
-        "value": "Agile Method"
-      },
-      {
-        "ids": {
-          "database_table_669472": 98,
-          "database_table_669475": 104
-        },
-        "value": "Team Charter"
+        "slug": "team-charter",
+        "label": "Team Charter"
       }
     ],
     "Workshops - What RACI Hat Owns This Workshop?": [
@@ -22112,242 +17308,6 @@
       {
         "slug": "backlog-management-workshop-template",
         "label": "Backlog Management Workshop Template"
-      }
-    ],
-    "Transitioning into Product Owner Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
-      }
-    ],
-    "Transitioning Into Product Manager Jobs 2": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      },
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      },
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      },
-      {
-        "slug": "business",
-        "label": "Business"
-      },
-      {
-        "slug": "construction",
-        "label": "Construction"
-      },
-      {
-        "slug": "creative",
-        "label": "Creative"
-      },
-      {
-        "slug": "finance",
-        "label": "Finance"
-      },
-      {
-        "slug": "government",
-        "label": "Government"
-      },
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      },
-      {
-        "slug": "indutrial-design",
-        "label": "Indutrial Design"
-      },
-      {
-        "slug": "legal",
-        "label": "Legal"
-      },
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      },
-      {
-        "slug": "medical",
-        "label": "Medical"
-      },
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      },
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      },
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      },
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      },
-      {
-        "slug": "retail",
-        "label": "Retail"
-      },
-      {
-        "slug": "sales",
-        "label": "Sales"
-      },
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      },
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      },
-      {
-        "slug": "development",
-        "label": "Development"
-      },
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      },
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      },
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      },
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      },
-      {
-        "slug": "film",
-        "label": "Film"
-      },
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      },
-      {
-        "slug": "user-experience-research",
-        "label": "User Experience Research"
       }
     ],
     "Duty Description": "The Product Operations duty sets up how a team actually works together. Ops people define working agreements, map team processes, choose the right agile method, and clarify who owns what, so the team runs smoothly instead of tripping over itself. It is the behind-the-scenes work that makes good collaboration possible.",
@@ -23128,16 +18088,6 @@
         "label": "Presentation Tools"
       }
     ],
-    "Activities 2": [
-      {
-        "slug": "defining-team-working-agreements",
-        "label": "Defining Team Working Agreements"
-      },
-      {
-        "slug": "coaching-team-mates",
-        "label": "Coaching Team Mates"
-      }
-    ],
     "Milestones": [
       {
         "slug": "continuous-discovery",
@@ -23176,36 +18126,6 @@
         "label": "All Milestones"
       }
     ],
-    "Milestones copy": [
-      {
-        "slug": "continuous-discovery",
-        "label": "Continuous Discovery"
-      },
-      {
-        "slug": "requirements",
-        "label": "Requirements"
-      },
-      {
-        "slug": "implement",
-        "label": "Implement"
-      },
-      {
-        "slug": "launch",
-        "label": "Launch"
-      },
-      {
-        "slug": "vision",
-        "label": "Vision"
-      },
-      {
-        "slug": "intake",
-        "label": "Intake"
-      },
-      {
-        "slug": "all-milestones",
-        "label": "All Milestones"
-      }
-    ],
     "Practices": [
       {
         "slug": "shared-ownership",
@@ -23234,11 +18154,8 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 94,
-          "database_table_669475": 27
-        },
-        "value": "Statement of Work"
+        "slug": "statement-of-work",
+        "label": "Statement of Work"
       }
     ],
     "Duty Description": "The Account Management duty owns the relationship with the client. Account managers keep communication clear, set expectations, and make sure the client feels heard while the team focuses on the work. Much of the job is trust-building, being the steady point of contact who keeps everyone aligned.",
@@ -23283,18 +18200,12 @@
     ],
     "Responsible Deliverables": [
       {
-        "ids": {
-          "database_table_669472": 69,
-          "database_table_669475": 52
-        },
-        "value": "Sprint Demo Presentation"
+        "slug": "sprint-demo-presentation",
+        "label": "Sprint Demo Presentation"
       },
       {
-        "ids": {
-          "database_table_669472": 71,
-          "database_table_669475": 93
-        },
-        "value": "AI Prompt"
+        "slug": "ai-prompt",
+        "label": "AI Prompt"
       }
     ],
     "Duty Description": "The Everyone duty covers the work that is not owned by one role but shared by the whole team. Things like giving sprint demos and writing AI prompts are part of everyone's job, whatever their specialty. It is a reminder that on an agile team, some responsibilities belong to all of us.",
