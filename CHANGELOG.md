@@ -34,7 +34,8 @@ means "read the notes before you update."
   coverage gate, and a dependency audit — actions pinned to commit SHAs. A scheduled
   Baserow-refresh workflow (`refresh.yml`) and an uptime healthcheck (`healthcheck.yml`).
 - Contract, `@security`, and `@reliability` tests for the library, plus a Gherkin
-  specification (`features/data-api.feature`). Test count is now 24 with ~97% line coverage.
+  specification (`features/data-api.feature`) and an edge-case suite. 38 tests at **100%
+  coverage** (statements, branches, functions, and lines), enforced as a CI gate.
 
 **Changed**
 - The API docs now **self-host** the Scalar engine (`api/scalar.js`, pinned to

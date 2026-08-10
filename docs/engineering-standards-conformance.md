@@ -44,7 +44,7 @@ message bus, microservice, or chaos suite for a static open-data site.
 |---|---|---|
 | Test pyramid (unit-heavy) | Met | `library/test/*` — 24 fast tests, no e2e ice-cream-cone |
 | Contract testing | Met | `library/test/contract.test.mjs`: OpenAPI ↔ manifest ↔ snapshot cannot drift; CI also fails on stale generated artifacts |
-| Coverage quality gate | Met | c8 gate (lines/statements 80, functions 80, branches 70); currently ~97% lines / 100% functions |
+| Coverage quality gate | Met | c8 gate at **100%** (statements, branches, functions, lines), enforced in CI |
 | Property/edge coverage | Met by design | Contract test iterates all datasets; integrity test checks all ~29k links |
 | Load / performance / chaos | N/A (static) / Planned (service) | A CDN file has no app tier to load-test; deferred to the service with justification |
 | Flaky-test hygiene | Met | Deterministic `node --test`; no known flaky tests |
