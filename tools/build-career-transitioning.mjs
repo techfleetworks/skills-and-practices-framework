@@ -14,14 +14,16 @@ const hdr = { Authorization: `Token ${T}` };
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 // table id -> target field label.  *** 5 confident (from content), 2 NEED FOUNDER CONFIRMATION ***
+// Target fields per founder-confirmed table URLs (the "Duties in the Field" column in the
+// source is unreliable, so these labels come from the table identity, not row content).
 const TARGET = {
-  669484: "UX Research",            // rows' duties: UX Research, UX Strategy
-  1124072: "UX Design",             // rows' duties: UX Design, UX Strategy
-  1124076: "Business Analysis",     // rows' duties: Business Analysis
-  1124078: "Product Ownership",     // rows' duties: Product Ownership
-  1124365: "UX Writing",            // rows' duties: UX Writing
-  1124364: "Product Management",    // multi-hat role: rows also span BA/PO/SolArch/ProdOps (intentional)
-  1124367: "Agile Coaching",        // multi-hat role: rows also span Scrum Master/ProdOps (intentional)
+  669484: "UX Design",
+  1124365: "UX Research",
+  1124072: "UX Writing",            // by elimination (founder's UX Writing URL duplicated the UXR one)
+  1124076: "Business Analysis",
+  1124078: "Product Ownership",
+  1124364: "Product Management",    // multi-hat role (also spans BA/PO/SolArch/ProdOps) by design
+  1124367: "Agile Coaching",        // multi-hat role (also spans Scrum Master/ProdOps) by design
 };
 
 // Correct source-industry typos from the Baserow "Transition From" field.
