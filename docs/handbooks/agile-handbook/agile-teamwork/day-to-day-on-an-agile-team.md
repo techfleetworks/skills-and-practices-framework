@@ -1,0 +1,10 @@
+> For the complete documentation index, see [llms.txt](https://guide.techfleet.org/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://guide.techfleet.org/agile-training-portal/agile-handbook/agile-teamwork/day-to-day-on-an-agile-team.md).
+
+# Day-to-Day on an Agile Team
+
+- [Cross-Functional Agile Teamwork](https://guide.techfleet.org/agile-training-portal/agile-handbook/agile-teamwork/day-to-day-on-an-agile-team/cross-functional-agile-teamwork.md): Agile teams collaborate across their job titles. In fact, there should be no "job titles" limiting people to responsibilities! Read more below.
+- [Leadership on Agile Teams](https://guide.techfleet.org/agile-training-portal/agile-handbook/agile-teamwork/day-to-day-on-an-agile-team/leadership-on-agile-teams.md): Who's in charge on an Agile team? Read more below.
+- [Daily Life on Agile Teams](https://guide.techfleet.org/agile-training-portal/agile-handbook/agile-teamwork/day-to-day-on-an-agile-team/daily-life-on-agile-teams.md): Let's talk about what day to day life looks like on Waterfall and on Agile cross-functional teams.
+- [Resolving Team Conflict as Service Leaders](https://guide.techfleet.org/agile-training-portal/agile-handbook/agile-teamwork/day-to-day-on-an-agile-team/resolving-team-conflict-as-service-leaders.md): Teams should feel psychologically safe, supported through service, and self-organized. But how do Agile teams resolve conflict throughout the four stages of teamwork? Read more below.
+- [The Process for Resolving Conflicts](https://guide.techfleet.org/agile-training-portal/agile-handbook/agile-teamwork/day-to-day-on-an-agile-team/the-process-for-resolving-conflicts.md): Here is Tech Fleet's standard process for resolving conflict on Agile teams. Read more below.
+- [Collective Agreement Violations](https://guide.techfleet.org/agile-training-portal/agile-handbook/agile-teamwork/day-to-day-on-an-agile-team/collective-agreement-violations.md): This page outlines violations of Tech Fleet's Community Collective Agreement

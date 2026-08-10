@@ -23,6 +23,8 @@ means "read the notes before you update."
 ## Unreleased
 
 **Added**
+- The three Tech Fleet handbooks (Agile, Teammate, Project Success) pulled from GitBook as
+  Markdown into `docs/handbooks/` (168 pages), synced by `tools/extract-handbooks.mjs`.
 - A mind map (SVG) for each of the 15 data types in `docs/diagrams/`, showing the data
   type at the center and its two-way relationship to every other data type, generated from
   the data by `tools/build-mindmaps.mjs`.
