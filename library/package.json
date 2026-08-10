@@ -1,0 +1,55 @@
+{
+  "name": "@techfleet/spf",
+  "version": "1.0.0",
+  "description": "Query library for the Skills & Practices Framework open data by Tech Fleet.",
+  "license": "Apache-2.0",
+  "author": "Tech Fleet (https://techfleet.org)",
+  "homepage": "https://github.com/techfleetworks/skills-and-practices-framework",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techfleetworks/skills-and-practices-framework.git",
+    "directory": "library"
+  },
+  "bugs": {
+    "url": "https://github.com/techfleetworks/skills-and-practices-framework/issues"
+  },
+  "keywords": [
+    "skills",
+    "practices",
+    "framework",
+    "open-data",
+    "ontology",
+    "career",
+    "tech-fleet"
+  ],
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./node": {
+      "types": "./dist/node.d.ts",
+      "import": "./dist/node.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "gen": "node ../tools/build-types.mjs",
+    "prebuild": "node ../tools/build-types.mjs",
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test": "node --test",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.6.3"
+  }
+}

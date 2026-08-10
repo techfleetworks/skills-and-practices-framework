@@ -22,7 +22,16 @@ means "read the notes before you update."
 
 ## Unreleased
 
-_Nothing yet._
+**Added**
+- A query library, `@techfleet/spf`, under `library/`: a small, typed, dependency-free
+  TypeScript package that loads the framework into memory and lets you filter, search, and walk
+  relationships (forward, reverse, and neighbors), resolving links global-by-slug exactly as the
+  validator checks them. It loads from a bundled snapshot, your own copy, or the live data, and
+  runs in the browser and Node. Field types for every dataset are generated from the JSON Schemas
+  by `tools/build-types.mjs`. Tested with `node --test`.
+- A combined snapshot artifact, `data/json/framework.snapshot.json`, bundling every dataset and
+  the version into one file — the single thing an app bundles, a database sync ingests, or the
+  library fetches in one request. Built by `tools/build-snapshot.mjs`.
 
 ## v1.0.0 — 2026-08-10
 
