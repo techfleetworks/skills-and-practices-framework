@@ -1,0 +1,32 @@
+# License
+
+The Skills & Practices Framework is offered under **two licenses**, because the
+repository holds two different kinds of things: the framework **data and writing**, and
+the **code** that builds and publishes it.
+
+## The data and writing — Creative Commons Attribution 4.0 (CC BY 4.0)
+
+Everything under `data/`, everything under `docs/`, and the `README.md` is licensed under
+**CC BY 4.0**. You are free to share and adapt it, including for commercial use, as long
+as you give appropriate credit to Tech Fleet.
+
+- Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+- Summary: https://creativecommons.org/licenses/by/4.0/
+- `SPDX-License-Identifier: CC-BY-4.0`
+
+## The code — Apache License 2.0
+
+Everything under `tools/` and `schema/`, and any client packages, is licensed under the
+**Apache License, Version 2.0**.
+
+- Full legal text: https://www.apache.org/licenses/LICENSE-2.0
+- `SPDX-License-Identifier: Apache-2.0`
+
+## In plain terms
+
+- **The framework itself (data and words):** use it anywhere, just credit Tech Fleet.
+- **The tools and schemas (code):** use them freely under Apache-2.0.
+- **Not sure which applies?** Data and writing are CC BY 4.0; scripts and schemas are Apache-2.0.
+
+> Before the public launch, the full legal text of both licenses will be pasted into this
+> repository so GitHub displays each one automatically.

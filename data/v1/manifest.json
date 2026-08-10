@@ -116,6 +116,12 @@
       "file": "workshop-template-sections.json",
       "count": 170,
       "primaryField": "Unique ID"
+    },
+    {
+      "entity": "handoff-deliverables-map",
+      "file": "handoff-deliverables-map.json",
+      "count": 26,
+      "primaryField": "Story Arc"
     }
   ]
 }

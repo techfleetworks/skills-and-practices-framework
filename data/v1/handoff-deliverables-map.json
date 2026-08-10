@@ -1,0 +1,948 @@
+[
+  {
+    "id": 1,
+    "slug": "pre-amble",
+    "Story Arc": "Pre-amble",
+    "Component": "Project goals",
+    "Description": "The goals the phase was working toward",
+    "Format of the Resulting Section": "List of items",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "project-plan",
+        "label": "Project Plan"
+      },
+      {
+        "slug": "project-goals-definition",
+        "label": "Project Goals Definition"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 75,
+          "database_table_1124240": 6
+        },
+        "value": "Project Plan Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 85,
+          "database_table_1124240": 6
+        },
+        "value": "Project Plan Workshop Template"
+      }
+    ],
+    "Unique ID": 1
+  },
+  {
+    "id": 2,
+    "slug": "pre-amble-2",
+    "Story Arc": "Pre-amble",
+    "Component": "Recap summary of the deliverables for the project phase",
+    "Description": "Plain-language recap of what this phase set out to deliver",
+    "Format of the Resulting Section": "List of items",
+    "Is this in the Client Hand-Off?": "Yes",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "project-plan",
+        "label": "Project Plan"
+      },
+      {
+        "slug": "project-goals-definition",
+        "label": "Project Goals Definition"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 75,
+          "database_table_1124240": 6
+        },
+        "value": "Project Plan Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 85,
+          "database_table_1124240": 6
+        },
+        "value": "Project Plan Workshop Template"
+      }
+    ],
+    "Unique ID": 2
+  },
+  {
+    "id": 3,
+    "slug": "pre-amble-3",
+    "Story Arc": "Pre-amble",
+    "Component": "Recap of cross-functional team hats that were involved",
+    "Description": "The different duties that were performed on the cross-functional team",
+    "Format of the Resulting Section": "Liste of items",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "raci-charts",
+        "label": "RACI Charts"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 68,
+          "database_table_1124240": 5
+        },
+        "value": "RACI Hats Workshop Template"
+      }
+    ],
+    "Unique ID": 3
+  },
+  {
+    "id": 4,
+    "slug": "pre-amble-4",
+    "Story Arc": "Pre-amble",
+    "Component": "Summarized reflections on what the team learned in hindsight",
+    "Description": "Team's top takeaways summarized for the pre-amble",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "No",
+    "Unique ID": 4
+  },
+  {
+    "id": 5,
+    "slug": "pre-amble-5",
+    "Story Arc": "Pre-amble",
+    "Component": "Previous work the team did before this phase",
+    "Description": "Context on prior phases so readers know the starting point",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "Yes",
+    "Is this in the Teammate Hand-off?": "No",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "No",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "statement-of-work",
+        "label": "Statement of Work"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 27,
+          "database_table_1124240": 4
+        },
+        "value": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Unique ID": 5
+  },
+  {
+    "id": 6,
+    "slug": "pre-amble-6",
+    "Story Arc": "Pre-amble",
+    "Component": "Glossaries of terms that the team had to learn related to the project",
+    "Description": "Domain and project terms defined for newcomers",
+    "Format of the Resulting Section": "List of items",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "No",
+    "Is this in the Tech Fleet Org Case Study?": "No",
+    "Unique ID": 6
+  },
+  {
+    "id": 7,
+    "slug": "pre-amble-7",
+    "Story Arc": "Pre-amble",
+    "Component": "Project operations details",
+    "Description": "How the team ran the project (process and cadence)",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "team-process-map",
+        "label": "Team Process Map"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 99,
+          "database_table_1124240": 8
+        },
+        "value": "Team Process Mapping Workshop Template"
+      }
+    ],
+    "Unique ID": 7
+  },
+  {
+    "id": 8,
+    "slug": "pre-amble-8",
+    "Story Arc": "Pre-amble",
+    "Component": "Summary of the client",
+    "Description": "Who the client is and what they need",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "statement-of-work",
+        "label": "Statement of Work"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 27,
+          "database_table_1124240": 4
+        },
+        "value": "Client Kickoff Workshop Template"
+      }
+    ],
+    "Unique ID": 8
+  },
+  {
+    "id": 9,
+    "slug": "part-1-empathy-building",
+    "Story Arc": "Part 1: Empathy Building",
+    "Component": "The problems in the current state of the world that were prioritized",
+    "Description": "The prioritized problem statements the team worked against",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "Yes",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "problem-statements",
+        "label": "Problem Statements"
+      },
+      {
+        "slug": "problem-checklists",
+        "label": "Problem Checklists"
+      },
+      {
+        "slug": "user-story-statements",
+        "label": "User Story Statements"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 2,
+          "database_table_1124240": 13
+        },
+        "value": "Scenario-Based Problem Statement Generation Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 3,
+          "database_table_1124240": 13
+        },
+        "value": "Scenario-Based Problem Statement Generation Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 7,
+          "database_table_1124240": 13
+        },
+        "value": "Scenario-Based Problem Statement Generation Workshop Template"
+      }
+    ],
+    "Unique ID": 9
+  },
+  {
+    "id": 10,
+    "slug": "part-1-empathy-building-2",
+    "Story Arc": "Part 1: Empathy Building",
+    "Component": "UX Research work and insights we learned",
+    "Description": "Research performed and the insights it produced",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "Yes",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "research-report",
+        "label": "Research Report"
+      },
+      {
+        "slug": "rainbow-table",
+        "label": "Rainbow Table"
+      },
+      {
+        "slug": "affinity-map",
+        "label": "Affinity Map"
+      },
+      {
+        "slug": "research-plan",
+        "label": "Research Plan"
+      },
+      {
+        "slug": "research-analysis",
+        "label": "Research Analysis"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 51,
+          "database_table_1124240": 15
+        },
+        "value": "Research Plan Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 47,
+          "database_table_1124240": 20
+        },
+        "value": "UX Research Analysis Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 48,
+          "database_table_1124240": 20
+        },
+        "value": "UX Research Analysis Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 49,
+          "database_table_1124240": 20
+        },
+        "value": "UX Research Analysis Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 66,
+          "database_table_1124240": 20
+        },
+        "value": "UX Research Analysis Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 47,
+          "database_table_1124240": 29
+        },
+        "value": "Research Analysis Presentation Slide Template"
+      }
+    ],
+    "Unique ID": 10
+  },
+  {
+    "id": 11,
+    "slug": "part-2-the-journey",
+    "Story Arc": "Part 2: The Journey",
+    "Component": "Key performance indicators",
+    "Description": "The KPIs used to measure success and results against them",
+    "Format of the Resulting Section": "List of items",
+    "Is this in the Client Hand-Off?": "Yes",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "key-performance-indicators-kpis",
+        "label": "Key Performance Indicators (KPI's)"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 30,
+          "database_table_1124240": 30
+        },
+        "value": "KPI Success Measurements Definition Workshop Template"
+      }
+    ],
+    "Unique ID": 11
+  },
+  {
+    "id": 12,
+    "slug": "part-2-the-journey-2",
+    "Story Arc": "Part 2: The Journey",
+    "Component": "Product team strategy / vision / scope work",
+    "Description": "Where the product is going and what was in/out of scope",
+    "Format of the Resulting Section": "Table",
+    "Is this in the Client Hand-Off?": "Yes",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "vision-boards",
+        "label": "Vision Boards"
+      },
+      {
+        "slug": "epics-and-features",
+        "label": "Epics and Features"
+      },
+      {
+        "slug": "release-level-scope",
+        "label": "Release-level Scope"
+      },
+      {
+        "slug": "business-plan",
+        "label": "Business Plan"
+      },
+      {
+        "slug": "marketing-plan",
+        "label": "Marketing Plan"
+      },
+      {
+        "slug": "release-plan",
+        "label": "Release Plan"
+      },
+      {
+        "slug": "go-to-market-plan",
+        "label": "Go-To-Market Plan"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 1,
+          "database_table_1124240": 7
+        },
+        "value": "Vision and Scope Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 4,
+          "database_table_1124240": 7
+        },
+        "value": "Vision and Scope Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 5,
+          "database_table_1124240": 7
+        },
+        "value": "Vision and Scope Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 24,
+          "database_table_1124240": 7
+        },
+        "value": "Vision and Scope Workshop Template"
+      }
+    ],
+    "Unique ID": 12
+  },
+  {
+    "id": 13,
+    "slug": "part-2-the-journey-3",
+    "Story Arc": "Part 2: The Journey",
+    "Component": "Decisions that each team function made",
+    "Description": "Key decisions per function and their rationale",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "No",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "vision-boards",
+        "label": "Vision Boards"
+      },
+      {
+        "slug": "epics-and-features",
+        "label": "Epics and Features"
+      },
+      {
+        "slug": "release-level-scope",
+        "label": "Release-level Scope"
+      },
+      {
+        "slug": "business-plan",
+        "label": "Business Plan"
+      },
+      {
+        "slug": "marketing-plan",
+        "label": "Marketing Plan"
+      },
+      {
+        "slug": "release-plan",
+        "label": "Release Plan"
+      },
+      {
+        "slug": "go-to-market-plan",
+        "label": "Go-To-Market Plan"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 1,
+          "database_table_1124240": 7
+        },
+        "value": "Vision and Scope Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 4,
+          "database_table_1124240": 7
+        },
+        "value": "Vision and Scope Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 5,
+          "database_table_1124240": 7
+        },
+        "value": "Vision and Scope Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 24,
+          "database_table_1124240": 7
+        },
+        "value": "Vision and Scope Workshop Template"
+      }
+    ],
+    "Unique ID": 13
+  },
+  {
+    "id": 14,
+    "slug": "part-2-the-journey-4",
+    "Story Arc": "Part 2: The Journey",
+    "Component": "The sprint retrospective lessons",
+    "Description": "What the team learned sprint by sprint",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "sprint-retro-action-items",
+        "label": "Sprint Retro Action Items"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 72,
+          "database_table_1124240": 11
+        },
+        "value": "Sprint Retro Workshop Template"
+      }
+    ],
+    "Unique ID": 14
+  },
+  {
+    "id": 15,
+    "slug": "part-3-the-outcomes",
+    "Story Arc": "Part 3: The outcomes",
+    "Component": "The resulting deliverables that were produced in the project",
+    "Description": "The work products delivered this phase with links",
+    "Format of the Resulting Section": "List of items, and pictures",
+    "Is this in the Client Hand-Off?": "Yes",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "system-architecture-diagram",
+        "label": "System Architecture Diagram"
+      },
+      {
+        "slug": "user-journey-map",
+        "label": "User Journey Map"
+      },
+      {
+        "slug": "wireframes",
+        "label": "Wireframes"
+      },
+      {
+        "slug": "high-fidelity-prototypes",
+        "label": "High-Fidelity Prototypes"
+      },
+      {
+        "slug": "storyboard",
+        "label": "Storyboard"
+      },
+      {
+        "slug": "customer-experience-diagram",
+        "label": "Customer Experience Diagram"
+      },
+      {
+        "slug": "sitemap",
+        "label": "Sitemap"
+      },
+      {
+        "slug": "taxonomy",
+        "label": "Taxonomy"
+      },
+      {
+        "slug": "microservices-architecture",
+        "label": "Microservices Architecture"
+      },
+      {
+        "slug": "network-architecture",
+        "label": "Network Architecture"
+      },
+      {
+        "slug": "strategy-definition",
+        "label": "Strategy Definition"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 44,
+          "database_table_1124240": 17
+        },
+        "value": "Storyboarding Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 50,
+          "database_table_1124240": 23
+        },
+        "value": "Customer Experience Map Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 18,
+          "database_table_1124240": 24
+        },
+        "value": "User Journey Map Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 18,
+          "database_table_1124240": 36
+        },
+        "value": "Customer Experience Strategy Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 50,
+          "database_table_1124240": 36
+        },
+        "value": "Customer Experience Strategy Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 54,
+          "database_table_1124240": 36
+        },
+        "value": "Customer Experience Strategy Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 105,
+          "database_table_1124240": 36
+        },
+        "value": "Customer Experience Strategy Workshop Template"
+      }
+    ],
+    "Unique ID": 15
+  },
+  {
+    "id": 16,
+    "slug": "part-3-the-outcomes-2",
+    "Story Arc": "Part 3: The outcomes",
+    "Component": "Brand assets that were produced",
+    "Description": "Brand and design-system outputs delivered",
+    "Format of the Resulting Section": "List of items, and pictures",
+    "Is this in the Client Hand-Off?": "Yes",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "editorial-style-guide",
+        "label": "Editorial Style Guide"
+      },
+      {
+        "slug": "brand-identity",
+        "label": "Brand Identity"
+      },
+      {
+        "slug": "brand-archetypes",
+        "label": "Brand Archetypes"
+      },
+      {
+        "slug": "logo-and-brand-assets",
+        "label": "Logo and Brand Assets"
+      }
+    ],
+    "Unique ID": 16
+  },
+  {
+    "id": 17,
+    "slug": "part-3-the-outcomes-3",
+    "Story Arc": "Part 3: The outcomes",
+    "Component": "UX design work",
+    "Description": "Prototypes, interaction design, and design specs (added from hand-off-system diagram)",
+    "Format of the Resulting Section": "List of items, and pictures",
+    "Is this in the Client Hand-Off?": "Yes",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "wireframes",
+        "label": "Wireframes"
+      },
+      {
+        "slug": "low-fidelity-prototypes",
+        "label": "Low-Fidelity Prototypes"
+      },
+      {
+        "slug": "high-fidelity-prototypes",
+        "label": "High-Fidelity Prototypes"
+      },
+      {
+        "slug": "ui-development-specifications",
+        "label": "UI Development Specifications"
+      },
+      {
+        "slug": "design-annotation",
+        "label": "Design Annotation"
+      },
+      {
+        "slug": "sketches",
+        "label": "Sketches"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 45,
+          "database_table_1124240": 16
+        },
+        "value": "Rapid Ideation Workshop Template"
+      }
+    ],
+    "Unique ID": 17
+  },
+  {
+    "id": 18,
+    "slug": "part-3-the-outcomes-4",
+    "Story Arc": "Part 3: The outcomes",
+    "Component": "Client-specific deliverables",
+    "Description": "Deliverables unique to this client or project type (added from hand-off-system diagram)",
+    "Format of the Resulting Section": "List of items, and pictures",
+    "Is this in the Client Hand-Off?": "Yes",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "Unique ID": 18
+  },
+  {
+    "id": 19,
+    "slug": "part-3-the-outcomes-5",
+    "Story Arc": "Part 3: The outcomes",
+    "Component": "Sprint demo slides",
+    "Description": "The demo decks presented during the phase",
+    "Format of the Resulting Section": "List of items",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "sprint-demo-presentation",
+        "label": "Sprint Demo Presentation"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 52,
+          "database_table_1124240": 34
+        },
+        "value": "Tech Fleet Sprint Demo Slide Deck Template"
+      }
+    ],
+    "Unique ID": 19
+  },
+  {
+    "id": 20,
+    "slug": "part-4-the-sequel",
+    "Story Arc": "Part 4: The Sequel",
+    "Component": "The recommendations for the next phase",
+    "Description": "What the team recommends doing next and why",
+    "Format of the Resulting Section": "List of items",
+    "Is this in the Client Hand-Off?": "Yes",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "Unique ID": 20
+  },
+  {
+    "id": 21,
+    "slug": "part-4-the-sequel-2",
+    "Story Arc": "Part 4: The Sequel",
+    "Component": "Feedback that the team collected from the client",
+    "Description": "Client reactions and requests gathered during the phase",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "No",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "stakeholder-feedback",
+        "label": "Stakeholder Feedback"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 80,
+          "database_table_1124240": 34
+        },
+        "value": "Tech Fleet Sprint Demo Slide Deck Template"
+      }
+    ],
+    "Unique ID": 21
+  },
+  {
+    "id": 22,
+    "slug": "part-4-the-sequel-3",
+    "Story Arc": "Part 4: The Sequel",
+    "Component": "Backlog of work that was not done yet",
+    "Description": "Open items the next team inherits",
+    "Format of the Resulting Section": "List of items",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "No",
+    "Is this in the Tech Fleet Org Case Study?": "No",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "refined-backlog",
+        "label": "Refined Backlog"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 35,
+          "database_table_1124240": 8
+        },
+        "value": "Team Process Mapping Workshop Template"
+      }
+    ],
+    "Unique ID": 22
+  },
+  {
+    "id": 23,
+    "slug": "part-4-the-sequel-4",
+    "Story Arc": "Part 4: The Sequel",
+    "Component": "Best practices of work",
+    "Description": "Working practices worth repeating in future phases",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "No",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "Unique ID": 23
+  },
+  {
+    "id": 24,
+    "slug": "part-4-the-sequel-5",
+    "Story Arc": "Part 4: The Sequel",
+    "Component": "Meeting recordings",
+    "Description": "Recordings for deep reference",
+    "Format of the Resulting Section": "Link to recordings page on Notion",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "No",
+    "Is this in the Tech Fleet Org Case Study?": "No",
+    "Unique ID": 24
+  },
+  {
+    "id": 25,
+    "slug": "part-4-the-sequel-6",
+    "Story Arc": "Part 4: The Sequel",
+    "Component": "Reflections on what the team learned in hindsight",
+    "Description": "Honest hindsight reflections for future teams and case studies",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "Yes",
+    "Is this in the Teammate Case Study?": "Yes",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "sprint-retro-action-items",
+        "label": "Sprint Retro Action Items"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 72,
+          "database_table_1124240": 11
+        },
+        "value": "Sprint Retro Workshop Template"
+      }
+    ],
+    "Unique ID": 25
+  },
+  {
+    "id": 26,
+    "slug": "part-4-the-sequel-7",
+    "Story Arc": "Part 4: The Sequel",
+    "Component": "Evaluation research",
+    "Description": "Evaluative research results validating the work (added from hand-off-system diagram; Tech Fleet Case Study only)",
+    "Format of the Resulting Section": "Paragraph",
+    "Is this in the Client Hand-Off?": "No",
+    "Is this in the Teammate Hand-off?": "No",
+    "Is this in the Teammate Case Study?": "No",
+    "Is this in the Tech Fleet Org Case Study?": "Yes",
+    "From Which Deliverable Does This Information Come?": [
+      {
+        "slug": "research-report",
+        "label": "Research Report"
+      },
+      {
+        "slug": "research-analysis",
+        "label": "Research Analysis"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "ids": {
+          "database_table_669475": 47,
+          "database_table_1124240": 20
+        },
+        "value": "UX Research Analysis Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 66,
+          "database_table_1124240": 20
+        },
+        "value": "UX Research Analysis Workshop Template"
+      },
+      {
+        "ids": {
+          "database_table_669475": 47,
+          "database_table_1124240": 29
+        },
+        "value": "Research Analysis Presentation Slide Template"
+      }
+    ],
+    "Unique ID": 26
+  }
+]
