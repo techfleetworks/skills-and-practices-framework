@@ -23,6 +23,8 @@
   #search{flex:0 1 320px;min-width:160px;padding:.42rem .6rem;border:1px solid var(--hairline);border-radius:8px;background:var(--panel);color:var(--ink);font-size:.9rem;}
   button.btn{padding:.42rem .7rem;border:1px solid var(--hairline);border-radius:8px;background:var(--panel);color:var(--ink);font-size:.85rem;cursor:pointer;font-weight:600;}
   button.btn:hover{border-color:var(--accent);}
+  .actions{display:flex;gap:.4rem;margin:.15rem 0 .35rem;}
+  .btn.sm{padding:.28rem .6rem;font-size:.78rem;}
   main{flex:1 1 auto;display:grid;grid-template-columns:210px 1fr 340px;min-height:0;}
   @media (max-width:900px){ main{grid-template-columns:1fr;grid-template-rows:auto 1fr auto;} #legend{max-height:120px;} }
   #legend{border-right:1px solid var(--hairline);overflow:auto;padding:.5rem;}
@@ -140,13 +142,16 @@ function initCy(){
       {selector:"node",style:{"background-color":"data(color)","label":"data(label)","font-size":"9px","color":"#111","text-outline-color":"#fff","text-outline-width":2,"width":"data(size)","height":"data(size)","text-wrap":"wrap","text-max-width":"90px","min-zoomed-font-size":6}},
       {selector:"node.type",style:{"font-size":"12px","font-weight":"bold","shape":"round-rectangle","text-outline-width":2}},
       {selector:"node.focus",style:{"border-width":3,"border-color":"#111"}},
-      {selector:"edge",style:{"width":1,"line-color":"#aaa","curve-style":"haystack","opacity":.5,"target-arrow-shape":"none"}},
+      {selector:"edge",style:{"width":1,"line-color":"#aaa","curve-style":"bezier","opacity":.4,"target-arrow-shape":"none","label":"","font-size":"8px","color":"#333","text-background-color":"#fff","text-background-opacity":.85,"text-background-padding":"2px"}},
       {selector:"edge[w]",style:{"width":ele=>Math.max(1,Math.min(8,Math.log2((ele.data("w")||1)+1)))}},
-      {selector:"edge.hl",style:{"line-color":"#3f5e86","opacity":.95,"width":2}},
+      {selector:"edge.hl",style:{"line-color":"#3f5e86","opacity":.95,"width":2,"label":"data(rel)"}},
+      {selector:"edge.hovered",style:{"line-color":"#3f5e86","opacity":1,"width":2.5,"label":"data(rel)","z-index":20}},
       {selector:".dim",style:{"opacity":.12}}
     ]
   });
-  state.cy.on("tap","node",evt=>{ const d=evt.target.data(); if(d.kind==="type") selectType(d.entity); else focusNode(d.id); });
+  state.cy.on("tap","node",evt=>{ const d=evt.target.data(); if(d.kind==="type") selectType(d.entity); else selectNode(d.id); });
+  state.cy.on("mouseover","edge",e=>e.target.addClass("hovered"));
+  state.cy.on("mouseout","edge",e=>e.target.removeClass("hovered"));
 }
 
 function nodeSize(slug){ return Math.max(16,Math.min(46,12+(state.degree.get(slug)||0)*1.3)); }
@@ -186,40 +191,69 @@ function selectType(ty){
   document.querySelectorAll("#details .instlist button").forEach(b=>b.onclick=()=>focusNode(b.dataset.slug));
 }
 
-// ---- A node: ego-network + full details ----
-function focusNode(slug){
+// ---- A node: ego-network, grow outward, full details ----
+function addNodeEl(slug){
+  const cy=state.cy; if(cy.getElementById(slug).nonempty()) return;
+  const n=state.nodes.get(slug); if(!n) return;
+  cy.add({group:"nodes",data:{id:slug,label:n.label,color:state.color[n.type],size:nodeSize(slug)}});
+}
+function addEdgesAmong(){ // add every edge whose both endpoints are on the canvas
+  const cy=state.cy; const present=new Set(cy.nodes().map(n=>n.id()));
+  for(const e of state.edges){
+    if(!present.has(e.s)||!present.has(e.t)) continue;
+    const id="e:"+e.s+"|"+e.t+":"+e.rel;
+    if(cy.getElementById(id).nonempty()) continue;
+    cy.add({group:"edges",data:{id,source:e.s,target:e.t,rel:titleCase(e.rel)}});
+  }
+}
+function focusNode(slug){ // reset the canvas to this node's ego network
   const node=state.nodes.get(slug); if(!node) return;
   const cy=state.cy; cy.elements().remove();
-  const neigh=[...(state.adj.get(slug)||[])];
-  const els=[{data:{id:slug,label:node.label,color:state.color[node.type],size:nodeSize(slug)},classes:"focus"}];
-  for(const nb of neigh){ const nn=state.nodes.get(nb); if(!nn)continue; els.push({data:{id:nb,label:nn.label,color:state.color[nn.type],size:nodeSize(nb)}}); }
-  const eseen=new Set();
-  for(const e of state.edges){ if(e.s!==slug&&e.t!==slug)continue; const other=e.s===slug?e.t:e.s; if(!state.nodes.has(other))continue; const k=e.s+"|"+e.t; if(eseen.has(k))continue; eseen.add(k); els.push({data:{id:"e:"+k+":"+e.rel,source:e.s,target:e.t}}); }
-  cy.add(els);
-  cy.layout({name:"concentric",animate:false,concentric:n=>n.id()===slug?10:1,levelWidth:()=>1,minNodeSpacing:14,padding:30}).run();
-  cy.$("#"+cssEsc(slug)).addClass("focus"); cy.fit(undefined,40);
+  addNodeEl(slug); for(const nb of (state.adj.get(slug)||[])) addNodeEl(nb);
+  addEdgesAmong();
+  cy.layout({name:"concentric",animate:false,concentric:n=>n.id()===slug?10:1,levelWidth:()=>1,minNodeSpacing:16,padding:34}).run();
+  cy.fit(undefined,40); selectNode(slug);
+}
+function growNode(slug){ // add this node's neighbors into the current canvas (hop outward)
+  const cy=state.cy; const before=cy.nodes().length;
+  for(const nb of (state.adj.get(slug)||[])) addNodeEl(nb);
+  addEdgesAmong();
+  if(cy.nodes().length!==before) cy.layout({name:"cose",animate:true,animationDuration:450,padding:30,nodeRepulsion:9000,idealEdgeLength:95}).run();
+  selectNode(slug);
+}
+function addAndSelect(slug){ // from a relationship chip: bring it onto the canvas, then select it
+  const cy=state.cy;
+  if(cy.getElementById(slug).empty()){ addNodeEl(slug); addEdgesAmong(); cy.layout({name:"cose",animate:true,animationDuration:450,padding:30,nodeRepulsion:9000,idealEdgeLength:95}).run(); }
+  selectNode(slug);
+}
+function selectNode(slug){
+  const node=state.nodes.get(slug); if(!node) return;
+  const cy=state.cy;
+  cy.nodes().removeClass("focus"); cy.edges().removeClass("hl");
+  const n=cy.getElementById(slug);
+  if(n.nonempty()){ n.addClass("focus"); n.connectedEdges().addClass("hl"); cy.animate({center:{eles:n}},{duration:280}); }
   renderNodeDetails(node);
 }
 
 function renderNodeDetails(node){
   const rec=node.rec; const m=state.typeMeta[node.type];
   let html=`<span class="kind" style="background:${state.color[node.type]}">${m.label}</span><h3>${escapeHtml(node.label)}</h3>`;
-  // description-ish scalar fields
+  html+=`<div class="actions"><button class="btn sm" id="expandbtn">＋ Expand neighbors</button><button class="btn sm" id="refocusbtn">⤢ Focus here</button></div>`;
   const descKeys=Object.keys(rec).filter(k=>/description|why|summary|day in the life|what is/i.test(k));
   for(const k of descKeys){ if(typeof rec[k]==="string"&&rec[k].trim()) html+=`<p class="desc">${escapeHtml(rec[k])}</p>`; }
-  // relationships grouped by field
   for(const [field,val] of Object.entries(rec)){
     if(!isLink(val)) continue;
     const chips=val.filter(t=>state.nodes.has(t.slug)).map(t=>{ const tn=state.nodes.get(t.slug); return `<span class="chip" data-slug="${t.slug}"><span class="tdot" style="background:${state.color[tn.type]}"></span>${escapeHtml(t.label)}</span>`; }).join("");
     if(chips) html+=`<div class="rel"><div class="lbl">${escapeHtml(field)}</div>${chips}</div>`;
   }
-  // remaining short scalar fields
   for(const [k,v] of Object.entries(rec)){
     if(isLink(v)||descKeys.includes(k)||["id","slug"].includes(k)) continue;
     if(typeof v==="string"&&v.length<120&&v.trim()) html+=`<div class="field"><b>${escapeHtml(k)}:</b> ${escapeHtml(v)}</div>`;
   }
   const dp=document.getElementById("dpanel"); dp.innerHTML=html;
-  dp.querySelectorAll(".chip").forEach(c=>c.onclick=()=>focusNode(c.dataset.slug));
+  dp.querySelector("#expandbtn").onclick=()=>growNode(node.id);
+  dp.querySelector("#refocusbtn").onclick=()=>focusNode(node.id);
+  dp.querySelectorAll(".chip").forEach(c=>c.onclick=()=>addAndSelect(c.dataset.slug));
 }
 
 function escapeHtml(s){ return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
