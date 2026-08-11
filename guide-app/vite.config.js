@@ -1,14 +1,11 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
-// Builds the React + MUI guide into the repo's /learn folder as static, self-hosted assets.
-// base: "./" keeps asset URLs relative, so it works under the Pages subpath and under a future
-// custom domain without changes. The app fetches ../data/json/framework.snapshot.json at runtime.
+// Dev-server config only (`npm run dev` serves the guide entry index.html with HMR).
+// Production builds all pages via build-site.mjs (`npm run build`), which compiles home,
+// about, and the guide into the repo as self-contained static output. base "./" keeps asset
+// URLs relative so the site works under the Pages subpath and a future custom domain.
 export default defineConfig({
   plugins: [react()],
   base: "./",
-  build: {
-    outDir: "../learn",
-    emptyOutDir: true,
-  },
 });

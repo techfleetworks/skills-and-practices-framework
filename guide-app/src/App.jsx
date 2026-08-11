@@ -1,11 +1,14 @@
 import React, { useEffect, useMemo, useState } from "react";
-import { ThemeProvider, createTheme } from "@mui/material/styles";
+import { ThemeProvider } from "@mui/material/styles";
 import useMediaQuery from "@mui/material/useMediaQuery";
 import {
-  CssBaseline, AppBar, Toolbar, Typography, Box, Drawer, List, ListItemButton,
+  CssBaseline, Toolbar, Typography, Box, Drawer, List, ListItemButton,
   ListItemText, ListSubheader, Container, Card, CardActionArea, Chip, Breadcrumbs,
   Link, TextField, Autocomplete, Stack, CircularProgress,
 } from "@mui/material";
+import { makeTheme } from "./theme.js";
+import SiteNav from "./SiteNav.jsx";
+import Footer from "./Footer.jsx";
 
 const DRAWER = 236;
 const titleCase = (s) => String(s).replace(/[-_]/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
@@ -59,10 +62,7 @@ function useRoute() {
 
 export default function App() {
   const dark = useMediaQuery("(prefers-color-scheme: dark)");
-  const theme = useMemo(() => createTheme({
-    palette: { mode: dark ? "dark" : "light", primary: { main: dark ? "#91b2df" : "#3f5e86" } },
-    shape: { borderRadius: 10 },
-  }), [dark]);
+  const theme = useMemo(() => makeTheme(dark), [dark]);
   const [D, setD] = useState(null);
   const route = useRoute();
   useEffect(() => {
@@ -90,16 +90,7 @@ function Shell({ D, route }) {
   const active = route.view === "type" ? route.slug : route.view === "item" ? D.entityToType[D.nodes.get(route.slug)?.entity] : null;
   return (
     <Box sx={{ display: "flex", minHeight: "100vh" }}>
-      <AppBar position="fixed" color="default" elevation={0} sx={{ borderBottom: 1, borderColor: "divider", bgcolor: "background.default", zIndex: (t) => t.zIndex.drawer + 1 }}>
-        <Toolbar variant="dense" sx={{ gap: 1.5, flexWrap: "wrap" }}>
-          <Link href="#" underline="hover" color="inherit" sx={{ fontFamily: "Georgia, serif", fontWeight: 700 }}>Skills &amp; Practices Framework · Guide</Link>
-          <Box sx={{ flex: 1 }} />
-          <SearchBox D={D} />
-          <Link href="../explore/" underline="hover" sx={{ fontSize: 14, fontWeight: 600 }}>Visual map ↗</Link>
-          <Link href="../api/" underline="hover" sx={{ fontSize: 14, fontWeight: 600 }}>API</Link>
-          <Link href="../" underline="hover" sx={{ fontSize: 14, fontWeight: 600 }}>Home</Link>
-        </Toolbar>
-      </AppBar>
+      <SiteNav base="../" active="ontology"><SearchBox D={D} /></SiteNav>
       <Drawer variant="permanent" sx={{ width: DRAWER, flexShrink: 0, display: { xs: "none", md: "block" }, ["& .MuiDrawer-paper"]: { width: DRAWER, boxSizing: "border-box" } }}>
         <Toolbar variant="dense" />
         <List dense subheader={<ListSubheader sx={{ bgcolor: "transparent", fontWeight: 800, letterSpacing: ".06em" }}>DATA TYPES</ListSubheader>}>
@@ -118,6 +109,7 @@ function Shell({ D, route }) {
           {route.view === "type" && <TypeView D={D} slug={route.slug} />}
           {route.view === "item" && <ItemView D={D} slug={route.slug} />}
         </Container>
+        <Footer base="../" />
       </Box>
     </Box>
   );

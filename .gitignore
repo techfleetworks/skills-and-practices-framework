@@ -1,5 +1,6 @@
 node_modules/
 dist/
+guide-app/dist/
 coverage/
 .DS_Store
 *.log
