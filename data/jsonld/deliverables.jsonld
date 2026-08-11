@@ -1988,6 +1988,12 @@
         }
       ],
       "Project Milestones": "MVP Design Requirements, Quality Assurance",
+      "Workshops": [
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        }
+      ],
       "Required Skills for the Deliverable": [
         {
           "id": "spf:problem-statements",

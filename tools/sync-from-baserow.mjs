@@ -44,6 +44,9 @@ const slugify = s => String(s ?? "").toLowerCase().normalize("NFKD")
 // --- cleaning rules (normalization pass) ---
 // Drop Baserow lookup/duplicate columns: any field named "…copy" or ending in " <number>".
 const DROP = /\bcopy\b|\s\d+$/i;
+// Drop fields by exact name. TEMPORARY GUARDS for abandoned layers being deleted from Baserow
+// (Knowledge layer, Career Category). Safe to remove once those are gone from Baserow.
+const DROP_EXACT = new Set(["Required Knowledge", "Career Category"]);
 // Rename real fields Baserow happened to name with a "copy" suffix (per-entity).
 const RENAME = { "project-types": { "UX Design Deliverables copy": "UX Design Deliverables" } };
 const dedupe = arr => { const seen = new Set(); return arr.filter(x => { const k = x.slug ?? JSON.stringify(x); if (seen.has(k)) return false; seen.add(k); return true; }); };
@@ -100,7 +103,7 @@ for (const ent of ENTITIES) {
     const rec = { id: row.id, slug };
     for (const f of fields) {
       const key = (RENAME[ent.file] && RENAME[ent.file][f.name]) || f.name;
-      if (DROP.test(key)) continue; // drop lookup/duplicate cruft columns
+      if (DROP.test(key) || DROP_EXACT.has(key)) continue; // drop cruft + abandoned Knowledge layer
       const v = row[f.name];
       if (isEmpty(v)) continue;
       const nv = normalize(v, f);

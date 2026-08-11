@@ -3800,6 +3800,10 @@
     "Who Owns the Workshop?": "The Product Manager hat owns the audience segmentation that should be focused on. As teams do more research over time, the segmentation of audiences changes and evolves. The product manager hat maintains the definitions of target audience segments over time.",
     "Deliverable the Workshop Produces": [
       {
+        "slug": "use-case-scenarios",
+        "label": "Use Case Scenarios"
+      },
+      {
         "slug": "buyer-personas",
         "label": "Buyer Personas"
       },
@@ -3810,8 +3814,16 @@
     ],
     "Related Activities": [
       {
+        "slug": "writing-requirements",
+        "label": "Writing Requirements"
+      },
+      {
         "slug": "customer-segmentation",
         "label": "Customer Segmentation"
+      },
+      {
+        "slug": "creating-acceptance-criteria",
+        "label": "Creating Acceptance Criteria"
       }
     ],
     "Related Workshop Skills": [
@@ -3870,6 +3882,66 @@
       {
         "slug": "decision-making",
         "label": "Decision-Making"
+      },
+      {
+        "slug": "problem-statements",
+        "label": "Problem Statements"
+      },
+      {
+        "slug": "requirements-management",
+        "label": "Requirements Management"
+      },
+      {
+        "slug": "user-stories",
+        "label": "User Stories"
+      },
+      {
+        "slug": "behavior-driven-development-bdd-scenarios",
+        "label": "Behavior Driven Development (BDD) Scenarios"
+      },
+      {
+        "slug": "ai-prompting",
+        "label": "AI Prompting"
+      },
+      {
+        "slug": "assumption-formation",
+        "label": "Assumption Formation"
+      },
+      {
+        "slug": "acceptance-criteria-creation",
+        "label": "Acceptance Criteria Creation"
+      },
+      {
+        "slug": "use-case-scenarios",
+        "label": "Use Case Scenarios"
+      },
+      {
+        "slug": "advocacy",
+        "label": "Advocacy"
+      },
+      {
+        "slug": "building-influence",
+        "label": "Building Influence"
+      },
+      {
+        "slug": "business-acumen",
+        "label": "Business Acumen"
+      },
+      {
+        "slug": "buy-in-generation",
+        "label": "Buy-in Generation"
+      },
+      {
+        "slug": "receiving-feedback",
+        "label": "Receiving Feedback"
+      },
+      {
+        "slug": "stakeholder-management",
+        "label": "Stakeholder Management"
+      },
+      {
+        "slug": "expectation-setting",
+        "label": "Expectation Setting"
       }
     ],
     "Expected Outcomes": "By the end of this workshop, the team will have produced its Buyer Personas and Customer Segmentation.",

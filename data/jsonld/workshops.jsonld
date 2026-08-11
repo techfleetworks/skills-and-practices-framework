@@ -3870,6 +3870,10 @@
       "Who Owns the Workshop?": "The Product Manager hat owns the audience segmentation that should be focused on. As teams do more research over time, the segmentation of audiences changes and evolves. The product manager hat maintains the definitions of target audience segments over time.",
       "Deliverable the Workshop Produces": [
         {
+          "id": "spf:use-case-scenarios",
+          "label": "Use Case Scenarios"
+        },
+        {
           "id": "spf:buyer-personas",
           "label": "Buyer Personas"
         },
@@ -3880,8 +3884,16 @@
       ],
       "Related Activities": [
         {
+          "id": "spf:writing-requirements",
+          "label": "Writing Requirements"
+        },
+        {
           "id": "spf:customer-segmentation",
           "label": "Customer Segmentation"
+        },
+        {
+          "id": "spf:creating-acceptance-criteria",
+          "label": "Creating Acceptance Criteria"
         }
       ],
       "Related Workshop Skills": [
@@ -3940,6 +3952,66 @@
         {
           "id": "spf:decision-making",
           "label": "Decision-Making"
+        },
+        {
+          "id": "spf:problem-statements",
+          "label": "Problem Statements"
+        },
+        {
+          "id": "spf:requirements-management",
+          "label": "Requirements Management"
+        },
+        {
+          "id": "spf:user-stories",
+          "label": "User Stories"
+        },
+        {
+          "id": "spf:behavior-driven-development-bdd-scenarios",
+          "label": "Behavior Driven Development (BDD) Scenarios"
+        },
+        {
+          "id": "spf:ai-prompting",
+          "label": "AI Prompting"
+        },
+        {
+          "id": "spf:assumption-formation",
+          "label": "Assumption Formation"
+        },
+        {
+          "id": "spf:acceptance-criteria-creation",
+          "label": "Acceptance Criteria Creation"
+        },
+        {
+          "id": "spf:use-case-scenarios",
+          "label": "Use Case Scenarios"
+        },
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:buy-in-generation",
+          "label": "Buy-in Generation"
+        },
+        {
+          "id": "spf:receiving-feedback",
+          "label": "Receiving Feedback"
+        },
+        {
+          "id": "spf:stakeholder-management",
+          "label": "Stakeholder Management"
+        },
+        {
+          "id": "spf:expectation-setting",
+          "label": "Expectation Setting"
         }
       ],
       "Expected Outcomes": "By the end of this workshop, the team will have produced its Buyer Personas and Customer Segmentation.",

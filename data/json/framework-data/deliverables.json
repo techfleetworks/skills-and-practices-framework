@@ -1938,6 +1938,12 @@
       }
     ],
     "Project Milestones": "MVP Design Requirements, Quality Assurance",
+    "Workshops": [
+      {
+        "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+        "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+      }
+    ],
     "Required Skills for the Deliverable": [
       {
         "slug": "problem-statements",
