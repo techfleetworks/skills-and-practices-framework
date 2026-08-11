@@ -117,6 +117,9 @@ For people hiring roles, use this data to guide your new job requirements based 
 
 The whole framework is published as open data you can read right now, for free, with no account and no key. Every dataset is a file served over the web.
 
+**Explore it visually.** An interactive map of the whole framework: see every data type, click into any item, and walk the connections between them.
+https://techfleetworks.github.io/skills-and-practices-framework/explore/
+
 **Browse it.** The docs website lets you click through every dataset and try it live in your browser:
 https://techfleetworks.github.io/skills-and-practices-framework/api/
 
