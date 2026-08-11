@@ -22,7 +22,27 @@ means "read the notes before you update."
 
 ## Unreleased
 
+_Nothing yet._
+
+## v1.1.0 — 2026-08-11
+
+New building blocks for people building on the framework, and a pipeline that keeps itself in
+sync. Everything here is additive and safe to update to.
+
 **Added**
+- **Automatic daily sync from Baserow to GitHub.** The published data now refreshes itself on a
+  schedule (and on demand): it pulls from the database, rebuilds every artifact, validates that
+  every relationship still resolves, and publishes only if something actually changed. No more
+  manual "update the data" step. Runs via `.github/workflows/refresh.yml`.
+- A query library, `@techfleet/spf`, under `library/`: a small, typed, dependency-free
+  TypeScript package that loads the framework into memory and lets you filter, search, and walk
+  relationships (forward, reverse, and neighbors), resolving links global-by-slug exactly as the
+  validator checks them. It loads from a bundled snapshot, your own copy, or the live data, and
+  runs in the browser and Node. Field types for every dataset are generated from the JSON Schemas
+  by `tools/build-types.mjs`. Tested with `node --test`.
+- A combined snapshot artifact, `data/json/framework.snapshot.json`, bundling every dataset and
+  the version into one file — the single thing an app bundles, a database sync ingests, or the
+  library fetches in one request. Built by `tools/build-snapshot.mjs`.
 - Engineering-standards hardening pass across the whole build (architecture, security,
   testing, release, SRE, and data-lifecycle standards): Architecture Decision Records
   (`docs/adr/`), explicit non-functional requirements (`docs/non-functional-requirements.md`),
@@ -31,8 +51,8 @@ means "read the notes before you update."
   (`docs/engineering-standards-conformance.md`).
 - CI: a quality-gate workflow (`.github/workflows/ci.yml`) running integrity validation, a
   contract check (OpenAPI ↔ manifest ↔ snapshot can't drift), the library build, tests with a
-  coverage gate, and a dependency audit — actions pinned to commit SHAs. A scheduled
-  Baserow-refresh workflow (`refresh.yml`) and an uptime healthcheck (`healthcheck.yml`).
+  coverage gate, and a dependency audit — actions pinned to commit SHAs. Plus an uptime
+  healthcheck (`healthcheck.yml`).
 - Contract, `@security`, and `@reliability` tests for the library, plus a Gherkin
   specification (`features/data-api.feature`) and an edge-case suite. 38 tests at **100%
   coverage** (statements, branches, functions, and lines), enforced as a CI gate.
@@ -44,15 +64,8 @@ means "read the notes before you update."
 - Hardened the query library loader with a bounded fetch timeout (default 15 s) and clearer
   errors; `search()` now builds its text index once and reuses it.
 
-- A query library, `@techfleet/spf`, under `library/`: a small, typed, dependency-free
-  TypeScript package that loads the framework into memory and lets you filter, search, and walk
-  relationships (forward, reverse, and neighbors), resolving links global-by-slug exactly as the
-  validator checks them. It loads from a bundled snapshot, your own copy, or the live data, and
-  runs in the browser and Node. Field types for every dataset are generated from the JSON Schemas
-  by `tools/build-types.mjs`. Tested with `node --test`.
-- A combined snapshot artifact, `data/json/framework.snapshot.json`, bundling every dataset and
-  the version into one file — the single thing an app bundles, a database sync ingests, or the
-  library fetches in one request. Built by `tools/build-snapshot.mjs`.
+**Data**
+- Linked the Use Case Scenarios deliverable to its workshop template.
 
 ## v1.0.0 — 2026-08-10
 
