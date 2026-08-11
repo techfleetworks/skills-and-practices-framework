@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Preview · D3 chord (type relationships)</title>
+<style>
+  html,body{margin:0;height:100%;background:#12131a;color:#e6e3dc;font-family:ui-sans-serif,system-ui,sans-serif;overflow:hidden;}
+  .bar{position:fixed;top:0;left:0;right:0;padding:.55rem .85rem;display:flex;gap:1rem;align-items:center;z-index:5;font-size:.85rem;flex-wrap:wrap;}
+  .bar b{font-size:.95rem;} a{color:#8fb0df;text-decoration:none;} a:hover{text-decoration:underline;} .hint{color:#8b8b93;}
+  #c{width:100vw;height:100vh;display:flex;align-items:center;justify-content:center;}
+  #load{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;color:#9a97a0;}
+  text{fill:#dcd8d0;}
+</style></head><body>
+<div class="bar"><a href="../">← Gallery</a><b>D3 · chord</b><span class="hint">the 21 data types in a ring — ribbon thickness = how much two types relate. Hover a ribbon.</span></div>
+<div id="c"></div><div id="load">Weaving the chords…</div>
+<script src="../d3.min.js"></script>
+<script src="../load.js"></script>
+<script>
+const titleCase=s=>s.replace(/[-_]/g," ").replace(/\b\w/g,c=>c.toUpperCase());
+(async()=>{
+  const {ents,color,nodes,links}=await loadSPF();
+  document.getElementById("load").remove();
+  const N=ents.length, idx={}; ents.forEach((e,i)=>idx[e.entity]=i);
+  const typeOf={}; nodes.forEach(n=>typeOf[n.id]=n.type);
+  const M=Array.from({length:N},()=>new Array(N).fill(0));
+  links.forEach(l=>{ const a=idx[typeOf[l.source]], b=idx[typeOf[l.target]]; if(a==null||b==null) return; M[a][b]+=1; if(a!==b) M[b][a]+=1; });
+
+  const size=Math.max(360,Math.min(window.innerWidth||900,window.innerHeight||700)-24);
+  const outer=size/2-150, inner=outer-16;
+  const svg=d3.select("#c").append("svg").attr("viewBox",[-size/2,-size/2,size,size]).attr("width",size).attr("height",size);
+  const chords=d3.chord().padAngle(0.045).sortSubgroups(d3.descending)(M);
+  const arc=d3.arc().innerRadius(inner).outerRadius(outer);
+  const ribbon=d3.ribbon().radius(inner);
+  const fill=i=>color[ents[i].entity];
+
+  svg.append("g").attr("fill-opacity",0.6).selectAll("path").data(chords).join("path")
+    .attr("d",ribbon).attr("fill",d=>fill(d.source.index)).attr("stroke","rgba(0,0,0,0.2)")
+    .append("title").text(d=>`${titleCase(ents[d.source.index].entity)} ↔ ${titleCase(ents[d.target.index].entity)} — ${d.source.value} links`);
+
+  const g=svg.append("g").selectAll("g").data(chords.groups).join("g");
+  g.append("path").attr("d",arc).attr("fill",d=>fill(d.index)).attr("stroke","#12131a").attr("stroke-width",1)
+    .append("title").text(d=>titleCase(ents[d.index].entity));
+  g.append("text").each(d=>{d.a=(d.startAngle+d.endAngle)/2;})
+    .attr("dy",".35em")
+    .attr("transform",d=>`rotate(${d.a*180/Math.PI-90}) translate(${outer+10}) ${d.a>Math.PI?"rotate(180)":""}`)
+    .attr("text-anchor",d=>d.a>Math.PI?"end":null)
+    .attr("font-size","11px").text(d=>titleCase(ents[d.index].entity));
+})().catch(e=>{const l=document.getElementById("load"); if(l) l.textContent="Failed: "+e.message;});
+</script></body></html>

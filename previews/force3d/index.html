@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Preview · 3d-force-graph</title>
+<style>
+  html,body{margin:0;height:100%;background:#05070c;color:#e6e3dc;font-family:ui-sans-serif,system-ui,sans-serif;overflow:hidden;}
+  #g{width:100vw;height:100vh;}
+  .bar{position:fixed;top:0;left:0;right:0;padding:.55rem .85rem;display:flex;gap:1rem;align-items:center;z-index:5;background:linear-gradient(#05070cee,#05070c00);font-size:.85rem;flex-wrap:wrap;}
+  .bar b{font-size:.95rem;} a{color:#8fb0df;text-decoration:none;} a:hover{text-decoration:underline;} .hint{color:#8b8b93;}
+  #legend{position:fixed;bottom:.5rem;left:.5rem;display:flex;flex-wrap:wrap;gap:.25rem .7rem;font-size:.68rem;color:#b7b4ac;max-width:70vw;z-index:5;}
+  .sw{display:inline-block;width:.6rem;height:.6rem;border-radius:2px;margin-right:.3rem;vertical-align:baseline;}
+  #load{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;color:#9a97a0;}
+</style></head><body>
+<div class="bar"><a href="../">← Gallery</a><b>3d-force-graph</b><span class="hint">the graph in 3D — drag to orbit, scroll to zoom, click a node to fly to it</span></div>
+<div id="g"></div><div id="legend"></div><div id="load">Building the 3D graph…</div>
+<script src="../3d-force-graph.min.js"></script>
+<script src="../load.js"></script>
+<script>
+(async()=>{
+  const {ents,color,nodes,links}=await loadSPF();
+  document.getElementById("load").remove();
+  const G=ForceGraph3D()(document.getElementById("g"))
+    .graphData({nodes,links}).backgroundColor("#05070c")
+    .nodeColor(n=>n.color)
+    .nodeLabel(n=>`${n.label} — ${n.type}`).nodeRelSize(2.6).nodeOpacity(0.95)
+    .linkColor(()=>"rgba(150,160,200,0.16)").linkWidth(0.3).linkOpacity(0.25)
+    .cooldownTime(9000)
+    .onNodeClick(n=>{ const d=90, r=1+d/Math.hypot(n.x,n.y,n.z||1); G.cameraPosition({x:n.x*r,y:n.y*r,z:n.z*r}, n, 900); });
+  const lg=document.getElementById("legend");
+  ents.forEach(e=>{const s=document.createElement("span");s.innerHTML=`<span class="sw" style="background:${color[e.entity]}"></span>${e.entity}`;lg.appendChild(s);});
+})().catch(e=>{document.getElementById("load").textContent="Failed: "+e.message;});
+</script></body></html>

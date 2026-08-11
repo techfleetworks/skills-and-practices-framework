@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Preview · force-graph (2D)</title>
+<style>
+  html,body{margin:0;height:100%;background:#0f1114;color:#e6e3dc;font-family:ui-sans-serif,system-ui,sans-serif;overflow:hidden;}
+  #g{width:100vw;height:100vh;}
+  .bar{position:fixed;top:0;left:0;right:0;padding:.55rem .85rem;display:flex;gap:1rem;align-items:center;z-index:5;background:linear-gradient(#0f1114ee,#0f111400);font-size:.85rem;flex-wrap:wrap;}
+  .bar b{font-size:.95rem;} a{color:#8fb0df;text-decoration:none;} a:hover{text-decoration:underline;} .hint{color:#8b8b93;}
+  #legend{position:fixed;bottom:.5rem;left:.5rem;display:flex;flex-wrap:wrap;gap:.25rem .7rem;font-size:.68rem;color:#b7b4ac;max-width:70vw;z-index:5;}
+  .sw{display:inline-block;width:.6rem;height:.6rem;border-radius:2px;margin-right:.3rem;vertical-align:baseline;}
+  #load{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;color:#9a97a0;}
+</style></head><body>
+<div class="bar"><a href="../">← Gallery</a><b>force-graph · 2D</b><span class="hint">the whole graph as one force layout — drag to pan, scroll to zoom, hover a node, click to fly in</span></div>
+<div id="g"></div><div id="legend"></div><div id="load">Loading the whole graph…</div>
+<script src="../force-graph.min.js"></script>
+<script src="../load.js"></script>
+<script>
+(async()=>{
+  const {ents,color,nodes,links}=await loadSPF();
+  document.getElementById("load").remove();
+  const G=ForceGraph()(document.getElementById("g"))
+    .graphData({nodes,links}).backgroundColor("#0f1114")
+    .nodeColor(n=>n.color).nodeLabel(n=>`${n.label} — ${n.type}`).nodeRelSize(2.5)
+    .linkColor(()=>"rgba(170,170,200,0.09)").linkWidth(0.4)
+    .warmupTicks(40).cooldownTime(9000)
+    .onNodeClick(n=>{G.centerAt(n.x,n.y,600);G.zoom(4,600);});
+  const lg=document.getElementById("legend");
+  ents.forEach(e=>{const s=document.createElement("span");s.innerHTML=`<span class="sw" style="background:${color[e.entity]}"></span>${e.entity}`;lg.appendChild(s);});
+})().catch(e=>{document.getElementById("load").textContent="Failed: "+e.message;});
+</script></body></html>
