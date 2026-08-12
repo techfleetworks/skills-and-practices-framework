@@ -2,12 +2,35 @@ import React, { useEffect, useMemo, useState } from "react";
 import { createRoot } from "react-dom/client";
 import { ThemeProvider } from "@mui/material/styles";
 import useMediaQuery from "@mui/material/useMediaQuery";
-import { CssBaseline, Box, Container, Typography, Link, Toolbar, Divider, CircularProgress } from "@mui/material";
+import { CssBaseline, Box, Container, Typography, Link, Toolbar, Divider, CircularProgress, Card, CardActionArea } from "@mui/material";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { makeTheme } from "./theme.js";
 import SiteNav from "./SiteNav.jsx";
 import Footer from "./Footer.jsx";
+
+// Founder essays on Medium that explain the thinking behind the framework. Blurbs are short
+// factual summaries written here (not reproduced from the articles).
+const ARTICLES = [
+  {
+    url: "https://techfleet.medium.com/how-might-we-make-tech-fleet-talent-more-marketable-43ff3723c3ed",
+    title: "How Might We Make Tech Fleet Talent More Marketable?",
+    date: "Mar 2024",
+    blurb: "The founding question behind the framework: how to make trainees' hard-won experience legible and marketable to employers.",
+  },
+  {
+    url: "https://techfleet.medium.com/a-comprehensive-tech-skills-information-architecture-for-new-grads-and-career-changers-57a9b747582d",
+    title: "A Comprehensive Tech Skills Information Architecture for New Grads and Career Changers",
+    date: "May 2025",
+    blurb: "Introduces the skills information architecture that became this framework, built for new grads and people changing careers.",
+  },
+  {
+    url: "https://techfleet.medium.com/practices-the-invisible-components-that-drive-empowered-teamwork-5ee345fc10bd",
+    title: "Practices: The Invisible Components That Drive Empowered Teamwork",
+    date: "Aug 2025",
+    blurb: "Why team practices, not just skills, are what make teams succeed, and how the framework makes them visible.",
+  },
+];
 
 // The About page renders the repository's own README.md at runtime, so the story stays in sync
 // with the source of truth. The first "# ..." heading is dropped in favor of the page hero.
@@ -69,6 +92,27 @@ function About() {
         ) : (
           <Markdown remarkPlugins={[remarkGfm]} components={components}>{md}</Markdown>
         )}
+      </Container>
+      <Container sx={{ maxWidth: "820px !important", pb: 2 }}>
+        <Divider sx={{ mb: 4 }} />
+        <Typography variant="h4" sx={{ mb: 0.5 }}>Further reading</Typography>
+        <Typography sx={{ color: "text.secondary", mb: 3 }}>
+          The thinking behind the framework, from Tech Fleet on Medium.
+        </Typography>
+        <Box sx={{ display: "grid", gap: 2, gridTemplateColumns: { xs: "1fr", sm: "repeat(3, 1fr)" } }}>
+          {ARTICLES.map((a) => (
+            <Card key={a.url} variant="outlined">
+              <CardActionArea href={a.url} target="_blank" rel="noopener" sx={{ p: 2.5, height: "100%", display: "block" }}>
+                <Typography sx={{ fontSize: 12, fontWeight: 700, letterSpacing: ".05em", textTransform: "uppercase", color: "primary.main", mb: 1 }}>
+                  Article · {a.date}
+                </Typography>
+                <Typography variant="h6" sx={{ fontSize: 18, lineHeight: 1.25, mb: 1 }}>{a.title}</Typography>
+                <Typography sx={{ color: "text.secondary", fontSize: 14, mb: 1.5 }}>{a.blurb}</Typography>
+                <Typography sx={{ color: "primary.main", fontWeight: 700, fontSize: 13 }}>Read on Medium ↗</Typography>
+              </CardActionArea>
+            </Card>
+          ))}
+        </Box>
       </Container>
       <Footer base="../" />
     </>
