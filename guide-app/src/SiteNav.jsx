@@ -31,20 +31,20 @@ export default function SiteNav({ base = "", active = "", children }) {
     <AppBar position="fixed" color="default" elevation={0}
       sx={{ borderBottom: 1, borderColor: "divider", bgcolor: "background.default", zIndex: (t) => t.zIndex.drawer + 1 }}>
       <Toolbar variant="dense" sx={{ gap: 0.5, flexWrap: "wrap" }}>
-        <Link href={root} underline="none" color="inherit" sx={{ fontFamily: "Georgia, serif", fontWeight: 700, mr: 1, whiteSpace: "nowrap" }}>
+        <Link href={root} underline="none" color="inherit" sx={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700, mr: 1, whiteSpace: "nowrap" }}>
           Skills &amp; Practices Framework
         </Link>
         {children}
         <Box sx={{ flex: 1, minWidth: 8 }} />
         <NavBtn label="Home" href={root} id="home" />
-        <NavBtn label="Explore" href={to("explore/")} id="explore" />
+        <NavBtn label="Explore" href={to("learn/")} id="explore" />
         <Button size="small" onClick={(e) => setAnchor(e.currentTarget)}
           sx={{ color: resourcesActive ? "primary.main" : "text.primary", fontWeight: 600, textTransform: "none" }}>
           Resources ▾
         </Button>
         <Menu anchorEl={anchor} open={!!anchor} onClose={() => setAnchor(null)}>
           <MenuItem component="a" href={to("api/")} onClick={() => setAnchor(null)}>API</MenuItem>
-          <MenuItem component="a" href={to("learn/")} onClick={() => setAnchor(null)}>Ontology</MenuItem>
+          <MenuItem component="a" href={to("explore/")} onClick={() => setAnchor(null)}>Ontology</MenuItem>
         </Menu>
         <NavBtn label="About" href={to("about/")} id="about" />
         <NavBtn label="Tech Fleet" href={EXT.techfleet} id="tf" ext />

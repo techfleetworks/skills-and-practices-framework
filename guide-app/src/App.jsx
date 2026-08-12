@@ -82,7 +82,7 @@ const Loading = () => (
 );
 
 function SectionHead({ children }) {
-  return <Typography variant="h6" sx={{ fontFamily: "Georgia, serif", mt: 3, pt: 1.4, borderTop: 1, borderColor: "divider" }}>{children}</Typography>;
+  return <Typography variant="h6" sx={{ fontFamily: "'Poppins', sans-serif", mt: 3, pt: 1.4, borderTop: 1, borderColor: "divider" }}>{children}</Typography>;
 }
 function Dot({ color }) { return <Box component="span" sx={{ width: 9, height: 9, borderRadius: "50%", bgcolor: color, display: "inline-block", ml: "6px" }} />; }
 
@@ -90,7 +90,7 @@ function Shell({ D, route }) {
   const active = route.view === "type" ? route.slug : route.view === "item" ? D.entityToType[D.nodes.get(route.slug)?.entity] : null;
   return (
     <Box sx={{ display: "flex", minHeight: "100vh" }}>
-      <SiteNav base="../" active="ontology"><SearchBox D={D} /></SiteNav>
+      <SiteNav base="../" active="explore"><SearchBox D={D} /></SiteNav>
       <Drawer variant="permanent" sx={{ width: DRAWER, flexShrink: 0, display: { xs: "none", md: "block" }, ["& .MuiDrawer-paper"]: { width: DRAWER, boxSizing: "border-box" } }}>
         <Toolbar variant="dense" />
         <List dense subheader={<ListSubheader sx={{ bgcolor: "transparent", fontWeight: 800, letterSpacing: ".06em" }}>DATA TYPES</ListSubheader>}>
@@ -128,7 +128,7 @@ function SearchBox({ D }) {
 function Home({ D }) {
   return (
     <Box>
-      <Typography variant="h3" sx={{ fontFamily: "Georgia, serif", mb: 1 }}>The framework, one piece at a time</Typography>
+      <Typography variant="h3" sx={{ fontFamily: "'Poppins', sans-serif", mb: 1 }}>The framework, one piece at a time</Typography>
       <Typography sx={{ color: "text.secondary", maxWidth: "66ch", mb: 3, fontSize: "1.05rem" }}>
         This is the full guide. Choose a data type to learn what it means and how it works with the rest of the work,
         then browse its real examples and click into any one to explore its connections. Every reference is a link, so
@@ -141,7 +141,7 @@ function Home({ D }) {
             <Card key={t.slug} variant="outlined">
               <CardActionArea component="a" href={"#type/" + t.slug} sx={{ p: 2, height: "100%", display: "block" }}>
                 <Typography sx={{ fontSize: 11, fontWeight: 800, letterSpacing: ".06em", textTransform: "uppercase", color: D.typeColor[t.slug] }}>Data type</Typography>
-                <Typography variant="h6" sx={{ fontFamily: "Georgia, serif", mt: 0.5 }}>{t["Data Type Name"]}</Typography>
+                <Typography variant="h6" sx={{ fontFamily: "'Poppins', sans-serif", mt: 0.5 }}>{t["Data Type Name"]}</Typography>
                 <Typography sx={{ color: "text.secondary", fontSize: 14, my: 0.5 }}>{t["Data Type Description"]}</Typography>
                 <Typography sx={{ color: "primary.main", fontWeight: 700, fontSize: 13 }}>{n} examples →</Typography>
               </CardActionArea>
@@ -164,7 +164,7 @@ function TypeView({ D, slug }) {
     <Box>
       <Breadcrumbs sx={{ mb: 1, fontSize: 14 }}><Link href="#" underline="hover">Guide</Link><Typography sx={{ fontSize: 14 }}>{t["Data Type Name"]}</Typography></Breadcrumbs>
       <Chip label="Data type" size="small" sx={{ bgcolor: D.typeColor[slug], color: "#fff", fontWeight: 700, mb: 1 }} />
-      <Typography variant="h3" sx={{ fontFamily: "Georgia, serif" }}>{t["Data Type Name"]}</Typography>
+      <Typography variant="h3" sx={{ fontFamily: "'Poppins', sans-serif" }}>{t["Data Type Name"]}</Typography>
       <Typography sx={{ fontSize: "1.12rem", mt: 1, mb: 1, maxWidth: "66ch" }}>{t["Data Type Description"]}</Typography>
       <SectionHead>How it works with the rest of the work</SectionHead>
       <Box sx={{ maxWidth: "70ch" }}>
@@ -213,7 +213,7 @@ function ItemView({ D, slug }) {
         <Typography sx={{ fontSize: 14 }}>{node.label}</Typography>
       </Breadcrumbs>
       <Chip label={dtName} size="small" sx={{ bgcolor: D.color[node.entity], color: "#fff", fontWeight: 700, mb: 1 }} />
-      <Typography variant="h3" sx={{ fontFamily: "Georgia, serif" }}>{node.label}</Typography>
+      <Typography variant="h3" sx={{ fontFamily: "'Poppins', sans-serif" }}>{node.label}</Typography>
       {long.map(([k, v]) => (
         <Box key={k}>
           <SectionHead>{k}</SectionHead>

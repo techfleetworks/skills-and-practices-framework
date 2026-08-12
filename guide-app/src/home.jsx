@@ -72,7 +72,7 @@ function HeroFlow() {
 function Stat({ big, label }) {
   return (
     <Box sx={{ textAlign: "center", px: 1 }}>
-      <Typography sx={{ fontFamily: "Georgia, serif", fontSize: { xs: 28, sm: 34 }, lineHeight: 1, color: "primary.main" }}>{big}</Typography>
+      <Typography sx={{ fontFamily: "'Poppins', sans-serif", fontSize: { xs: 28, sm: 34 }, lineHeight: 1, color: "primary.main" }}>{big}</Typography>
       <Typography sx={{ color: "text.secondary", fontSize: 13, mt: 0.5 }}>{label}</Typography>
     </Box>
   );

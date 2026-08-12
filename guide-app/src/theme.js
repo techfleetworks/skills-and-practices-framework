@@ -1,9 +1,11 @@
 import { createTheme } from "@mui/material/styles";
+// Self-hosted Poppins (bundled by Vite, no CDN) — the site typeface across every MUI surface.
+import "@fontsource/poppins/400.css";
+import "@fontsource/poppins/500.css";
+import "@fontsource/poppins/600.css";
+import "@fontsource/poppins/700.css";
 
-// One theme for the whole site (guide + landing), so every MUI surface shares the same
-// palette, radius, and serif headings. Colors match the explorer's hand-CSS variables so
-// the React pages and the canvas tools read as one design system.
-const serif = { fontFamily: "Georgia, 'Times New Roman', serif" };
+const stack = "'Poppins', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif";
 
 export const makeTheme = (dark) =>
   createTheme({
@@ -16,9 +18,18 @@ export const makeTheme = (dark) =>
       divider: dark ? "#332f37" : "#e4dfd6",
     },
     shape: { borderRadius: 10 },
-    typography: { h1: serif, h2: serif, h3: serif, h4: serif, h5: serif, h6: serif },
+    typography: {
+      fontFamily: stack,
+      h1: { fontWeight: 700 },
+      h2: { fontWeight: 700 },
+      h3: { fontWeight: 700 },
+      h4: { fontWeight: 600 },
+      h5: { fontWeight: 600 },
+      h6: { fontWeight: 600 },
+      button: { fontWeight: 600 },
+    },
     components: {
-      // Sentence-case buttons, not MUI's default ALL-CAPS, to match the warm serif aesthetic.
+      // Sentence-case buttons, not MUI's default ALL-CAPS.
       MuiButton: { styleOverrides: { root: { textTransform: "none", fontWeight: 600 } } },
     },
   });
