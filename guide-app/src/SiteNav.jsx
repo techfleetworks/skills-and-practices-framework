@@ -11,6 +11,18 @@ const EXT = {
   techfleet: "https://techfleet.org",
   github: "https://github.com/techfleetworks/skills-and-practices-framework",
 };
+const linkSx = (on) => ({ color: on ? "primary.main" : "text.primary", fontWeight: 600, textTransform: "none" });
+const menuAnchor = { anchorOrigin: { vertical: "bottom", horizontal: "left" }, transformOrigin: { vertical: "top", horizontal: "left" } };
+
+// Defined at module scope (not inside SiteNav) so its identity is stable across renders;
+// otherwise React would remount the button on every state change and detach the menu anchor.
+function NavLink({ label, href, on, ext }) {
+  return (
+    <Button size="small" component="a" href={href} target={ext ? "_blank" : undefined} rel={ext ? "noopener" : undefined} sx={linkSx(on)}>
+      {label}{ext ? " ↗" : ""}
+    </Button>
+  );
+}
 
 export default function SiteNav({ base = "", active = "", children }) {
   const [explore, setExplore] = useState(null);
@@ -19,24 +31,6 @@ export default function SiteNav({ base = "", active = "", children }) {
   const to = (p) => base + p;
   const exploreActive = active === "explore" || active === "careers";
   const resourcesActive = active === "api" || active === "ontology";
-  const NavBtn = ({ label, href, id, ext }) => (
-    <Button
-      size="small"
-      component="a"
-      href={href}
-      target={ext ? "_blank" : undefined}
-      rel={ext ? "noopener" : undefined}
-      sx={{ color: active === id ? "primary.main" : "text.primary", fontWeight: 600, textTransform: "none" }}
-    >
-      {label}{ext ? " ↗" : ""}
-    </Button>
-  );
-  const MenuBtn = ({ label, on, isActive }) => (
-    <Button size="small" onClick={(e) => on(e.currentTarget)}
-      sx={{ color: isActive ? "primary.main" : "text.primary", fontWeight: 600, textTransform: "none" }}>
-      {label} ▾
-    </Button>
-  );
   return (
     <AppBar position="fixed" color="default" elevation={0}
       sx={{ borderBottom: 1, borderColor: "divider", bgcolor: "background.default", zIndex: (t) => t.zIndex.drawer + 1 }}>
@@ -46,23 +40,23 @@ export default function SiteNav({ base = "", active = "", children }) {
         </Link>
         {children}
         <Box sx={{ flex: 1, minWidth: 8 }} />
-        <NavBtn label="Home" href={root} id="home" />
+        <NavLink label="Home" href={root} on={active === "home"} />
 
-        <MenuBtn label="Explore" on={setExplore} isActive={exploreActive} />
-        <Menu anchorEl={explore} open={!!explore} onClose={() => setExplore(null)}>
+        <Button size="small" onClick={(e) => setExplore(e.currentTarget)} sx={linkSx(exploreActive)}>Explore ▾</Button>
+        <Menu anchorEl={explore} open={!!explore} onClose={() => setExplore(null)} {...menuAnchor}>
           <MenuItem component="a" href={to("learn/")} onClick={() => setExplore(null)}>All of the Data</MenuItem>
           <MenuItem component="a" href={to("careers/")} onClick={() => setExplore(null)}>Career Transitioning</MenuItem>
         </Menu>
 
-        <MenuBtn label="Resources" on={setResources} isActive={resourcesActive} />
-        <Menu anchorEl={resources} open={!!resources} onClose={() => setResources(null)}>
+        <Button size="small" onClick={(e) => setResources(e.currentTarget)} sx={linkSx(resourcesActive)}>Resources ▾</Button>
+        <Menu anchorEl={resources} open={!!resources} onClose={() => setResources(null)} {...menuAnchor}>
           <MenuItem component="a" href={to("api/")} onClick={() => setResources(null)}>API</MenuItem>
           <MenuItem component="a" href={to("explore/")} onClick={() => setResources(null)}>Ontology</MenuItem>
         </Menu>
 
-        <NavBtn label="About" href={to("about/")} id="about" />
-        <NavBtn label="Tech Fleet" href={EXT.techfleet} id="tf" ext />
-        <NavBtn label="GitHub" href={EXT.github} id="gh" ext />
+        <NavLink label="About" href={to("about/")} on={active === "about"} />
+        <NavLink label="Tech Fleet" href={EXT.techfleet} ext />
+        <NavLink label="GitHub" href={EXT.github} ext />
       </Toolbar>
     </AppBar>
   );
