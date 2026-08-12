@@ -3,8 +3,13 @@
 *Created and maintained by Tech Fleet, https://techfleet.org, a public charity on a mission to build empowered team spaces in the world. This is an ontological information architecture for professional development and career success.*
 
 ---
-# Live on the User Guide:
+# Live on the Skills and Practices User Guide
 https://techfleetworks.github.io/skills-and-practices-framework/
+
+# Read More
+1. https://techfleet.medium.com/how-might-we-make-tech-fleet-talent-more-marketable-43ff3723c3ed
+2. https://techfleet.medium.com/a-comprehensive-tech-skills-information-architecture-for-new-grads-and-career-changers-57a9b747582d
+3. https://techfleet.medium.com/practices-the-invisible-components-that-drive-empowered-teamwork-5ee345fc10bd
 
 # What Is This?
 Today, countless people struggle to succeed in the workforce. The requirements are changing for everyone. The gaps between education and the work are growing. The work world will continue to outpace education into the future because education is just the beginning. People need to change the ways they think and work in order to succeed in this ever-shifting work world. "How do I succeed" is becoming harder and harder by the day. 
