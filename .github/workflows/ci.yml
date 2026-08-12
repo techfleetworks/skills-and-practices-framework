@@ -30,6 +30,9 @@ jobs:
       - name: Validate referential integrity (data gate)
         run: node tools/validate.mjs
 
+      - name: No personal data in the public dataset (compliance gate)
+        run: node tools/check-no-personal-data.mjs
+
       - name: Regenerate contract artifacts
         run: |
           node tools/build-types.mjs
