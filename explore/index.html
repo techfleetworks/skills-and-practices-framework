@@ -166,8 +166,10 @@ function showSchema(){
   for(const e of state.edges){ const a=state.nodes.get(e.s).type,b=state.nodes.get(e.t).type; if(a===b)continue; const k=[a,b].sort().join("~"); pair.set(k,(pair.get(k)||0)+1); }
   for(const [k,c] of pair){ const [a,b]=k.split("~"); els.push({data:{id:"te:"+k,source:"type:"+a,target:"type:"+b,w:c}}); }
   cy.add(els);
-  cy.layout({name:"cose",animate:false,padding:30,nodeRepulsion:9000,idealEdgeLength:120}).run();
-  cy.fit(undefined,40);
+  // The schema is almost a complete graph, so a force layout crunches every bubble together.
+  // A circle reads cleanly: types spaced evenly around a ring, relationships a soft web across it.
+  cy.layout({name:"circle",animate:false,padding:60,spacingFactor:1.6,avoidOverlap:true,nodeDimensionsIncludeLabels:true}).run();
+  cy.fit(undefined,60);
   detailsIntro();
 }
 
@@ -212,19 +214,19 @@ function focusNode(slug){ // reset the canvas to this node's ego network
   const cy=state.cy; cy.elements().remove();
   addNodeEl(slug); for(const nb of (state.adj.get(slug)||[])) addNodeEl(nb);
   addEdgesAmong();
-  cy.layout({name:"concentric",animate:false,concentric:n=>n.id()===slug?10:1,levelWidth:()=>1,minNodeSpacing:16,padding:34}).run();
-  cy.fit(undefined,40); selectNode(slug);
+  cy.layout({name:"concentric",animate:false,concentric:n=>n.id()===slug?10:1,levelWidth:()=>1,minNodeSpacing:48,padding:50,avoidOverlap:true,nodeDimensionsIncludeLabels:true}).run();
+  cy.fit(undefined,60); selectNode(slug);
 }
 function growNode(slug){ // add this node's neighbors into the current canvas (hop outward)
   const cy=state.cy; const before=cy.nodes().length;
   for(const nb of (state.adj.get(slug)||[])) addNodeEl(nb);
   addEdgesAmong();
-  if(cy.nodes().length!==before) cy.layout({name:"cose",animate:true,animationDuration:450,padding:30,nodeRepulsion:9000,idealEdgeLength:95}).run();
+  if(cy.nodes().length!==before) cy.layout({name:"cose",animate:true,animationDuration:450,padding:40,nodeRepulsion:16000,idealEdgeLength:130,nodeDimensionsIncludeLabels:true}).run();
   selectNode(slug);
 }
 function addAndSelect(slug){ // from a relationship chip: bring it onto the canvas, then select it
   const cy=state.cy;
-  if(cy.getElementById(slug).empty()){ addNodeEl(slug); addEdgesAmong(); cy.layout({name:"cose",animate:true,animationDuration:450,padding:30,nodeRepulsion:9000,idealEdgeLength:95}).run(); }
+  if(cy.getElementById(slug).empty()){ addNodeEl(slug); addEdgesAmong(); cy.layout({name:"cose",animate:true,animationDuration:450,padding:40,nodeRepulsion:16000,idealEdgeLength:130,nodeDimensionsIncludeLabels:true}).run(); }
   selectNode(slug);
 }
 function selectNode(slug){
