@@ -1,7 +1,7 @@
 // Builds the React + MUI pages into the repo as self-contained static output:
 //   home.html    -> /index.html         (+ /assets)
 //   about.html   -> /about/index.html   (+ /about/assets)
-//   index.html   -> /learn/index.html   (+ /learn/assets)
+//   index.html   -> /explore/index.html (+ /explore/assets)  (the guide / "All of the Data")
 //   careers.html -> /careers/index.html (+ /careers/assets)
 // Each page is built independently with base "./", so its assets sit beside its HTML and the
 // whole site stays portable to a custom domain (no absolute base path). Nothing is loaded from
@@ -15,7 +15,7 @@ const root = process.cwd();
 const pages = [
   { name: "home", html: "home.html", outHtml: "home.html", destDir: "..", destHtml: "../index.html" },
   { name: "about", html: "about.html", outHtml: "about.html", destDir: "../about", destHtml: "../about/index.html" },
-  { name: "guide", html: "index.html", outHtml: "index.html", destDir: "../learn", destHtml: "../learn/index.html" },
+  { name: "guide", html: "index.html", outHtml: "index.html", destDir: "../explore", destHtml: "../explore/index.html" },
   { name: "careers", html: "careers.html", outHtml: "careers.html", destDir: "../careers", destHtml: "../careers/index.html" },
 ];
 
@@ -42,4 +42,4 @@ for (const p of pages) {
   await cp(resolve(src, p.outHtml), resolve(root, p.destHtml));
   console.log(`synced ${p.name} -> ${p.destHtml}`);
 }
-console.log("Site build complete: /index.html, /about/, /learn/");
+console.log("Site build complete: /index.html, /about/, /explore/, /careers/");

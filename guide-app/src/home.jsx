@@ -9,6 +9,7 @@ import {
 import { makeTheme } from "./theme.js";
 import SiteNav from "./SiteNav.jsx";
 import Footer from "./Footer.jsx";
+import heroSvg from "./SPF.svg";
 
 const OVERRIDE = { "job-specialization": "specializations", project: "project-types" };
 const ORDER = ["project", "milestone", "deliverable", "activit", "skill", "practice", "dut", "job function", "specializ", "tool", "workshop", "methodolog", "stakeholder", "company", "industr"];
@@ -39,8 +40,8 @@ function summarize(snap) {
 
 const CTAs = ({ size = "large" }) => (
   <Stack direction={{ xs: "column", sm: "row" }} spacing={1.5}>
-    <Button size={size} variant="contained" href="learn/">Take the guided tour</Button>
-    <Button size={size} variant="outlined" href="explore/">Explore the map</Button>
+    <Button size={size} variant="contained" href="explore/">Take the guided tour</Button>
+    <Button size={size} variant="outlined" href="ontology/">Explore the map</Button>
   </Stack>
 );
 
@@ -124,7 +125,7 @@ function Home({ D }) {
               </Typography>
               <CTAs />
             </Box>
-            <HeroFlow />
+            <Box component="img" src={heroSvg} alt="A map of how the framework's pieces connect — projects, milestones, deliverables, activities, skills, and practices." sx={{ width: "100%", height: "auto", display: "block" }} />
           </Box>
         </Section>
       </Box>
@@ -217,7 +218,7 @@ function Home({ D }) {
           <Box sx={{ display: "grid", gap: 1.5, gridTemplateColumns: "repeat(auto-fill,minmax(230px,1fr))" }}>
             {(D ? D.rows : []).map((t) => (
               <Card key={t.slug} variant="outlined">
-                <CardActionArea href={"learn/#type/" + t.slug} sx={{ p: 2, height: "100%", display: "block" }}>
+                <CardActionArea href={"explore/#type/" + t.slug} sx={{ p: 2, height: "100%", display: "block" }}>
                   <Stack direction="row" alignItems="center" spacing={1} sx={{ mb: 0.5 }}>
                     <Box sx={{ width: 11, height: 11, borderRadius: "3px", bgcolor: t.color }} />
                     <Typography variant="h6" sx={{ fontSize: 17 }}>{t.name}</Typography>

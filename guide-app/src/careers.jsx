@@ -58,7 +58,7 @@ function ChipGroup({ label, items }) {
       <Typography sx={{ fontSize: 11, fontWeight: 800, textTransform: "uppercase", letterSpacing: ".06em", color: "text.secondary", mt: 1.5, mb: 0.6 }}>{label}</Typography>
       <Stack direction="row" flexWrap="wrap" gap={0.6}>
         {shown.map((x) => (
-          <Chip key={x.slug} clickable component="a" href={"../learn/#item/" + x.slug} target="_blank" rel="noopener" size="small" variant="outlined" label={x.label} />
+          <Chip key={x.slug} clickable component="a" href={"../explore/#item/" + x.slug} target="_blank" rel="noopener" size="small" variant="outlined" label={x.label} />
         ))}
         {items.length > cap && (
           <Chip size="small" onClick={() => setOpen(!open)} label={open ? "Show fewer" : `+${items.length - cap} more`} sx={{ fontWeight: 700 }} />

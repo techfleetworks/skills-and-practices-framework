@@ -44,14 +44,14 @@ export default function SiteNav({ base = "", active = "", children }) {
 
         <Button size="small" onClick={(e) => setExplore(e.currentTarget)} sx={linkSx(exploreActive)}>Explore ▾</Button>
         <Menu anchorEl={explore} open={!!explore} onClose={() => setExplore(null)} {...menuAnchor}>
-          <MenuItem component="a" href={to("learn/")} onClick={() => setExplore(null)}>All of the Data</MenuItem>
+          <MenuItem component="a" href={to("explore/")} onClick={() => setExplore(null)}>All of the Data</MenuItem>
           <MenuItem component="a" href={to("careers/")} onClick={() => setExplore(null)}>Career Transitioning</MenuItem>
         </Menu>
 
         <Button size="small" onClick={(e) => setResources(e.currentTarget)} sx={linkSx(resourcesActive)}>Resources ▾</Button>
         <Menu anchorEl={resources} open={!!resources} onClose={() => setResources(null)} {...menuAnchor}>
           <MenuItem component="a" href={to("api/")} onClick={() => setResources(null)}>API</MenuItem>
-          <MenuItem component="a" href={to("explore/")} onClick={() => setResources(null)}>Ontology</MenuItem>
+          <MenuItem component="a" href={to("ontology/")} onClick={() => setResources(null)}>Ontology</MenuItem>
         </Menu>
 
         <NavLink label="About" href={to("about/")} on={active === "about"} />

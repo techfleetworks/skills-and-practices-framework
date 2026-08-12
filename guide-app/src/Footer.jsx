@@ -17,9 +17,9 @@ export default function Footer({ base = "" }) {
         </Typography>
         <Stack direction="row" flexWrap="wrap" gap={2} sx={{ mb: 2 }}>
           <Link href={root} underline="hover">Home</Link>
-          <Link href={to("learn/")} underline="hover">All of the Data</Link>
+          <Link href={to("explore/")} underline="hover">All of the Data</Link>
           <Link href={to("careers/")} underline="hover">Career Transitioning</Link>
-          <Link href={to("explore/")} underline="hover">Ontology</Link>
+          <Link href={to("ontology/")} underline="hover">Ontology</Link>
           <Link href={to("api/")} underline="hover">API</Link>
           <Link href={to("about/")} underline="hover">About</Link>
           <Link href="https://techfleet.org" target="_blank" rel="noopener" underline="hover">Tech Fleet ↗</Link>
