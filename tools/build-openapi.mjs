@@ -31,16 +31,23 @@ for (const e of manifest.entities) {
   const items = isFramework
     ? { $ref: `../schema/framework-data/${name}.schema.json` }
     : { type: "object", description: "A source-to-target career-transition row: Target Field, Transition From, the unique Summary of the Gaps and Training Recommendations, the shared A Day in the Life, and linked skills, tasks, tools, and deliverables." };
+  // Attach a real sample from the dataset's first record so the docs show actual data, not an
+  // empty object. The response is the full array; the example shows one representative record.
+  let example;
+  try {
+    const rows = JSON.parse(readFileSync(join(ROOT, "data", "json", e.file), "utf8"));
+    if (Array.isArray(rows) && rows.length) example = [rows[0]];
+  } catch { /* data file not present at build time; omit example */ }
   paths["/data/json/" + e.file] = {
     get: {
       tags: [tag],
       summary: `Get ${title(name)}`,
-      description: `Returns the full ${title(name)} dataset (${e.count} records). Each relationship is a {slug, label} reference to another record.`,
+      description: `Returns the full ${title(name)} dataset (${e.count} records) as a JSON array. Each relationship is a {slug, label} reference to another record. The example below shows one representative record.`,
       operationId: "get_" + name.replace(/[^A-Za-z0-9]+/g, "_"),
       responses: {
         "200": {
           description: `The ${title(name)} records.`,
-          content: { "application/json": { schema: { type: "array", items } } },
+          content: { "application/json": { schema: { type: "array", items }, ...(example ? { example } : {}) } },
         },
       },
     },
