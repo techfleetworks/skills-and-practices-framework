@@ -50,6 +50,11 @@ const DROP = /\bcopy\b|\s\d+$|^Transitioning (into|from)\b/i;
 // Drop fields by exact name. TEMPORARY GUARDS for abandoned layers being deleted from Baserow
 // (Knowledge layer, Career Category). Safe to remove once those are gone from Baserow.
 const DROP_EXACT = new Set(["Required Knowledge", "Career Category"]);
+// Drop fields by exact name, scoped to ONE entity. The deliverables table carries legacy milestone
+// text columns superseded by the "Project Milestone Where It's Delivered" link. These are
+// entity-scoped on purpose: "Milestones" is a legitimate link field on skills/activities/duties and
+// must NOT be dropped there.
+const DROP_PER_ENTITY = { deliverables: new Set(["Project Milestones", "Milestones", "Product Milestones"]) };
 // Rename real fields Baserow happened to name with a "copy" suffix (per-entity).
 const RENAME = { "project-types": { "UX Design Deliverables copy": "UX Design Deliverables" } };
 const dedupe = arr => { const seen = new Set(); return arr.filter(x => { const k = x.slug ?? JSON.stringify(x); if (seen.has(k)) return false; seen.add(k); return true; }); };
@@ -106,7 +111,7 @@ for (const ent of ENTITIES) {
     const rec = { id: row.id, slug };
     for (const f of fields) {
       const key = (RENAME[ent.file] && RENAME[ent.file][f.name]) || f.name;
-      if (DROP.test(key) || DROP_EXACT.has(key)) continue; // drop cruft + abandoned Knowledge layer
+      if (DROP.test(key) || DROP_EXACT.has(key) || DROP_PER_ENTITY[ent.file]?.has(key)) continue; // drop cruft + abandoned + entity-scoped legacy fields
       const v = row[f.name];
       if (isEmpty(v)) continue;
       const nv = normalize(v, f);
