@@ -9,12 +9,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Academia",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:academia",
-          "label": "Academia"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:research-facilitation",
@@ -77,12 +71,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Accounting",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:accounting",
-          "label": "Accounting"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:data-analysis",
@@ -145,12 +133,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Agriculture",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:agriculture",
-          "label": "Agriculture"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:data-analysis",
@@ -213,12 +195,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Business",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:business",
-          "label": "Business"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:executive-summaries",
@@ -277,12 +253,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Construction",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:construction",
-          "label": "Construction"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:project-management",
@@ -345,12 +315,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Creative",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:creative",
-          "label": "Creative"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:information-hierarchy",
@@ -413,12 +377,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Finance",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:finance",
-          "label": "Finance"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:data-analysis",
@@ -485,12 +443,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Government",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:government",
-          "label": "Government"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:executive-summaries",
@@ -553,12 +505,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Hospitality",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:hospitality",
-          "label": "Hospitality"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:customer-experience-strategy",
@@ -621,12 +567,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Industrial Design",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:industrial-design",
-          "label": "Industrial Design"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:interaction-design",
@@ -701,12 +641,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Legal",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:legal",
-          "label": "Legal"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:research-analysis",
@@ -765,12 +699,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Marketing",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:marketing",
-          "label": "Marketing"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:go-to-market-strategy",
@@ -833,12 +761,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Medical",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:medical",
-          "label": "Medical"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:data-analysis",
@@ -901,12 +823,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Mental Health",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:mental-health",
-          "label": "Mental Health"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:written-communication",
@@ -965,12 +881,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Nonprofit",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:nonprofit",
-          "label": "Nonprofit"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:building-influence",
@@ -1029,12 +939,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Primary and Secondary Education",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:primary-and-secondary-education",
-          "label": "Primary and Secondary Education"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:presentation",
@@ -1097,12 +1001,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Program Management",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:program-management",
-          "label": "Program Management"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:prioritization",
@@ -1169,12 +1067,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Project Management",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:project-management",
-          "label": "Project Management"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:backlog-management",
@@ -1253,12 +1145,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Real Estate",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:real-estate",
-          "label": "Real Estate"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:customer-experience-strategy",
@@ -1321,12 +1207,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Retail",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:retail",
-          "label": "Retail"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:customer-experience-strategy",
@@ -1393,12 +1273,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Sales",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:sales",
-          "label": "Sales"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:go-to-market-strategy",
@@ -1461,12 +1335,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Tourism",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:tourism",
-          "label": "Tourism"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:customer-experience-strategy",
@@ -1529,12 +1397,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Transportation",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:transportation",
-          "label": "Transportation"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:data-analysis",
@@ -1593,12 +1455,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Development",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:development",
-          "label": "Development"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:object-oriented-programming-languages",
@@ -1685,12 +1541,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Product Management",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:product-management",
-          "label": "Product Management"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:problem-statements",
@@ -1847,12 +1697,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "User Experience Design",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:user-experience-design",
-          "label": "User Experience Design"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:interaction-design",
@@ -1935,12 +1779,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Film",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:film",
-          "label": "Film"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:graphic-design",
@@ -2003,12 +1841,6 @@
         "skos:Concept"
       ],
       "Job Industry Name": "Theatre",
-      "Transitioning into UX Research Roles": [
-        {
-          "id": "spf:theatre",
-          "label": "Theatre"
-        }
-      ],
       "Transferrable Technical Skills Coming From This Industry": [
         {
           "id": "spf:presentation",

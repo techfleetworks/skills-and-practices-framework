@@ -4993,7 +4993,6 @@
                         "label": "Release Vision Definition"
                       }
                     ],
-                    "Project Milestones": "MVP Release Vision, MMP Release Vision",
                     "Workshops": [
                       {
                         "slug": "vision-and-scope-workshop-template",
@@ -7301,12 +7300,6 @@
                     "id": 1,
                     "slug": "academia",
                     "Job Industry Name": "Academia",
-                    "Transitioning into UX Research Roles": [
-                      {
-                        "slug": "academia",
-                        "label": "Academia"
-                      }
-                    ],
                     "Transferrable Technical Skills Coming From This Industry": [
                       {
                         "slug": "research-facilitation",

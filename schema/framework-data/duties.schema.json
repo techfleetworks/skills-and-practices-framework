@@ -324,34 +324,6 @@
     "Where Can I Learn More?": {
       "type": "string"
     },
-    "Transitioning from Other Fields": {
-      "type": "string"
-    },
-    "Transitioning into UX Jobs": {
-      "type": "string"
-    },
-    "Transitioning into Solutions Architecture Roles": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "slug": {
-            "type": "string"
-          },
-          "label": {
-            "type": "string"
-          }
-        },
-        "required": [
-          "slug",
-          "label"
-        ],
-        "additionalProperties": false
-      }
-    },
-    "Transitioning into UX Research Roles": {
-      "type": "string"
-    },
     "Workshops - What RACI Hat Owns This Workshop?": {
       "type": "array",
       "items": {

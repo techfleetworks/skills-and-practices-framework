@@ -18,25 +18,6 @@
     "Job Industry Name": {
       "type": "string"
     },
-    "Transitioning into UX Research Roles": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "slug": {
-            "type": "string"
-          },
-          "label": {
-            "type": "string"
-          }
-        },
-        "required": [
-          "slug",
-          "label"
-        ],
-        "additionalProperties": false
-      }
-    },
     "Transferrable Technical Skills Coming From This Industry": {
       "type": "array",
       "items": {

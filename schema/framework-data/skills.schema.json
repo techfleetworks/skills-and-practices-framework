@@ -184,9 +184,6 @@
         ],
         "additionalProperties": false
       }
-    },
-    "Transitioning into UX Research": {
-      "type": "string"
     }
   }
 }

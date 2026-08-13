@@ -21,7 +21,6 @@
         "label": "Release Vision Definition"
       }
     ],
-    "Project Milestones": "MVP Release Vision, MMP Release Vision",
     "Workshops": [
       {
         "slug": "vision-and-scope-workshop-template",
@@ -521,7 +520,6 @@
         "label": "Release Scope Definition"
       }
     ],
-    "Project Milestones": "MVP Design Requirements, MVP Release Scope, MMP Release Scope, MMP Design Requirements, MMP Development Requirements, MVP Development Requirements",
     "Workshops": [
       {
         "slug": "vision-and-scope-workshop-template",
@@ -691,7 +689,6 @@
         "label": "Release Scope Definition"
       }
     ],
-    "Project Milestones": "MVP Release Scope, MMP Release Scope",
     "Workshops": [
       {
         "slug": "vision-and-scope-workshop-template",
@@ -881,7 +878,6 @@
         "label": "Creating Acceptance Criteria"
       }
     ],
-    "Project Milestones": "MVP Design Requirements, MMP Design Requirements, MMP Development Requirements, MVP Development Requirements",
     "Workshops": [
       {
         "slug": "backlog-management-workshop-template",
@@ -1113,7 +1109,6 @@
         "label": "User Story Generation"
       }
     ],
-    "Project Milestones": "MVP Design Requirements, MVP Development Requirements",
     "Workshops": [
       {
         "slug": "scenario-based-problem-statement-generation-workshop-template",
@@ -1319,7 +1314,6 @@
         "label": "Writing Requirements"
       }
     ],
-    "Project Milestones": "MVP Design Requirements, MMP Design Requirements, MMP Development Requirements, Quality Assurance, MVP Development Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "requirements-management",
@@ -1493,7 +1487,6 @@
         "label": "QA Testing"
       }
     ],
-    "Project Milestones": "MMP Alpha Testing, MMP Beta Testing, Quality Assurance, Product Maintenance, MVP Alpha Testing, MVP Beta Testing",
     "Required Skills for the Deliverable": [
       {
         "slug": "behavior-driven-development-bdd-scenarios",
@@ -1623,7 +1616,6 @@
         "label": "Technical Architecture Creation"
       }
     ],
-    "Project Milestones": "MMP Development Requirements, MVP Development Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "attention-to-detail",
@@ -1751,7 +1743,6 @@
         "label": "Creating Acceptance Criteria"
       }
     ],
-    "Project Milestones": "MVP Design Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "problem-statements",
@@ -1937,7 +1928,6 @@
         "label": "Creating Acceptance Criteria"
       }
     ],
-    "Project Milestones": "MVP Design Requirements, Quality Assurance",
     "Workshops": [
       {
         "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
@@ -2125,7 +2115,6 @@
         "label": "Creating Acceptance Criteria"
       }
     ],
-    "Project Milestones": "MVP Design Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "problem-statements",
@@ -2275,7 +2264,6 @@
         "label": "Investigating Competitors"
       }
     ],
-    "Project Milestones": "Initial Discovery, Continuous Discovery, MVP Release Vision, MMP Release Vision",
     "Workshops": [
       {
         "slug": "market-research-and-competitive-analysis-workshop-template",
@@ -2427,7 +2415,6 @@
         "label": "Market Research"
       }
     ],
-    "Project Milestones": "Initial Discovery, Continuous Discovery, MVP Launch, Product Maintenance, MMP Launch",
     "Workshops": [
       {
         "slug": "market-research-and-competitive-analysis-workshop-template",
@@ -2579,7 +2566,6 @@
         "label": "Brand Identity Formation"
       }
     ],
-    "Project Milestones": "MVP Design, MMP Design, MMP Development Requirements, MVP Development Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "branding",
@@ -2719,7 +2705,6 @@
         "label": "Brand Identity Formation"
       }
     ],
-    "Project Milestones": "MVP Design, MMP Design",
     "Required Skills for the Deliverable": [
       {
         "slug": "branding",
@@ -3064,7 +3049,6 @@
         "label": "Customer Segmentation"
       }
     ],
-    "Project Milestones": "MVP Design",
     "Workshops": [
       {
         "slug": "audience-persona-definition-workshop-template",
@@ -3319,7 +3303,6 @@
         "label": "Customer Segmentation"
       }
     ],
-    "Project Milestones": "MVP Release Vision, MMP Release Vision",
     "Workshops": [
       {
         "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
@@ -3459,7 +3442,6 @@
         "label": "Price Testing"
       }
     ],
-    "Project Milestones": "MMP Release Vision, MMP Launch",
     "Company Type": [
       {
         "slug": "in-house-company",
@@ -3649,7 +3631,6 @@
         "label": "Customer Segmentation"
       }
     ],
-    "Project Milestones": "MMP Release Vision, MMP Launch",
     "Required Skills for the Deliverable": [
       {
         "slug": "go-to-market-strategy",
@@ -4034,7 +4015,6 @@
         "label": "Price Testing"
       }
     ],
-    "Project Milestones": "MMP Release Vision, MMP Launch",
     "Company Type": [
       {
         "slug": "in-house-company",
@@ -4399,7 +4379,6 @@
         "label": "Maintaining the Client Relationship"
       }
     ],
-    "Project Milestones": "Intake",
     "Company Type": [
       {
         "slug": "agency",
@@ -4595,7 +4574,6 @@
         "label": "Identifying Priorities"
       }
     ],
-    "Project Milestones": "MVP Design Requirements, MMP Design Requirements, MMP Development Requirements, MVP Development Requirements",
     "Workshops": [
       {
         "slug": "team-process-mapping-workshop-template",
@@ -4902,7 +4880,6 @@
         "label": "Kickoff / Intake"
       }
     ],
-    "Project Milestones": "MVP Release Vision, MMP Release Vision",
     "Workshops": [
       {
         "slug": "kpi-success-measurements-definition-workshop-template",
@@ -5084,7 +5061,6 @@
         "label": "Kickoff / Intake"
       }
     ],
-    "Project Milestones": "MVP Release Vision, MMP Release Vision",
     "Required Skills for the Deliverable": [
       {
         "slug": "interviewing",
@@ -5441,7 +5417,6 @@
         "label": "Tracking Sprint Progress"
       }
     ],
-    "Project Milestones": "MVP Design, MVP Development, MMP Development",
     "Required Skills for the Deliverable": [
       {
         "slug": "backlog-management",
@@ -5583,7 +5558,6 @@
         "label": "Product Roadmap Maintenance"
       }
     ],
-    "Project Milestones": "MVP Release Vision",
     "Workshops": [
       {
         "slug": "vision-and-scope-workshop-template",
@@ -6004,7 +5978,6 @@
         "label": "Tracking Sprint Progress"
       }
     ],
-    "Project Milestones": "Intake",
     "Workshops": [
       {
         "slug": "project-plan-workshop-template",
@@ -6176,7 +6149,6 @@
         "label": "Clickable Prototype Creation"
       }
     ],
-    "Milestones": "Experience Design",
     "Required Skills for the Deliverable": [
       {
         "slug": "interaction-design",
@@ -6412,8 +6384,6 @@
         "label": "Clickable Prototype Creation"
       }
     ],
-    "Project Milestones": "MVP Design Requirements, MMP Design Requirements, MMP Development Requirements, MVP Development Requirements",
-    "Milestones": "Experience Design",
     "Required Skills for the Deliverable": [
       {
         "slug": "interaction-design",
@@ -6653,8 +6623,6 @@
         "label": "Clickable Prototype Creation"
       }
     ],
-    "Project Milestones": "MVP Design Requirements, MVP Launch, MMP Design Requirements, MMP Development Requirements, Product Maintenance, MVP Development Requirements, MMP Launch",
-    "Milestones": "Experience Design",
     "Required Skills for the Deliverable": [
       {
         "slug": "interaction-design",
@@ -6882,8 +6850,6 @@
         "label": "Creating Annotations"
       }
     ],
-    "Project Milestones": "MVP Design, MMP Design",
-    "Milestones": "Experience Design",
     "Required Skills for the Deliverable": [
       {
         "slug": "ui-specifications-for-development",
@@ -6959,8 +6925,6 @@
         "label": "Creating Annotations"
       }
     ],
-    "Project Milestones": "MVP Design, MMP Design, MMP Development Requirements, MVP Development Requirements",
-    "Milestones": "Experience Design",
     "Required Skills for the Deliverable": [
       {
         "slug": "ui-specifications-for-development",
@@ -7207,7 +7171,6 @@
         "label": "Primary Research"
       }
     ],
-    "Project Milestones": "MVP Design, MMP Design, MMP Development Requirements, MVP Development Requirements",
     "Workshops": [
       {
         "slug": "empathy-map-workshop-template",
@@ -7870,7 +7833,6 @@
         "label": "Primary Research"
       }
     ],
-    "Project Milestones": "Initial Discovery, Continuous Discovery, MMP Alpha Testing, MVP Launch, MMP Beta Testing, Product Maintenance, MVP Alpha Testing, MVP Beta Testing, MMP Launch",
     "Workshops": [
       {
         "slug": "ux-research-analysis-workshop-template",
@@ -8289,7 +8251,6 @@
         "label": "Primary Research"
       }
     ],
-    "Project Milestones": "Initial Discovery, Continuous Discovery",
     "Workshops": [
       {
         "slug": "ux-research-analysis-workshop-template",
@@ -8495,7 +8456,6 @@
         "label": "Customer Experience Mapping"
       }
     ],
-    "Project Milestones": "MVP Design, MMP Design, MMP Development Requirements, MVP Development Requirements",
     "Workshops": [
       {
         "slug": "customer-experience-map-workshop-template",
@@ -8693,7 +8653,6 @@
         "label": "Choosing Research Methods"
       }
     ],
-    "Project Milestones": "Initial Discovery, Continuous Discovery, MMP Alpha Testing, MMP Beta Testing, MVP Alpha Testing, MVP Beta Testing",
     "Workshops": [
       {
         "slug": "research-plan-workshop-template",
@@ -9076,7 +9035,6 @@
         "label": "UI Kit Creation"
       }
     ],
-    "Project Milestones": "MVP Design, MMP Design, MMP Development Requirements, MVP Development Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "gestalt-principles",
@@ -9234,7 +9192,6 @@
         "label": "Site Map Testing"
       }
     ],
-    "Project Milestones": "MVP Design",
     "Workshops": [
       {
         "slug": "customer-experience-strategy-workshop-template",
@@ -9404,7 +9361,6 @@
         "label": "Copywriting"
       }
     ],
-    "Project Milestones": "MVP Design, MMP Design, MMP Development Requirements, MVP Development Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "attention-to-detail",
@@ -9534,7 +9490,6 @@
         "label": "Collecting Analytics"
       }
     ],
-    "Project Milestones": "MVP Launch, MMP Launch",
     "Workshops": [
       {
         "slug": "research-plan-workshop-template",
@@ -9853,7 +9808,6 @@
         "label": "Customer Segmentation"
       }
     ],
-    "Project Milestones": "MMP Release Vision",
     "Workshops": [
       {
         "slug": "market-research-and-competitive-analysis-workshop-template",
@@ -10017,7 +9971,6 @@
         "label": "Market Research"
       }
     ],
-    "Project Milestones": "MMP Launch",
     "Workshops": [
       {
         "slug": "market-research-and-competitive-analysis-workshop-template",
@@ -10169,7 +10122,6 @@
         "label": "Copywriting"
       }
     ],
-    "Project Milestones": "MVP Design, MMP Design",
     "Required Skills for the Deliverable": [
       {
         "slug": "attention-to-detail",
@@ -10534,7 +10486,6 @@
         "label": "Technical Architecture Creation"
       }
     ],
-    "Project Milestones": "MMP Development Requirements, Systems Architecture, MVP Development Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "attention-to-detail",
@@ -10678,7 +10629,6 @@
         "label": "Technical Architecture Creation"
       }
     ],
-    "Project Milestones": "MMP Development Requirements, Systems Architecture, MVP Development Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "information-security",
@@ -10814,7 +10764,6 @@
         "label": "Autotest Creation"
       }
     ],
-    "Project Milestones": "MMP Alpha Testing, MMP Beta Testing, Quality Assurance, Product Maintenance, MVP Alpha Testing, MVP Beta Testing",
     "Required Skills for the Deliverable": [
       {
         "slug": "behavior-driven-development-bdd-scenarios",
@@ -10948,7 +10897,6 @@
         "label": "UI Kit Creation"
       }
     ],
-    "Project Milestones": "MVP Design, MMP Design, MMP Development Requirements, MVP Development Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "gestalt-principles",
@@ -11154,7 +11102,6 @@
         "label": "Primary Research"
       }
     ],
-    "Project Milestones": "Initial Discovery, Continuous Discovery, MMP Alpha Testing, MMP Beta Testing, Product Maintenance, MVP Alpha Testing, MVP Beta Testing",
     "Workshops": [
       {
         "slug": "ux-research-analysis-workshop-template",
@@ -11360,7 +11307,6 @@
         "label": "Defining Team Working Agreements"
       }
     ],
-    "Project Milestones": "Intake",
     "Workshops": [
       {
         "slug": "conflict-resolution-workshop-template",
@@ -11520,7 +11466,6 @@
         "label": "Leading Agile Transformation"
       }
     ],
-    "Project Milestones": "Intake",
     "Workshops": [
       {
         "slug": "raci-hats-workshop-template",
@@ -11702,7 +11647,6 @@
         "label": "Customer Segmentation"
       }
     ],
-    "Project Milestones": "Initial Discovery, Continuous Discovery, MMP Launch",
     "Workshops": [
       {
         "slug": "market-research-and-competitive-analysis-workshop-template",
@@ -11862,7 +11806,6 @@
         "label": "Technical Architecture Creation"
       }
     ],
-    "Project Milestones": "MMP Development Requirements, Systems Architecture, MVP Development Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "attention-to-detail",
@@ -11980,7 +11923,6 @@
         "label": "Technical Architecture Creation"
       }
     ],
-    "Project Milestones": "MVP Development, MMP Development Requirements, MMP Development, Systems Architecture, MVP Development Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "attention-to-detail",
@@ -12275,7 +12217,6 @@
         "label": "Brand Identity Formation"
       }
     ],
-    "Project Milestones": "MVP Design Requirements, MVP Design, MMP Design Requirements, MMP Design",
     "Required Skills for the Deliverable": [
       {
         "slug": "branding",
@@ -12419,7 +12360,6 @@
         "label": "Creating Acceptance Criteria"
       }
     ],
-    "Project Milestones": "MVP Design Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "problem-statements",
@@ -12802,7 +12742,6 @@
         "label": "Velocity Calculation"
       }
     ],
-    "Project Milestones": "Intake",
     "Workshops": [
       {
         "slug": "sprint-goals-workshop-template",
@@ -12998,7 +12937,6 @@
         "label": "Blockchain Coding"
       }
     ],
-    "Project Milestones": "MVP Development, MVP Launch, MMP Development, Product Maintenance, MMP Launch",
     "Required Skills for the Deliverable": [
       {
         "slug": "object-oriented-programming-languages",
@@ -13152,7 +13090,6 @@
         "label": "Database Creation"
       }
     ],
-    "Project Milestones": "MVP Development, MMP Development",
     "Required Skills for the Deliverable": [
       {
         "slug": "data-analysis",
@@ -13290,7 +13227,6 @@
         "label": "Technical Architecture Creation"
       }
     ],
-    "Project Milestones": "MVP Development, MMP Development",
     "Required Skills for the Deliverable": [
       {
         "slug": "attention-to-detail",
@@ -13420,7 +13356,6 @@
         "label": "User Acceptance Testing"
       }
     ],
-    "Project Milestones": "MMP Alpha Testing, MMP Beta Testing, Product Maintenance, MVP Alpha Testing, MVP Beta Testing",
     "Workshops": [
       {
         "slug": "tech-fleet-sprint-demo-slide-deck-template",
@@ -13858,7 +13793,6 @@
         "label": "QA Testing"
       }
     ],
-    "Project Milestones": "Quality Assurance",
     "Required Skills for the Deliverable": [
       {
         "slug": "behavior-driven-development-bdd-scenarios",
@@ -13988,7 +13922,6 @@
         "label": "Kickoff / Intake"
       }
     ],
-    "Project Milestones": "Intake",
     "Workshops": [
       {
         "slug": "project-plan-workshop-template",
@@ -14174,7 +14107,6 @@
         "label": "Front-End Coding"
       }
     ],
-    "Project Milestones": "MVP Development, MMP Development",
     "Required Skills for the Deliverable": [
       {
         "slug": "object-oriented-programming-languages",
@@ -14316,7 +14248,6 @@
         "label": "Database Creation"
       }
     ],
-    "Project Milestones": "MMP Development Requirements, MVP Development Requirements",
     "Required Skills for the Deliverable": [
       {
         "slug": "data-analysis",
@@ -15310,7 +15241,6 @@
         "label": "Creating Illustrations"
       }
     ],
-    "Project Milestones": "MVP Design, MMP Design",
     "Required Skills for the Deliverable": [
       {
         "slug": "branding",

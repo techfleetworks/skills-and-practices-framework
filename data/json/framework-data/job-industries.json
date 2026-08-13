@@ -3,12 +3,6 @@
     "id": 1,
     "slug": "academia",
     "Job Industry Name": "Academia",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "academia",
-        "label": "Academia"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "research-facilitation",
@@ -67,12 +61,6 @@
     "id": 2,
     "slug": "accounting",
     "Job Industry Name": "Accounting",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "accounting",
-        "label": "Accounting"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "data-analysis",
@@ -131,12 +119,6 @@
     "id": 3,
     "slug": "agriculture",
     "Job Industry Name": "Agriculture",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "agriculture",
-        "label": "Agriculture"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "data-analysis",
@@ -195,12 +177,6 @@
     "id": 4,
     "slug": "business",
     "Job Industry Name": "Business",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "business",
-        "label": "Business"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "executive-summaries",
@@ -255,12 +231,6 @@
     "id": 5,
     "slug": "construction",
     "Job Industry Name": "Construction",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "construction",
-        "label": "Construction"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "project-management",
@@ -319,12 +289,6 @@
     "id": 6,
     "slug": "creative",
     "Job Industry Name": "Creative",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "creative",
-        "label": "Creative"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "information-hierarchy",
@@ -383,12 +347,6 @@
     "id": 7,
     "slug": "finance",
     "Job Industry Name": "Finance",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "finance",
-        "label": "Finance"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "data-analysis",
@@ -451,12 +409,6 @@
     "id": 8,
     "slug": "government",
     "Job Industry Name": "Government",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "government",
-        "label": "Government"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "executive-summaries",
@@ -515,12 +467,6 @@
     "id": 9,
     "slug": "hospitality",
     "Job Industry Name": "Hospitality",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "hospitality",
-        "label": "Hospitality"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "customer-experience-strategy",
@@ -579,12 +525,6 @@
     "id": 10,
     "slug": "industrial-design",
     "Job Industry Name": "Industrial Design",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "industrial-design",
-        "label": "Industrial Design"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "interaction-design",
@@ -655,12 +595,6 @@
     "id": 11,
     "slug": "legal",
     "Job Industry Name": "Legal",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "legal",
-        "label": "Legal"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "research-analysis",
@@ -715,12 +649,6 @@
     "id": 12,
     "slug": "marketing",
     "Job Industry Name": "Marketing",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "marketing",
-        "label": "Marketing"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "go-to-market-strategy",
@@ -779,12 +707,6 @@
     "id": 13,
     "slug": "medical",
     "Job Industry Name": "Medical",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "medical",
-        "label": "Medical"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "data-analysis",
@@ -843,12 +765,6 @@
     "id": 14,
     "slug": "mental-health",
     "Job Industry Name": "Mental Health",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "mental-health",
-        "label": "Mental Health"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "written-communication",
@@ -903,12 +819,6 @@
     "id": 15,
     "slug": "nonprofit",
     "Job Industry Name": "Nonprofit",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "nonprofit",
-        "label": "Nonprofit"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "building-influence",
@@ -963,12 +873,6 @@
     "id": 16,
     "slug": "primary-and-secondary-education",
     "Job Industry Name": "Primary and Secondary Education",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "primary-and-secondary-education",
-        "label": "Primary and Secondary Education"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "presentation",
@@ -1027,12 +931,6 @@
     "id": 17,
     "slug": "program-management",
     "Job Industry Name": "Program Management",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "program-management",
-        "label": "Program Management"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "prioritization",
@@ -1095,12 +993,6 @@
     "id": 18,
     "slug": "project-management",
     "Job Industry Name": "Project Management",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "project-management",
-        "label": "Project Management"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "backlog-management",
@@ -1175,12 +1067,6 @@
     "id": 19,
     "slug": "real-estate",
     "Job Industry Name": "Real Estate",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "real-estate",
-        "label": "Real Estate"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "customer-experience-strategy",
@@ -1239,12 +1125,6 @@
     "id": 20,
     "slug": "retail",
     "Job Industry Name": "Retail",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "retail",
-        "label": "Retail"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "customer-experience-strategy",
@@ -1307,12 +1187,6 @@
     "id": 21,
     "slug": "sales",
     "Job Industry Name": "Sales",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "sales",
-        "label": "Sales"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "go-to-market-strategy",
@@ -1371,12 +1245,6 @@
     "id": 22,
     "slug": "tourism",
     "Job Industry Name": "Tourism",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "tourism",
-        "label": "Tourism"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "customer-experience-strategy",
@@ -1435,12 +1303,6 @@
     "id": 23,
     "slug": "transportation",
     "Job Industry Name": "Transportation",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "transportation",
-        "label": "Transportation"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "data-analysis",
@@ -1495,12 +1357,6 @@
     "id": 24,
     "slug": "development",
     "Job Industry Name": "Development",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "development",
-        "label": "Development"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "object-oriented-programming-languages",
@@ -1583,12 +1439,6 @@
     "id": 25,
     "slug": "product-management",
     "Job Industry Name": "Product Management",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "product-management",
-        "label": "Product Management"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "problem-statements",
@@ -1737,12 +1587,6 @@
     "id": 27,
     "slug": "user-experience-design",
     "Job Industry Name": "User Experience Design",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "user-experience-design",
-        "label": "User Experience Design"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "interaction-design",
@@ -1821,12 +1665,6 @@
     "id": 28,
     "slug": "film",
     "Job Industry Name": "Film",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "film",
-        "label": "Film"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "graphic-design",
@@ -1885,12 +1723,6 @@
     "id": 29,
     "slug": "theatre",
     "Job Industry Name": "Theatre",
-    "Transitioning into UX Research Roles": [
-      {
-        "slug": "theatre",
-        "label": "Theatre"
-      }
-    ],
     "Transferrable Technical Skills Coming From This Industry": [
       {
         "slug": "presentation",

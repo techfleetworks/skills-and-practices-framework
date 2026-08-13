@@ -75,7 +75,6 @@ export interface Deliverables extends FrameworkRecord {
   "Data Type"?: Link[];
   "Project Milestone Where It's Delivered"?: Link[];
   "Required Activities"?: Link[];
-  "Project Milestones"?: string;
   "Workshops"?: Link[];
   "Required Skills for the Deliverable"?: Link[];
   "Required Practices for the Deliverable"?: Link[];
@@ -86,7 +85,6 @@ export interface Deliverables extends FrameworkRecord {
   "Where Can I Learn More?"?: string;
   "Hand-Off Deliverables Map"?: Link[];
   "Company Type"?: Link[];
-  "Milestones"?: string;
 }
 
 export interface Duties extends FrameworkRecord {
@@ -114,10 +112,6 @@ export interface Duties extends FrameworkRecord {
   "Why Is This Duty Important to Project Success?"?: string;
   "You Might Enjoy This Duty If..."?: string;
   "Where Can I Learn More?"?: string;
-  "Transitioning from Other Fields"?: string;
-  "Transitioning into UX Jobs"?: string;
-  "Transitioning into Solutions Architecture Roles"?: Link[];
-  "Transitioning into UX Research Roles"?: string;
   "Workshops - What RACI Hat Owns This Workshop?"?: Link[];
 }
 
@@ -153,7 +147,6 @@ export interface JobFunctions extends FrameworkRecord {
   "Job Function Description"?: string;
   "Other Job Titles You May See in the World"?: string;
   "You May Like This Job Function If..."?: string;
-  "Transitioning into UX Research"?: string;
   "Workshops"?: string;
   "Deliverables"?: string;
 }
@@ -161,7 +154,6 @@ export interface JobFunctions extends FrameworkRecord {
 export interface JobIndustries extends FrameworkRecord {
   $entity: "job-industries";
   "Job Industry Name"?: string;
-  "Transitioning into UX Research Roles"?: Link[];
   "Transferrable Technical Skills Coming From This Industry"?: Link[];
   "Common Job Titles Within This Industry"?: string;
   "Transferrable Interpersonal Skills Coming From This Industry"?: Link[];
@@ -291,7 +283,6 @@ export interface Skills extends FrameworkRecord {
   "Job Industry"?: Link[];
   "Where Can I Learn More?"?: string;
   "Other Skills Required to Perform This Skill"?: Link[];
-  "Transitioning into UX Research"?: string;
 }
 
 export interface Specializations extends FrameworkRecord {
