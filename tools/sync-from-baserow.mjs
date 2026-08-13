@@ -43,7 +43,10 @@ const slugify = s => String(s ?? "").toLowerCase().normalize("NFKD")
 
 // --- cleaning rules (normalization pass) ---
 // Drop Baserow lookup/duplicate columns: any field named "…copy" or ending in " <number>".
-const DROP = /\bcopy\b|\s\d+$/i;
+// Also drop stray "Transitioning into/from …" columns that bled the career-transition concept
+// into core entity tables (skills, duties, job-functions, job-industries). That content lives in
+// the career-transitioning datasets (tools/build-career-transitioning.mjs), not on core entities.
+const DROP = /\bcopy\b|\s\d+$|^Transitioning (into|from)\b/i;
 // Drop fields by exact name. TEMPORARY GUARDS for abandoned layers being deleted from Baserow
 // (Knowledge layer, Career Category). Safe to remove once those are gone from Baserow.
 const DROP_EXACT = new Set(["Required Knowledge", "Career Category"]);
