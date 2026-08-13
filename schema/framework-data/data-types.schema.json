@@ -51,6 +51,9 @@
     "Relationship to Job Functions": {
       "type": "string"
     },
+    "Relationship to Job Specializations": {
+      "type": "string"
+    },
     "Relationship to Company Types": {
       "type": "string"
     },
@@ -60,7 +63,7 @@
     "Relationship to Workshops": {
       "type": "string"
     },
-    "Hard Skills": {
+    "Examples of Skills": {
       "type": "array",
       "items": {
         "type": "object",
@@ -119,7 +122,7 @@
         "additionalProperties": false
       }
     },
-    "Soft Skills": {
+    "Examples of Practices": {
       "type": "array",
       "items": {
         "type": "object",

@@ -92,10 +92,11 @@
                     "Relationship to Activities": "Skills and Activities are related in the following ways:\n1. People apply their skills to carry out the day-to-day activities of the work.\n2. Doing activities over and over is how people build and sharpen their skills.",
                     "Relationship to Deliverables": "Skills and Deliverables are related in the following ways:\n1. People use their skills to create the deliverables a team produces.\n2. Each deliverable calls for specific skills to make it well.",
                     "Relationship to Job Functions": "Skills and Job Functions are related in the following ways:\n1. People qualify for a job function by having the skills it calls for.\n2. A job function points to the skills a person is expected to have.",
+                    "Relationship to Job Specializations": "Skills and Job Specializations are related in the following ways:\n1. A specialization is built on a focused set of skills a person grows deep in.\n2. The skills you choose to sharpen point you toward a specialization.",
                     "Relationship to Company Types": "Skills and Company Types are related in the following ways:\n1. The skills a person has help them fit the way different company types work.\n2. Different company types lean on different skills, so the setting shapes which skills matter most.",
                     "Relationship to Methodologies": "Skills and Methodologies are related in the following ways:\n1. People apply their skills within a methodology to guide how the work flows.\n2. A methodology calls for certain skills, like facilitation or planning, to run it well.",
                     "Relationship to Workshops": "Skills and Workshops are related in the following ways:\n1. People bring and use their skills to take part in workshops.\n2. Workshops are a hands-on way for people to build and practice skills together.",
-                    "Hard Skills": [
+                    "Examples of Skills": [
                       {
                         "slug": "interviewing",
                         "label": "Interviewing"

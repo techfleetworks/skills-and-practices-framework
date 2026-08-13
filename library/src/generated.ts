@@ -50,15 +50,16 @@ export interface DataTypes extends FrameworkRecord {
   "Relationship to Activities"?: string;
   "Relationship to Deliverables"?: string;
   "Relationship to Job Functions"?: string;
+  "Relationship to Job Specializations"?: string;
   "Relationship to Company Types"?: string;
   "Relationship to Methodologies"?: string;
   "Relationship to Workshops"?: string;
-  "Hard Skills"?: Link[];
+  "Examples of Skills"?: Link[];
   "Tech Job Categories"?: string;
   "Relationship to Job Industries"?: string;
   "Read Me File"?: FileRef[];
   "Specializations"?: Link[];
-  "Soft Skills"?: Link[];
+  "Examples of Practices"?: Link[];
   "Roles"?: Link[];
   "Product Milestones"?: Link[];
   "Tools"?: Link[];
