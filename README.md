@@ -143,7 +143,7 @@ Field names stay the framework's own names. The mapping to universal vocabularie
 
 # Using and Crediting the Data
 
-The data is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**, and the code that builds it is licensed under **Apache 2.0**. You are free to use, share, and build on the data, including for commercial work, as long as you give credit.
+The data is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**, and the code that builds it is licensed under **Apache 2.0**. You are free to use, share, and build on the data, including for commercial work, as long as you give credit to Tech Fleet https://techfleet.org
 
 When you use the data, credit it like this:
 
