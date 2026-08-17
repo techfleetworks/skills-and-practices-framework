@@ -236,6 +236,25 @@
     "You May Like This Job Function If...": {
       "type": "string"
     },
+    "Data Types": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
     "Workshops": {
       "type": "string"
     },

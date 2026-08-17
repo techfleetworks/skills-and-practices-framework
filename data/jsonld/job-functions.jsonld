@@ -1113,7 +1113,13 @@
       ],
       "Job Function Description": "A UX Designer shapes how a product looks, feels, and works for the people who use it. Most days you take fuzzy ideas and turn them into screens and flows that feel simple and clear. You sketch, try layouts, and put your work in front of others to get feedback, always asking whether it makes sense for a real person. It is a blend of creative and practical work, and you do it shoulder to shoulder with researchers, writers, and engineers.",
       "Other Job Titles You May See in the World": "Product Designer, Interaction Designer, UI/UX Designer, Experience Designer, Digital Product Designer",
-      "You May Like This Job Function If...": "You may like this job function if you enjoy turning fuzzy ideas into clear, usable screens, like sketching and refining based on feedback, and care about how something works as much as how it looks. It suits people who are part creative and part practical, and who are happy collaborating with researchers, writers, and engineers."
+      "You May Like This Job Function If...": "You may like this job function if you enjoy turning fuzzy ideas into clear, usable screens, like sketching and refining based on feedback, and care about how something works as much as how it looks. It suits people who are part creative and part practical, and who are happy collaborating with researchers, writers, and engineers.",
+      "Data Types": [
+        {
+          "id": "spf:job-function",
+          "label": "Job Function"
+        }
+      ]
     },
     {
       "id": "spf:ui-designer",
@@ -1791,7 +1797,13 @@
       ],
       "Job Function Description": "A UI Designer focuses on the look and polish of a product, the part people actually see and touch. You choose colors, type, spacing, and the small details that make a screen feel clean and easy to use. A lot of the job is making things consistent, so every button and page feels like it belongs together. You care about craft, and you enjoy the moment a rough design turns into something that looks and feels finished.",
       "Other Job Titles You May See in the World": "Visual Designer, User Interface Designer, Product Designer, Digital Designer",
-      "You May Like This Job Function If...": "You may like this job function if you have an eye for detail and love making things look clean and polished. It fits people who care about color, type, and spacing, enjoy creating consistency across a product, and feel satisfied when a rough design turns into something that looks finished."
+      "You May Like This Job Function If...": "You may like this job function if you have an eye for detail and love making things look clean and polished. It fits people who care about color, type, and spacing, enjoy creating consistency across a product, and feel satisfied when a rough design turns into something that looks finished.",
+      "Data Types": [
+        {
+          "id": "spf:job-function",
+          "label": "Job Function"
+        }
+      ]
     },
     {
       "id": "spf:ux-researcher",
@@ -2646,7 +2658,13 @@
       ],
       "Job Function Description": "A UX Researcher is the team's connection to real users. Your job is to answer questions like what people actually need and whether something works for them. You talk to users, run tests, and look for patterns, then share what you learned so the team can make better choices. It suits people who are curious, like listening more than talking, and enjoy turning messy human behavior into clear insights.",
       "Other Job Titles You May See in the World": "User Researcher, Design Researcher, User Experience Researcher, Insights Researcher",
-      "You May Like This Job Function If...": "You may like this job function if you are endlessly curious about people and would rather ask a good question than assume the answer. It suits those who enjoy listening, digging into problems, and turning what real users say into insights the team can act on."
+      "You May Like This Job Function If...": "You may like this job function if you are endlessly curious about people and would rather ask a good question than assume the answer. It suits those who enjoy listening, digging into problems, and turning what real users say into insights the team can act on.",
+      "Data Types": [
+        {
+          "id": "spf:job-function",
+          "label": "Job Function"
+        }
+      ]
     },
     {
       "id": "spf:product-designer",
@@ -3969,7 +3987,13 @@
       ],
       "Job Function Description": "A Product Designer is a generalist who blends research, UX, and UI to solve whole problems, not just one slice. One day you might be talking to users, the next sketching flows or polishing a screen. You care about both how something works and how it feels, and you stay close to the goal of the product the whole way through. It is a good fit if you like variety and enjoy carrying an idea from first question to finished design.",
       "Other Job Titles You May See in the World": "UX Designer, UX/UI Designer, Digital Product Designer, Product Design Lead",
-      "You May Like This Job Function If...": "You may like this job function if you enjoy variety and dislike being boxed into one slice of the work. It fits people who like moving between research, design, and polish, and who want to carry an idea all the way from first question to finished product."
+      "You May Like This Job Function If...": "You may like this job function if you enjoy variety and dislike being boxed into one slice of the work. It fits people who like moving between research, design, and polish, and who want to carry an idea all the way from first question to finished product.",
+      "Data Types": [
+        {
+          "id": "spf:job-function",
+          "label": "Job Function"
+        }
+      ]
     },
     {
       "id": "spf:ux-writer",
@@ -4819,7 +4843,13 @@
       ],
       "Job Function Description": "A UX Writer crafts the words inside a product: the buttons, labels, messages, and instructions that guide people along. It sounds small, but the right words can make something feel simple, and the wrong ones can leave people lost. You think hard about tone and clarity, and you cut anything that confuses. It fits people who love language and care about making things easy to understand.",
       "Other Job Titles You May See in the World": "Content Designer, UX Content Strategist, Content Strategist, Product Writer",
-      "You May Like This Job Function If...": "You may like this job function if you love language and believe the right handful of words can make something finally click. It suits people who care about clarity and tone, enjoy trimming the confusing bits, and like shaping how a product speaks to the people using it."
+      "You May Like This Job Function If...": "You may like this job function if you love language and believe the right handful of words can make something finally click. It suits people who care about clarity and tone, enjoy trimming the confusing bits, and like shaping how a product speaks to the people using it.",
+      "Data Types": [
+        {
+          "id": "spf:job-function",
+          "label": "Job Function"
+        }
+      ]
     },
     {
       "id": "spf:project-manager",
@@ -5558,7 +5588,13 @@
       ],
       "Job Function Description": "A Project Manager keeps the work organized and moving. You track what needs to happen, help the team stay on schedule, and clear roadblocks before they slow people down. A lot of the job is communication, making sure everyone knows the plan and nothing important falls through the cracks. It suits people who like structure, enjoy helping others do their best work, and stay calm when things get busy.",
       "Other Job Titles You May See in the World": "Delivery Manager, Project Lead, Program Coordinator, Technical Project Manager",
-      "You May Like This Job Function If...": "You may like this job function if you like structure, enjoy helping a team stay on track, and stay calm when a lot is happening at once. It fits organized communicators who get satisfaction from clearing the path so others can do their best work."
+      "You May Like This Job Function If...": "You may like this job function if you like structure, enjoy helping a team stay on track, and stay calm when a lot is happening at once. It fits organized communicators who get satisfaction from clearing the path so others can do their best work.",
+      "Data Types": [
+        {
+          "id": "spf:job-function",
+          "label": "Job Function"
+        }
+      ]
     },
     {
       "id": "spf:engineer",
@@ -6248,7 +6284,13 @@
       ],
       "Job Function Description": "An Engineer builds the product, turning designs and ideas into working software. You write code, solve technical puzzles, and make sure things actually run the way they should. Much of the day is problem-solving: breaking a big challenge into small pieces and getting each one working. It fits people who like logic, enjoy building things, and feel real satisfaction when something they made finally works.",
       "Other Job Titles You May See in the World": "Software Engineer, Developer, Software Developer, Full Stack Engineer, Front-End or Back-End Engineer",
-      "You May Like This Job Function If...": "You may like this job function if you like logic, enjoy building things, and feel a real spark when a tricky problem finally clicks into place. It suits people who like breaking big challenges into small pieces and seeing their work run in the real world."
+      "You May Like This Job Function If...": "You may like this job function if you like logic, enjoy building things, and feel a real spark when a tricky problem finally clicks into place. It suits people who like breaking big challenges into small pieces and seeing their work run in the real world.",
+      "Data Types": [
+        {
+          "id": "spf:job-function",
+          "label": "Job Function"
+        }
+      ]
     },
     {
       "id": "spf:product-owner",
@@ -7054,7 +7096,13 @@
       ],
       "Job Function Description": "A Product Owner decides what the team should build next and in what order. You take a long list of possible work and turn it into a clear, prioritized plan the team can act on. A lot of the job is saying this first, that later, and explaining why. It suits people who like making decisions, can balance many voices, and enjoy owning the details of getting a product delivered.",
       "Other Job Titles You May See in the World": "Backlog Owner, Technical Product Owner, Associate Product Manager, Product Lead",
-      "You May Like This Job Function If...": "You may like this job function if you like making decisions and bringing order to a long list of possibilities. It fits people who can weigh many priorities, enjoy explaining the why behind the order of work, and like owning the details of getting things delivered."
+      "You May Like This Job Function If...": "You may like this job function if you like making decisions and bringing order to a long list of possibilities. It fits people who can weigh many priorities, enjoy explaining the why behind the order of work, and like owning the details of getting things delivered.",
+      "Data Types": [
+        {
+          "id": "spf:job-function",
+          "label": "Job Function"
+        }
+      ]
     },
     {
       "id": "spf:product-manager",
@@ -7672,7 +7720,13 @@
       ],
       "Job Function Description": "A Product Manager sets the direction for a product, the what and the why behind the work. You spend time understanding users and the business, choosing which problems are worth solving, and rallying the team around a shared goal. You do not do all the work yourself; you help everyone pull in the same direction. It fits people who like strategy, enjoy connecting people, business, and technology, and are comfortable with a good deal of ambiguity.",
       "Other Job Titles You May See in the World": "Associate Product Manager, Senior Product Manager, Group Product Manager, Growth Product Manager",
-      "You May Like This Job Function If...": "You may like this job function if you enjoy strategy and connecting the dots between people, business, and technology. It suits those who are comfortable with ambiguity, like rallying a team around a shared goal, and care about building the right thing, not just building things."
+      "You May Like This Job Function If...": "You may like this job function if you enjoy strategy and connecting the dots between people, business, and technology. It suits those who are comfortable with ambiguity, like rallying a team around a shared goal, and care about building the right thing, not just building things.",
+      "Data Types": [
+        {
+          "id": "spf:job-function",
+          "label": "Job Function"
+        }
+      ]
     },
     {
       "id": "spf:business-analyst",
@@ -8200,7 +8254,13 @@
       ],
       "Job Function Description": "A Business Analyst is the bridge between what people need and what the team builds. You dig into problems, ask a lot of questions, and turn vague requests into clear requirements everyone can understand. Much of the work is listening, mapping how things work today, and spelling out what should happen next. It fits people who like detail, enjoy untangling messy problems, and are good at translating between different groups.",
       "Other Job Titles You May See in the World": "Systems Analyst, Requirements Analyst, Product Analyst, Business Systems Analyst",
-      "You May Like This Job Function If...": "You may like this job function if you enjoy untangling messy problems and translating between what people want and what a team can build. It fits detail-oriented people who like asking questions, mapping how things work today, and writing down exactly what should happen next."
+      "You May Like This Job Function If...": "You may like this job function if you enjoy untangling messy problems and translating between what people want and what a team can build. It fits detail-oriented people who like asking questions, mapping how things work today, and writing down exactly what should happen next.",
+      "Data Types": [
+        {
+          "id": "spf:job-function",
+          "label": "Job Function"
+        }
+      ]
     },
     {
       "id": "spf:agile-coach",
@@ -8738,7 +8798,13 @@
       ],
       "Job Function Description": "An Agile Coach helps a team work better together, not by managing them, but by guiding how they collaborate. You teach agile ways of working, run workshops, and help the team build trust, ownership, and steady improvement. A lot of the job is noticing how people interact and gently helping them get unstuck. It fits people who care about others' growth, like facilitating more than directing, and find satisfaction in watching a team come into its own.",
       "Other Job Titles You May See in the World": "Scrum Master, Delivery Lead, Iteration Manager, Team Coach, Agile Delivery Manager",
-      "You May Like This Job Function If...": "You may like this job function if you care more about how a team works together than about any single deliverable. It suits patient, people-focused folks who like facilitating over directing and who find real reward in watching a team grow stronger and more independent."
+      "You May Like This Job Function If...": "You may like this job function if you care more about how a team works together than about any single deliverable. It suits patient, people-focused folks who like facilitating over directing and who find real reward in watching a team grow stronger and more independent.",
+      "Data Types": [
+        {
+          "id": "spf:job-function",
+          "label": "Job Function"
+        }
+      ]
     }
   ]
 }

@@ -61,6 +61,12 @@
           "id": "spf:time-management",
           "label": "Time Management"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -122,6 +128,12 @@
         {
           "id": "spf:decision-making",
           "label": "Decision-Making"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -185,6 +197,12 @@
           "id": "spf:decision-making",
           "label": "Decision-Making"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -242,6 +260,12 @@
         {
           "id": "spf:decision-making",
           "label": "Decision-Making"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -305,6 +329,12 @@
           "id": "spf:decision-making",
           "label": "Decision-Making"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -366,6 +396,12 @@
         {
           "id": "spf:time-management",
           "label": "Time Management"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -433,6 +469,12 @@
           "id": "spf:decision-making",
           "label": "Decision-Making"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -495,6 +537,12 @@
           "id": "spf:decision-making",
           "label": "Decision-Making"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -556,6 +604,12 @@
         {
           "id": "spf:decision-making",
           "label": "Decision-Making"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -631,6 +685,12 @@
           "id": "spf:critical-thinking",
           "label": "Critical Thinking"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -688,6 +748,12 @@
         {
           "id": "spf:decision-making",
           "label": "Decision-Making"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -751,6 +817,12 @@
           "id": "spf:relationship-building",
           "label": "Relationship Building"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -813,6 +885,12 @@
           "id": "spf:decision-making",
           "label": "Decision-Making"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -871,6 +949,12 @@
           "id": "spf:decision-making",
           "label": "Decision-Making"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -928,6 +1012,12 @@
         {
           "id": "spf:decision-making",
           "label": "Decision-Making"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -990,6 +1080,12 @@
         {
           "id": "spf:time-management",
           "label": "Time Management"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -1056,6 +1152,12 @@
         {
           "id": "spf:decision-making",
           "label": "Decision-Making"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -1135,6 +1237,12 @@
           "id": "spf:decision-making",
           "label": "Decision-Making"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -1196,6 +1304,12 @@
         {
           "id": "spf:decision-making",
           "label": "Decision-Making"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -1263,6 +1377,12 @@
           "id": "spf:decision-making",
           "label": "Decision-Making"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -1324,6 +1444,12 @@
         {
           "id": "spf:decision-making",
           "label": "Decision-Making"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -1387,6 +1513,12 @@
           "id": "spf:decision-making",
           "label": "Decision-Making"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -1444,6 +1576,12 @@
         {
           "id": "spf:decision-making",
           "label": "Decision-Making"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -1531,6 +1669,12 @@
           "id": "spf:critical-thinking",
           "label": "Critical Thinking"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -1600,6 +1744,12 @@
         {
           "id": "spf:decision-making",
           "label": "Decision-Making"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     },
@@ -1687,6 +1837,12 @@
           "id": "spf:critical-thinking",
           "label": "Critical Thinking"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -1769,6 +1925,12 @@
           "id": "spf:critical-thinking",
           "label": "Critical Thinking"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -1831,6 +1993,12 @@
           "id": "spf:time-management",
           "label": "Time Management"
         }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
+        }
       ]
     },
     {
@@ -1892,6 +2060,12 @@
         {
           "id": "spf:teamwork",
           "label": "Teamwork"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:job-industry",
+          "label": "Job Industry"
         }
       ]
     }

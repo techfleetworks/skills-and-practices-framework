@@ -17937,6 +17937,12 @@
     "id": 19,
     "slug": "everyone",
     "Duty Name": "Everyone",
+    "Data Type": [
+      {
+        "slug": "duty",
+        "label": "Duty"
+      }
+    ],
     "Responsible Tasks": [
       {
         "slug": "creating-presentations",

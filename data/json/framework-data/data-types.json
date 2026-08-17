@@ -514,6 +514,52 @@
         "name": "job-function.md",
         "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/2fRa1iYMalRYy2WVWznLN1g7Rdf8Ooed_6020ccfdb2bd82b7664430bcd3242a9b24bce9ccea5b49642a17272d835e5f64.md"
       }
+    ],
+    "Job Functions": [
+      {
+        "slug": "ux-designer",
+        "label": "UX Designer"
+      },
+      {
+        "slug": "ui-designer",
+        "label": "UI Designer"
+      },
+      {
+        "slug": "ux-researcher",
+        "label": "UX Researcher"
+      },
+      {
+        "slug": "product-designer",
+        "label": "Product Designer"
+      },
+      {
+        "slug": "ux-writer",
+        "label": "UX Writer"
+      },
+      {
+        "slug": "project-manager",
+        "label": "Project Manager"
+      },
+      {
+        "slug": "engineer",
+        "label": "Engineer"
+      },
+      {
+        "slug": "product-owner",
+        "label": "Product Owner"
+      },
+      {
+        "slug": "product-manager",
+        "label": "Product Manager"
+      },
+      {
+        "slug": "business-analyst",
+        "label": "Business Analyst"
+      },
+      {
+        "slug": "agile-coach",
+        "label": "Agile Coach"
+      }
     ]
   },
   {
@@ -782,6 +828,10 @@
       {
         "slug": "account-management",
         "label": "Account Management"
+      },
+      {
+        "slug": "everyone",
+        "label": "Everyone"
       }
     ],
     "Tech Job Categories": "User Experience, Product Management, Development, Operations, Information Technology",
@@ -1999,6 +2049,124 @@
         "name": "job-industry.md",
         "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/gGQ0JUjaOjPFSwnOffY2TnxlZNm8U4eA_63c644dc8bf2a710e523d2ef20ca68d638555cb694b479d94c05b4dcb7ccef8c.md"
       }
+    ],
+    "Job Industry": [
+      {
+        "slug": "academia",
+        "label": "Academia"
+      },
+      {
+        "slug": "accounting",
+        "label": "Accounting"
+      },
+      {
+        "slug": "agriculture",
+        "label": "Agriculture"
+      },
+      {
+        "slug": "business",
+        "label": "Business"
+      },
+      {
+        "slug": "construction",
+        "label": "Construction"
+      },
+      {
+        "slug": "creative",
+        "label": "Creative"
+      },
+      {
+        "slug": "finance",
+        "label": "Finance"
+      },
+      {
+        "slug": "government",
+        "label": "Government"
+      },
+      {
+        "slug": "hospitality",
+        "label": "Hospitality"
+      },
+      {
+        "slug": "industrial-design",
+        "label": "Industrial Design"
+      },
+      {
+        "slug": "legal",
+        "label": "Legal"
+      },
+      {
+        "slug": "marketing",
+        "label": "Marketing"
+      },
+      {
+        "slug": "medical",
+        "label": "Medical"
+      },
+      {
+        "slug": "mental-health",
+        "label": "Mental Health"
+      },
+      {
+        "slug": "nonprofit",
+        "label": "Nonprofit"
+      },
+      {
+        "slug": "primary-and-secondary-education",
+        "label": "Primary and Secondary Education"
+      },
+      {
+        "slug": "program-management",
+        "label": "Program Management"
+      },
+      {
+        "slug": "project-management",
+        "label": "Project Management"
+      },
+      {
+        "slug": "real-estate",
+        "label": "Real Estate"
+      },
+      {
+        "slug": "retail",
+        "label": "Retail"
+      },
+      {
+        "slug": "sales",
+        "label": "Sales"
+      },
+      {
+        "slug": "tourism",
+        "label": "Tourism"
+      },
+      {
+        "slug": "transportation",
+        "label": "Transportation"
+      },
+      {
+        "slug": "development",
+        "label": "Development"
+      },
+      {
+        "slug": "product-management",
+        "label": "Product Management"
+      },
+      {
+        "slug": "user-experience-research",
+        "label": "User Experience Research"
+      },
+      {
+        "slug": "user-experience-design",
+        "label": "User Experience Design"
+      },
+      {
+        "slug": "film",
+        "label": "Film"
+      },
+      {
+        "slug": "theatre",
+        "label": "Theatre"
+      }
     ]
   },
   {
@@ -2026,6 +2194,150 @@
         "name": "workshop.md",
         "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/QecMLW8ARtD14uac2S6XkZE4Jk8aDb6a_5464aefbde1acb6c8439f7435db04c0bbc97443872c88513c6d19b649395a43e.md"
       }
+    ],
+    "Workshops": [
+      {
+        "slug": "team-ice-breakers-workshop-template",
+        "label": "Team Ice Breakers Workshop Template"
+      },
+      {
+        "slug": "agile-and-service-leadership-workshop-template",
+        "label": "Agile and Service Leadership Workshop Template"
+      },
+      {
+        "slug": "conflict-resolution-workshop-template",
+        "label": "Conflict Resolution Workshop Template"
+      },
+      {
+        "slug": "client-kickoff-workshop-template",
+        "label": "Client Kickoff Workshop Template"
+      },
+      {
+        "slug": "raci-hats-workshop-template",
+        "label": "RACI Hats Workshop Template"
+      },
+      {
+        "slug": "project-plan-workshop-template",
+        "label": "Project Plan Workshop Template"
+      },
+      {
+        "slug": "vision-and-scope-workshop-template",
+        "label": "Vision and Scope Workshop Template"
+      },
+      {
+        "slug": "team-process-mapping-workshop-template",
+        "label": "Team Process Mapping Workshop Template"
+      },
+      {
+        "slug": "sprint-goals-workshop-template",
+        "label": "Sprint Goals Workshop Template"
+      },
+      {
+        "slug": "backlog-management-workshop-template",
+        "label": "Backlog Management Workshop Template"
+      },
+      {
+        "slug": "sprint-retro-workshop-template",
+        "label": "Sprint Retro Workshop Template"
+      },
+      {
+        "slug": "working-agreements-workshop-template",
+        "label": "Working Agreements Workshop Template"
+      },
+      {
+        "slug": "scenario-based-problem-statement-generation-workshop-template",
+        "label": "Scenario-Based Problem Statement Generation Workshop Template"
+      },
+      {
+        "slug": "research-plan-workshop-template",
+        "label": "Research Plan Workshop Template"
+      },
+      {
+        "slug": "rapid-ideation-workshop-template",
+        "label": "Rapid Ideation Workshop Template"
+      },
+      {
+        "slug": "storyboarding-workshop-template",
+        "label": "Storyboarding Workshop Template"
+      },
+      {
+        "slug": "audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+        "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+      },
+      {
+        "slug": "case-study-creation-workshop-template",
+        "label": "Case Study Creation Workshop Template"
+      },
+      {
+        "slug": "ux-research-analysis-workshop-template",
+        "label": "UX Research Analysis Workshop Template"
+      },
+      {
+        "slug": "market-research-and-competitive-analysis-workshop-template",
+        "label": "Market Research and Competitive Analysis Workshop Template"
+      },
+      {
+        "slug": "customer-experience-map-workshop-template",
+        "label": "Customer Experience Map Workshop Template"
+      },
+      {
+        "slug": "user-journey-map-workshop-template",
+        "label": "User Journey Map Workshop Template"
+      },
+      {
+        "slug": "discovery-backlog-workshop-template",
+        "label": "Discovery Backlog Workshop Template"
+      },
+      {
+        "slug": "team-agile-workshops-template",
+        "label": "Team Agile Workshops Template"
+      },
+      {
+        "slug": "audience-persona-definition-workshop-template",
+        "label": "Audience Persona Definition Workshop Template"
+      },
+      {
+        "slug": "empathy-map-workshop-template",
+        "label": "Empathy Map Workshop Template"
+      },
+      {
+        "slug": "research-analysis-presentation-slide-template",
+        "label": "Research Analysis Presentation Slide Template"
+      },
+      {
+        "slug": "kpi-success-measurements-definition-workshop-template",
+        "label": "KPI Success Measurements Definition Workshop Template"
+      },
+      {
+        "slug": "product-and-service-development-milestones-for-different-types-of-projects-works",
+        "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+      },
+      {
+        "slug": "personal-growth-vision-scope-and-roadmap-workshop-template",
+        "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+      },
+      {
+        "slug": "agile-team-maturity-measurements-workshop-template",
+        "label": "Agile Team Maturity Measurements Workshop Template"
+      },
+      {
+        "slug": "tech-fleet-sprint-demo-slide-deck-template",
+        "label": "Tech Fleet Sprint Demo Slide Deck Template"
+      },
+      {
+        "slug": "customer-experience-strategy-workshop-template",
+        "label": "Customer Experience Strategy Workshop Template"
+      }
     ]
+  },
+  {
+    "id": 22,
+    "slug": "workshop-step",
+    "Data Type Name": "Workshop Step"
+  },
+  {
+    "id": 27,
+    "slug": "workshop-template-section",
+    "Data Type Name": "Workshop Template Section"
   }
 ]

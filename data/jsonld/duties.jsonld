@@ -18011,6 +18011,12 @@
         "skos:Concept"
       ],
       "Duty Name": "Everyone",
+      "Data Type": [
+        {
+          "id": "spf:duty",
+          "label": "Duty"
+        }
+      ],
       "Responsible Tasks": [
         {
           "id": "spf:creating-presentations",

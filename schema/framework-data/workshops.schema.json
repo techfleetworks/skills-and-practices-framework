@@ -201,6 +201,25 @@
     "Where Can I Learn More?": {
       "type": "string"
     },
+    "Data Type": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "slug",
+          "label"
+        ],
+        "additionalProperties": false
+      }
+    },
     "Deliverable the Workshop Produces": {
       "type": "array",
       "items": {

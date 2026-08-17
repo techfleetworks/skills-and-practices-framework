@@ -58,6 +58,7 @@ export interface DataTypes extends FrameworkRecord {
   "Tech Job Categories"?: string;
   "Relationship to Job Industries"?: string;
   "Read Me File"?: FileRef[];
+  "Job Functions"?: Link[];
   "Specializations"?: Link[];
   "Examples of Practices"?: Link[];
   "Roles"?: Link[];
@@ -67,6 +68,8 @@ export interface DataTypes extends FrameworkRecord {
   "Deliverables"?: Link[];
   "Work Type"?: Link[];
   "Agile Methodologies"?: Link[];
+  "Job Industry"?: Link[];
+  "Workshops"?: Link[];
 }
 
 export interface Deliverables extends FrameworkRecord {
@@ -147,6 +150,7 @@ export interface JobFunctions extends FrameworkRecord {
   "Job Function Description"?: string;
   "Other Job Titles You May See in the World"?: string;
   "You May Like This Job Function If..."?: string;
+  "Data Types"?: Link[];
   "Workshops"?: string;
   "Deliverables"?: string;
 }
@@ -157,6 +161,7 @@ export interface JobIndustries extends FrameworkRecord {
   "Transferrable Technical Skills Coming From This Industry"?: Link[];
   "Common Job Titles Within This Industry"?: string;
   "Transferrable Interpersonal Skills Coming From This Industry"?: Link[];
+  "Data Type"?: Link[];
 }
 
 export interface Methodologies extends FrameworkRecord {
@@ -376,6 +381,7 @@ export interface Workshops extends FrameworkRecord {
   "Workshop Template Sections"?: Link[];
   "Workshop Brief"?: string;
   "Where Can I Learn More?"?: string;
+  "Data Type"?: Link[];
   "Deliverable the Workshop Produces"?: Link[];
   "Related Activities"?: Link[];
   "Related Workshop Skills"?: Link[];

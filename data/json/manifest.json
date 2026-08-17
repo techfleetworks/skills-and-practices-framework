@@ -6,7 +6,7 @@
     {
       "entity": "data-types",
       "file": "framework-data/data-types.json",
-      "count": 15,
+      "count": 17,
       "primaryField": "Data Type Name"
     },
     {
@@ -60,7 +60,7 @@
     {
       "entity": "specializations",
       "file": "framework-data/specializations.json",
-      "count": 24,
+      "count": 23,
       "primaryField": "Specialization Name"
     },
     {

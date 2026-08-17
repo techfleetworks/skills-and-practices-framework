@@ -55,6 +55,12 @@
         "slug": "time-management",
         "label": "Time Management"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -112,6 +118,12 @@
       {
         "slug": "decision-making",
         "label": "Decision-Making"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -171,6 +183,12 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -224,6 +242,12 @@
       {
         "slug": "decision-making",
         "label": "Decision-Making"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -283,6 +307,12 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -340,6 +370,12 @@
       {
         "slug": "time-management",
         "label": "Time Management"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -403,6 +439,12 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -461,6 +503,12 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -518,6 +566,12 @@
       {
         "slug": "decision-making",
         "label": "Decision-Making"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -589,6 +643,12 @@
         "slug": "critical-thinking",
         "label": "Critical Thinking"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -642,6 +702,12 @@
       {
         "slug": "decision-making",
         "label": "Decision-Making"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -701,6 +767,12 @@
         "slug": "relationship-building",
         "label": "Relationship Building"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -759,6 +831,12 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -813,6 +891,12 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -866,6 +950,12 @@
       {
         "slug": "decision-making",
         "label": "Decision-Making"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -924,6 +1014,12 @@
       {
         "slug": "time-management",
         "label": "Time Management"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -986,6 +1082,12 @@
       {
         "slug": "decision-making",
         "label": "Decision-Making"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -1061,6 +1163,12 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -1118,6 +1226,12 @@
       {
         "slug": "decision-making",
         "label": "Decision-Making"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -1181,6 +1295,12 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -1238,6 +1358,12 @@
       {
         "slug": "decision-making",
         "label": "Decision-Making"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -1297,6 +1423,12 @@
         "slug": "decision-making",
         "label": "Decision-Making"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -1350,6 +1482,12 @@
       {
         "slug": "decision-making",
         "label": "Decision-Making"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -1433,6 +1571,12 @@
         "slug": "critical-thinking",
         "label": "Critical Thinking"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -1498,6 +1642,12 @@
       {
         "slug": "decision-making",
         "label": "Decision-Making"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   },
@@ -1581,6 +1731,12 @@
         "slug": "critical-thinking",
         "label": "Critical Thinking"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -1659,6 +1815,12 @@
         "slug": "critical-thinking",
         "label": "Critical Thinking"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -1717,6 +1879,12 @@
         "slug": "time-management",
         "label": "Time Management"
       }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
+      }
     ]
   },
   {
@@ -1774,6 +1942,12 @@
       {
         "slug": "teamwork",
         "label": "Teamwork"
+      }
+    ],
+    "Data Type": [
+      {
+        "slug": "job-industry",
+        "label": "Job Industry"
       }
     ]
   }

@@ -89,7 +89,13 @@
       }
     ],
     "Workshop Brief": "This workshop does not produce a document; it produces connection. Its job is to build the psychological safety that research (Amy Edmondson; Google's Project Aristotle) ties to how well teams perform. Through four light activities, teammates get to know each other as people, which is the foundation everything else on an agile team is built on.",
-    "Where Can I Learn More?": "https://www.atlassian.com/team-playbook"
+    "Where Can I Learn More?": "https://www.atlassian.com/team-playbook",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 2,
@@ -201,7 +207,13 @@
       }
     ],
     "Workshop Brief": "This is a foundations session, not a deliverable. It grounds the team in agile itself: the Agile Manifesto's values (individuals and interactions, working results, customer collaboration, responding to change), the tenets of strong teams, and the four stages of team growth (forming, storming, norming, performing). It sets the shared mental model the rest of the workshops assume.",
-    "Where Can I Learn More?": "https://agilemanifesto.org/"
+    "Where Can I Learn More?": "https://agilemanifesto.org/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 3,
@@ -399,7 +411,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the conflict side of the team's Working Agreements. Working agreements are team-authored ground rules for how people work together; here the team writes how it will handle conflict, grounded in the idea that healthy conflict is generative and that psychological safety (Edmondson) and service leadership make it safe.",
-    "Where Can I Learn More?": "https://www.atlassian.com/team-playbook/plays/retrospective"
+    "Where Can I Learn More?": "https://www.atlassian.com/team-playbook/plays/retrospective",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 4,
@@ -673,7 +691,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the Statement of Work, the foundational agreement that defines a project's scope, objectives, deliverables, and terms. By aligning with the client on goals, audiences, and problems up front, it sets the shared expectations that keep the whole project from drifting.",
-    "Where Can I Learn More?": "https://www.atlassian.com/work-management/knowledge-sharing/documentation/what-is-statement-of-work"
+    "Where Can I Learn More?": "https://www.atlassian.com/work-management/knowledge-sharing/documentation/what-is-statement-of-work",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 5,
@@ -887,7 +911,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the team's RACI Charts, the responsibility-assignment matrix that clarifies who is Responsible, Accountable, Consulted, and Informed for each activity (with exactly one person Accountable). Tech Fleet frames it as 'hats' a self-organizing team chooses fresh each sprint.",
-    "Where Can I Learn More?": "https://www.atlassian.com/work-management/project-management/raci-chart"
+    "Where Can I Learn More?": "https://www.atlassian.com/work-management/project-management/raci-chart",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 6,
@@ -1153,7 +1183,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the Project Plan, along with a Gantt-style timeline, sprint plan, and project goals. A project plan lays out phases, milestones, and outcomes across the work, but in agile it is a living forecast that adjusts weekly, not a fixed waterfall schedule.",
-    "Where Can I Learn More?": "https://www.atlassian.com/agile/product-management/roadmaps"
+    "Where Can I Learn More?": "https://www.atlassian.com/agile/product-management/roadmaps",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 7,
@@ -1443,7 +1479,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the release Vision Boards, Release-level Scope, Epics and Features, and Roadmap. A vision board (Roman Pichler's tool) captures the vision, target group, needs, key features, and business goals; scope draws the line around what a release will and will not include. Both stay living as the team learns.",
-    "Where Can I Learn More?": "https://www.romanpichler.com/tools/product-vision-board/"
+    "Where Can I Learn More?": "https://www.romanpichler.com/tools/product-vision-board/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 8,
@@ -1761,7 +1803,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the Team Process Map and the Kanban Board Statuses. A Kanban board tracks work through statuses (To Do, Doing, Done) with work-in-progress limits to keep work flowing; the process map is the self-organizing team's own picture of how work moves from idea to done.",
-    "Where Can I Learn More?": "https://www.atlassian.com/agile/kanban/wip-limits"
+    "Where Can I Learn More?": "https://www.atlassian.com/agile/kanban/wip-limits",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 9,
@@ -1983,7 +2031,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces Sprint Goals, the single objective for a sprint (per the Scrum Guide) that gives the team focus and a target to measure progress against, while leaving flexibility in exactly how the team gets there.",
-    "Where Can I Learn More?": "https://www.scrum.org/resources/sprint-goal"
+    "Where Can I Learn More?": "https://www.scrum.org/resources/sprint-goal",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 10,
@@ -2268,7 +2322,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces a refined, Prioritized Backlog and its Acceptance Criteria. Backlog refinement keeps the to-do list clear, sized, and ordered; acceptance criteria are the agreed conditions (often given-when-then) that define when each item is done.",
-    "Where Can I Learn More?": "https://www.atlassian.com/agile/scrum/backlog-refinement"
+    "Where Can I Learn More?": "https://www.atlassian.com/agile/scrum/backlog-refinement",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 11,
@@ -2482,7 +2542,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces Sprint Retro Action Items. A retrospective is the recurring meeting where a team reflects and commits to concrete improvements; Tech Fleet uses the 4 Ls format (liked, learned, lacked, longed for) and turns reflections into owned action items, the engine of continuous improvement.",
-    "Where Can I Learn More?": "https://www.atlassian.com/team-playbook/plays/retrospective"
+    "Where Can I Learn More?": "https://www.atlassian.com/team-playbook/plays/retrospective",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 12,
@@ -2696,7 +2762,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the team's Working Agreements and its Psychological Safety Plan. Working agreements are team-authored norms for how to collaborate; Tech Fleet frames them around the agile tenets, starting with psychological safety (Edmondson, Timothy Clark) as the foundation.",
-    "Where Can I Learn More?": "https://www.scrum.org/resources/creating-team-working-agreement"
+    "Where Can I Learn More?": "https://www.scrum.org/resources/creating-team-working-agreement",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 13,
@@ -2966,7 +3038,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces Problem Statements, Problem Checklists, and User Story Statements. A problem statement is a clear, user-focused description of a problem, never a solution; the team finds each root with the 5 Whys, then turns it into a checklist (goal, need, consequences) and a user story.",
-    "Where Can I Learn More?": "https://www.nngroup.com/articles/problem-statements/"
+    "Where Can I Learn More?": "https://www.nngroup.com/articles/problem-statements/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 15,
@@ -3324,7 +3402,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the UX Research Plan (and supports analytics and accessibility analyses). A research plan documents a study's goals, questions, methods, and participants; Tech Fleet frames UX as a science, mapping assumptions to hypotheses and measurements so tests can be prioritized and repeated.",
-    "Where Can I Learn More?": "https://www.nngroup.com/articles/pm-research-plan/"
+    "Where Can I Learn More?": "https://www.nngroup.com/articles/pm-research-plan/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 16,
@@ -3570,7 +3654,13 @@
       }
     ],
     "Workshop Brief": "This workshop moves a team from problems to testable ideas, and it produces two things: How Might We statements and quick sketches. A How Might We statement is a design-thinking tool (popularized by IDEO) that reframes a research insight as an open question, like \"how might we make sign-up feel effortless?\" The wording matters: \"how\" assumes there is an answer to find, and \"might\" keeps the door open to many paths, so the question sparks ideas without locking in one. The sketches come from Crazy 8's, a Design Sprint method where each person draws eight rough ideas in eight minutes, one per box. The whole point is quantity over polish; the tight timer pushes people past their safe first idea and surfaces options they would never have reached by talking. Nothing here is meant to be pretty or final. It is raw fuel for deciding what to test.",
-    "Where Can I Learn More?": "https://www.nngroup.com/articles/how-might-we-questions/"
+    "Where Can I Learn More?": "https://www.nngroup.com/articles/how-might-we-questions/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 17,
@@ -3756,7 +3846,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces a Storyboard, a comic-strip-style visualization of a user's experience in context. Its four elements (character, scene, plot, narrative) help the team imagine the real situation around a product, not just its screens, sparking more human design ideas.",
-    "Where Can I Learn More?": "https://www.interaction-design.org/literature/article/ux-storyboards"
+    "Where Can I Learn More?": "https://www.interaction-design.org/literature/article/ux-storyboards",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 18,
@@ -4022,7 +4118,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces Customer Segmentation and Buyer Personas. Segmentation groups an audience by shared traits (demographic, geographic, behavioral, socioeconomic); here the team labels its focus audiences and digs into each one's motivations, goals, and use cases to support.",
-    "Where Can I Learn More?": "https://www.qualtrics.com/articles/strategy-research/customer-segmentation/"
+    "Where Can I Learn More?": "https://www.qualtrics.com/articles/strategy-research/customer-segmentation/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 19,
@@ -4117,7 +4219,13 @@
       }
     ],
     "Workshop Brief": "This workshop does not produce a project deliverable; it prepares each teammate's case study, the story of the growth and work they did on the project. It grounds a strong portfolio piece in the real outcomes, collaboration, and process of the work.",
-    "Where Can I Learn More?": "https://www.interaction-design.org/literature"
+    "Where Can I Learn More?": "https://www.interaction-design.org/literature",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 20,
@@ -4551,7 +4659,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the Research Analysis, Research Report, Affinity Map, and UX Audit Report. Analysis turns raw research into meaning, commonly via thematic analysis (Braun & Clarke): cluster findings into themes on an affinity map, then conclude each assumption true, false, or undetermined.",
-    "Where Can I Learn More?": "https://www.nngroup.com/articles/affinity-diagram/"
+    "Where Can I Learn More?": "https://www.nngroup.com/articles/affinity-diagram/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 22,
@@ -4829,7 +4943,13 @@
       }
     ],
     "Workshop Brief": "This workshop grounds a team in its market and turns that understanding into a sharp story, producing five connected outputs. A competitive analysis studies a handful of direct competitors (and a couple of indirect ones) across usability, features, and value to find gaps worth filling. A market research analysis pulls together data on market size, customers, and trends so big bets rest on evidence, not hunches. From that, the team writes a positioning statement, an internal compass of how the product is different and for whom (For [target], [product] is the [difference] among [category] because [reason]), and a unique value proposition, the sharper, customer-facing sentence of the single main benefit. Finally, product-market fit gets judged; it is less a single number and more a set of signals, like whether people are using the product as fast as you can ship it and whether word of mouth is spreading (a common check is Sean Ellis's rule that 40 percent of users would be \"very disappointed\" to lose it). Together these move a team from \"we think there's a market\" to a clear, defensible story about who the product is for and why it wins.",
-    "Where Can I Learn More?": "https://maze.co/collections/ux-ui-design/ux-competitive-analysis/"
+    "Where Can I Learn More?": "https://maze.co/collections/ux-ui-design/ux-competitive-analysis/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 23,
@@ -5015,7 +5135,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the Customer Experience Diagram, a flow chart of an audience's end-to-end experience across the lifecycle funnel (awareness through loyalty). It is distinct from a user journey map (a single-audience table); the CX map is broader, showing all audiences and touchpoints.",
-    "Where Can I Learn More?": "https://www.nngroup.com/articles/ux-mapping-cheat-sheet/"
+    "Where Can I Learn More?": "https://www.nngroup.com/articles/ux-mapping-cheat-sheet/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 24,
@@ -5237,7 +5363,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the User Journey Map, a table tracing a single audience's steps toward a goal (Nielsen Norman Group), with their actions, thoughts, emotions, pain points, and opportunities at each step. It pairs with the CX map to tell both the zoomed-in and zoomed-out story.",
-    "Where Can I Learn More?": "https://www.nngroup.com/articles/journey-mapping-how/"
+    "Where Can I Learn More?": "https://www.nngroup.com/articles/journey-mapping-how/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 25,
@@ -5427,7 +5559,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces Prioritized Backlog Tasks. It turns a pile of possible work into a ranked list using a MoSCoW matrix (Must, Should, Could, Won't), by risk and certainty or effort and value, so the team focuses on the most valuable work first.",
-    "Where Can I Learn More?": "https://www.atlassian.com/agile/scrum/backlog-refinement"
+    "Where Can I Learn More?": "https://www.atlassian.com/agile/scrum/backlog-refinement",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 26,
@@ -5496,7 +5634,13 @@
     "Where to Keep the Output": "It lives in FigJam as the master template board.",
     "Raw FigJam Content": "HERE\nBusiness Strategy\nWebsite Design\nWebsite Design\nService Design\nBreakdown of Deliverables Per Milestone\nIncremental Value\nAgile Product and Service Development Lifecycle\nMVP and MMP Milestones\nWorkshops for Each Milestone\nDeliverables for Each Milestone\nDiscovery Only\nDiscovery + Design + Dev\nDiscovery + Design\nDiscovery + Design\n\n# PRODUCT DEVELOPMENT MILESTONES FOR DIFFERENT TYPES OF PROJECTS\n  PRODUCT DEVELOPMENT MILESTONES FOR DIFFERENT TYPES OF PROJECTS\n  WHAT IS THIS?\n  STEPS TO RUN THE TRAINING\n  Learn about the lifecycle to make products and services called the Agile Product and Service Development Lifecycle\nReview the definitions of each milestone, or marker of progress, and learn about the deliverables involved in each milestone. \nLearn about the workshops that are available for each milestone \nReview the typical types of projects that Tech Fleet takes on as an organization and what milestone deliverables will look like when we take on those kinds of projects.\n  Products aren’t just made from ideas. They take a lot of coordination, research, decisions, and negotiations to make happen. Teams must go through cycles to organize work and decide how to focus their efforts. There are specific deliverables that are involved in different types of projects across research, design, product, and development functions. This training shows the typical cross-functional deliverables set that exist, and how it translates to project phases in Tech Fleet.\n  GOALS OF THE TRAINING\n  Learn about the product development lifecycle\nUnderstand how Agile work happens in parallel across different functions\nLearn how work gets developed and designed for different project phases in Tech Fleet.\n  WHY IS IT VALUABLE?\n  The Agile product development lifecycle helps teams understand what they should be focusing on to enable releases.\nAgile product development lifecycles help teams plan work over long-term.\n  WHO OWNS THIS WORK?\n  The product manager owns the vision and scope of the release for a cross-functional agile team. They are the function who understands user and market needs, defines strategic releases, and plans their product or service to go to market through MVP and MMP lifecycles.\n\nThe product owner function owns the delivery of the product work on a cross-functional agile team. They are the function who owns product decisions, priorities, and backlog work towards MVP and MMP releases.\n\n# Releasing Incremental Value with MVPs\n  Milestones of Work Toward Release Launches\n  A product milestone is a concept to understand in Agile product development. Milestones make up groups of completed deliverables and represent a significant point of progress in product development. They may need to be completed multiple times, or adjusted as teams progress towards release cycles of their products. Here’s a breakdown of different milestones and how they relate to MVP and MMP builds.\n  Releasing Incremental Value with MVPs\n  Agile teams deliver increasingly incremental value with each new release. They build many MVP’s on the road to MMP. This is a judgment call decided by the product owner and product manager functions on teams.\n  MMP\n  MVP #3\n  Business Value\n  MVP #2\n  MVP #1\n  Time\n\n# Agile Product and Service Development Lifecycle\n  Agile Product and Service Development Lifecycle\n  Here’s a diagram that shows the different parts of the agile product and service development lifecycle. These often happen in parallel to each other, and are not sequential.\n\n  # Milestones and the Development Lifecycle\n    Intake / Brief Milestone\n    Discovery \nMilestone\n    Vision Milestone\n    Scope Milestone\n    Requirements Milestone\n    Implement\nMilestone\n    Acceptance Testing\nMilestone\n    Repeat continuously\n    Repeat continuously\n    Project Goals\n    Success Measures\n    Kickoff\n    Hypotheses\n    Research\n    Analysis\n    Release Vision\n    Release Scope\n    Epics, Features, Tasks\n    Acceptance Criteria\n    Refinement\n    Plan\n    UX Research and Discovery\n    User Acceptance\n    QA\n    Feedback Collection\n    Define the high-level project goals.\n    Define the measures of success for the project.\n    Start work with the team and client.\n    Start forming hypotheses for the most important work ahead.\n    Perform research based on hypotheses.\n    Analyze results and form problem statement assumptions for future work.\n    Form a near-term and long-term vision of problems within a release.\n    Form a list of outcomes to achieve per release.\n    Organize the backlog based on the release vision and scope.\n    Create details that provide the instructions for delivery in research, design, and development.\n    Review the documented requirements with teammates and clients to refine details.\n    Decide when features and tasks will be built toward the release.\n    UX Design\n    Review the work in progress with clients and users to evaluate the result and the direction of the release.\n    Test the functionality to ensure it works well and doesn’t have bugs.\n    Collect feedback from users and from clients related to the release features and gather information about changes.\n    Development\n    Content\n    Do the research, design, content, and development work in parallel.\n    DELIVERABLES IN MILESTONE\n    DELIVERABLES IN MILESTONE\n    DELIVERABLES IN MILESTONE\n    DELIVERABLES IN MILESTONE\n    DELIVERABLES IN MILESTONE\n    DELIVERABLES IN MILESTONE\n    DELIVERABLES IN MILESTONE\n    Team Ice Breakers\n(Team Kickoff Party Workshop)\n    Audience personas\n(Audience Personas Workshop)\n    MMP Vision Board\n(Vision/Scope/Roadmap Workshop)\n    MMP Release Scope\n(Vision/Scope/Roadmap Workshop)\n    User Stories and Acceptance Criteria\n(Acceptance Criteria Workshop)\n    Design System\n    QA Test Scenarios\n    Project Plan\n(Project Plan Workshop)\n    Empathy Maps\n(Empathy Map Workshop)\n    MVP Vision Boards\n(Vision/Scope/Roadmap Workshop)\n    MVP Release Scope\n(Vision/Scope/Roadmap Workshop)\n    Task Flows\n(Task Flow Workshop)\n    Brand Identity\n(Brand Identity Workshop)\n    Evaluative Research Insights\n    Team RACI Charts\n(RACI Hats Workshop)\n    Customer Experience Strategy\n(CX Strategy Workshop)\n    Release-Level Use Cases\n(Vision/Scope/Roadmap Workshop)\n    Release Roadmap\n(Vision/Scope/Roadmap Workshop)\n    Use Cases\n(Use Case Workshop)\n    Editorial Style Guide\n    KPI’s\n(Success Measures Workshop)\n    User Journey Map\n(User Journey Map Workshop)\n    Epic and Feature Definition\n(Vision/Scope/Roadmap Workshop)\n    Prototypes\n(Page Layout Workshop)\n    Client Intake\n(Client Intake Workshop)\n    Future Customer Experience Map\n(Customer Experience Map Workshop)\n    Site Map\n(Site Map Design Workshop)\n    Team Process Definition\n(Team Process Mapping Workshop)\n    Current Customer Experience Map\n(Customer Experience Map Workshop)\n    Interaction Design\n(Interaction Design Workshop)\n    Stakeholder Interviews\n    Generative Research Insights\n(Research Test Plan Workshop)\n    Design Annotations\n    Working Agreements\n(Working Agreements Workshop)\n    Evaluative Research Insights\n(Research Test Plan Workshop)\n    Low Fidelity Prototypes\n    Case Study Outline\n(Case Study Preparation Workshop)\n    Product Positioning\n(Competitive Analysis Workshop)\n    High Fidelity Prototypes\n    Unique Value Proposition\n(Competitive Analysis Workshop)\n    Copywriting Documents\n    Problem Statements\n(Problem Solving Workshop)\n    Brand Assets\n    Discovery Research Backlog\n(Research Prioritization Workshop)\n    Technical Architecture\n    Coding\n    Web Hosting\n    Code Documentation\n\n# What Makes Up a Product Release?\n  What Makes Up a Product Release?\n  A release is made up of many different deliverables marked by progress indicators for product teams. These progress indicators are called “milestones”. They are markers of progress that happen at the same time.\n  MVP Release\n  Intake\n  Discovery\n  Vision\n  Scope\n  Requirements\n  Experience Design\n  Development\n  Acceptance Testing\n  MVP Release\n  Intake\n  Discovery\n  Vision\n  Scope\n  Requirements\n  Experience Design\n  Development\n  Acceptance Testing\n  MVP Release\n  Intake\n  Discovery\n  Vision\n  Scope\n  Requirements\n  Experience Design\n  Development\n  Acceptance Testing\n  MMP Release\n  Intake\n  Discovery\n  Vision\n  Scope\n  Requirements\n  Experience Design\n  Development\n  Acceptance Testing\n\n# Workshops Per Milestone\n  Workshops Per Milestone\n  Here are the different workshops that relate to product milestones and deliverables\n  Team Onboarding\n  Intake Milestone\n  Discovery Milestone\n  Vision and Scope Milestones\n  Requirements Milestone\n  Experience Design Milestone\n  Development Milestone\n  Acceptance Testing Milestone\n  Case Study Preparation Workshop\n  Agile and Service Leadership Kickoff Workshop\n  UX Research Test Plan Workshop\n  Release-Level Vision and Scope Workshop\n  User Stories and Acceptance Criteria Workshop\n  Rapid Ideation Workshop\n  Behavior Driven Development Scenario Creation Workshop\n  Personal Growth Vision, Scope, and Roadmap Workshop\n  Project Plan Workshop\n  UX Research Analysis Workshop\n  Release-Level Roadmap Workshop\n  Level of Effort Estimation Workshop\n  Sitemap Testing and Creation Workshop\n  UX Research Test Plan Creation Workshop\n  Team Ice Breaker Workshop\n  Client Intake and Kickoff Workshop\n  Research Results Slide Presentation\n  Epics, Features, and Backlog Management Workshop\n  Work Prioritization Workshop\n  Page Layout and Page-Level IA Workshop\n  UX Research Analysis Workshop\n  Sprint Retrospective Workshop\n  RACI Hats Workshop\n  Customer Experience Strategy Workshop\n  Design Annotation Workshop\n  Team Process Mapping Workshop\n  Audience Personas Workshop\n  Brand Identity Creation \nWorkshop\n  Sprint Goals Workshop\n  Empathy Map Workshop\n  Work Prioritization Workshop\n  Working Agreements Workshop\n  User Journey Map Workshop\n  Interaction Design Workshop\n  Conflict Resolution Plan Workshop\n  Customer Experience Map Workshop\n  Agile Team Transformation Vision, Scope, and Roadmap Workshop\n  Competitive Analysis Workshop\n  KPI Success Measurements Workshop\n  Product Positioning Workshop\n  Work Prioritization Workshop\n  Problem Statement and Problem Checklist Workshop\n\n# Deliverables for Web-Based Projects\n  Deliverables for Web-Based Projects\n  Here are the many typical deliverables that are included in the different product milestones within the product development lifecycle for web platform projects.\n  Phases 1 - 4\n  Phases 1 - 4\n  Phases 1 - 4\n  Phases 1 - 4\n  Phase 2, 3, 4\n  Phase 2, 3, 4\n  Phase 3, 4\n  Phase 3, 4\n  Intake Deliverables\n  Discovery Deliverables\n  Vision Deliverables\n  Scope Deliverables\n  Requirements Deliverables\n  Experience Design Deliverables\n  Development Deliverables\n  Deliverables for Acceptance Testing\n  Team Ice Breakers\n(Team Kickoff Party Workshop)\n  Audience personas\n(Audience Personas Workshop)\n  MMP Vision Board\n(Vision/Scope/Roadmap Workshop)\n  MMP Release Scope\n(Vision/Scope/Roadmap Workshop)\n  User Stories and Acceptance Criteria\n(Acceptance Criteria Workshop)\n  Design System\n  Technical Architecture\n  QA Test Scenarios\n  Project Plan\n(Project Plan Workshop)\n  Empathy Maps\n(Empathy Map Workshop)\n  MVP Vision Boards\n(Vision/Scope/Roadmap Workshop)\n  MVP Release Scope\n(Vision/Scope/Roadmap Workshop)\n  Task Flows\n(Task Flow Workshop)\n  Brand Identity\n(Brand Identity Workshop)\n  Coding\n  Evaluative Research Insights\n  Team RACI Charts\n(RACI Hats Workshop)\n  Customer Experience Strategy\n(CX Strategy Workshop)\n  Release-Level Use Cases\n(Vision/Scope/Roadmap Workshop)\n  Release Roadmap\n(Vision/Scope/Roadmap Workshop)\n  Use Cases\n(Use Case Workshop)\n  Editorial Style Guide\n  Web Hosting\n  KPI’s\n(Success Measures Workshop)\n  User Journey Map\n(User Journey Map Workshop)\n  Epic and Feature Definition\n(Vision/Scope/Roadmap Workshop)\n  Prototypes\n(Page Layout Workshop)\n  Code Documentation\n  Client Intake\n(Client Intake Workshop)\n  Future Customer Experience Map\n(Customer Experience Map Workshop)\n  Site Map\n(Site Map Design Workshop)\n  Team Process Definition\n(Team Process Mapping Workshop)\n  Current Customer Experience Map\n(Customer Experience Map Workshop)\n  Interaction Design\n(Interaction Design Workshop)\n  Stakeholder Interviews\n  Generative Research Insights\n(Research Test Plan Workshop)\n  Design Annotations\n  Working Agreements\n(Working Agreements Workshop)\n  Evaluative Research Insights\n(Research Test Plan Workshop)\n  Low Fidelity Prototypes\n  Case Study Outline\n(Case Study Preparation Workshop)\n  Product Positioning\n(Competitive Analysis Workshop)\n  High Fidelity Prototypes\n  Unique Value Proposition\n(Competitive Analysis Workshop)\n  Copywriting Documents\n  Problem Statements\n(Problem Solving Workshop)\n  Brand Assets\n  Discovery Research Backlog\n(Research Prioritization Workshop)\n  Brand Assets\n\n# Team Onboarding\n  Team Onboarding\n  Although this is not a milestone of product development, it’s a crucial first step to collaboration together. Teams need to get to know each other and build trust before they can produce actual work results. There should be a period of introducing each other before teams start doing work so that they know who they are working with and can understand difference in learning styles. It’s also important to map out the end goal in mind for an individual who’s on a team. The team onboarding period helps each person outline the end goals for themselves.\n  Typical Timeframe of Team Onboarding\n  One to two weeks\n  Typical Deliverables in the Intake Milestone\n  Team ice breakers\nPersonal growth roadmap\nCase study outline\n  Typical Workshops while Onboarding Teams\n  Team kickoff party\nPersonal growth vision, scope, and roadmap\nCase study outline\n  Do these first\n  Then do these\n  Team Kickoff Party\n(Team Kickoff Party Workshop)\n  Personal Growth Roadmap\n(Personal Growth Roadmap Workshop)\n  Case Study Outline\n(Case Study Prep Workshop)\n\n# Intake Milestone\n  Intake Milestone\n  During the intake milestone, teams compile the high level goals and anticipated deliverables for the project. They do not, however, create a contract that never changes. They work towards validating the assumptions and ideas that clients or teammates have after intake. Intake simply starts the organization of the work and collects information about the business needs from stakeholders’ perspectives.\n  Typical Timeframe of the Intake Milestone\n  Two to three weeks\n  Typical Deliverables in the Intake Milestone\n  Stakeholder interviews\nProject plan\nClient intake\nTeam RACI chart\nTeam working agreements\nSprint goals\nConflict resolution plan\nAgile team transformation vision\nTeam process map\n  Typical Workshops in the Intake Milestone\n  Client Kickoff Workshop\nProject Plan Workshop\nRACI Chart Workshop\nTeam Working Agreements Workshop\nConflict Resolution Workshop\nTeam Process Map Workshop\nSprint Goals Workshop\nAgile Team Transformation Vision, Scope, and Roadmap Workshop\n  Do these first\n  Client Intake\n(Client Intake Workshop)\n  Project Plan\n(Project Plan Workshop)\n  Then do these\n  Then do these after\n  Team RACI Charts\n(RACI Hats Workshop)\n  Working Agreements\n(Working Agreements Workshop)\n  Team Process Definition\n(Kanban and Process Workshop)\n  Sprint 1 Goals\n(Sprint Goals Workshop)\n  KPI’s\n(Success Measures Workshop)\n  Stakeholder Interviews\n(Empathy Map Workshop)\n\n# Discovery Milestone\n  Discovery Milestone\n  Discovery is a term used to describe learning about the \"current state\" of the world before planning to solve problems. Often, this includes research and understanding about many things like the state of the market, the state of user needs, current user behavior, opportunities against competitors, or other key learnings. Discovery findings help refine vision for products.\n  Typical Timeframe of the Discovery Milestone\n  Two to four months for initial discovery\nContinuous discovery: ongoing basis\n  Typical Deliverables in the Discovery Milestone\n  Audience Personas\nEmpathy maps\nUnique value proposition\nProduct positioning\nCompetitive analysis\nProblem statements\nCurrent Customer Experience map\nFuture Customer Experience map\nUser journey maps\nResearch analysis\n  Typical Workshops in the Discovery Milestone\n  Problem Statement Formation Workshop\nResearch Planning Worskhop\nPersonas Workshop\nCustomer Experience Design Workshop\n  Do these first\n  Then do these\n  Then do these after\n  Proto-Personas\n(Personas Workshop)\n  Generative Research Insights\n(Research Test Plan Workshop)\n  Empathy Maps\n(Empathy Map Workshop)\n  Problem Statements\n(Problem Solving Workshop)\n  Evaluative Research Insights\n(Research Test Plan Workshop)\n  Customer Experience Strategy\n(CX Strategy Workshop)\n  Discovery Research Backlog\n(Research Prioritization Workshop)\n  Refined Problem Statements\n(Problem Solving Workshop)\n  User Journey Map\n(User Journey Map Workshop)\n  Refined Personas\n(Personas Workshop)\n  Future Customer Experience Map\n(Customer Experience Map Workshop)\n  Empathy Maps\n(Empathy Map Workshop)\n  Current Customer Experience Map\n(Customer Experience Map Workshop)\n  Discovery Research Backlog\n(Research Prioritization Workshop)\n  Product Positioning\n(Competitive Analysis Workshop)\n  Unique Value Proposition\n(Competitive Analysis Workshop)\n\n# Vision Milestone\n  Vision Milestone\n  Vision describes where a product is going, and is broken down by release. When forming an MVP vision, product teams seek to solve the most important problems in their problem space. They should define MVP's in such a way that they are able to learn from them and vet high risk items in their product plans early and often. The vision helps the team stay aligned or decide how to adjust where their product is going.\n  Typical Timeframe of the Vision Milestone\n  Initial vision: One to two weeks\nRefined vision: ongoing basis\n  Typical Deliverables in the Vision Milestone\n  MVP Release Vision Boards\nMMP Release Vision Boards\n  Typical Workshops in the Vision Milestone\n  Product Release Vision and Scope Workshop\n  Do these first\n  Then do these\n  Refined Problem Statements\n(Problem Solving Workshop)\n  MMP Vision Boards\n(Vision/Scope/Roadmap Workshop)\n  Proto or Refined Personas\n(Personas Workshop)\n  MVP Vision Boards\n(Vision/Scope/Roadmap Workshop)\n  Release-Level Use Cases\n(Vision/Scope/Roadmap Workshop)\n\n# Discovery Project Milestones\n  Discovery Project\n  Tech Fleet works with nonprofits to define their nonprofit business strategy. We do this by working with clients to define user needs and outline the biggest opportunities for you to achieve your mission.\n  Phase 1\n  Phase 2\n  Intake Deliverables\n  Discovery Deliverables\n  Vision Deliverables\n  Scope Deliverables\n  Requirements Deliverables\n  Intake\n  Intake Milestone\n  Intake Milestone\n  Team ice breakers\nPersonal growth roadmap\nCase study outline\n  Audience Personas\nEmpathy maps\nUnique value proposition\nProduct positioning\nCompetitive analysis\nProblem statements\nCurrent Customer Experience map\nFuture Customer Experience map\nUser journey maps\nResearch analysis\n  MVP Release Vision\nMMP Release Vision\n  MVP Release Scope\nMMP Release Scope\nEpics, Features, and Tasks\nProduct Roadmap\nRelease Use Cases\n  Epic-level User stories and acceptance criteria\nFeature-level User stories and acceptance criteria\nTask-level User stories and acceptance criteria\nTask flows\nTask-level Use case scenarios\nUser Interface Specifications\n  Vision\n  Vision Milestone\n  Update Vision",
     "Workshop Brief": "This is the master board that indexes all of Tech Fleet's agile workshop templates. It is a navigation hub rather than a single workshop with its own deliverable.",
-    "Where Can I Learn More?": "https://agilemanifesto.org/"
+    "Where Can I Learn More?": "https://agilemanifesto.org/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 27,
@@ -5694,7 +5838,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces User Personas (and proto or buyer personas). A persona is a semi-fictional, research-based profile of a segment of users; proto-personas are best-guess versions made before research. They keep the team designing for real people rather than a vague 'user.'",
-    "Where Can I Learn More?": "https://www.userinterviews.com/ux-research-field-guide-chapter/personas"
+    "Where Can I Learn More?": "https://www.userinterviews.com/ux-research-field-guide-chapter/personas",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 28,
@@ -5908,7 +6058,13 @@
       }
     ],
     "Workshop Brief": "This workshop builds shared understanding of a user, producing an empathy map and, alongside it, audience personas. An empathy map is a simple visualization of what a user says, thinks, does, and feels; the classic version (Dave Gray, refined by Nielsen Norman Group) uses those four quadrants. One thing to honor here: Tech Fleet's board uses a richer six-prompt, first-person version (I Think, I Act, I Feel, I Say, I Value, I'm Motivated By), so follow the board's six, not the classic four. The goal is the same either way: get everything the team knows or assumes about a user into one place so decisions rest on a shared picture instead of scattered opinions. A persona is a semi-fictional character standing in for a segment of users, and a buyer persona specifically represents the person who decides to purchase, who is not always the person who uses the product. Built from research, or as quick proto-personas when research is thin, these keep the team designing for real people rather than a vague \"user.\"",
-    "Where Can I Learn More?": "https://www.nngroup.com/articles/empathy-mapping/"
+    "Where Can I Learn More?": "https://www.nngroup.com/articles/empathy-mapping/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 29,
@@ -6282,7 +6438,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the Research Report and Usability Test Report as a shareable presentation. A research report translates findings into language stakeholders can act on; NN/g stresses presenting truthfully, naming who the data represents and its limits, and turning findings into recommendations.",
-    "Where Can I Learn More?": "https://www.nngroup.com/videos/present-research-responsively/"
+    "Where Can I Learn More?": "https://www.nngroup.com/videos/present-research-responsively/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 30,
@@ -6512,7 +6674,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the release's KPIs. A KPI is a quantifiable measure tied to a goal (specific, with a target and an owner); here the team defines success measures for the business and for each audience, based on their goals and the steps in their journey.",
-    "Where Can I Learn More?": "https://asana.com/resources/key-performance-indicator-kpi"
+    "Where Can I Learn More?": "https://asana.com/resources/key-performance-indicator-kpi",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 31,
@@ -6607,7 +6775,13 @@
       }
     ],
     "Workshop Brief": "This is a reference and learning workshop, not a deliverable. It teaches how the agile product and service development lifecycle differs by project type (web platform, discovery, service design) and how milestones and deliverables map to MVP and MMP releases, non-linearly.",
-    "Where Can I Learn More?": "https://www.atlassian.com/agile"
+    "Where Can I Learn More?": "https://www.atlassian.com/agile",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 32,
@@ -6821,7 +6995,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces a Personal Growth Roadmap, a development plan for one person. It mirrors the product vision, scope, and roadmap pattern applied to a career: a vision of who you want to become, a scope of focus areas, and a roadmap of steps to get there.",
-    "Where Can I Learn More?": "https://www.atlassian.com/agile/product-management/roadmaps"
+    "Where Can I Learn More?": "https://www.atlassian.com/agile/product-management/roadmaps",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 33,
@@ -7035,7 +7215,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces Agile Maturity Measurements. It gauges how agile a team really is across the tenets of strong agile teams (grounded in the Agile Manifesto and self-actualized-team models like Agile Fluency), treating maturity as a continuum so the team can self-correct.",
-    "Where Can I Learn More?": "https://www.smartsheet.com/content/agile-maturity"
+    "Where Can I Learn More?": "https://www.smartsheet.com/content/agile-maturity",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 34,
@@ -7264,7 +7450,13 @@
       }
     ],
     "Workshop Brief": "This workshop produces the Sprint Demo Presentation and gathers Stakeholder Feedback. Grounded in Scrum's Sprint Review, it is more than a demo: the team shows completed work and collaborates with stakeholders on what to do next, not just a show-and-tell.",
-    "Where Can I Learn More?": "https://www.scrum.org/resources/what-is-a-sprint-review"
+    "Where Can I Learn More?": "https://www.scrum.org/resources/what-is-a-sprint-review",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   },
   {
     "id": 36,
@@ -7550,6 +7742,12 @@
       }
     ],
     "Workshop Brief": "This workshop delivers the Customer Experience Strategy, the strategy definitions for how the team will design for each persona and support them across the lifecycle funnel (awareness through loyalty). It does not produce the final CX map or site map itself; it sets the strategy and direction that ready those workshops, so the whole experience adds up to a coherent journey.",
-    "Where Can I Learn More?": "https://www.nngroup.com/articles/ux-mapping-cheat-sheet/"
+    "Where Can I Learn More?": "https://www.nngroup.com/articles/ux-mapping-cheat-sheet/",
+    "Data Type": [
+      {
+        "slug": "workshop",
+        "label": "Workshop"
+      }
+    ]
   }
 ]

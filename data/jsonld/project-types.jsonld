@@ -644,10 +644,6 @@
           "label": "Growth Product Management"
         },
         {
-          "id": "spf:growth",
-          "label": "growth"
-        },
-        {
           "id": "spf:sprint-master",
           "label": "Sprint Master"
         }

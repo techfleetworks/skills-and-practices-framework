@@ -63,7 +63,7 @@
           "Framework data"
         ],
         "summary": "Get Data Types",
-        "description": "Returns the full Data Types dataset (15 records) as a JSON array. Each relationship is a {slug, label} reference to another record. The example below shows one representative record.",
+        "description": "Returns the full Data Types dataset (17 records) as a JSON array. Each relationship is a {slug, label} reference to another record. The example below shows one representative record.",
         "operationId": "get_data_types",
         "responses": {
           "200": {
@@ -4942,7 +4942,13 @@
                     ],
                     "Job Function Description": "A UX Designer shapes how a product looks, feels, and works for the people who use it. Most days you take fuzzy ideas and turn them into screens and flows that feel simple and clear. You sketch, try layouts, and put your work in front of others to get feedback, always asking whether it makes sense for a real person. It is a blend of creative and practical work, and you do it shoulder to shoulder with researchers, writers, and engineers.",
                     "Other Job Titles You May See in the World": "Product Designer, Interaction Designer, UI/UX Designer, Experience Designer, Digital Product Designer",
-                    "You May Like This Job Function If...": "You may like this job function if you enjoy turning fuzzy ideas into clear, usable screens, like sketching and refining based on feedback, and care about how something works as much as how it looks. It suits people who are part creative and part practical, and who are happy collaborating with researchers, writers, and engineers."
+                    "You May Like This Job Function If...": "You may like this job function if you enjoy turning fuzzy ideas into clear, usable screens, like sketching and refining based on feedback, and care about how something works as much as how it looks. It suits people who are part creative and part practical, and who are happy collaborating with researchers, writers, and engineers.",
+                    "Data Types": [
+                      {
+                        "slug": "job-function",
+                        "label": "Job Function"
+                      }
+                    ]
                   }
                 ]
               }
@@ -6370,7 +6376,7 @@
           "Framework data"
         ],
         "summary": "Get Specializations",
-        "description": "Returns the full Specializations dataset (24 records) as a JSON array. Each relationship is a {slug, label} reference to another record. The example below shows one representative record.",
+        "description": "Returns the full Specializations dataset (23 records) as a JSON array. Each relationship is a {slug, label} reference to another record. The example below shows one representative record.",
         "operationId": "get_specializations",
         "responses": {
           "200": {
@@ -7352,6 +7358,12 @@
                         "slug": "time-management",
                         "label": "Time Management"
                       }
+                    ],
+                    "Data Type": [
+                      {
+                        "slug": "job-industry",
+                        "label": "Job Industry"
+                      }
                     ]
                   }
                 ]
@@ -7698,7 +7710,13 @@
                       }
                     ],
                     "Workshop Brief": "This workshop does not produce a document; it produces connection. Its job is to build the psychological safety that research (Amy Edmondson; Google's Project Aristotle) ties to how well teams perform. Through four light activities, teammates get to know each other as people, which is the foundation everything else on an agile team is built on.",
-                    "Where Can I Learn More?": "https://www.atlassian.com/team-playbook"
+                    "Where Can I Learn More?": "https://www.atlassian.com/team-playbook",
+                    "Data Type": [
+                      {
+                        "slug": "workshop",
+                        "label": "Workshop"
+                      }
+                    ]
                   }
                 ]
               }

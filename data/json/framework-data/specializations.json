@@ -1369,17 +1369,6 @@
     ]
   },
   {
-    "id": 23,
-    "slug": "growth",
-    "Specialization Name": "growth",
-    "Project Types": [
-      {
-        "slug": "discovery-project",
-        "label": "Discovery Project"
-      }
-    ]
-  },
-  {
     "id": 24,
     "slug": "sprint-master",
     "Specialization Name": "Sprint Master",

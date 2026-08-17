@@ -524,6 +524,52 @@
           "name": "job-function.md",
           "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/2fRa1iYMalRYy2WVWznLN1g7Rdf8Ooed_6020ccfdb2bd82b7664430bcd3242a9b24bce9ccea5b49642a17272d835e5f64.md"
         }
+      ],
+      "Job Functions": [
+        {
+          "id": "spf:ux-designer",
+          "label": "UX Designer"
+        },
+        {
+          "id": "spf:ui-designer",
+          "label": "UI Designer"
+        },
+        {
+          "id": "spf:ux-researcher",
+          "label": "UX Researcher"
+        },
+        {
+          "id": "spf:product-designer",
+          "label": "Product Designer"
+        },
+        {
+          "id": "spf:ux-writer",
+          "label": "UX Writer"
+        },
+        {
+          "id": "spf:project-manager",
+          "label": "Project Manager"
+        },
+        {
+          "id": "spf:engineer",
+          "label": "Engineer"
+        },
+        {
+          "id": "spf:product-owner",
+          "label": "Product Owner"
+        },
+        {
+          "id": "spf:product-manager",
+          "label": "Product Manager"
+        },
+        {
+          "id": "spf:business-analyst",
+          "label": "Business Analyst"
+        },
+        {
+          "id": "spf:agile-coach",
+          "label": "Agile Coach"
+        }
       ]
     },
     {
@@ -804,6 +850,10 @@
         {
           "id": "spf:account-management",
           "label": "Account Management"
+        },
+        {
+          "id": "spf:everyone",
+          "label": "Everyone"
         }
       ],
       "Tech Job Categories": "User Experience, Product Management, Development, Operations, Information Technology",
@@ -2057,6 +2107,124 @@
           "name": "job-industry.md",
           "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/gGQ0JUjaOjPFSwnOffY2TnxlZNm8U4eA_63c644dc8bf2a710e523d2ef20ca68d638555cb694b479d94c05b4dcb7ccef8c.md"
         }
+      ],
+      "Job Industry": [
+        {
+          "id": "spf:academia",
+          "label": "Academia"
+        },
+        {
+          "id": "spf:accounting",
+          "label": "Accounting"
+        },
+        {
+          "id": "spf:agriculture",
+          "label": "Agriculture"
+        },
+        {
+          "id": "spf:business",
+          "label": "Business"
+        },
+        {
+          "id": "spf:construction",
+          "label": "Construction"
+        },
+        {
+          "id": "spf:creative",
+          "label": "Creative"
+        },
+        {
+          "id": "spf:finance",
+          "label": "Finance"
+        },
+        {
+          "id": "spf:government",
+          "label": "Government"
+        },
+        {
+          "id": "spf:hospitality",
+          "label": "Hospitality"
+        },
+        {
+          "id": "spf:industrial-design",
+          "label": "Industrial Design"
+        },
+        {
+          "id": "spf:legal",
+          "label": "Legal"
+        },
+        {
+          "id": "spf:marketing",
+          "label": "Marketing"
+        },
+        {
+          "id": "spf:medical",
+          "label": "Medical"
+        },
+        {
+          "id": "spf:mental-health",
+          "label": "Mental Health"
+        },
+        {
+          "id": "spf:nonprofit",
+          "label": "Nonprofit"
+        },
+        {
+          "id": "spf:primary-and-secondary-education",
+          "label": "Primary and Secondary Education"
+        },
+        {
+          "id": "spf:program-management",
+          "label": "Program Management"
+        },
+        {
+          "id": "spf:project-management",
+          "label": "Project Management"
+        },
+        {
+          "id": "spf:real-estate",
+          "label": "Real Estate"
+        },
+        {
+          "id": "spf:retail",
+          "label": "Retail"
+        },
+        {
+          "id": "spf:sales",
+          "label": "Sales"
+        },
+        {
+          "id": "spf:tourism",
+          "label": "Tourism"
+        },
+        {
+          "id": "spf:transportation",
+          "label": "Transportation"
+        },
+        {
+          "id": "spf:development",
+          "label": "Development"
+        },
+        {
+          "id": "spf:product-management",
+          "label": "Product Management"
+        },
+        {
+          "id": "spf:user-experience-research",
+          "label": "User Experience Research"
+        },
+        {
+          "id": "spf:user-experience-design",
+          "label": "User Experience Design"
+        },
+        {
+          "id": "spf:film",
+          "label": "Film"
+        },
+        {
+          "id": "spf:theatre",
+          "label": "Theatre"
+        }
       ]
     },
     {
@@ -2088,7 +2256,159 @@
           "name": "workshop.md",
           "url": "https://baserow-backend-production20240528124524339000000001.s3.amazonaws.com/user_files/QecMLW8ARtD14uac2S6XkZE4Jk8aDb6a_5464aefbde1acb6c8439f7435db04c0bbc97443872c88513c6d19b649395a43e.md"
         }
+      ],
+      "Workshops": [
+        {
+          "id": "spf:team-ice-breakers-workshop-template",
+          "label": "Team Ice Breakers Workshop Template"
+        },
+        {
+          "id": "spf:agile-and-service-leadership-workshop-template",
+          "label": "Agile and Service Leadership Workshop Template"
+        },
+        {
+          "id": "spf:conflict-resolution-workshop-template",
+          "label": "Conflict Resolution Workshop Template"
+        },
+        {
+          "id": "spf:client-kickoff-workshop-template",
+          "label": "Client Kickoff Workshop Template"
+        },
+        {
+          "id": "spf:raci-hats-workshop-template",
+          "label": "RACI Hats Workshop Template"
+        },
+        {
+          "id": "spf:project-plan-workshop-template",
+          "label": "Project Plan Workshop Template"
+        },
+        {
+          "id": "spf:vision-and-scope-workshop-template",
+          "label": "Vision and Scope Workshop Template"
+        },
+        {
+          "id": "spf:team-process-mapping-workshop-template",
+          "label": "Team Process Mapping Workshop Template"
+        },
+        {
+          "id": "spf:sprint-goals-workshop-template",
+          "label": "Sprint Goals Workshop Template"
+        },
+        {
+          "id": "spf:backlog-management-workshop-template",
+          "label": "Backlog Management Workshop Template"
+        },
+        {
+          "id": "spf:sprint-retro-workshop-template",
+          "label": "Sprint Retro Workshop Template"
+        },
+        {
+          "id": "spf:working-agreements-workshop-template",
+          "label": "Working Agreements Workshop Template"
+        },
+        {
+          "id": "spf:scenario-based-problem-statement-generation-workshop-template",
+          "label": "Scenario-Based Problem Statement Generation Workshop Template"
+        },
+        {
+          "id": "spf:research-plan-workshop-template",
+          "label": "Research Plan Workshop Template"
+        },
+        {
+          "id": "spf:rapid-ideation-workshop-template",
+          "label": "Rapid Ideation Workshop Template"
+        },
+        {
+          "id": "spf:storyboarding-workshop-template",
+          "label": "Storyboarding Workshop Template"
+        },
+        {
+          "id": "spf:audience-segmentation-goals-motivations-and-use-cases-workshop-template",
+          "label": "Audience Segmentation, Goals, Motivations, and Use Cases Workshop Template"
+        },
+        {
+          "id": "spf:case-study-creation-workshop-template",
+          "label": "Case Study Creation Workshop Template"
+        },
+        {
+          "id": "spf:ux-research-analysis-workshop-template",
+          "label": "UX Research Analysis Workshop Template"
+        },
+        {
+          "id": "spf:market-research-and-competitive-analysis-workshop-template",
+          "label": "Market Research and Competitive Analysis Workshop Template"
+        },
+        {
+          "id": "spf:customer-experience-map-workshop-template",
+          "label": "Customer Experience Map Workshop Template"
+        },
+        {
+          "id": "spf:user-journey-map-workshop-template",
+          "label": "User Journey Map Workshop Template"
+        },
+        {
+          "id": "spf:discovery-backlog-workshop-template",
+          "label": "Discovery Backlog Workshop Template"
+        },
+        {
+          "id": "spf:team-agile-workshops-template",
+          "label": "Team Agile Workshops Template"
+        },
+        {
+          "id": "spf:audience-persona-definition-workshop-template",
+          "label": "Audience Persona Definition Workshop Template"
+        },
+        {
+          "id": "spf:empathy-map-workshop-template",
+          "label": "Empathy Map Workshop Template"
+        },
+        {
+          "id": "spf:research-analysis-presentation-slide-template",
+          "label": "Research Analysis Presentation Slide Template"
+        },
+        {
+          "id": "spf:kpi-success-measurements-definition-workshop-template",
+          "label": "KPI Success Measurements Definition Workshop Template"
+        },
+        {
+          "id": "spf:product-and-service-development-milestones-for-different-types-of-projects-works",
+          "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+        },
+        {
+          "id": "spf:personal-growth-vision-scope-and-roadmap-workshop-template",
+          "label": "Personal Growth Vision, Scope, and Roadmap Workshop Template"
+        },
+        {
+          "id": "spf:agile-team-maturity-measurements-workshop-template",
+          "label": "Agile Team Maturity Measurements Workshop Template"
+        },
+        {
+          "id": "spf:tech-fleet-sprint-demo-slide-deck-template",
+          "label": "Tech Fleet Sprint Demo Slide Deck Template"
+        },
+        {
+          "id": "spf:customer-experience-strategy-workshop-template",
+          "label": "Customer Experience Strategy Workshop Template"
+        }
       ]
+    },
+    {
+      "id": "spf:workshop-step",
+      "type": [
+        "schema:DefinedTermSet",
+        "spf:DataType",
+        "skos:ConceptScheme"
+      ],
+      "Data Type Name": "Workshop Step"
+    },
+    {
+      "id": "spf:workshop-template-section",
+      "type": [
+        "schema:DefinedTermSet",
+        "spf:DataType",
+        "skos:ConceptScheme"
+      ],
+      "Data Type Name": "Workshop Template Section"
     }
   ]
 }

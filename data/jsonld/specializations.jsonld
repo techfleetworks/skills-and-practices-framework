@@ -1437,20 +1437,6 @@
       ]
     },
     {
-      "id": "spf:growth",
-      "type": [
-        "spf:Thing",
-        "skos:Concept"
-      ],
-      "Specialization Name": "growth",
-      "Project Types": [
-        {
-          "id": "spf:discovery-project",
-          "label": "Discovery Project"
-        }
-      ]
-    },
-    {
       "id": "spf:sprint-master",
       "type": [
         "spf:Thing",
