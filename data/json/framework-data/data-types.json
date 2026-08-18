@@ -2339,5 +2339,16 @@
     "id": 27,
     "slug": "workshop-template-section",
     "Data Type Name": "Workshop Template Section"
+  },
+  {
+    "id": 28,
+    "slug": "project-type",
+    "Data Type Name": "Project Type",
+    "Project Types": [
+      {
+        "slug": "website-project",
+        "label": "Website Project"
+      }
+    ]
   }
 ]

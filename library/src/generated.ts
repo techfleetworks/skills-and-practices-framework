@@ -70,6 +70,7 @@ export interface DataTypes extends FrameworkRecord {
   "Agile Methodologies"?: Link[];
   "Job Industry"?: Link[];
   "Workshops"?: Link[];
+  "Project Types"?: Link[];
 }
 
 export interface Deliverables extends FrameworkRecord {
@@ -270,6 +271,7 @@ export interface ProjectTypes extends FrameworkRecord {
   "UX Research Deliverables"?: Link[];
   "UX Design Deliverables"?: Link[];
   "Product Milestones"?: Link[];
+  "Data Types"?: Link[];
 }
 
 export interface Skills extends FrameworkRecord {

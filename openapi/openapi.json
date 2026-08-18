@@ -63,7 +63,7 @@
           "Framework data"
         ],
         "summary": "Get Data Types",
-        "description": "Returns the full Data Types dataset (17 records) as a JSON array. Each relationship is a {slug, label} reference to another record. The example below shows one representative record.",
+        "description": "Returns the full Data Types dataset (18 records) as a JSON array. Each relationship is a {slug, label} reference to another record. The example below shows one representative record.",
         "operationId": "get_data_types",
         "responses": {
           "200": {
@@ -7590,6 +7590,12 @@
                       {
                         "slug": "intake",
                         "label": "Intake"
+                      }
+                    ],
+                    "Data Types": [
+                      {
+                        "slug": "project-type",
+                        "label": "Project Type"
                       }
                     ]
                   }

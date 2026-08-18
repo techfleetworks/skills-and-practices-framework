@@ -197,6 +197,12 @@
         "slug": "intake",
         "label": "Intake"
       }
+    ],
+    "Data Types": [
+      {
+        "slug": "project-type",
+        "label": "Project Type"
+      }
     ]
   },
   {

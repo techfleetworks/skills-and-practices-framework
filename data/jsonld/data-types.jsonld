@@ -2409,6 +2409,21 @@
         "skos:ConceptScheme"
       ],
       "Data Type Name": "Workshop Template Section"
+    },
+    {
+      "id": "spf:project-type",
+      "type": [
+        "schema:DefinedTermSet",
+        "spf:DataType",
+        "skos:ConceptScheme"
+      ],
+      "Data Type Name": "Project Type",
+      "Project Types": [
+        {
+          "id": "spf:website-project",
+          "label": "Website Project"
+        }
+      ]
     }
   ]
 }

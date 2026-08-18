@@ -203,6 +203,12 @@
           "id": "spf:intake",
           "label": "Intake"
         }
+      ],
+      "Data Types": [
+        {
+          "id": "spf:project-type",
+          "label": "Project Type"
+        }
       ]
     },
     {
