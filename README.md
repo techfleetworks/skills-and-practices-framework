@@ -90,6 +90,54 @@ The framework works like a web. Follow any thread and you reach the others. One 
 
 A **project** moves through **milestones**. Each milestone is marked by the **deliverables** a team produces there. Each deliverable is made through **activities** and focused **workshops**. Those activities call for certain **skills** and are shaped by the team's **practices**. A **duty** is accountable for each piece of work, and duties group into **job functions** and **specializations**. The team uses **tools** to do the work, follows a **methodology** to guide it, and hands the results to **stakeholders**. The **company type** and **industry** shape which of these matter most.
 
+Here is that web as a map. Each box is a data object, and each arrow names how one object relates to another, so you can read any connection as a short sentence.
+
+```mermaid
+flowchart TD
+    subgraph roles[People and roles]
+        JF[Job Function]
+        SPEC[Job Specialization]
+        DUTY[Duty]
+        STK[Stakeholder]
+    end
+    subgraph work[Work and method]
+        ACT[Activity]
+        SKILL[Skill]
+        PRAC[Practice]
+        METH[Methodology]
+        TOOL[Tool]
+    end
+    subgraph delivery[Delivery]
+        PROJ[Project]
+        MILE[Milestone]
+        DELIV[Deliverable]
+        WS[Workshop]
+    end
+    subgraph context[Context that shapes the work]
+        CT[Company Type]
+        IND[Job Industry]
+    end
+
+    PROJ -->|moves through| MILE
+    MILE -->|is marked by| DELIV
+    DELIV -->|is made through| ACT
+    WS -->|produces| DELIV
+    ACT -->|calls for| SKILL
+    ACT -->|is shaped by| PRAC
+    SKILL -->|grows through| PRAC
+    DUTY -->|is accountable for| DELIV
+    JF -->|groups| DUTY
+    SPEC -->|combines| DUTY
+    ACT -->|uses| TOOL
+    PROJ -->|is guided by| METH
+    DELIV -->|is handed to| STK
+    CT -->|shapes| PROJ
+    IND -->|shapes| JF
+    MILE -.->|is revisited, not linear| MILE
+```
+
+**How to read it:** follow any arrow as a sentence, naming the two objects and the relationship between them. For example *Job Specialization &rarr; combines &rarr; Duty*, *Deliverable &rarr; is handed to &rarr; Stakeholder*, or *Activity &rarr; is shaped by &rarr; Practice*. The dotted loop on Milestone is a reminder that agile milestones repeat; they are not a straight line.
+
 The information architecture behind the framework describes this dependency simply: each milestone marks the completion of deliverables, each deliverable requires tasks and skills to complete, and each task requires skills and creates deliverables. That tells you what a piece of work needs. It does not tell you the order to do things in. 
 
 **Milestones are not a straight line.** Agile teamwork loops in iterations. A team can reach a launch milestone and then go back to more discovery. It can run acceptance testing after something is already live. Progress gets measured, but it does not march from step one to step ten. The framework is built to respect that.
