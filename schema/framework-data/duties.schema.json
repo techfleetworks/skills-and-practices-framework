@@ -309,21 +309,6 @@
         "additionalProperties": false
       }
     },
-    "Duty Description": {
-      "type": "string"
-    },
-    "What Does It Take for This Duty To Succeed?": {
-      "type": "string"
-    },
-    "Why Is This Duty Important to Project Success?": {
-      "type": "string"
-    },
-    "You Might Enjoy This Duty If...": {
-      "type": "string"
-    },
-    "Where Can I Learn More?": {
-      "type": "string"
-    },
     "Workshops - What RACI Hat Owns This Workshop?": {
       "type": "array",
       "items": {
@@ -342,6 +327,21 @@
         ],
         "additionalProperties": false
       }
+    },
+    "Duty Description": {
+      "type": "string"
+    },
+    "What Does It Take for This Duty To Succeed?": {
+      "type": "string"
+    },
+    "Why Is This Duty Important to Project Success?": {
+      "type": "string"
+    },
+    "You Might Enjoy This Duty If...": {
+      "type": "string"
+    },
+    "Where Can I Learn More?": {
+      "type": "string"
     }
   }
 }

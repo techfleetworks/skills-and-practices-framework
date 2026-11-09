@@ -2632,6 +2632,12 @@
           "label": "Brand Identity Formation"
         }
       ],
+      "Workshops": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
       "Required Skills for the Deliverable": [
         {
           "id": "spf:branding",
@@ -2773,6 +2779,12 @@
         {
           "id": "spf:brand-identity-formation",
           "label": "Brand Identity Formation"
+        }
+      ],
+      "Workshops": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
         }
       ],
       "Required Skills for the Deliverable": [
@@ -10046,6 +10058,14 @@
         {
           "id": "spf:market-research-and-competitive-analysis-workshop-template",
           "label": "Market Research and Competitive Analysis Workshop Template"
+        },
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        },
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
         }
       ],
       "Required Skills for the Deliverable": [
@@ -12509,6 +12529,12 @@
         {
           "id": "spf:brand-identity-formation",
           "label": "Brand Identity Formation"
+        }
+      ],
+      "Workshops": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
         }
       ],
       "Required Skills for the Deliverable": [
@@ -15615,6 +15641,12 @@
           "label": "Creating Illustrations"
         }
       ],
+      "Workshops": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
       "Required Skills for the Deliverable": [
         {
           "id": "spf:branding",
@@ -17314,6 +17346,10 @@
         {
           "id": "spf:customer-experience-strategy-workshop-template",
           "label": "Customer Experience Strategy Workshop Template"
+        },
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
         }
       ],
       "Required Skills for the Deliverable": [
@@ -17428,6 +17464,658 @@
           "label": "Part 3: The outcomes"
         }
       ]
+    },
+    {
+      "id": "spf:mission-statement",
+      "type": [
+        "schema:CreativeWork",
+        "spf:Deliverable",
+        "skos:Concept"
+      ],
+      "Deliverable Name": "Mission Statement",
+      "Data Type": [
+        {
+          "id": "spf:deliverable",
+          "label": "Deliverable"
+        }
+      ],
+      "Project Milestone Where It's Delivered": [
+        {
+          "id": "spf:vision",
+          "label": "Vision"
+        }
+      ],
+      "Required Activities": [
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        }
+      ],
+      "Workshops": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Required Skills for the Deliverable": [
+        {
+          "id": "spf:vision-formation",
+          "label": "Vision Formation"
+        },
+        {
+          "id": "spf:negotiation",
+          "label": "Negotiation"
+        },
+        {
+          "id": "spf:design-thinking",
+          "label": "Design Thinking"
+        },
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:buy-in-generation",
+          "label": "Buy-in Generation"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:initiative",
+          "label": "Initiative"
+        },
+        {
+          "id": "spf:logical-thinking",
+          "label": "Logical Thinking"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:perserverence",
+          "label": "Perserverence"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:strategic-thinking",
+          "label": "Strategic Thinking"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:verbal-communication",
+          "label": "Verbal Communication"
+        },
+        {
+          "id": "spf:teamwork",
+          "label": "Teamwork"
+        },
+        {
+          "id": "spf:commitment",
+          "label": "Commitment"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ],
+      "Required Practices for the Deliverable": [
+        {
+          "id": "spf:shared-ownership",
+          "label": "Shared Ownership"
+        },
+        {
+          "id": "spf:empowerment",
+          "label": "Empowerment"
+        },
+        {
+          "id": "spf:shared-leadership",
+          "label": "Shared Leadership"
+        },
+        {
+          "id": "spf:psychological-safety",
+          "label": "Psychological Safety"
+        },
+        {
+          "id": "spf:agility",
+          "label": "Agility"
+        },
+        {
+          "id": "spf:collective-decision-making",
+          "label": "Collective Decision Making"
+        },
+        {
+          "id": "spf:continuous-improvement",
+          "label": "Continuous Improvement"
+        }
+      ],
+      "Duty Who Owns the Deliverable": [
+        {
+          "id": "spf:product-management",
+          "label": "Product Management"
+        }
+      ],
+      "Deliverable Description": "A one-sentence statement of why a nonprofit exists and the impact it wants to make in the world. It is the organization's reason for being, separate from the services it offers.",
+      "Why Is This Deliverable Important?": "A clear mission is the central reason a nonprofit deserves to exist as more than any other business, and it anchors every later decision.",
+      "How Does This Deliverable Relate to Other Deliverables?": "Shaped in the Vision milestone during the Nonprofit Strategy Definition workshop, alongside the positioning statement and overall strategy definition.",
+      "Where Can I Learn More?": "Tech Fleet, a nonprofit building empowered team spaces: https://techfleet.org"
+    },
+    {
+      "id": "spf:vision-statement",
+      "type": [
+        "schema:CreativeWork",
+        "spf:Deliverable",
+        "skos:Concept"
+      ],
+      "Deliverable Name": "Vision Statement",
+      "Data Type": [
+        {
+          "id": "spf:deliverable",
+          "label": "Deliverable"
+        }
+      ],
+      "Project Milestone Where It's Delivered": [
+        {
+          "id": "spf:vision",
+          "label": "Vision"
+        }
+      ],
+      "Required Activities": [
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        }
+      ],
+      "Workshops": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Required Skills for the Deliverable": [
+        {
+          "id": "spf:vision-formation",
+          "label": "Vision Formation"
+        },
+        {
+          "id": "spf:negotiation",
+          "label": "Negotiation"
+        },
+        {
+          "id": "spf:design-thinking",
+          "label": "Design Thinking"
+        },
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:buy-in-generation",
+          "label": "Buy-in Generation"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:initiative",
+          "label": "Initiative"
+        },
+        {
+          "id": "spf:logical-thinking",
+          "label": "Logical Thinking"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:perserverence",
+          "label": "Perserverence"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:strategic-thinking",
+          "label": "Strategic Thinking"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:verbal-communication",
+          "label": "Verbal Communication"
+        },
+        {
+          "id": "spf:teamwork",
+          "label": "Teamwork"
+        },
+        {
+          "id": "spf:commitment",
+          "label": "Commitment"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ],
+      "Required Practices for the Deliverable": [
+        {
+          "id": "spf:shared-ownership",
+          "label": "Shared Ownership"
+        },
+        {
+          "id": "spf:empowerment",
+          "label": "Empowerment"
+        },
+        {
+          "id": "spf:shared-leadership",
+          "label": "Shared Leadership"
+        },
+        {
+          "id": "spf:psychological-safety",
+          "label": "Psychological Safety"
+        },
+        {
+          "id": "spf:agility",
+          "label": "Agility"
+        },
+        {
+          "id": "spf:collective-decision-making",
+          "label": "Collective Decision Making"
+        },
+        {
+          "id": "spf:continuous-improvement",
+          "label": "Continuous Improvement"
+        }
+      ],
+      "Duty Who Owns the Deliverable": [
+        {
+          "id": "spf:product-management",
+          "label": "Product Management"
+        }
+      ],
+      "Deliverable Description": "A one-sentence description of the world as it would be once the nonprofit's mission is fully achieved. It is action-based, not theoretical, so it can be broken down into plans.",
+      "Why Is This Deliverable Important?": "The vision gives the organization something concrete to move toward, so month-to-month and year-to-year plans line up behind one future.",
+      "How Does This Deliverable Relate to Other Deliverables?": "Shaped in the Vision milestone during the Nonprofit Strategy Definition workshop, alongside the positioning statement and overall strategy definition.",
+      "Where Can I Learn More?": "Tech Fleet, a nonprofit building empowered team spaces: https://techfleet.org"
+    },
+    {
+      "id": "spf:organizational-values",
+      "type": [
+        "schema:CreativeWork",
+        "spf:Deliverable",
+        "skos:Concept"
+      ],
+      "Deliverable Name": "Organizational Values",
+      "Data Type": [
+        {
+          "id": "spf:deliverable",
+          "label": "Deliverable"
+        }
+      ],
+      "Project Milestone Where It's Delivered": [
+        {
+          "id": "spf:vision",
+          "label": "Vision"
+        }
+      ],
+      "Required Activities": [
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        }
+      ],
+      "Workshops": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Required Skills for the Deliverable": [
+        {
+          "id": "spf:vision-formation",
+          "label": "Vision Formation"
+        },
+        {
+          "id": "spf:negotiation",
+          "label": "Negotiation"
+        },
+        {
+          "id": "spf:design-thinking",
+          "label": "Design Thinking"
+        },
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:buy-in-generation",
+          "label": "Buy-in Generation"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:initiative",
+          "label": "Initiative"
+        },
+        {
+          "id": "spf:logical-thinking",
+          "label": "Logical Thinking"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:perserverence",
+          "label": "Perserverence"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:strategic-thinking",
+          "label": "Strategic Thinking"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:verbal-communication",
+          "label": "Verbal Communication"
+        },
+        {
+          "id": "spf:teamwork",
+          "label": "Teamwork"
+        },
+        {
+          "id": "spf:commitment",
+          "label": "Commitment"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ],
+      "Required Practices for the Deliverable": [
+        {
+          "id": "spf:shared-ownership",
+          "label": "Shared Ownership"
+        },
+        {
+          "id": "spf:empowerment",
+          "label": "Empowerment"
+        },
+        {
+          "id": "spf:shared-leadership",
+          "label": "Shared Leadership"
+        },
+        {
+          "id": "spf:psychological-safety",
+          "label": "Psychological Safety"
+        },
+        {
+          "id": "spf:agility",
+          "label": "Agility"
+        },
+        {
+          "id": "spf:collective-decision-making",
+          "label": "Collective Decision Making"
+        },
+        {
+          "id": "spf:continuous-improvement",
+          "label": "Continuous Improvement"
+        }
+      ],
+      "Duty Who Owns the Deliverable": [
+        {
+          "id": "spf:product-management",
+          "label": "Product Management"
+        }
+      ],
+      "Deliverable Description": "The shared values a nonprofit and its members commit to uphold, each explained in the organization's own words, used to guide behavior and decisions.",
+      "Why Is This Deliverable Important?": "Agreed values keep a growing organization and its members pointed the same way when choices get hard.",
+      "How Does This Deliverable Relate to Other Deliverables?": "Shaped in the Vision milestone during the Nonprofit Strategy Definition workshop, alongside the positioning statement and overall strategy definition.",
+      "Where Can I Learn More?": "Tech Fleet, a nonprofit building empowered team spaces: https://techfleet.org"
+    },
+    {
+      "id": "spf:commitment-statement",
+      "type": [
+        "schema:CreativeWork",
+        "spf:Deliverable",
+        "skos:Concept"
+      ],
+      "Deliverable Name": "Commitment Statement",
+      "Data Type": [
+        {
+          "id": "spf:deliverable",
+          "label": "Deliverable"
+        }
+      ],
+      "Project Milestone Where It's Delivered": [
+        {
+          "id": "spf:vision",
+          "label": "Vision"
+        }
+      ],
+      "Required Activities": [
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        }
+      ],
+      "Workshops": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Required Skills for the Deliverable": [
+        {
+          "id": "spf:vision-formation",
+          "label": "Vision Formation"
+        },
+        {
+          "id": "spf:negotiation",
+          "label": "Negotiation"
+        },
+        {
+          "id": "spf:design-thinking",
+          "label": "Design Thinking"
+        },
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:buy-in-generation",
+          "label": "Buy-in Generation"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:initiative",
+          "label": "Initiative"
+        },
+        {
+          "id": "spf:logical-thinking",
+          "label": "Logical Thinking"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:perserverence",
+          "label": "Perserverence"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:strategic-thinking",
+          "label": "Strategic Thinking"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:verbal-communication",
+          "label": "Verbal Communication"
+        },
+        {
+          "id": "spf:teamwork",
+          "label": "Teamwork"
+        },
+        {
+          "id": "spf:commitment",
+          "label": "Commitment"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        }
+      ],
+      "Required Practices for the Deliverable": [
+        {
+          "id": "spf:shared-ownership",
+          "label": "Shared Ownership"
+        },
+        {
+          "id": "spf:empowerment",
+          "label": "Empowerment"
+        },
+        {
+          "id": "spf:shared-leadership",
+          "label": "Shared Leadership"
+        },
+        {
+          "id": "spf:psychological-safety",
+          "label": "Psychological Safety"
+        },
+        {
+          "id": "spf:agility",
+          "label": "Agility"
+        },
+        {
+          "id": "spf:collective-decision-making",
+          "label": "Collective Decision Making"
+        },
+        {
+          "id": "spf:continuous-improvement",
+          "label": "Continuous Improvement"
+        }
+      ],
+      "Duty Who Owns the Deliverable": [
+        {
+          "id": "spf:product-management",
+          "label": "Product Management"
+        }
+      ],
+      "Deliverable Description": "A long-horizon, ten-year statement of what a nonprofit commits to achieve and how, worked backward from its vision to anchor multi-year planning.",
+      "Why Is This Deliverable Important?": "A ten-year commitment turns the vision into a promise the organization can plan the next one, two, and five years against.",
+      "How Does This Deliverable Relate to Other Deliverables?": "Shaped in the Vision milestone during the Nonprofit Strategy Definition workshop, alongside the positioning statement and overall strategy definition.",
+      "Where Can I Learn More?": "Tech Fleet, a nonprofit building empowered team spaces: https://techfleet.org"
     }
   ]
 }

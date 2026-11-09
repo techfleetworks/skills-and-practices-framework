@@ -4278,6 +4278,22 @@
         {
           "id": "spf:go-to-market-plan",
           "label": "Go-To-Market Plan"
+        },
+        {
+          "id": "spf:mission-statement",
+          "label": "Mission Statement"
+        },
+        {
+          "id": "spf:vision-statement",
+          "label": "Vision Statement"
+        },
+        {
+          "id": "spf:organizational-values",
+          "label": "Organizational Values"
+        },
+        {
+          "id": "spf:commitment-statement",
+          "label": "Commitment Statement"
         }
       ],
       "UNIQUE AUTOMATED Milestones": [

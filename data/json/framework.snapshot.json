@@ -48,7 +48,7 @@
     {
       "entity": "deliverables",
       "file": "framework-data/deliverables.json",
-      "count": 104,
+      "count": 108,
       "primaryField": "Deliverable Name"
     },
     {
@@ -102,19 +102,19 @@
     {
       "entity": "workshops",
       "file": "framework-data/workshops.json",
-      "count": 33,
+      "count": 35,
       "primaryField": "Workshop Name"
     },
     {
       "entity": "workshop-steps",
       "file": "framework-data/workshop-steps.json",
-      "count": 167,
+      "count": 183,
       "primaryField": "Workshop Step Unique ID"
     },
     {
       "entity": "workshop-template-sections",
       "file": "framework-data/workshop-template-sections.json",
-      "count": 170,
+      "count": 191,
       "primaryField": "Unique ID"
     },
     {
@@ -2077,6 +2077,22 @@
           {
             "slug": "team-charter",
             "label": "Team Charter"
+          },
+          {
+            "slug": "mission-statement",
+            "label": "Mission Statement"
+          },
+          {
+            "slug": "vision-statement",
+            "label": "Vision Statement"
+          },
+          {
+            "slug": "organizational-values",
+            "label": "Organizational Values"
+          },
+          {
+            "slug": "commitment-statement",
+            "label": "Commitment Statement"
           }
         ],
         "Relationship to Job Industries": "Deliverables and Job Industries are related in the following ways:\n1. The deliverables that matter can shift with the industry.\n2. The industry shapes which deliverables carry the most weight.",
@@ -2516,6 +2532,14 @@
           {
             "slug": "customer-experience-strategy-workshop-template",
             "label": "Customer Experience Strategy Workshop Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ]
       },
@@ -23047,6 +23071,14 @@
           {
             "slug": "agile-team-maturity-measurements-workshop-template",
             "label": "Agile Team Maturity Measurements Workshop Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "What Mindset Do You Have When You Practice This Practice?": "At its core, Shared Ownership comes from believing a team is stronger when responsibility is spread around. You trust that other people are capable, even when they are still learning, and you are willing to let go of control so they can lead. You also stay honest with yourself about where you can grow, and you treat every teammate's contribution as genuinely valuable.",
@@ -24211,6 +24243,14 @@
           {
             "slug": "agile-team-maturity-measurements-workshop-template",
             "label": "Agile Team Maturity Measurements Workshop Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "What Mindset Do You Have When You Practice This Practice?": "Empowerment starts with believing that people rise to the trust you place in them. You accept that you do not have all the answers, and that a newer teammate can still produce something great. You value what each person brings, and you would rather someone learn by doing than step in and take over.",
@@ -25451,6 +25491,14 @@
           {
             "slug": "tech-fleet-sprint-demo-slide-deck-template",
             "label": "Tech Fleet Sprint Demo Slide Deck Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "What Mindset Do You Have When You Practice This Practice?": "Shared Leadership rests on the belief that everyone can lead and that supporting others is part of your job. You set aside ego and the need to be the smartest person in the room, you assume others hold real wisdom, and you show up as your genuine self instead of performing a role.",
@@ -26627,6 +26675,14 @@
           {
             "slug": "tech-fleet-sprint-demo-slide-deck-template",
             "label": "Tech Fleet Sprint Demo Slide Deck Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "What Mindset Do You Have When You Practice This Practice?": "Psychological Safety comes from believing that everyone belongs and has something worth hearing, even the newest person in the room. You believe people learn by trying and failing, that fresh contributions are welcome no matter someone's experience, and that respectfully challenging the way things work makes the work better.",
@@ -27347,6 +27403,14 @@
           {
             "slug": "agile-team-maturity-measurements-workshop-template",
             "label": "Agile Team Maturity Measurements Workshop Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "What Mindset Do You Have When You Practice This Practice?": "Agility rests on the belief that plans are really just guesses that should change as you learn. You would rather figure things out alongside your teammates and your users than perfect a plan on your own, and you treat failure as a fast, useful way to learn what to do next.",
@@ -28607,6 +28671,14 @@
           {
             "slug": "customer-experience-strategy-workshop-template",
             "label": "Customer Experience Strategy Workshop Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "What Mindset Do You Have When You Practice This Practice?": "This practice rests on the belief that the team's combined judgment usually beats any single person's, and that a decision only holds when people have had a genuine say. You stay open to changing a decision when the situation changes, rather than clinging to your first call.",
@@ -29339,6 +29411,14 @@
           {
             "slug": "tech-fleet-sprint-demo-slide-deck-template",
             "label": "Tech Fleet Sprint Demo Slide Deck Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "What Mindset Do You Have When You Practice This Practice?": "Continuous Improvement comes from believing that growth is always possible and that failure is a lesson rather than a verdict. You see feedback as a gift that shows you where to get better, and you pay attention to how your own actions affect the people around you.",
@@ -34451,6 +34531,22 @@
           {
             "slug": "go-to-market-plan",
             "label": "Go-To-Market Plan"
+          },
+          {
+            "slug": "mission-statement",
+            "label": "Mission Statement"
+          },
+          {
+            "slug": "vision-statement",
+            "label": "Vision Statement"
+          },
+          {
+            "slug": "organizational-values",
+            "label": "Organizational Values"
+          },
+          {
+            "slug": "commitment-statement",
+            "label": "Commitment Statement"
           }
         ],
         "UNIQUE AUTOMATED Milestones": [
@@ -62599,6 +62695,12 @@
             "label": "SEO Strategy"
           }
         ],
+        "Workshops - What RACI Hat Owns This Workshop?": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
         "Duty Description": "The UX Design duty is about shaping how a product actually works for the people using it, turning rough ideas into screens and flows that feel simple. Day to day that means sketching wireframes, building clickable prototypes, and pulling patterns together into a design system so the whole product feels like one coherent thing. Designers rarely work in a straight line; they try something, put it in front of people, and refine it as the team learns.",
         "What Does It Take for This Duty To Succeed?": "It takes a mix of craft and people skills: interaction design, information architecture, and prototyping to build the work, plus the openness to share ownership and take feedback without ego. Comfort in tools like Figma and Figjam helps, but the real skill is staying curious about whether a design truly makes sense for a real person.",
         "Why Is This Duty Important to Project Success?": "Design is where a plan becomes something people can see and touch. This duty owns deliverables like wireframes and prototypes that the rest of the team builds on, and it stays active from early discovery through launch, so the product keeps improving instead of freezing at version one.",
@@ -67992,6 +68094,22 @@
           {
             "slug": "customer-segmentation",
             "label": "Customer Segmentation"
+          },
+          {
+            "slug": "mission-statement",
+            "label": "Mission Statement"
+          },
+          {
+            "slug": "vision-statement",
+            "label": "Vision Statement"
+          },
+          {
+            "slug": "organizational-values",
+            "label": "Organizational Values"
+          },
+          {
+            "slug": "commitment-statement",
+            "label": "Commitment Statement"
           }
         ],
         "Workshops - What RACI Hat Owns This Workshop?": [
@@ -68018,6 +68136,10 @@
           {
             "slug": "product-and-service-development-milestones-for-different-types-of-projects-works",
             "label": "Product and Service Development Milestones for Different Types of Projects Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "Duty Description": "The Product Management duty sets the direction for a product, the what and the why behind the work. Managers dig into users and the market, shape the vision and strategy, and rally the team around which problems are worth solving. They do not build it all themselves; they help everyone pull in the same direction.",
@@ -86852,10 +86974,6 @@
         ],
         "Responsible Deliverables": [
           {
-            "slug": "statement-of-work",
-            "label": "Statement of Work"
-          },
-          {
             "slug": "vision-boards",
             "label": "Vision Boards"
           },
@@ -86934,6 +87052,26 @@
           {
             "slug": "customer-segmentation",
             "label": "Customer Segmentation"
+          },
+          {
+            "slug": "mission-statement",
+            "label": "Mission Statement"
+          },
+          {
+            "slug": "vision-statement",
+            "label": "Vision Statement"
+          },
+          {
+            "slug": "organizational-values",
+            "label": "Organizational Values"
+          },
+          {
+            "slug": "commitment-statement",
+            "label": "Commitment Statement"
+          },
+          {
+            "slug": "statement-of-work",
+            "label": "Statement of Work"
           }
         ],
         "Job Function Description": "A Product Manager sets the direction for a product, the what and the why behind the work. You spend time understanding users and the business, choosing which problems are worth solving, and rallying the team around a shared goal. You do not do all the work yourself; you help everyone pull in the same direction. It fits people who like strategy, enjoy connecting people, business, and technology, and are comfortable with a good deal of ambiguity.",
@@ -90585,6 +90723,12 @@
             "label": "Brand Identity Formation"
           }
         ],
+        "Workshops": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
         "Required Skills for the Deliverable": [
           {
             "slug": "branding",
@@ -90722,6 +90866,12 @@
           {
             "slug": "brand-identity-formation",
             "label": "Brand Identity Formation"
+          }
+        ],
+        "Workshops": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
           }
         ],
         "Required Skills for the Deliverable": [
@@ -97831,6 +97981,14 @@
           {
             "slug": "market-research-and-competitive-analysis-workshop-template",
             "label": "Market Research and Competitive Analysis Workshop Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "Required Skills for the Deliverable": [
@@ -100234,6 +100392,12 @@
           {
             "slug": "brand-identity-formation",
             "label": "Brand Identity Formation"
+          }
+        ],
+        "Workshops": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
           }
         ],
         "Required Skills for the Deliverable": [
@@ -103260,6 +103424,12 @@
             "label": "Creating Illustrations"
           }
         ],
+        "Workshops": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
         "Required Skills for the Deliverable": [
           {
             "slug": "branding",
@@ -104915,6 +105085,10 @@
           {
             "slug": "customer-experience-strategy-workshop-template",
             "label": "Customer Experience Strategy Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "Required Skills for the Deliverable": [
@@ -105029,6 +105203,642 @@
             "label": "Part 3: The outcomes"
           }
         ]
+      },
+      {
+        "id": 116,
+        "slug": "mission-statement",
+        "Deliverable Name": "Mission Statement",
+        "Data Type": [
+          {
+            "slug": "deliverable",
+            "label": "Deliverable"
+          }
+        ],
+        "Project Milestone Where It's Delivered": [
+          {
+            "slug": "vision",
+            "label": "Vision"
+          }
+        ],
+        "Required Activities": [
+          {
+            "slug": "strategy-definition",
+            "label": "Strategy Definition"
+          }
+        ],
+        "Workshops": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Required Skills for the Deliverable": [
+          {
+            "slug": "vision-formation",
+            "label": "Vision Formation"
+          },
+          {
+            "slug": "negotiation",
+            "label": "Negotiation"
+          },
+          {
+            "slug": "design-thinking",
+            "label": "Design Thinking"
+          },
+          {
+            "slug": "advocacy",
+            "label": "Advocacy"
+          },
+          {
+            "slug": "building-influence",
+            "label": "Building Influence"
+          },
+          {
+            "slug": "business-acumen",
+            "label": "Business Acumen"
+          },
+          {
+            "slug": "buy-in-generation",
+            "label": "Buy-in Generation"
+          },
+          {
+            "slug": "attention-to-detail",
+            "label": "Attention to Detail"
+          },
+          {
+            "slug": "collaboration",
+            "label": "Collaboration"
+          },
+          {
+            "slug": "critical-thinking",
+            "label": "Critical Thinking"
+          },
+          {
+            "slug": "initiative",
+            "label": "Initiative"
+          },
+          {
+            "slug": "logical-thinking",
+            "label": "Logical Thinking"
+          },
+          {
+            "slug": "written-communication",
+            "label": "Written Communication"
+          },
+          {
+            "slug": "organization",
+            "label": "Organization"
+          },
+          {
+            "slug": "perserverence",
+            "label": "Perserverence"
+          },
+          {
+            "slug": "problem-solving",
+            "label": "Problem-Solving"
+          },
+          {
+            "slug": "strategic-thinking",
+            "label": "Strategic Thinking"
+          },
+          {
+            "slug": "time-management",
+            "label": "Time Management"
+          },
+          {
+            "slug": "verbal-communication",
+            "label": "Verbal Communication"
+          },
+          {
+            "slug": "teamwork",
+            "label": "Teamwork"
+          },
+          {
+            "slug": "commitment",
+            "label": "Commitment"
+          },
+          {
+            "slug": "decision-making",
+            "label": "Decision-Making"
+          }
+        ],
+        "Required Practices for the Deliverable": [
+          {
+            "slug": "shared-ownership",
+            "label": "Shared Ownership"
+          },
+          {
+            "slug": "empowerment",
+            "label": "Empowerment"
+          },
+          {
+            "slug": "shared-leadership",
+            "label": "Shared Leadership"
+          },
+          {
+            "slug": "psychological-safety",
+            "label": "Psychological Safety"
+          },
+          {
+            "slug": "agility",
+            "label": "Agility"
+          },
+          {
+            "slug": "collective-decision-making",
+            "label": "Collective Decision Making"
+          },
+          {
+            "slug": "continuous-improvement",
+            "label": "Continuous Improvement"
+          }
+        ],
+        "Duty Who Owns the Deliverable": [
+          {
+            "slug": "product-management",
+            "label": "Product Management"
+          }
+        ],
+        "Deliverable Description": "A one-sentence statement of why a nonprofit exists and the impact it wants to make in the world. It is the organization's reason for being, separate from the services it offers.",
+        "Why Is This Deliverable Important?": "A clear mission is the central reason a nonprofit deserves to exist as more than any other business, and it anchors every later decision.",
+        "How Does This Deliverable Relate to Other Deliverables?": "Shaped in the Vision milestone during the Nonprofit Strategy Definition workshop, alongside the positioning statement and overall strategy definition.",
+        "Where Can I Learn More?": "Tech Fleet, a nonprofit building empowered team spaces: https://techfleet.org"
+      },
+      {
+        "id": 117,
+        "slug": "vision-statement",
+        "Deliverable Name": "Vision Statement",
+        "Data Type": [
+          {
+            "slug": "deliverable",
+            "label": "Deliverable"
+          }
+        ],
+        "Project Milestone Where It's Delivered": [
+          {
+            "slug": "vision",
+            "label": "Vision"
+          }
+        ],
+        "Required Activities": [
+          {
+            "slug": "strategy-definition",
+            "label": "Strategy Definition"
+          }
+        ],
+        "Workshops": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Required Skills for the Deliverable": [
+          {
+            "slug": "vision-formation",
+            "label": "Vision Formation"
+          },
+          {
+            "slug": "negotiation",
+            "label": "Negotiation"
+          },
+          {
+            "slug": "design-thinking",
+            "label": "Design Thinking"
+          },
+          {
+            "slug": "advocacy",
+            "label": "Advocacy"
+          },
+          {
+            "slug": "building-influence",
+            "label": "Building Influence"
+          },
+          {
+            "slug": "business-acumen",
+            "label": "Business Acumen"
+          },
+          {
+            "slug": "buy-in-generation",
+            "label": "Buy-in Generation"
+          },
+          {
+            "slug": "attention-to-detail",
+            "label": "Attention to Detail"
+          },
+          {
+            "slug": "collaboration",
+            "label": "Collaboration"
+          },
+          {
+            "slug": "critical-thinking",
+            "label": "Critical Thinking"
+          },
+          {
+            "slug": "initiative",
+            "label": "Initiative"
+          },
+          {
+            "slug": "logical-thinking",
+            "label": "Logical Thinking"
+          },
+          {
+            "slug": "written-communication",
+            "label": "Written Communication"
+          },
+          {
+            "slug": "organization",
+            "label": "Organization"
+          },
+          {
+            "slug": "perserverence",
+            "label": "Perserverence"
+          },
+          {
+            "slug": "problem-solving",
+            "label": "Problem-Solving"
+          },
+          {
+            "slug": "strategic-thinking",
+            "label": "Strategic Thinking"
+          },
+          {
+            "slug": "time-management",
+            "label": "Time Management"
+          },
+          {
+            "slug": "verbal-communication",
+            "label": "Verbal Communication"
+          },
+          {
+            "slug": "teamwork",
+            "label": "Teamwork"
+          },
+          {
+            "slug": "commitment",
+            "label": "Commitment"
+          },
+          {
+            "slug": "decision-making",
+            "label": "Decision-Making"
+          }
+        ],
+        "Required Practices for the Deliverable": [
+          {
+            "slug": "shared-ownership",
+            "label": "Shared Ownership"
+          },
+          {
+            "slug": "empowerment",
+            "label": "Empowerment"
+          },
+          {
+            "slug": "shared-leadership",
+            "label": "Shared Leadership"
+          },
+          {
+            "slug": "psychological-safety",
+            "label": "Psychological Safety"
+          },
+          {
+            "slug": "agility",
+            "label": "Agility"
+          },
+          {
+            "slug": "collective-decision-making",
+            "label": "Collective Decision Making"
+          },
+          {
+            "slug": "continuous-improvement",
+            "label": "Continuous Improvement"
+          }
+        ],
+        "Duty Who Owns the Deliverable": [
+          {
+            "slug": "product-management",
+            "label": "Product Management"
+          }
+        ],
+        "Deliverable Description": "A one-sentence description of the world as it would be once the nonprofit's mission is fully achieved. It is action-based, not theoretical, so it can be broken down into plans.",
+        "Why Is This Deliverable Important?": "The vision gives the organization something concrete to move toward, so month-to-month and year-to-year plans line up behind one future.",
+        "How Does This Deliverable Relate to Other Deliverables?": "Shaped in the Vision milestone during the Nonprofit Strategy Definition workshop, alongside the positioning statement and overall strategy definition.",
+        "Where Can I Learn More?": "Tech Fleet, a nonprofit building empowered team spaces: https://techfleet.org"
+      },
+      {
+        "id": 118,
+        "slug": "organizational-values",
+        "Deliverable Name": "Organizational Values",
+        "Data Type": [
+          {
+            "slug": "deliverable",
+            "label": "Deliverable"
+          }
+        ],
+        "Project Milestone Where It's Delivered": [
+          {
+            "slug": "vision",
+            "label": "Vision"
+          }
+        ],
+        "Required Activities": [
+          {
+            "slug": "strategy-definition",
+            "label": "Strategy Definition"
+          }
+        ],
+        "Workshops": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Required Skills for the Deliverable": [
+          {
+            "slug": "vision-formation",
+            "label": "Vision Formation"
+          },
+          {
+            "slug": "negotiation",
+            "label": "Negotiation"
+          },
+          {
+            "slug": "design-thinking",
+            "label": "Design Thinking"
+          },
+          {
+            "slug": "advocacy",
+            "label": "Advocacy"
+          },
+          {
+            "slug": "building-influence",
+            "label": "Building Influence"
+          },
+          {
+            "slug": "business-acumen",
+            "label": "Business Acumen"
+          },
+          {
+            "slug": "buy-in-generation",
+            "label": "Buy-in Generation"
+          },
+          {
+            "slug": "attention-to-detail",
+            "label": "Attention to Detail"
+          },
+          {
+            "slug": "collaboration",
+            "label": "Collaboration"
+          },
+          {
+            "slug": "critical-thinking",
+            "label": "Critical Thinking"
+          },
+          {
+            "slug": "initiative",
+            "label": "Initiative"
+          },
+          {
+            "slug": "logical-thinking",
+            "label": "Logical Thinking"
+          },
+          {
+            "slug": "written-communication",
+            "label": "Written Communication"
+          },
+          {
+            "slug": "organization",
+            "label": "Organization"
+          },
+          {
+            "slug": "perserverence",
+            "label": "Perserverence"
+          },
+          {
+            "slug": "problem-solving",
+            "label": "Problem-Solving"
+          },
+          {
+            "slug": "strategic-thinking",
+            "label": "Strategic Thinking"
+          },
+          {
+            "slug": "time-management",
+            "label": "Time Management"
+          },
+          {
+            "slug": "verbal-communication",
+            "label": "Verbal Communication"
+          },
+          {
+            "slug": "teamwork",
+            "label": "Teamwork"
+          },
+          {
+            "slug": "commitment",
+            "label": "Commitment"
+          },
+          {
+            "slug": "decision-making",
+            "label": "Decision-Making"
+          }
+        ],
+        "Required Practices for the Deliverable": [
+          {
+            "slug": "shared-ownership",
+            "label": "Shared Ownership"
+          },
+          {
+            "slug": "empowerment",
+            "label": "Empowerment"
+          },
+          {
+            "slug": "shared-leadership",
+            "label": "Shared Leadership"
+          },
+          {
+            "slug": "psychological-safety",
+            "label": "Psychological Safety"
+          },
+          {
+            "slug": "agility",
+            "label": "Agility"
+          },
+          {
+            "slug": "collective-decision-making",
+            "label": "Collective Decision Making"
+          },
+          {
+            "slug": "continuous-improvement",
+            "label": "Continuous Improvement"
+          }
+        ],
+        "Duty Who Owns the Deliverable": [
+          {
+            "slug": "product-management",
+            "label": "Product Management"
+          }
+        ],
+        "Deliverable Description": "The shared values a nonprofit and its members commit to uphold, each explained in the organization's own words, used to guide behavior and decisions.",
+        "Why Is This Deliverable Important?": "Agreed values keep a growing organization and its members pointed the same way when choices get hard.",
+        "How Does This Deliverable Relate to Other Deliverables?": "Shaped in the Vision milestone during the Nonprofit Strategy Definition workshop, alongside the positioning statement and overall strategy definition.",
+        "Where Can I Learn More?": "Tech Fleet, a nonprofit building empowered team spaces: https://techfleet.org"
+      },
+      {
+        "id": 119,
+        "slug": "commitment-statement",
+        "Deliverable Name": "Commitment Statement",
+        "Data Type": [
+          {
+            "slug": "deliverable",
+            "label": "Deliverable"
+          }
+        ],
+        "Project Milestone Where It's Delivered": [
+          {
+            "slug": "vision",
+            "label": "Vision"
+          }
+        ],
+        "Required Activities": [
+          {
+            "slug": "strategy-definition",
+            "label": "Strategy Definition"
+          }
+        ],
+        "Workshops": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Required Skills for the Deliverable": [
+          {
+            "slug": "vision-formation",
+            "label": "Vision Formation"
+          },
+          {
+            "slug": "negotiation",
+            "label": "Negotiation"
+          },
+          {
+            "slug": "design-thinking",
+            "label": "Design Thinking"
+          },
+          {
+            "slug": "advocacy",
+            "label": "Advocacy"
+          },
+          {
+            "slug": "building-influence",
+            "label": "Building Influence"
+          },
+          {
+            "slug": "business-acumen",
+            "label": "Business Acumen"
+          },
+          {
+            "slug": "buy-in-generation",
+            "label": "Buy-in Generation"
+          },
+          {
+            "slug": "attention-to-detail",
+            "label": "Attention to Detail"
+          },
+          {
+            "slug": "collaboration",
+            "label": "Collaboration"
+          },
+          {
+            "slug": "critical-thinking",
+            "label": "Critical Thinking"
+          },
+          {
+            "slug": "initiative",
+            "label": "Initiative"
+          },
+          {
+            "slug": "logical-thinking",
+            "label": "Logical Thinking"
+          },
+          {
+            "slug": "written-communication",
+            "label": "Written Communication"
+          },
+          {
+            "slug": "organization",
+            "label": "Organization"
+          },
+          {
+            "slug": "perserverence",
+            "label": "Perserverence"
+          },
+          {
+            "slug": "problem-solving",
+            "label": "Problem-Solving"
+          },
+          {
+            "slug": "strategic-thinking",
+            "label": "Strategic Thinking"
+          },
+          {
+            "slug": "time-management",
+            "label": "Time Management"
+          },
+          {
+            "slug": "verbal-communication",
+            "label": "Verbal Communication"
+          },
+          {
+            "slug": "teamwork",
+            "label": "Teamwork"
+          },
+          {
+            "slug": "commitment",
+            "label": "Commitment"
+          },
+          {
+            "slug": "decision-making",
+            "label": "Decision-Making"
+          }
+        ],
+        "Required Practices for the Deliverable": [
+          {
+            "slug": "shared-ownership",
+            "label": "Shared Ownership"
+          },
+          {
+            "slug": "empowerment",
+            "label": "Empowerment"
+          },
+          {
+            "slug": "shared-leadership",
+            "label": "Shared Leadership"
+          },
+          {
+            "slug": "psychological-safety",
+            "label": "Psychological Safety"
+          },
+          {
+            "slug": "agility",
+            "label": "Agility"
+          },
+          {
+            "slug": "collective-decision-making",
+            "label": "Collective Decision Making"
+          },
+          {
+            "slug": "continuous-improvement",
+            "label": "Continuous Improvement"
+          }
+        ],
+        "Duty Who Owns the Deliverable": [
+          {
+            "slug": "product-management",
+            "label": "Product Management"
+          }
+        ],
+        "Deliverable Description": "A long-horizon, ten-year statement of what a nonprofit commits to achieve and how, worked backward from its vision to anchor multi-year planning.",
+        "Why Is This Deliverable Important?": "A ten-year commitment turns the vision into a promise the organization can plan the next one, two, and five years against.",
+        "How Does This Deliverable Relate to Other Deliverables?": "Shaped in the Vision milestone during the Nonprofit Strategy Definition workshop, alongside the positioning statement and overall strategy definition.",
+        "Where Can I Learn More?": "Tech Fleet, a nonprofit building empowered team spaces: https://techfleet.org"
       }
     ],
     "milestones": [
@@ -108654,6 +109464,10 @@
           {
             "slug": "rapid-ideation-workshop-template",
             "label": "Rapid Ideation Workshop Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
           }
         ],
         "Project Phases - New Milestones In This Phase": [
@@ -109418,6 +110232,22 @@
           {
             "slug": "strategy-definition",
             "label": "Strategy Definition"
+          },
+          {
+            "slug": "mission-statement",
+            "label": "Mission Statement"
+          },
+          {
+            "slug": "vision-statement",
+            "label": "Vision Statement"
+          },
+          {
+            "slug": "organizational-values",
+            "label": "Organizational Values"
+          },
+          {
+            "slug": "commitment-statement",
+            "label": "Commitment Statement"
           }
         ],
         "UNIQUE Skills in the Milestone": [
@@ -109951,6 +110781,10 @@
           {
             "slug": "vision-and-scope-workshop-template",
             "label": "Vision and Scope Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "Project Phases - New Milestones In This Phase": [
@@ -118083,6 +118917,14 @@
           {
             "slug": "customer-experience-strategy-workshop-template",
             "label": "Customer Experience Strategy Workshop Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ]
       },
@@ -118257,6 +119099,14 @@
           {
             "slug": "customer-experience-strategy-workshop-template",
             "label": "Customer Experience Strategy Workshop Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ]
       },
@@ -118343,6 +119193,14 @@
           {
             "slug": "customer-experience-strategy-workshop-template",
             "label": "Customer Experience Strategy Workshop Template"
+          },
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ]
       },
@@ -128776,6 +129634,654 @@
             "label": "Workshop"
           }
         ]
+      },
+      {
+        "id": 203,
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "Workshop Name": "Brand Strategy and Identity Workshop Template",
+        "Public Workshop Link": "https://www.figma.com/community/file/1701712436958536655/brand-strategy-and-identity-workshop-template",
+        "Does a Trainer Facilitate This Workshop At Tech Fleet?": "Sometimes",
+        "What Milestone Does This Workshop Belong To?": [
+          {
+            "slug": "implement",
+            "label": "Implement"
+          }
+        ],
+        "When Does It Happen in the Project Phase?": "After Sprints Begin",
+        "What Week Does It Typically Happen In Tech Fleet Projects?": "Team Decides",
+        "Practices That This Workshop Teaches": [
+          {
+            "slug": "shared-ownership",
+            "label": "Shared Ownership"
+          },
+          {
+            "slug": "empowerment",
+            "label": "Empowerment"
+          },
+          {
+            "slug": "shared-leadership",
+            "label": "Shared Leadership"
+          },
+          {
+            "slug": "psychological-safety",
+            "label": "Psychological Safety"
+          },
+          {
+            "slug": "agility",
+            "label": "Agility"
+          },
+          {
+            "slug": "collective-decision-making",
+            "label": "Collective Decision Making"
+          },
+          {
+            "slug": "continuous-improvement",
+            "label": "Continuous Improvement"
+          }
+        ],
+        "What Duty Runs This Workshop?": [
+          {
+            "slug": "ux-user-experience-design",
+            "label": "UX (User Experience) Design"
+          }
+        ],
+        "Workshop Summary": "A facilitated FigJam session where a team defines its brand from the inside out. The group works through purpose, audiences, personality, archetype, metaphor, promise, and story, and ends with a one-page Brand Brief that every later brand and design decision builds on.",
+        "Workshop Goals": "Agree on why the brand exists and who it serves. Decide the brand's personality and the archetype that holds it. Write a brand promise and a brand metaphor. Shape a brand story with the customer as the hero. Capture it all in a single Brand Brief.",
+        "Why Is This Workshop Valuable?": "Without a shared brand, every page, post, and product drifts in its own direction. This workshop gives the team one agreed source of truth so the brand feels like one voice everywhere.",
+        "How Often Should You Do the Workshop?": "Once to set the brand, then revisit when the mission, audience, or positioning changes.",
+        "Who Owns the Workshop?": "UX designer",
+        "Deliverable the Workshop Produces": [
+          {
+            "slug": "editorial-style-guide",
+            "label": "Editorial Style Guide"
+          },
+          {
+            "slug": "brand-identity",
+            "label": "Brand Identity"
+          },
+          {
+            "slug": "positioning-statement",
+            "label": "Positioning Statement"
+          },
+          {
+            "slug": "brand-archetypes",
+            "label": "Brand Archetypes"
+          },
+          {
+            "slug": "logo-and-brand-assets",
+            "label": "Logo and Brand Assets"
+          }
+        ],
+        "Related Activities": [
+          {
+            "slug": "brand-identity-formation",
+            "label": "Brand Identity Formation"
+          },
+          {
+            "slug": "icon-and-logo-creation",
+            "label": "Icon and Logo Creation"
+          },
+          {
+            "slug": "product-positioning",
+            "label": "Product Positioning"
+          },
+          {
+            "slug": "market-research",
+            "label": "Market Research"
+          },
+          {
+            "slug": "developing-go-to-market-strategy",
+            "label": "Developing Go-To-Market Strategy"
+          },
+          {
+            "slug": "customer-segmentation",
+            "label": "Customer Segmentation"
+          },
+          {
+            "slug": "creating-illustrations",
+            "label": "Creating Illustrations"
+          }
+        ],
+        "Related Workshop Skills": [
+          {
+            "slug": "branding",
+            "label": "Branding"
+          },
+          {
+            "slug": "typography",
+            "label": "Typography"
+          },
+          {
+            "slug": "attention-to-detail",
+            "label": "Attention to Detail"
+          },
+          {
+            "slug": "collaboration",
+            "label": "Collaboration"
+          },
+          {
+            "slug": "creativity",
+            "label": "Creativity"
+          },
+          {
+            "slug": "critical-thinking",
+            "label": "Critical Thinking"
+          },
+          {
+            "slug": "initiative",
+            "label": "Initiative"
+          },
+          {
+            "slug": "logical-thinking",
+            "label": "Logical Thinking"
+          },
+          {
+            "slug": "written-communication",
+            "label": "Written Communication"
+          },
+          {
+            "slug": "organization",
+            "label": "Organization"
+          },
+          {
+            "slug": "perserverence",
+            "label": "Perserverence"
+          },
+          {
+            "slug": "problem-solving",
+            "label": "Problem-Solving"
+          },
+          {
+            "slug": "time-management",
+            "label": "Time Management"
+          },
+          {
+            "slug": "verbal-communication",
+            "label": "Verbal Communication"
+          },
+          {
+            "slug": "teamwork",
+            "label": "Teamwork"
+          },
+          {
+            "slug": "commitment",
+            "label": "Commitment"
+          },
+          {
+            "slug": "decision-making",
+            "label": "Decision-Making"
+          },
+          {
+            "slug": "go-to-market-strategy",
+            "label": "Go-to-Market Strategy"
+          },
+          {
+            "slug": "ai-prompting",
+            "label": "AI Prompting"
+          },
+          {
+            "slug": "data-analysis",
+            "label": "Data Analysis"
+          },
+          {
+            "slug": "negotiation",
+            "label": "Negotiation"
+          },
+          {
+            "slug": "product-market-fit",
+            "label": "Product-Market Fit"
+          },
+          {
+            "slug": "building-influence",
+            "label": "Building Influence"
+          },
+          {
+            "slug": "business-acumen",
+            "label": "Business Acumen"
+          },
+          {
+            "slug": "strategic-thinking",
+            "label": "Strategic Thinking"
+          },
+          {
+            "slug": "graphic-design",
+            "label": "Graphic Design"
+          },
+          {
+            "slug": "icon-design",
+            "label": "Icon Design"
+          }
+        ],
+        "Expected Outcomes": "A one-page Brand Brief, a primary and optional secondary archetype, agreed personality traits, a brand promise, a brand metaphor, a brand story shape, and voice-and-tone rules.",
+        "Workshop Steps": [
+          {
+            "slug": "194",
+            "label": "194"
+          },
+          {
+            "slug": "195",
+            "label": "195"
+          },
+          {
+            "slug": "196",
+            "label": "196"
+          },
+          {
+            "slug": "197",
+            "label": "197"
+          },
+          {
+            "slug": "198",
+            "label": "198"
+          },
+          {
+            "slug": "199",
+            "label": "199"
+          },
+          {
+            "slug": "200",
+            "label": "200"
+          },
+          {
+            "slug": "201",
+            "label": "201"
+          }
+        ],
+        "Workshop Pitch Statement": "Define who your brand is and how it shows up, so everything you make sounds and looks like one brand.",
+        "What You Need Before You Start": "Your current mission, vision, and values posted where everyone can see them. The list of the twelve archetypes and the reference cards. Voting dots or stamps and a visible timer. A named facilitator, scribe, and timekeeper, and one person who breaks ties.",
+        "The Core Questions You're Answering": "Who are we as an organization? Who needs to know us, and why should they care? What is our personality, and what is it not? Which archetype fits us? What do we promise, and what is our story?",
+        "What \"Done Well\" Looks Like": "A completed Brand Brief that the group read aloud and agreed to, with a chosen archetype, four to five personality traits, a promise, a metaphor, and a story shape everyone can live with.",
+        "Who Takes Part": [
+          {
+            "slug": "client",
+            "label": "Client"
+          },
+          {
+            "slug": "internal-teammate",
+            "label": "Internal Teammate"
+          },
+          {
+            "slug": "cross-functional-stakeholder",
+            "label": "Cross-functional Stakeholder"
+          }
+        ],
+        "Time Needed": "A substantial multi-part session; larger brands split it across more than one sitting.",
+        "Common Pitfalls & Tips": "Sitting in the middle of every personality slider, which leaves the brand with no clear character. Skipping the write-and-vote loop and letting the loudest voice decide. Picking an archetype before agreeing on the personality. Treating the brand promise like a slogan.",
+        "Where to Keep the Output": "Save the Brand Brief with the team's brand or design-system files so later work can reference it.",
+        "Workshop Template Sections": [
+          {
+            "slug": "189",
+            "label": "189"
+          },
+          {
+            "slug": "190",
+            "label": "190"
+          },
+          {
+            "slug": "191",
+            "label": "191"
+          },
+          {
+            "slug": "192",
+            "label": "192"
+          },
+          {
+            "slug": "193",
+            "label": "193"
+          },
+          {
+            "slug": "194",
+            "label": "194"
+          },
+          {
+            "slug": "195",
+            "label": "195"
+          },
+          {
+            "slug": "196",
+            "label": "196"
+          },
+          {
+            "slug": "197",
+            "label": "197"
+          },
+          {
+            "slug": "198",
+            "label": "198"
+          },
+          {
+            "slug": "199",
+            "label": "199"
+          },
+          {
+            "slug": "200",
+            "label": "200"
+          },
+          {
+            "slug": "201",
+            "label": "201"
+          },
+          {
+            "slug": "202",
+            "label": "202"
+          }
+        ],
+        "Data Type": [
+          {
+            "slug": "workshop",
+            "label": "Workshop"
+          }
+        ]
+      },
+      {
+        "id": 204,
+        "slug": "nonprofit-strategy-definition-workshop",
+        "Workshop Name": "Nonprofit Strategy Definition Workshop",
+        "Public Workshop Link": "https://www.figma.com/community/file/1688806332342926906/nonprofit-strategy-definition-workshop",
+        "Does a Trainer Facilitate This Workshop At Tech Fleet?": "Sometimes",
+        "What Milestone Does This Workshop Belong To?": [
+          {
+            "slug": "vision",
+            "label": "Vision"
+          }
+        ],
+        "When Does It Happen in the Project Phase?": "Kickoff",
+        "What Week Does It Typically Happen In Tech Fleet Projects?": "Team Decides",
+        "Practices That This Workshop Teaches": [
+          {
+            "slug": "shared-ownership",
+            "label": "Shared Ownership"
+          },
+          {
+            "slug": "empowerment",
+            "label": "Empowerment"
+          },
+          {
+            "slug": "shared-leadership",
+            "label": "Shared Leadership"
+          },
+          {
+            "slug": "psychological-safety",
+            "label": "Psychological Safety"
+          },
+          {
+            "slug": "agility",
+            "label": "Agility"
+          },
+          {
+            "slug": "collective-decision-making",
+            "label": "Collective Decision Making"
+          },
+          {
+            "slug": "continuous-improvement",
+            "label": "Continuous Improvement"
+          }
+        ],
+        "What Duty Runs This Workshop?": [
+          {
+            "slug": "product-management",
+            "label": "Product Management"
+          }
+        ],
+        "Workshop Summary": "A facilitated FigJam session for mission-driven organizations. The group defines mission, vision, values, and positioning, then works backward from the vision to a ten-year commitment and a five-year strategic plan. The thread running through it is that a nonprofit works toward no longer being needed in the world.",
+        "Workshop Goals": "Define your reason for being as a nonprofit. Describe the world that would exist once you are no longer needed. Develop the core components of nonprofit strategy: vision, mission, values, positioning, a ten-year commitment, and a five-year strategic plan.",
+        "Why Is This Workshop Valuable?": "A strong story about the world you want to see is a stronger rallying cry for funders, members, supporters, and donors than a list of services. This workshop grounds the organization in a vision and a plan to move toward it.",
+        "How Often Should You Do the Workshop?": "Once to set the strategy, then revisit yearly or when the mission or landscape shifts.",
+        "Who Owns the Workshop?": "UX designer",
+        "Deliverable the Workshop Produces": [
+          {
+            "slug": "positioning-statement",
+            "label": "Positioning Statement"
+          },
+          {
+            "slug": "strategy-definition",
+            "label": "Strategy Definition"
+          },
+          {
+            "slug": "mission-statement",
+            "label": "Mission Statement"
+          },
+          {
+            "slug": "vision-statement",
+            "label": "Vision Statement"
+          },
+          {
+            "slug": "organizational-values",
+            "label": "Organizational Values"
+          },
+          {
+            "slug": "commitment-statement",
+            "label": "Commitment Statement"
+          }
+        ],
+        "Related Activities": [
+          {
+            "slug": "strategy-definition",
+            "label": "Strategy Definition"
+          },
+          {
+            "slug": "product-positioning",
+            "label": "Product Positioning"
+          },
+          {
+            "slug": "market-research",
+            "label": "Market Research"
+          },
+          {
+            "slug": "developing-go-to-market-strategy",
+            "label": "Developing Go-To-Market Strategy"
+          },
+          {
+            "slug": "customer-segmentation",
+            "label": "Customer Segmentation"
+          },
+          {
+            "slug": "rapid-ideation",
+            "label": "Rapid Ideation"
+          }
+        ],
+        "Related Workshop Skills": [
+          {
+            "slug": "go-to-market-strategy",
+            "label": "Go-to-Market Strategy"
+          },
+          {
+            "slug": "ai-prompting",
+            "label": "AI Prompting"
+          },
+          {
+            "slug": "data-analysis",
+            "label": "Data Analysis"
+          },
+          {
+            "slug": "negotiation",
+            "label": "Negotiation"
+          },
+          {
+            "slug": "product-market-fit",
+            "label": "Product-Market Fit"
+          },
+          {
+            "slug": "building-influence",
+            "label": "Building Influence"
+          },
+          {
+            "slug": "business-acumen",
+            "label": "Business Acumen"
+          },
+          {
+            "slug": "attention-to-detail",
+            "label": "Attention to Detail"
+          },
+          {
+            "slug": "collaboration",
+            "label": "Collaboration"
+          },
+          {
+            "slug": "critical-thinking",
+            "label": "Critical Thinking"
+          },
+          {
+            "slug": "initiative",
+            "label": "Initiative"
+          },
+          {
+            "slug": "logical-thinking",
+            "label": "Logical Thinking"
+          },
+          {
+            "slug": "written-communication",
+            "label": "Written Communication"
+          },
+          {
+            "slug": "organization",
+            "label": "Organization"
+          },
+          {
+            "slug": "perserverence",
+            "label": "Perserverence"
+          },
+          {
+            "slug": "problem-solving",
+            "label": "Problem-Solving"
+          },
+          {
+            "slug": "strategic-thinking",
+            "label": "Strategic Thinking"
+          },
+          {
+            "slug": "time-management",
+            "label": "Time Management"
+          },
+          {
+            "slug": "verbal-communication",
+            "label": "Verbal Communication"
+          },
+          {
+            "slug": "teamwork",
+            "label": "Teamwork"
+          },
+          {
+            "slug": "commitment",
+            "label": "Commitment"
+          },
+          {
+            "slug": "decision-making",
+            "label": "Decision-Making"
+          },
+          {
+            "slug": "meeting-facilitation",
+            "label": "Meeting Facilitation"
+          },
+          {
+            "slug": "design-thinking",
+            "label": "Design Thinking"
+          },
+          {
+            "slug": "vision-formation",
+            "label": "Vision Formation"
+          },
+          {
+            "slug": "advocacy",
+            "label": "Advocacy"
+          },
+          {
+            "slug": "buy-in-generation",
+            "label": "Buy-in Generation"
+          }
+        ],
+        "Expected Outcomes": "A mission statement, a vision statement, a set of values, a positioning statement, a ten-year commitment statement, and a five-year strategic plan.",
+        "Workshop Steps": [
+          {
+            "slug": "202",
+            "label": "202"
+          },
+          {
+            "slug": "203",
+            "label": "203"
+          },
+          {
+            "slug": "204",
+            "label": "204"
+          },
+          {
+            "slug": "205",
+            "label": "205"
+          },
+          {
+            "slug": "206",
+            "label": "206"
+          },
+          {
+            "slug": "207",
+            "label": "207"
+          },
+          {
+            "slug": "208",
+            "label": "208"
+          },
+          {
+            "slug": "209",
+            "label": "209"
+          }
+        ],
+        "Workshop Pitch Statement": "Define why your nonprofit exists and the world you want to build, then turn it into a plan you can act on.",
+        "What You Need Before You Start": "The people who set the organization's direction. A shared understanding of who you serve. A facilitator, a scribe, and a timekeeper.",
+        "The Core Questions You're Answering": "Why do we exist, what do we do, and how do we do it? What would the world look like when we succeed? What do we value? Who do we serve, and what makes us unique? What are we committed to over the next ten years, and what are our goals for the next five?",
+        "What \"Done Well\" Looks Like": "Agreed statements for mission, vision, and values; a positioning statement; a ten-year commitment statement; and a set of five-year strategic goals that everyone can stand behind.",
+        "Who Takes Part": [
+          {
+            "slug": "client",
+            "label": "Client"
+          },
+          {
+            "slug": "internal-teammate",
+            "label": "Internal Teammate"
+          },
+          {
+            "slug": "cross-functional-stakeholder",
+            "label": "Cross-functional Stakeholder"
+          }
+        ],
+        "Time Needed": "A large, multi-part session; most groups split it across more than one sitting.",
+        "Common Pitfalls & Tips": "Starting with how you do things instead of why you exist. Writing a vision that is theoretical instead of action-based. Setting goals before naming the real barriers. Treating the ten-year commitment as a short-term result.",
+        "Where to Keep the Output": "Save the agreed statements and plan where the leadership team and future planning work can reference them.",
+        "Workshop Template Sections": [
+          {
+            "slug": "203",
+            "label": "203"
+          },
+          {
+            "slug": "204",
+            "label": "204"
+          },
+          {
+            "slug": "205",
+            "label": "205"
+          },
+          {
+            "slug": "206",
+            "label": "206"
+          },
+          {
+            "slug": "207",
+            "label": "207"
+          },
+          {
+            "slug": "208",
+            "label": "208"
+          },
+          {
+            "slug": "209",
+            "label": "209"
+          }
+        ],
+        "Data Type": [
+          {
+            "slug": "workshop",
+            "label": "Workshop"
+          }
+        ]
       }
     ],
     "workshop-steps": [
@@ -131951,6 +133457,262 @@
         "Tips & Pitfalls": "This readies those workshops; it does not replace them.",
         "Done When": "The direction for the site map and content is set.",
         "Time Box": "~20 min"
+      },
+      {
+        "id": 194,
+        "slug": "194",
+        "Workshop Step Unique ID": 194,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "1",
+        "Step Title": "Set roles and ground rules",
+        "Do This Now": "Name a facilitator, scribe, timekeeper, and a tie-breaker. Post the current mission, vision, and values.",
+        "Done When": "Roles are set and the current mission, vision, and values are visible.",
+        "Time Box": "~5 min"
+      },
+      {
+        "id": 195,
+        "slug": "195",
+        "Workshop Step Unique ID": 195,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "2",
+        "Step Title": "Define who you are (Golden Circle)",
+        "Do This Now": "Fill the Why, What, and How rings with sticky notes, starting from Why.",
+        "Done When": "The group agrees on the Why first, then What and How.",
+        "Time Box": "~15 min"
+      },
+      {
+        "id": 196,
+        "slug": "196",
+        "Workshop Step Unique ID": 196,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "3",
+        "Step Title": "Map audiences and touchpoints",
+        "Do This Now": "Answer who needs to know, how they find out, and why they care.",
+        "Done When": "Each question has agreed sticky notes.",
+        "Time Box": "~15 min"
+      },
+      {
+        "id": 197,
+        "slug": "197",
+        "Workshop Step Unique ID": 197,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "4",
+        "Step Title": "Set the personality",
+        "Do This Now": "Vote each slider toward an end, list what the brand should not be, and pick four to five traits.",
+        "Done When": "Sliders, limits, and traits are agreed.",
+        "Time Box": "~20 min"
+      },
+      {
+        "id": 198,
+        "slug": "198",
+        "Workshop Step Unique ID": 198,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "5",
+        "Step Title": "Choose the archetype",
+        "Do This Now": "Shortlist from the twelve archetypes and vote a primary plus an optional secondary.",
+        "Done When": "One primary archetype is chosen.",
+        "Time Box": "~15 min"
+      },
+      {
+        "id": 199,
+        "slug": "199",
+        "Workshop Step Unique ID": 199,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "6",
+        "Step Title": "Write the metaphor and promise",
+        "Do This Now": "Run fill, vote, decide for the metaphor, then the promise.",
+        "Done When": "One metaphor and one promise are chosen.",
+        "Time Box": "~20 min"
+      },
+      {
+        "id": 200,
+        "slug": "200",
+        "Workshop Step Unique ID": 200,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "7",
+        "Step Title": "Shape the brand story",
+        "Do This Now": "Fill each story line with the customer as the hero and read it aloud.",
+        "Done When": "The story reads like you and the group agrees.",
+        "Time Box": "~15 min"
+      },
+      {
+        "id": 201,
+        "slug": "201",
+        "Workshop Step Unique ID": 201,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "8",
+        "Step Title": "Assemble the Brand Brief",
+        "Do This Now": "Copy each agreed result into the one-page brief, read it aloud, and get a final yes.",
+        "Done When": "Everyone can live with the brief.",
+        "Time Box": "~15 min"
+      },
+      {
+        "id": 202,
+        "slug": "202",
+        "Workshop Step Unique ID": 202,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "1",
+        "Step Title": "Frame the session",
+        "Do This Now": "Read the introduction: a nonprofit works toward no longer being needed. Set roles.",
+        "Done When": "The group shares the framing and roles are set.",
+        "Time Box": "~10 min"
+      },
+      {
+        "id": 203,
+        "slug": "203",
+        "Workshop Step Unique ID": 203,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "2",
+        "Step Title": "Define the mission",
+        "Do This Now": "Fill the Golden Circle (Why, What, How) and write a one-sentence mission.",
+        "Done When": "A mission statement is agreed.",
+        "Time Box": "~25 min"
+      },
+      {
+        "id": 204,
+        "slug": "204",
+        "Workshop Step Unique ID": 204,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "3",
+        "Step Title": "Define the vision",
+        "Do This Now": "Describe the world when you succeed and write a one-sentence vision.",
+        "Done When": "A vision statement is agreed.",
+        "Time Box": "~20 min"
+      },
+      {
+        "id": 205,
+        "slug": "205",
+        "Workshop Step Unique ID": 205,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "4",
+        "Step Title": "Agree the values",
+        "Do This Now": "List values and explain each, then pick the set to hold true.",
+        "Done When": "The values and their meanings are agreed.",
+        "Time Box": "~20 min"
+      },
+      {
+        "id": 206,
+        "slug": "206",
+        "Workshop Step Unique ID": 206,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "5",
+        "Step Title": "Write the positioning",
+        "Do This Now": "Name audiences, problems, competitors, and what makes you unique, then write the positioning statement.",
+        "Done When": "A positioning statement is agreed.",
+        "Time Box": "~30 min"
+      },
+      {
+        "id": 207,
+        "slug": "207",
+        "Workshop Step Unique ID": 207,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "6",
+        "Step Title": "Name barriers and goals",
+        "Do This Now": "Dump the barriers, then break them into goals, interventions, and measures.",
+        "Done When": "The top barriers and the goals to beat them are chosen.",
+        "Time Box": "~30 min"
+      },
+      {
+        "id": 208,
+        "slug": "208",
+        "Workshop Step Unique ID": 208,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "7",
+        "Step Title": "Set the 10-year commitment",
+        "Do This Now": "Summarize into one commitment statement.",
+        "Done When": "A ten-year commitment is agreed.",
+        "Time Box": "~15 min"
+      },
+      {
+        "id": 209,
+        "slug": "209",
+        "Workshop Step Unique ID": 209,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "8",
+        "Step Title": "Draft the 5-year plan",
+        "Do This Now": "Turn the commitment into five-year strategic goals.",
+        "Done When": "The strategic goals are agreed.",
+        "Time Box": "~20 min"
       }
     ],
     "workshop-template-sections": [
@@ -134333,6 +136095,300 @@
         "Order": "4",
         "Section / Prompt": "Direction for the Site Map and Content",
         "What Goes Here": "The content topics and navigation direction each audience needs, readying the Site Map and CX Map workshops (which produce those artifacts)."
+      },
+      {
+        "id": 189,
+        "slug": "189",
+        "Unique ID": 189,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "1",
+        "Section / Prompt": "Mission / Vision / Values",
+        "What Goes Here": "Post your current mission, vision, and values so the group can see them during every part."
+      },
+      {
+        "id": 190,
+        "slug": "190",
+        "Unique ID": 190,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "2",
+        "Section / Prompt": "Who are we as an org?",
+        "What Goes Here": "Use Simon Sinek's Golden Circle. Start with Why (the reason you exist), then What (what you deliver), then How (the way you work)."
+      },
+      {
+        "id": 191,
+        "slug": "191",
+        "Unique ID": 191,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "3",
+        "Section / Prompt": "Who needs to know?",
+        "What Goes Here": "Who must know this brand? One audience per sticky."
+      },
+      {
+        "id": 192,
+        "slug": "192",
+        "Unique ID": 192,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "4",
+        "Section / Prompt": "How will they find out?",
+        "What Goes Here": "Where do people first meet the brand? One place or touchpoint per sticky."
+      },
+      {
+        "id": 193,
+        "slug": "193",
+        "Unique ID": 193,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "5",
+        "Section / Prompt": "Why should they care?",
+        "What Goes Here": "Why should people pay attention, and what do they gain?"
+      },
+      {
+        "id": 194,
+        "slug": "194",
+        "Unique ID": 194,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "6",
+        "Section / Prompt": "Our personality SHOULD be…",
+        "What Goes Here": "On each slider, mark where the brand should sit. Push to the ends, not the middle. Vote with dots."
+      },
+      {
+        "id": 195,
+        "slug": "195",
+        "Unique ID": 195,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "7",
+        "Section / Prompt": "Our personality SHOULD NOT be…",
+        "What Goes Here": "One trait the brand should never have per sticky, such as preachy, pushy, or cold. Vote the top three to five limits to rule out."
+      },
+      {
+        "id": 196,
+        "slug": "196",
+        "Unique ID": 196,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "8",
+        "Section / Prompt": "Brand Personality Traits",
+        "What Goes Here": "From the agreed personality, pick the four to five traits to invoke across culture, visuals, voice, and community."
+      },
+      {
+        "id": 197,
+        "slug": "197",
+        "Unique ID": 197,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "9",
+        "Section / Prompt": "Brand Archetype",
+        "What Goes Here": "Match the personality to the archetype that fits best. Twelve archetypes in four families (Mark and Pearson, 2001). Vote a primary, plus an optional secondary."
+      },
+      {
+        "id": 198,
+        "slug": "198",
+        "Unique ID": 198,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "10",
+        "Section / Prompt": "Brand Metaphor",
+        "What Goes Here": "If the brand were a thing in the world, what would it be? Fill in ideas, vote the best, decide on one."
+      },
+      {
+        "id": 199,
+        "slug": "199",
+        "Unique ID": 199,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "11",
+        "Section / Prompt": "Brand Promise",
+        "What Goes Here": "The one thing people can always count on, in one sentence in the brand's voice. Fill in, vote, decide."
+      },
+      {
+        "id": 200,
+        "slug": "200",
+        "Unique ID": 200,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "12",
+        "Section / Prompt": "Brand Story",
+        "What Goes Here": "Agree the shape of the story: the customer is the hero and the brand is the guide. Fill each line, read aloud."
+      },
+      {
+        "id": 201,
+        "slug": "201",
+        "Unique ID": 201,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "13",
+        "Section / Prompt": "Brand Assets (Voice and Tone)",
+        "What Goes Here": "The rules for how the brand speaks on every channel."
+      },
+      {
+        "id": 202,
+        "slug": "202",
+        "Unique ID": 202,
+        "Workshop": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
+          }
+        ],
+        "Order": "14",
+        "Section / Prompt": "Brand Brief",
+        "What Goes Here": "The main output. Copy the agreed result from each part into a one-page source of truth and get a final yes."
+      },
+      {
+        "id": 203,
+        "slug": "203",
+        "Unique ID": 203,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "1",
+        "Section / Prompt": "Introduction",
+        "What Goes Here": "Why this workshop exists: a mission-driven org works toward no longer being needed in the world, and starts from why it exists."
+      },
+      {
+        "id": 204,
+        "slug": "204",
+        "Unique ID": 204,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "2",
+        "Section / Prompt": "Mission (The Why, What, How)",
+        "What Goes Here": "Use the Golden Circle to separate Why you exist, What you offer, and How you offer it. Then write a one-sentence mission statement: Our mission is to ___."
+      },
+      {
+        "id": 205,
+        "slug": "205",
+        "Unique ID": 205,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "3",
+        "Section / Prompt": "Vision (a different world)",
+        "What Goes Here": "Describe the world when the mission is fully accomplished. Action-based, not theoretical. Write: We envision a world where ___."
+      },
+      {
+        "id": 206,
+        "slug": "206",
+        "Unique ID": 206,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "4",
+        "Section / Prompt": "Values",
+        "What Goes Here": "Decide the values the organization and its members uphold, and explain each in your own words. Write: These are the values we hold true: ___."
+      },
+      {
+        "id": 207,
+        "slug": "207",
+        "Unique ID": 207,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "5",
+        "Section / Prompt": "Positioning",
+        "What Goes Here": "Name the audiences you serve, the problems they face, the other orgs solving them, and what makes you unique. Write a positioning statement using the FOR / WE PROVIDE / THROUGH / UNLIKE format."
+      },
+      {
+        "id": 208,
+        "slug": "208",
+        "Unique ID": 208,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "6",
+        "Section / Prompt": "10-Year Commitment",
+        "What Goes Here": "Name the barriers in your way, then the goals, interventions, and measures to overcome them. Write: In the next ten years, we're committed to ___ and we will do this by ___."
+      },
+      {
+        "id": 209,
+        "slug": "209",
+        "Unique ID": 209,
+        "Workshop": [
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
+          }
+        ],
+        "Order": "7",
+        "Section / Prompt": "5-Year Strategic Plan",
+        "What Goes Here": "From the commitment, set the strategic goals for the next five years: Over the next five years, our strategic goals are to ___."
       }
     ],
     "handoff-deliverables-map": [
@@ -134823,6 +136879,10 @@
           {
             "slug": "customer-experience-strategy-workshop-template",
             "label": "Customer Experience Strategy Workshop Template"
+          },
+          {
+            "slug": "nonprofit-strategy-definition-workshop",
+            "label": "Nonprofit Strategy Definition Workshop"
           }
         ],
         "Unique ID": 15
@@ -134854,6 +136914,12 @@
           {
             "slug": "logo-and-brand-assets",
             "label": "Logo and Brand Assets"
+          }
+        ],
+        "Workshop Associated with the Deliverables": [
+          {
+            "slug": "brand-strategy-and-identity-workshop-template",
+            "label": "Brand Strategy and Identity Workshop Template"
           }
         ],
         "Unique ID": 16
@@ -135312,6 +137378,22 @@
           {
             "slug": "strategy-definition",
             "label": "Strategy Definition"
+          },
+          {
+            "slug": "mission-statement",
+            "label": "Mission Statement"
+          },
+          {
+            "slug": "vision-statement",
+            "label": "Vision Statement"
+          },
+          {
+            "slug": "organizational-values",
+            "label": "Organizational Values"
+          },
+          {
+            "slug": "commitment-statement",
+            "label": "Commitment Statement"
           }
         ],
         "Description": "This is the first chunk of work that gets started. It requires a foundation of problem-solving and discovery typically, but this is not always the case; sometimes phase 1 work starts with development! It depends on the previous work that's brought into the team."
@@ -135755,6 +137837,22 @@
           {
             "slug": "strategy-definition",
             "label": "Strategy Definition"
+          },
+          {
+            "slug": "mission-statement",
+            "label": "Mission Statement"
+          },
+          {
+            "slug": "vision-statement",
+            "label": "Vision Statement"
+          },
+          {
+            "slug": "organizational-values",
+            "label": "Organizational Values"
+          },
+          {
+            "slug": "commitment-statement",
+            "label": "Commitment Statement"
           }
         ]
       },
@@ -136201,6 +138299,22 @@
           {
             "slug": "strategy-definition",
             "label": "Strategy Definition"
+          },
+          {
+            "slug": "mission-statement",
+            "label": "Mission Statement"
+          },
+          {
+            "slug": "vision-statement",
+            "label": "Vision Statement"
+          },
+          {
+            "slug": "organizational-values",
+            "label": "Organizational Values"
+          },
+          {
+            "slug": "commitment-statement",
+            "label": "Commitment Statement"
           }
         ]
       },
@@ -136647,6 +138761,22 @@
           {
             "slug": "strategy-definition",
             "label": "Strategy Definition"
+          },
+          {
+            "slug": "mission-statement",
+            "label": "Mission Statement"
+          },
+          {
+            "slug": "vision-statement",
+            "label": "Vision Statement"
+          },
+          {
+            "slug": "organizational-values",
+            "label": "Organizational Values"
+          },
+          {
+            "slug": "commitment-statement",
+            "label": "Commitment Statement"
           }
         ]
       }

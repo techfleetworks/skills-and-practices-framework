@@ -2890,6 +2890,363 @@
       "Order": "4",
       "Section / Prompt": "Direction for the Site Map and Content",
       "What Goes Here": "The content topics and navigation direction each audience needs, readying the Site Map and CX Map workshops (which produce those artifacts)."
+    },
+    {
+      "id": "spf:189",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 189,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Mission / Vision / Values",
+      "What Goes Here": "Post your current mission, vision, and values so the group can see them during every part."
+    },
+    {
+      "id": "spf:190",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 190,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Who are we as an org?",
+      "What Goes Here": "Use Simon Sinek's Golden Circle. Start with Why (the reason you exist), then What (what you deliver), then How (the way you work)."
+    },
+    {
+      "id": "spf:191",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 191,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Who needs to know?",
+      "What Goes Here": "Who must know this brand? One audience per sticky."
+    },
+    {
+      "id": "spf:192",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 192,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "How will they find out?",
+      "What Goes Here": "Where do people first meet the brand? One place or touchpoint per sticky."
+    },
+    {
+      "id": "spf:193",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 193,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Why should they care?",
+      "What Goes Here": "Why should people pay attention, and what do they gain?"
+    },
+    {
+      "id": "spf:194",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 194,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "Our personality SHOULD be…",
+      "What Goes Here": "On each slider, mark where the brand should sit. Push to the ends, not the middle. Vote with dots."
+    },
+    {
+      "id": "spf:195",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 195,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Section / Prompt": "Our personality SHOULD NOT be…",
+      "What Goes Here": "One trait the brand should never have per sticky, such as preachy, pushy, or cold. Vote the top three to five limits to rule out."
+    },
+    {
+      "id": "spf:196",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 196,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "8",
+      "Section / Prompt": "Brand Personality Traits",
+      "What Goes Here": "From the agreed personality, pick the four to five traits to invoke across culture, visuals, voice, and community."
+    },
+    {
+      "id": "spf:197",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 197,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "9",
+      "Section / Prompt": "Brand Archetype",
+      "What Goes Here": "Match the personality to the archetype that fits best. Twelve archetypes in four families (Mark and Pearson, 2001). Vote a primary, plus an optional secondary."
+    },
+    {
+      "id": "spf:198",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 198,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "10",
+      "Section / Prompt": "Brand Metaphor",
+      "What Goes Here": "If the brand were a thing in the world, what would it be? Fill in ideas, vote the best, decide on one."
+    },
+    {
+      "id": "spf:199",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 199,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "11",
+      "Section / Prompt": "Brand Promise",
+      "What Goes Here": "The one thing people can always count on, in one sentence in the brand's voice. Fill in, vote, decide."
+    },
+    {
+      "id": "spf:200",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 200,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "12",
+      "Section / Prompt": "Brand Story",
+      "What Goes Here": "Agree the shape of the story: the customer is the hero and the brand is the guide. Fill each line, read aloud."
+    },
+    {
+      "id": "spf:201",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 201,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "13",
+      "Section / Prompt": "Brand Assets (Voice and Tone)",
+      "What Goes Here": "The rules for how the brand speaks on every channel."
+    },
+    {
+      "id": "spf:202",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 202,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "14",
+      "Section / Prompt": "Brand Brief",
+      "What Goes Here": "The main output. Copy the agreed result from each part into a one-page source of truth and get a final yes."
+    },
+    {
+      "id": "spf:203",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 203,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "1",
+      "Section / Prompt": "Introduction",
+      "What Goes Here": "Why this workshop exists: a mission-driven org works toward no longer being needed in the world, and starts from why it exists."
+    },
+    {
+      "id": "spf:204",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 204,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "2",
+      "Section / Prompt": "Mission (The Why, What, How)",
+      "What Goes Here": "Use the Golden Circle to separate Why you exist, What you offer, and How you offer it. Then write a one-sentence mission statement: Our mission is to ___."
+    },
+    {
+      "id": "spf:205",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 205,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "3",
+      "Section / Prompt": "Vision (a different world)",
+      "What Goes Here": "Describe the world when the mission is fully accomplished. Action-based, not theoretical. Write: We envision a world where ___."
+    },
+    {
+      "id": "spf:206",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 206,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "4",
+      "Section / Prompt": "Values",
+      "What Goes Here": "Decide the values the organization and its members uphold, and explain each in your own words. Write: These are the values we hold true: ___."
+    },
+    {
+      "id": "spf:207",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 207,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "5",
+      "Section / Prompt": "Positioning",
+      "What Goes Here": "Name the audiences you serve, the problems they face, the other orgs solving them, and what makes you unique. Write a positioning statement using the FOR / WE PROVIDE / THROUGH / UNLIKE format."
+    },
+    {
+      "id": "spf:208",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 208,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "6",
+      "Section / Prompt": "10-Year Commitment",
+      "What Goes Here": "Name the barriers in your way, then the goals, interventions, and measures to overcome them. Write: In the next ten years, we're committed to ___ and we will do this by ___."
+    },
+    {
+      "id": "spf:209",
+      "type": [
+        "spf:WorkshopTemplateSection",
+        "skos:Concept"
+      ],
+      "Unique ID": 209,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "7",
+      "Section / Prompt": "5-Year Strategic Plan",
+      "What Goes Here": "From the commitment, set the strategic goals for the next five years: Over the next five years, our strategic goals are to ___."
     }
   ]
 }

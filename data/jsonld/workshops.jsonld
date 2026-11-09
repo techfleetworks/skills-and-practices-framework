@@ -7883,6 +7883,662 @@
           "label": "Workshop"
         }
       ]
+    },
+    {
+      "id": "spf:brand-strategy-and-identity-workshop-template",
+      "type": [
+        "schema:HowTo",
+        "spf:Workshop",
+        "skos:Concept"
+      ],
+      "Workshop Name": "Brand Strategy and Identity Workshop Template",
+      "Public Workshop Link": "https://www.figma.com/community/file/1701712436958536655/brand-strategy-and-identity-workshop-template",
+      "Does a Trainer Facilitate This Workshop At Tech Fleet?": "Sometimes",
+      "What Milestone Does This Workshop Belong To?": [
+        {
+          "id": "spf:implement",
+          "label": "Implement"
+        }
+      ],
+      "When Does It Happen in the Project Phase?": "After Sprints Begin",
+      "What Week Does It Typically Happen In Tech Fleet Projects?": "Team Decides",
+      "Practices That This Workshop Teaches": [
+        {
+          "id": "spf:shared-ownership",
+          "label": "Shared Ownership"
+        },
+        {
+          "id": "spf:empowerment",
+          "label": "Empowerment"
+        },
+        {
+          "id": "spf:shared-leadership",
+          "label": "Shared Leadership"
+        },
+        {
+          "id": "spf:psychological-safety",
+          "label": "Psychological Safety"
+        },
+        {
+          "id": "spf:agility",
+          "label": "Agility"
+        },
+        {
+          "id": "spf:collective-decision-making",
+          "label": "Collective Decision Making"
+        },
+        {
+          "id": "spf:continuous-improvement",
+          "label": "Continuous Improvement"
+        }
+      ],
+      "What Duty Runs This Workshop?": [
+        {
+          "id": "spf:ux-user-experience-design",
+          "label": "UX (User Experience) Design"
+        }
+      ],
+      "Workshop Summary": "A facilitated FigJam session where a team defines its brand from the inside out. The group works through purpose, audiences, personality, archetype, metaphor, promise, and story, and ends with a one-page Brand Brief that every later brand and design decision builds on.",
+      "Workshop Goals": "Agree on why the brand exists and who it serves. Decide the brand's personality and the archetype that holds it. Write a brand promise and a brand metaphor. Shape a brand story with the customer as the hero. Capture it all in a single Brand Brief.",
+      "Why Is This Workshop Valuable?": "Without a shared brand, every page, post, and product drifts in its own direction. This workshop gives the team one agreed source of truth so the brand feels like one voice everywhere.",
+      "How Often Should You Do the Workshop?": "Once to set the brand, then revisit when the mission, audience, or positioning changes.",
+      "Who Owns the Workshop?": "UX designer",
+      "Deliverable the Workshop Produces": [
+        {
+          "id": "spf:editorial-style-guide",
+          "label": "Editorial Style Guide"
+        },
+        {
+          "id": "spf:brand-identity",
+          "label": "Brand Identity"
+        },
+        {
+          "id": "spf:positioning-statement",
+          "label": "Positioning Statement"
+        },
+        {
+          "id": "spf:brand-archetypes",
+          "label": "Brand Archetypes"
+        },
+        {
+          "id": "spf:logo-and-brand-assets",
+          "label": "Logo and Brand Assets"
+        }
+      ],
+      "Related Activities": [
+        {
+          "id": "spf:brand-identity-formation",
+          "label": "Brand Identity Formation"
+        },
+        {
+          "id": "spf:icon-and-logo-creation",
+          "label": "Icon and Logo Creation"
+        },
+        {
+          "id": "spf:product-positioning",
+          "label": "Product Positioning"
+        },
+        {
+          "id": "spf:market-research",
+          "label": "Market Research"
+        },
+        {
+          "id": "spf:developing-go-to-market-strategy",
+          "label": "Developing Go-To-Market Strategy"
+        },
+        {
+          "id": "spf:customer-segmentation",
+          "label": "Customer Segmentation"
+        },
+        {
+          "id": "spf:creating-illustrations",
+          "label": "Creating Illustrations"
+        }
+      ],
+      "Related Workshop Skills": [
+        {
+          "id": "spf:branding",
+          "label": "Branding"
+        },
+        {
+          "id": "spf:typography",
+          "label": "Typography"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:creativity",
+          "label": "Creativity"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:initiative",
+          "label": "Initiative"
+        },
+        {
+          "id": "spf:logical-thinking",
+          "label": "Logical Thinking"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:perserverence",
+          "label": "Perserverence"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:verbal-communication",
+          "label": "Verbal Communication"
+        },
+        {
+          "id": "spf:teamwork",
+          "label": "Teamwork"
+        },
+        {
+          "id": "spf:commitment",
+          "label": "Commitment"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        },
+        {
+          "id": "spf:go-to-market-strategy",
+          "label": "Go-to-Market Strategy"
+        },
+        {
+          "id": "spf:ai-prompting",
+          "label": "AI Prompting"
+        },
+        {
+          "id": "spf:data-analysis",
+          "label": "Data Analysis"
+        },
+        {
+          "id": "spf:negotiation",
+          "label": "Negotiation"
+        },
+        {
+          "id": "spf:product-market-fit",
+          "label": "Product-Market Fit"
+        },
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:strategic-thinking",
+          "label": "Strategic Thinking"
+        },
+        {
+          "id": "spf:graphic-design",
+          "label": "Graphic Design"
+        },
+        {
+          "id": "spf:icon-design",
+          "label": "Icon Design"
+        }
+      ],
+      "Expected Outcomes": "A one-page Brand Brief, a primary and optional secondary archetype, agreed personality traits, a brand promise, a brand metaphor, a brand story shape, and voice-and-tone rules.",
+      "Workshop Steps": [
+        {
+          "id": "spf:194",
+          "label": "194"
+        },
+        {
+          "id": "spf:195",
+          "label": "195"
+        },
+        {
+          "id": "spf:196",
+          "label": "196"
+        },
+        {
+          "id": "spf:197",
+          "label": "197"
+        },
+        {
+          "id": "spf:198",
+          "label": "198"
+        },
+        {
+          "id": "spf:199",
+          "label": "199"
+        },
+        {
+          "id": "spf:200",
+          "label": "200"
+        },
+        {
+          "id": "spf:201",
+          "label": "201"
+        }
+      ],
+      "Workshop Pitch Statement": "Define who your brand is and how it shows up, so everything you make sounds and looks like one brand.",
+      "What You Need Before You Start": "Your current mission, vision, and values posted where everyone can see them. The list of the twelve archetypes and the reference cards. Voting dots or stamps and a visible timer. A named facilitator, scribe, and timekeeper, and one person who breaks ties.",
+      "The Core Questions You're Answering": "Who are we as an organization? Who needs to know us, and why should they care? What is our personality, and what is it not? Which archetype fits us? What do we promise, and what is our story?",
+      "What \"Done Well\" Looks Like": "A completed Brand Brief that the group read aloud and agreed to, with a chosen archetype, four to five personality traits, a promise, a metaphor, and a story shape everyone can live with.",
+      "Who Takes Part": [
+        {
+          "id": "spf:client",
+          "label": "Client"
+        },
+        {
+          "id": "spf:internal-teammate",
+          "label": "Internal Teammate"
+        },
+        {
+          "id": "spf:cross-functional-stakeholder",
+          "label": "Cross-functional Stakeholder"
+        }
+      ],
+      "Time Needed": "A substantial multi-part session; larger brands split it across more than one sitting.",
+      "Common Pitfalls & Tips": "Sitting in the middle of every personality slider, which leaves the brand with no clear character. Skipping the write-and-vote loop and letting the loudest voice decide. Picking an archetype before agreeing on the personality. Treating the brand promise like a slogan.",
+      "Where to Keep the Output": "Save the Brand Brief with the team's brand or design-system files so later work can reference it.",
+      "Workshop Template Sections": [
+        {
+          "id": "spf:189",
+          "label": "189"
+        },
+        {
+          "id": "spf:190",
+          "label": "190"
+        },
+        {
+          "id": "spf:191",
+          "label": "191"
+        },
+        {
+          "id": "spf:192",
+          "label": "192"
+        },
+        {
+          "id": "spf:193",
+          "label": "193"
+        },
+        {
+          "id": "spf:194",
+          "label": "194"
+        },
+        {
+          "id": "spf:195",
+          "label": "195"
+        },
+        {
+          "id": "spf:196",
+          "label": "196"
+        },
+        {
+          "id": "spf:197",
+          "label": "197"
+        },
+        {
+          "id": "spf:198",
+          "label": "198"
+        },
+        {
+          "id": "spf:199",
+          "label": "199"
+        },
+        {
+          "id": "spf:200",
+          "label": "200"
+        },
+        {
+          "id": "spf:201",
+          "label": "201"
+        },
+        {
+          "id": "spf:202",
+          "label": "202"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:workshop",
+          "label": "Workshop"
+        }
+      ]
+    },
+    {
+      "id": "spf:nonprofit-strategy-definition-workshop",
+      "type": [
+        "schema:HowTo",
+        "spf:Workshop",
+        "skos:Concept"
+      ],
+      "Workshop Name": "Nonprofit Strategy Definition Workshop",
+      "Public Workshop Link": "https://www.figma.com/community/file/1688806332342926906/nonprofit-strategy-definition-workshop",
+      "Does a Trainer Facilitate This Workshop At Tech Fleet?": "Sometimes",
+      "What Milestone Does This Workshop Belong To?": [
+        {
+          "id": "spf:vision",
+          "label": "Vision"
+        }
+      ],
+      "When Does It Happen in the Project Phase?": "Kickoff",
+      "What Week Does It Typically Happen In Tech Fleet Projects?": "Team Decides",
+      "Practices That This Workshop Teaches": [
+        {
+          "id": "spf:shared-ownership",
+          "label": "Shared Ownership"
+        },
+        {
+          "id": "spf:empowerment",
+          "label": "Empowerment"
+        },
+        {
+          "id": "spf:shared-leadership",
+          "label": "Shared Leadership"
+        },
+        {
+          "id": "spf:psychological-safety",
+          "label": "Psychological Safety"
+        },
+        {
+          "id": "spf:agility",
+          "label": "Agility"
+        },
+        {
+          "id": "spf:collective-decision-making",
+          "label": "Collective Decision Making"
+        },
+        {
+          "id": "spf:continuous-improvement",
+          "label": "Continuous Improvement"
+        }
+      ],
+      "What Duty Runs This Workshop?": [
+        {
+          "id": "spf:product-management",
+          "label": "Product Management"
+        }
+      ],
+      "Workshop Summary": "A facilitated FigJam session for mission-driven organizations. The group defines mission, vision, values, and positioning, then works backward from the vision to a ten-year commitment and a five-year strategic plan. The thread running through it is that a nonprofit works toward no longer being needed in the world.",
+      "Workshop Goals": "Define your reason for being as a nonprofit. Describe the world that would exist once you are no longer needed. Develop the core components of nonprofit strategy: vision, mission, values, positioning, a ten-year commitment, and a five-year strategic plan.",
+      "Why Is This Workshop Valuable?": "A strong story about the world you want to see is a stronger rallying cry for funders, members, supporters, and donors than a list of services. This workshop grounds the organization in a vision and a plan to move toward it.",
+      "How Often Should You Do the Workshop?": "Once to set the strategy, then revisit yearly or when the mission or landscape shifts.",
+      "Who Owns the Workshop?": "UX designer",
+      "Deliverable the Workshop Produces": [
+        {
+          "id": "spf:positioning-statement",
+          "label": "Positioning Statement"
+        },
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:mission-statement",
+          "label": "Mission Statement"
+        },
+        {
+          "id": "spf:vision-statement",
+          "label": "Vision Statement"
+        },
+        {
+          "id": "spf:organizational-values",
+          "label": "Organizational Values"
+        },
+        {
+          "id": "spf:commitment-statement",
+          "label": "Commitment Statement"
+        }
+      ],
+      "Related Activities": [
+        {
+          "id": "spf:strategy-definition",
+          "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:product-positioning",
+          "label": "Product Positioning"
+        },
+        {
+          "id": "spf:market-research",
+          "label": "Market Research"
+        },
+        {
+          "id": "spf:developing-go-to-market-strategy",
+          "label": "Developing Go-To-Market Strategy"
+        },
+        {
+          "id": "spf:customer-segmentation",
+          "label": "Customer Segmentation"
+        },
+        {
+          "id": "spf:rapid-ideation",
+          "label": "Rapid Ideation"
+        }
+      ],
+      "Related Workshop Skills": [
+        {
+          "id": "spf:go-to-market-strategy",
+          "label": "Go-to-Market Strategy"
+        },
+        {
+          "id": "spf:ai-prompting",
+          "label": "AI Prompting"
+        },
+        {
+          "id": "spf:data-analysis",
+          "label": "Data Analysis"
+        },
+        {
+          "id": "spf:negotiation",
+          "label": "Negotiation"
+        },
+        {
+          "id": "spf:product-market-fit",
+          "label": "Product-Market Fit"
+        },
+        {
+          "id": "spf:building-influence",
+          "label": "Building Influence"
+        },
+        {
+          "id": "spf:business-acumen",
+          "label": "Business Acumen"
+        },
+        {
+          "id": "spf:attention-to-detail",
+          "label": "Attention to Detail"
+        },
+        {
+          "id": "spf:collaboration",
+          "label": "Collaboration"
+        },
+        {
+          "id": "spf:critical-thinking",
+          "label": "Critical Thinking"
+        },
+        {
+          "id": "spf:initiative",
+          "label": "Initiative"
+        },
+        {
+          "id": "spf:logical-thinking",
+          "label": "Logical Thinking"
+        },
+        {
+          "id": "spf:written-communication",
+          "label": "Written Communication"
+        },
+        {
+          "id": "spf:organization",
+          "label": "Organization"
+        },
+        {
+          "id": "spf:perserverence",
+          "label": "Perserverence"
+        },
+        {
+          "id": "spf:problem-solving",
+          "label": "Problem-Solving"
+        },
+        {
+          "id": "spf:strategic-thinking",
+          "label": "Strategic Thinking"
+        },
+        {
+          "id": "spf:time-management",
+          "label": "Time Management"
+        },
+        {
+          "id": "spf:verbal-communication",
+          "label": "Verbal Communication"
+        },
+        {
+          "id": "spf:teamwork",
+          "label": "Teamwork"
+        },
+        {
+          "id": "spf:commitment",
+          "label": "Commitment"
+        },
+        {
+          "id": "spf:decision-making",
+          "label": "Decision-Making"
+        },
+        {
+          "id": "spf:meeting-facilitation",
+          "label": "Meeting Facilitation"
+        },
+        {
+          "id": "spf:design-thinking",
+          "label": "Design Thinking"
+        },
+        {
+          "id": "spf:vision-formation",
+          "label": "Vision Formation"
+        },
+        {
+          "id": "spf:advocacy",
+          "label": "Advocacy"
+        },
+        {
+          "id": "spf:buy-in-generation",
+          "label": "Buy-in Generation"
+        }
+      ],
+      "Expected Outcomes": "A mission statement, a vision statement, a set of values, a positioning statement, a ten-year commitment statement, and a five-year strategic plan.",
+      "Workshop Steps": [
+        {
+          "id": "spf:202",
+          "label": "202"
+        },
+        {
+          "id": "spf:203",
+          "label": "203"
+        },
+        {
+          "id": "spf:204",
+          "label": "204"
+        },
+        {
+          "id": "spf:205",
+          "label": "205"
+        },
+        {
+          "id": "spf:206",
+          "label": "206"
+        },
+        {
+          "id": "spf:207",
+          "label": "207"
+        },
+        {
+          "id": "spf:208",
+          "label": "208"
+        },
+        {
+          "id": "spf:209",
+          "label": "209"
+        }
+      ],
+      "Workshop Pitch Statement": "Define why your nonprofit exists and the world you want to build, then turn it into a plan you can act on.",
+      "What You Need Before You Start": "The people who set the organization's direction. A shared understanding of who you serve. A facilitator, a scribe, and a timekeeper.",
+      "The Core Questions You're Answering": "Why do we exist, what do we do, and how do we do it? What would the world look like when we succeed? What do we value? Who do we serve, and what makes us unique? What are we committed to over the next ten years, and what are our goals for the next five?",
+      "What \"Done Well\" Looks Like": "Agreed statements for mission, vision, and values; a positioning statement; a ten-year commitment statement; and a set of five-year strategic goals that everyone can stand behind.",
+      "Who Takes Part": [
+        {
+          "id": "spf:client",
+          "label": "Client"
+        },
+        {
+          "id": "spf:internal-teammate",
+          "label": "Internal Teammate"
+        },
+        {
+          "id": "spf:cross-functional-stakeholder",
+          "label": "Cross-functional Stakeholder"
+        }
+      ],
+      "Time Needed": "A large, multi-part session; most groups split it across more than one sitting.",
+      "Common Pitfalls & Tips": "Starting with how you do things instead of why you exist. Writing a vision that is theoretical instead of action-based. Setting goals before naming the real barriers. Treating the ten-year commitment as a short-term result.",
+      "Where to Keep the Output": "Save the agreed statements and plan where the leadership team and future planning work can reference them.",
+      "Workshop Template Sections": [
+        {
+          "id": "spf:203",
+          "label": "203"
+        },
+        {
+          "id": "spf:204",
+          "label": "204"
+        },
+        {
+          "id": "spf:205",
+          "label": "205"
+        },
+        {
+          "id": "spf:206",
+          "label": "206"
+        },
+        {
+          "id": "spf:207",
+          "label": "207"
+        },
+        {
+          "id": "spf:208",
+          "label": "208"
+        },
+        {
+          "id": "spf:209",
+          "label": "209"
+        }
+      ],
+      "Data Type": [
+        {
+          "id": "spf:workshop",
+          "label": "Workshop"
+        }
+      ]
     }
   ]
 }

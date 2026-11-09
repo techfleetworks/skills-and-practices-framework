@@ -48,7 +48,7 @@
     {
       "entity": "deliverables",
       "file": "framework-data/deliverables.json",
-      "count": 104,
+      "count": 108,
       "primaryField": "Deliverable Name"
     },
     {
@@ -102,19 +102,19 @@
     {
       "entity": "workshops",
       "file": "framework-data/workshops.json",
-      "count": 33,
+      "count": 35,
       "primaryField": "Workshop Name"
     },
     {
       "entity": "workshop-steps",
       "file": "framework-data/workshop-steps.json",
-      "count": 167,
+      "count": 183,
       "primaryField": "Workshop Step Unique ID"
     },
     {
       "entity": "workshop-template-sections",
       "file": "framework-data/workshop-template-sections.json",
-      "count": 170,
+      "count": 191,
       "primaryField": "Unique ID"
     },
     {

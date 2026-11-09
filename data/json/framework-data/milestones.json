@@ -3621,6 +3621,10 @@
       {
         "slug": "rapid-ideation-workshop-template",
         "label": "Rapid Ideation Workshop Template"
+      },
+      {
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "label": "Brand Strategy and Identity Workshop Template"
       }
     ],
     "Project Phases - New Milestones In This Phase": [
@@ -4385,6 +4389,22 @@
       {
         "slug": "strategy-definition",
         "label": "Strategy Definition"
+      },
+      {
+        "slug": "mission-statement",
+        "label": "Mission Statement"
+      },
+      {
+        "slug": "vision-statement",
+        "label": "Vision Statement"
+      },
+      {
+        "slug": "organizational-values",
+        "label": "Organizational Values"
+      },
+      {
+        "slug": "commitment-statement",
+        "label": "Commitment Statement"
       }
     ],
     "UNIQUE Skills in the Milestone": [
@@ -4918,6 +4938,10 @@
       {
         "slug": "vision-and-scope-workshop-template",
         "label": "Vision and Scope Workshop Template"
+      },
+      {
+        "slug": "nonprofit-strategy-definition-workshop",
+        "label": "Nonprofit Strategy Definition Workshop"
       }
     ],
     "Project Phases - New Milestones In This Phase": [

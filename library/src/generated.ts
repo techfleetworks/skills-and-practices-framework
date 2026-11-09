@@ -111,12 +111,12 @@ export interface Duties extends FrameworkRecord {
   "Job Titles in the World"?: string;
   "Practices"?: Link[];
   "Responsible Deliverables"?: Link[];
+  "Workshops - What RACI Hat Owns This Workshop?"?: Link[];
   "Duty Description"?: string;
   "What Does It Take for This Duty To Succeed?"?: string;
   "Why Is This Duty Important to Project Success?"?: string;
   "You Might Enjoy This Duty If..."?: string;
   "Where Can I Learn More?"?: string;
-  "Workshops - What RACI Hat Owns This Workshop?"?: Link[];
 }
 
 export interface HandoffDeliverablesMap extends FrameworkRecord {
