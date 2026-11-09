@@ -24,6 +24,25 @@ means "read the notes before you update."
 
 _Nothing yet._
 
+## v1.2.0 — 2026-11-09
+
+Two new workshop templates and the deliverables they produce. Everything here is additive and
+safe to update to.
+
+**Added**
+- **Brand Strategy and Identity Workshop Template.** A facilitated session that takes a team from
+  purpose and audiences through personality, archetype, metaphor, promise, and story to a one-page
+  Brand Brief. 14 template sections and 8 steps. It runs in the Implement milestone, is led by UX
+  design, and produces the brand identity, brand archetypes, logo and brand assets, editorial style
+  guide, and positioning statement.
+- **Nonprofit Strategy Definition Workshop.** A facilitated session for mission-driven
+  organizations to define mission, vision, values, and positioning, then work backward from the
+  vision to a ten-year commitment and a five-year strategic plan. 7 template sections and 8 steps.
+  It runs in the Vision milestone and is led by product management.
+- Four new deliverables for the nonprofit strategy workshop: **Mission Statement**, **Vision
+  Statement**, **Organizational Values**, and **Commitment Statement**, each tied to the strategy
+  definition activity.
+
 ## v1.1.0 — 2026-08-11
 
 New building blocks for people building on the framework, and a pipeline that keeps itself in

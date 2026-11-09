@@ -227,6 +227,22 @@
         {
           "id": "spf:strategy-definition",
           "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:mission-statement",
+          "label": "Mission Statement"
+        },
+        {
+          "id": "spf:vision-statement",
+          "label": "Vision Statement"
+        },
+        {
+          "id": "spf:organizational-values",
+          "label": "Organizational Values"
+        },
+        {
+          "id": "spf:commitment-statement",
+          "label": "Commitment Statement"
         }
       ],
       "Description": "This is the first chunk of work that gets started. It requires a foundation of problem-solving and discovery typically, but this is not always the case; sometimes phase 1 work starts with development! It depends on the previous work that's brought into the team."
@@ -674,6 +690,22 @@
         {
           "id": "spf:strategy-definition",
           "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:mission-statement",
+          "label": "Mission Statement"
+        },
+        {
+          "id": "spf:vision-statement",
+          "label": "Vision Statement"
+        },
+        {
+          "id": "spf:organizational-values",
+          "label": "Organizational Values"
+        },
+        {
+          "id": "spf:commitment-statement",
+          "label": "Commitment Statement"
         }
       ]
     },
@@ -1124,6 +1156,22 @@
         {
           "id": "spf:strategy-definition",
           "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:mission-statement",
+          "label": "Mission Statement"
+        },
+        {
+          "id": "spf:vision-statement",
+          "label": "Vision Statement"
+        },
+        {
+          "id": "spf:organizational-values",
+          "label": "Organizational Values"
+        },
+        {
+          "id": "spf:commitment-statement",
+          "label": "Commitment Statement"
         }
       ]
     },
@@ -1574,6 +1622,22 @@
         {
           "id": "spf:strategy-definition",
           "label": "Strategy Definition"
+        },
+        {
+          "id": "spf:mission-statement",
+          "label": "Mission Statement"
+        },
+        {
+          "id": "spf:vision-statement",
+          "label": "Vision Statement"
+        },
+        {
+          "id": "spf:organizational-values",
+          "label": "Organizational Values"
+        },
+        {
+          "id": "spf:commitment-statement",
+          "label": "Commitment Statement"
         }
       ]
     }

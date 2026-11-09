@@ -32,6 +32,14 @@
         {
           "id": "spf:customer-experience-strategy-workshop-template",
           "label": "Customer Experience Strategy Workshop Template"
+        },
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        },
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
         }
       ]
     },
@@ -214,6 +222,14 @@
         {
           "id": "spf:customer-experience-strategy-workshop-template",
           "label": "Customer Experience Strategy Workshop Template"
+        },
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        },
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
         }
       ]
     },
@@ -304,6 +320,14 @@
         {
           "id": "spf:customer-experience-strategy-workshop-template",
           "label": "Customer Experience Strategy Workshop Template"
+        },
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        },
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
         }
       ]
     },

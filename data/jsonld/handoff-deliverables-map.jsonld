@@ -533,6 +533,10 @@
         {
           "id": "spf:customer-experience-strategy-workshop-template",
           "label": "Customer Experience Strategy Workshop Template"
+        },
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
         }
       ],
       "Unique ID": 15
@@ -567,6 +571,12 @@
         {
           "id": "spf:logo-and-brand-assets",
           "label": "Logo and Brand Assets"
+        }
+      ],
+      "Workshop Associated with the Deliverables": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
         }
       ],
       "Unique ID": 16

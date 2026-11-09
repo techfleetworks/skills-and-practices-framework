@@ -3171,5 +3171,261 @@
     "Tips & Pitfalls": "This readies those workshops; it does not replace them.",
     "Done When": "The direction for the site map and content is set.",
     "Time Box": "~20 min"
+  },
+  {
+    "id": 194,
+    "slug": "194",
+    "Workshop Step Unique ID": 194,
+    "Workshop": [
+      {
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "label": "Brand Strategy and Identity Workshop Template"
+      }
+    ],
+    "Order": "1",
+    "Step Title": "Set roles and ground rules",
+    "Do This Now": "Name a facilitator, scribe, timekeeper, and a tie-breaker. Post the current mission, vision, and values.",
+    "Done When": "Roles are set and the current mission, vision, and values are visible.",
+    "Time Box": "~5 min"
+  },
+  {
+    "id": 195,
+    "slug": "195",
+    "Workshop Step Unique ID": 195,
+    "Workshop": [
+      {
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "label": "Brand Strategy and Identity Workshop Template"
+      }
+    ],
+    "Order": "2",
+    "Step Title": "Define who you are (Golden Circle)",
+    "Do This Now": "Fill the Why, What, and How rings with sticky notes, starting from Why.",
+    "Done When": "The group agrees on the Why first, then What and How.",
+    "Time Box": "~15 min"
+  },
+  {
+    "id": 196,
+    "slug": "196",
+    "Workshop Step Unique ID": 196,
+    "Workshop": [
+      {
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "label": "Brand Strategy and Identity Workshop Template"
+      }
+    ],
+    "Order": "3",
+    "Step Title": "Map audiences and touchpoints",
+    "Do This Now": "Answer who needs to know, how they find out, and why they care.",
+    "Done When": "Each question has agreed sticky notes.",
+    "Time Box": "~15 min"
+  },
+  {
+    "id": 197,
+    "slug": "197",
+    "Workshop Step Unique ID": 197,
+    "Workshop": [
+      {
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "label": "Brand Strategy and Identity Workshop Template"
+      }
+    ],
+    "Order": "4",
+    "Step Title": "Set the personality",
+    "Do This Now": "Vote each slider toward an end, list what the brand should not be, and pick four to five traits.",
+    "Done When": "Sliders, limits, and traits are agreed.",
+    "Time Box": "~20 min"
+  },
+  {
+    "id": 198,
+    "slug": "198",
+    "Workshop Step Unique ID": 198,
+    "Workshop": [
+      {
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "label": "Brand Strategy and Identity Workshop Template"
+      }
+    ],
+    "Order": "5",
+    "Step Title": "Choose the archetype",
+    "Do This Now": "Shortlist from the twelve archetypes and vote a primary plus an optional secondary.",
+    "Done When": "One primary archetype is chosen.",
+    "Time Box": "~15 min"
+  },
+  {
+    "id": 199,
+    "slug": "199",
+    "Workshop Step Unique ID": 199,
+    "Workshop": [
+      {
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "label": "Brand Strategy and Identity Workshop Template"
+      }
+    ],
+    "Order": "6",
+    "Step Title": "Write the metaphor and promise",
+    "Do This Now": "Run fill, vote, decide for the metaphor, then the promise.",
+    "Done When": "One metaphor and one promise are chosen.",
+    "Time Box": "~20 min"
+  },
+  {
+    "id": 200,
+    "slug": "200",
+    "Workshop Step Unique ID": 200,
+    "Workshop": [
+      {
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "label": "Brand Strategy and Identity Workshop Template"
+      }
+    ],
+    "Order": "7",
+    "Step Title": "Shape the brand story",
+    "Do This Now": "Fill each story line with the customer as the hero and read it aloud.",
+    "Done When": "The story reads like you and the group agrees.",
+    "Time Box": "~15 min"
+  },
+  {
+    "id": 201,
+    "slug": "201",
+    "Workshop Step Unique ID": 201,
+    "Workshop": [
+      {
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "label": "Brand Strategy and Identity Workshop Template"
+      }
+    ],
+    "Order": "8",
+    "Step Title": "Assemble the Brand Brief",
+    "Do This Now": "Copy each agreed result into the one-page brief, read it aloud, and get a final yes.",
+    "Done When": "Everyone can live with the brief.",
+    "Time Box": "~15 min"
+  },
+  {
+    "id": 202,
+    "slug": "202",
+    "Workshop Step Unique ID": 202,
+    "Workshop": [
+      {
+        "slug": "nonprofit-strategy-definition-workshop",
+        "label": "Nonprofit Strategy Definition Workshop"
+      }
+    ],
+    "Order": "1",
+    "Step Title": "Frame the session",
+    "Do This Now": "Read the introduction: a nonprofit works toward no longer being needed. Set roles.",
+    "Done When": "The group shares the framing and roles are set.",
+    "Time Box": "~10 min"
+  },
+  {
+    "id": 203,
+    "slug": "203",
+    "Workshop Step Unique ID": 203,
+    "Workshop": [
+      {
+        "slug": "nonprofit-strategy-definition-workshop",
+        "label": "Nonprofit Strategy Definition Workshop"
+      }
+    ],
+    "Order": "2",
+    "Step Title": "Define the mission",
+    "Do This Now": "Fill the Golden Circle (Why, What, How) and write a one-sentence mission.",
+    "Done When": "A mission statement is agreed.",
+    "Time Box": "~25 min"
+  },
+  {
+    "id": 204,
+    "slug": "204",
+    "Workshop Step Unique ID": 204,
+    "Workshop": [
+      {
+        "slug": "nonprofit-strategy-definition-workshop",
+        "label": "Nonprofit Strategy Definition Workshop"
+      }
+    ],
+    "Order": "3",
+    "Step Title": "Define the vision",
+    "Do This Now": "Describe the world when you succeed and write a one-sentence vision.",
+    "Done When": "A vision statement is agreed.",
+    "Time Box": "~20 min"
+  },
+  {
+    "id": 205,
+    "slug": "205",
+    "Workshop Step Unique ID": 205,
+    "Workshop": [
+      {
+        "slug": "nonprofit-strategy-definition-workshop",
+        "label": "Nonprofit Strategy Definition Workshop"
+      }
+    ],
+    "Order": "4",
+    "Step Title": "Agree the values",
+    "Do This Now": "List values and explain each, then pick the set to hold true.",
+    "Done When": "The values and their meanings are agreed.",
+    "Time Box": "~20 min"
+  },
+  {
+    "id": 206,
+    "slug": "206",
+    "Workshop Step Unique ID": 206,
+    "Workshop": [
+      {
+        "slug": "nonprofit-strategy-definition-workshop",
+        "label": "Nonprofit Strategy Definition Workshop"
+      }
+    ],
+    "Order": "5",
+    "Step Title": "Write the positioning",
+    "Do This Now": "Name audiences, problems, competitors, and what makes you unique, then write the positioning statement.",
+    "Done When": "A positioning statement is agreed.",
+    "Time Box": "~30 min"
+  },
+  {
+    "id": 207,
+    "slug": "207",
+    "Workshop Step Unique ID": 207,
+    "Workshop": [
+      {
+        "slug": "nonprofit-strategy-definition-workshop",
+        "label": "Nonprofit Strategy Definition Workshop"
+      }
+    ],
+    "Order": "6",
+    "Step Title": "Name barriers and goals",
+    "Do This Now": "Dump the barriers, then break them into goals, interventions, and measures.",
+    "Done When": "The top barriers and the goals to beat them are chosen.",
+    "Time Box": "~30 min"
+  },
+  {
+    "id": 208,
+    "slug": "208",
+    "Workshop Step Unique ID": 208,
+    "Workshop": [
+      {
+        "slug": "nonprofit-strategy-definition-workshop",
+        "label": "Nonprofit Strategy Definition Workshop"
+      }
+    ],
+    "Order": "7",
+    "Step Title": "Set the 10-year commitment",
+    "Do This Now": "Summarize into one commitment statement.",
+    "Done When": "A ten-year commitment is agreed.",
+    "Time Box": "~15 min"
+  },
+  {
+    "id": 209,
+    "slug": "209",
+    "Workshop Step Unique ID": 209,
+    "Workshop": [
+      {
+        "slug": "nonprofit-strategy-definition-workshop",
+        "label": "Nonprofit Strategy Definition Workshop"
+      }
+    ],
+    "Order": "8",
+    "Step Title": "Draft the 5-year plan",
+    "Do This Now": "Turn the commitment into five-year strategic goals.",
+    "Done When": "The strategic goals are agreed.",
+    "Time Box": "~20 min"
   }
 ]

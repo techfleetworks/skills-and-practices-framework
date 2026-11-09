@@ -486,6 +486,10 @@
       {
         "slug": "customer-experience-strategy-workshop-template",
         "label": "Customer Experience Strategy Workshop Template"
+      },
+      {
+        "slug": "nonprofit-strategy-definition-workshop",
+        "label": "Nonprofit Strategy Definition Workshop"
       }
     ],
     "Unique ID": 15
@@ -517,6 +521,12 @@
       {
         "slug": "logo-and-brand-assets",
         "label": "Logo and Brand Assets"
+      }
+    ],
+    "Workshop Associated with the Deliverables": [
+      {
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "label": "Brand Strategy and Identity Workshop Template"
       }
     ],
     "Unique ID": 16

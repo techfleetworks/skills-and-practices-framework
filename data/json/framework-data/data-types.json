@@ -1888,6 +1888,22 @@
       {
         "slug": "team-charter",
         "label": "Team Charter"
+      },
+      {
+        "slug": "mission-statement",
+        "label": "Mission Statement"
+      },
+      {
+        "slug": "vision-statement",
+        "label": "Vision Statement"
+      },
+      {
+        "slug": "organizational-values",
+        "label": "Organizational Values"
+      },
+      {
+        "slug": "commitment-statement",
+        "label": "Commitment Statement"
       }
     ],
     "Relationship to Job Industries": "Deliverables and Job Industries are related in the following ways:\n1. The deliverables that matter can shift with the industry.\n2. The industry shapes which deliverables carry the most weight.",
@@ -2327,6 +2343,14 @@
       {
         "slug": "customer-experience-strategy-workshop-template",
         "label": "Customer Experience Strategy Workshop Template"
+      },
+      {
+        "slug": "brand-strategy-and-identity-workshop-template",
+        "label": "Brand Strategy and Identity Workshop Template"
+      },
+      {
+        "slug": "nonprofit-strategy-definition-workshop",
+        "label": "Nonprofit Strategy Definition Workshop"
       }
     ]
   },

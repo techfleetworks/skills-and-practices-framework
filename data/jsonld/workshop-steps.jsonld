@@ -3841,6 +3841,326 @@
       "Tips & Pitfalls": "This readies those workshops; it does not replace them.",
       "Done When": "The direction for the site map and content is set.",
       "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:194",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 194,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Set roles and ground rules",
+      "Do This Now": "Name a facilitator, scribe, timekeeper, and a tie-breaker. Post the current mission, vision, and values.",
+      "Done When": "Roles are set and the current mission, vision, and values are visible.",
+      "Time Box": "~5 min"
+    },
+    {
+      "id": "spf:195",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 195,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Define who you are (Golden Circle)",
+      "Do This Now": "Fill the Why, What, and How rings with sticky notes, starting from Why.",
+      "Done When": "The group agrees on the Why first, then What and How.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:196",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 196,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Map audiences and touchpoints",
+      "Do This Now": "Answer who needs to know, how they find out, and why they care.",
+      "Done When": "Each question has agreed sticky notes.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:197",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 197,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Set the personality",
+      "Do This Now": "Vote each slider toward an end, list what the brand should not be, and pick four to five traits.",
+      "Done When": "Sliders, limits, and traits are agreed.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:198",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 198,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Choose the archetype",
+      "Do This Now": "Shortlist from the twelve archetypes and vote a primary plus an optional secondary.",
+      "Done When": "One primary archetype is chosen.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:199",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 199,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Write the metaphor and promise",
+      "Do This Now": "Run fill, vote, decide for the metaphor, then the promise.",
+      "Done When": "One metaphor and one promise are chosen.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:200",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 200,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "7",
+      "Step Title": "Shape the brand story",
+      "Do This Now": "Fill each story line with the customer as the hero and read it aloud.",
+      "Done When": "The story reads like you and the group agrees.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:201",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 201,
+      "Workshop": [
+        {
+          "id": "spf:brand-strategy-and-identity-workshop-template",
+          "label": "Brand Strategy and Identity Workshop Template"
+        }
+      ],
+      "Order": "8",
+      "Step Title": "Assemble the Brand Brief",
+      "Do This Now": "Copy each agreed result into the one-page brief, read it aloud, and get a final yes.",
+      "Done When": "Everyone can live with the brief.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:202",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 202,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "1",
+      "Step Title": "Frame the session",
+      "Do This Now": "Read the introduction: a nonprofit works toward no longer being needed. Set roles.",
+      "Done When": "The group shares the framing and roles are set.",
+      "Time Box": "~10 min"
+    },
+    {
+      "id": "spf:203",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 203,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "2",
+      "Step Title": "Define the mission",
+      "Do This Now": "Fill the Golden Circle (Why, What, How) and write a one-sentence mission.",
+      "Done When": "A mission statement is agreed.",
+      "Time Box": "~25 min"
+    },
+    {
+      "id": "spf:204",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 204,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "3",
+      "Step Title": "Define the vision",
+      "Do This Now": "Describe the world when you succeed and write a one-sentence vision.",
+      "Done When": "A vision statement is agreed.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:205",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 205,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "4",
+      "Step Title": "Agree the values",
+      "Do This Now": "List values and explain each, then pick the set to hold true.",
+      "Done When": "The values and their meanings are agreed.",
+      "Time Box": "~20 min"
+    },
+    {
+      "id": "spf:206",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 206,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "5",
+      "Step Title": "Write the positioning",
+      "Do This Now": "Name audiences, problems, competitors, and what makes you unique, then write the positioning statement.",
+      "Done When": "A positioning statement is agreed.",
+      "Time Box": "~30 min"
+    },
+    {
+      "id": "spf:207",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 207,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "6",
+      "Step Title": "Name barriers and goals",
+      "Do This Now": "Dump the barriers, then break them into goals, interventions, and measures.",
+      "Done When": "The top barriers and the goals to beat them are chosen.",
+      "Time Box": "~30 min"
+    },
+    {
+      "id": "spf:208",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 208,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "7",
+      "Step Title": "Set the 10-year commitment",
+      "Do This Now": "Summarize into one commitment statement.",
+      "Done When": "A ten-year commitment is agreed.",
+      "Time Box": "~15 min"
+    },
+    {
+      "id": "spf:209",
+      "type": [
+        "schema:HowToStep",
+        "spf:WorkshopStep",
+        "skos:Concept"
+      ],
+      "Workshop Step Unique ID": 209,
+      "Workshop": [
+        {
+          "id": "spf:nonprofit-strategy-definition-workshop",
+          "label": "Nonprofit Strategy Definition Workshop"
+        }
+      ],
+      "Order": "8",
+      "Step Title": "Draft the 5-year plan",
+      "Do This Now": "Turn the commitment into five-year strategic goals.",
+      "Done When": "The strategic goals are agreed.",
+      "Time Box": "~20 min"
     }
   ]
 }

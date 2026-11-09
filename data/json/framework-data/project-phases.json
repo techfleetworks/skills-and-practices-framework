@@ -221,6 +221,22 @@
       {
         "slug": "strategy-definition",
         "label": "Strategy Definition"
+      },
+      {
+        "slug": "mission-statement",
+        "label": "Mission Statement"
+      },
+      {
+        "slug": "vision-statement",
+        "label": "Vision Statement"
+      },
+      {
+        "slug": "organizational-values",
+        "label": "Organizational Values"
+      },
+      {
+        "slug": "commitment-statement",
+        "label": "Commitment Statement"
       }
     ],
     "Description": "This is the first chunk of work that gets started. It requires a foundation of problem-solving and discovery typically, but this is not always the case; sometimes phase 1 work starts with development! It depends on the previous work that's brought into the team."
@@ -664,6 +680,22 @@
       {
         "slug": "strategy-definition",
         "label": "Strategy Definition"
+      },
+      {
+        "slug": "mission-statement",
+        "label": "Mission Statement"
+      },
+      {
+        "slug": "vision-statement",
+        "label": "Vision Statement"
+      },
+      {
+        "slug": "organizational-values",
+        "label": "Organizational Values"
+      },
+      {
+        "slug": "commitment-statement",
+        "label": "Commitment Statement"
       }
     ]
   },
@@ -1110,6 +1142,22 @@
       {
         "slug": "strategy-definition",
         "label": "Strategy Definition"
+      },
+      {
+        "slug": "mission-statement",
+        "label": "Mission Statement"
+      },
+      {
+        "slug": "vision-statement",
+        "label": "Vision Statement"
+      },
+      {
+        "slug": "organizational-values",
+        "label": "Organizational Values"
+      },
+      {
+        "slug": "commitment-statement",
+        "label": "Commitment Statement"
       }
     ]
   },
@@ -1556,6 +1604,22 @@
       {
         "slug": "strategy-definition",
         "label": "Strategy Definition"
+      },
+      {
+        "slug": "mission-statement",
+        "label": "Mission Statement"
+      },
+      {
+        "slug": "vision-statement",
+        "label": "Vision Statement"
+      },
+      {
+        "slug": "organizational-values",
+        "label": "Organizational Values"
+      },
+      {
+        "slug": "commitment-statement",
+        "label": "Commitment Statement"
       }
     ]
   }
